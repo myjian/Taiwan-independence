@@ -1,0 +1,44 @@
+name: maimai database updater
+
+on:
+  # Every 4 hours, at :30, every day
+  schedule:
+    - cron: '30 1,5,9,13,17,21 * * *'
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  maimai-database-updater:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run : |
+          git config --global user.email "noreply@github.com"
+          git config --global user.name "GitHub Actions"
+          git fetch origin
+          git checkout gh-pages
+
+      - name: Fetch file
+        run: |
+          mkdir -p external
+          curl https://dp4p6x0xfi5o9.cloudfront.net/maimai/data.json -o external/arcade-songs-maimai.json
+
+      - name: Push changes
+        run: |
+          git add external
+          if output=$(git status --porcelain) && [ -z "$output" ]; then
+            echo "HAS_DIFFS=false" >> "$GITHUB_OUTPUT"
+            echo "No changes to commit."
+          else
+            git commit -m "Update constants from arcade-songs $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git push --force-with-lease origin gh-pages
+            echo "Commited changes."
+            echo "HAS_DIFFS=true" >> "$GITHUB_OUTPUT"
+          fi
