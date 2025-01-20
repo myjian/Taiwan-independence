@@ -4,9 +4,6 @@ on:
   # Every 4 hours, at :30, every day
   schedule:
     - cron: '30 1,5,9,13,17,21 * * *'
-  push:
-    branches:
-      - gh-pages
 
 jobs:
   maimai-database-updater:
