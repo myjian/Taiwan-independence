@@ -35,7 +35,7 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update constants from arcade-songs $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-            git push --force-with-lease origin gh-pages
+            git push origin gh-pages
             echo "Commited changes."
             echo "HAS_DIFFS=true" >> "$GITHUB_OUTPUT"
           fi
