@@ -75558,12 +75558,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 114,
+						"hold": 10,
+						"slide": 4,
+						"touch": 14,
+						"break": 2,
+						"total": 144
 					},
 					"regions": {
 						"jp": true,
@@ -75585,12 +75585,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 223,
+						"hold": 12,
+						"slide": 6,
+						"touch": 26,
+						"break": 3,
+						"total": 270
 					},
 					"regions": {
 						"jp": true,
@@ -75612,12 +75612,12 @@
 					"internalLevelValue": 11.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 343,
+						"hold": 67,
+						"slide": 68,
+						"touch": 17,
+						"break": 10,
+						"total": 505
 					},
 					"regions": {
 						"jp": true,
@@ -75637,14 +75637,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.9",
 					"internalLevelValue": 13.9,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 522,
+						"hold": 65,
+						"slide": 52,
+						"touch": 51,
+						"break": 35,
+						"total": 725
 					},
 					"regions": {
 						"jp": true,
@@ -188879,7 +188879,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -188906,7 +188906,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -188933,7 +188933,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -188960,7 +188960,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189002,7 +189002,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189029,7 +189029,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189056,7 +189056,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189083,7 +189083,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -193361,12 +193361,12 @@
 					"internalLevelValue": 11,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 341,
+						"hold": 62,
+						"slide": 19,
+						"touch": 11,
+						"break": 52,
+						"total": 485
 					},
 					"regions": {
 						"jp": true,
@@ -193484,12 +193484,12 @@
 					"internalLevelValue": 9,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 349,
+						"hold": 63,
+						"slide": 47,
+						"touch": 12,
+						"break": 17,
+						"total": 488
 					},
 					"regions": {
 						"jp": true,
@@ -193676,12 +193676,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 206,
+						"hold": 25,
+						"slide": 4,
+						"touch": 7,
+						"break": 10,
+						"total": 252
 					},
 					"regions": {
 						"jp": true,
@@ -193703,12 +193703,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 341,
+						"hold": 16,
+						"slide": 7,
+						"touch": 28,
+						"break": 3,
+						"total": 395
 					},
 					"regions": {
 						"jp": true,
@@ -193730,12 +193730,12 @@
 					"internalLevelValue": 12,
 					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 267,
+						"hold": 100,
+						"slide": 79,
+						"touch": 23,
+						"break": 180,
+						"total": 649
 					},
 					"regions": {
 						"jp": true,
@@ -193961,5 +193961,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-01-26T17:09:57.369Z"
+	"updateTime": "2025-01-31T03:48:12.099Z"
 }
