@@ -1,9 +1,9 @@
 name: maimai database updater
 
 on:
-  # Every 4 hours, at :30, every day
+  # Every 6 hours, at :25, every day
   schedule:
-    - cron: '30 1,5,9,13,17,21 * * *'
+    - cron: '25 1,7,13,19 * * *'
   workflow_dispatch:
 
 jobs:
@@ -32,11 +32,9 @@ jobs:
         run: |
           git add external
           if output=$(git status --porcelain) && [ -z "$output" ]; then
-            echo "HAS_DIFFS=false" >> "$GITHUB_OUTPUT"
             echo "No changes to commit."
           else
             git commit -m "Update constants from arcade-songs $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push origin gh-pages
             echo "Commited changes."
-            echo "HAS_DIFFS=true" >> "$GITHUB_OUTPUT"
           fi
