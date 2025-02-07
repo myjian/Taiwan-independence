@@ -193782,7 +193782,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "Resolution",
 			"artist": "曲：ANCHOR／歌：皇城 セツナ(CV：八巻 アンナ)",
-			"bpm": null,
+			"bpm": 190,
 			"imageName": "dc94fded7370918d161737c4409799d7985f5f8de05ffb27fe543c89dd3fd8f7.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-07",
@@ -193797,7 +193797,7 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -193824,7 +193824,7 @@
 					"levelValue": 7.6,
 					"internalLevel": null,
 					"internalLevelValue": 7.6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -193853,12 +193853,12 @@
 					"internalLevelValue": 11,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 461,
+						"hold": 52,
+						"slide": 43,
+						"touch": 19,
+						"break": 54,
+						"total": 629
 					},
 					"regions": {
 						"jp": true,
@@ -193876,16 +193876,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": "りんご Full Set",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 634,
+						"hold": 65,
+						"slide": 110,
+						"touch": 64,
+						"break": 29,
+						"total": 902
 					},
 					"regions": {
 						"jp": true,
@@ -193905,7 +193905,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "いちげき！のテーマ",
 			"artist": "曲：ヒゲドライバー／歌：いちげきしゅーたーず！",
-			"bpm": null,
+			"bpm": 175,
 			"imageName": "e9fa111755b86a61eb6a041f8aad0c53ace9e25d76c77dcc6b3fe74a41708edf.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-07",
@@ -193920,7 +193920,7 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -193947,7 +193947,7 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -193976,12 +193976,12 @@
 					"internalLevelValue": 10.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 434,
+						"hold": 64,
+						"slide": 53,
+						"touch": 20,
+						"break": 66,
+						"total": 637
 					},
 					"regions": {
 						"jp": true,
@@ -193999,16 +193999,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
+					"noteDesigner": "ロシェ@ペンギン と はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 615,
+						"hold": 64,
+						"slide": 118,
+						"touch": 114,
+						"break": 99,
+						"total": 1010
 					},
 					"regions": {
 						"jp": true,
@@ -194028,7 +194028,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "Radiance",
 			"artist": "Nhato",
-			"bpm": null,
+			"bpm": 155,
 			"imageName": "15a47255d4ac413f79a525ede1244f859a74ee51d71848c6dc9c7d252ae56e30.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-07",
@@ -194043,7 +194043,7 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -194070,7 +194070,7 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -194099,12 +194099,12 @@
 					"internalLevelValue": 10.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 386,
+						"hold": 77,
+						"slide": 28,
+						"touch": 16,
+						"break": 7,
+						"total": 514
 					},
 					"regions": {
 						"jp": true,
@@ -194122,16 +194122,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 584,
+						"hold": 81,
+						"slide": 55,
+						"touch": 47,
+						"break": 58,
+						"total": 825
 					},
 					"regions": {
 						"jp": true,
@@ -194151,7 +194151,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "R'N'R Monsta",
 			"artist": "Lite Show Magic",
-			"bpm": null,
+			"bpm": 220,
 			"imageName": "60485d04fe1ae4166db772b8ef6836668af9d390c746f1b34abbf7b6a4de175f.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-07",
@@ -194166,7 +194166,7 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -194193,7 +194193,7 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -194218,16 +194218,16 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 451,
+						"hold": 36,
+						"slide": 35,
+						"touch": 26,
+						"break": 36,
+						"total": 584
 					},
 					"regions": {
 						"jp": true,
@@ -194245,16 +194245,16 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"internalLevel": "14.1",
+					"internalLevelValue": 14.1,
+					"noteDesigner": "メロンポップ vs Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 626,
+						"hold": 22,
+						"slide": 87,
+						"touch": 22,
+						"break": 48,
+						"total": 805
 					},
 					"regions": {
 						"jp": true,
@@ -194453,5 +194453,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-02-07T01:21:01.862Z"
+	"updateTime": "2025-02-07T12:39:23.471Z"
 }
