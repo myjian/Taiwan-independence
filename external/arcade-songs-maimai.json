@@ -75883,7 +75883,7 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 343,
 						"hold": 67,
@@ -89145,12 +89145,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 148,
+						"hold": 17,
+						"slide": 6,
+						"touch": 6,
+						"break": 9,
+						"total": 186
 					},
 					"regions": {
 						"jp": true,
@@ -89172,12 +89172,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 287,
+						"hold": 17,
+						"slide": 8,
+						"touch": 26,
+						"break": 3,
+						"total": 341
 					},
 					"regions": {
 						"jp": true,
@@ -117837,7 +117837,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": true,
+						"intl": false,
 						"cn": true
 					},
 					"regionOverrides": {
@@ -117864,7 +117864,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": true,
+						"intl": false,
 						"cn": true
 					},
 					"regionOverrides": {
@@ -117891,7 +117891,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": true,
+						"intl": false,
 						"cn": true
 					},
 					"regionOverrides": {
@@ -117918,7 +117918,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": true,
+						"intl": false,
 						"cn": true
 					},
 					"regionOverrides": {
@@ -137048,7 +137048,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -137198,7 +137198,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -187121,7 +187121,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -187148,7 +187148,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -187175,7 +187175,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -187202,7 +187202,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -187229,7 +187229,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189244,7 +189244,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189271,7 +189271,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189298,7 +189298,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189325,7 +189325,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189367,7 +189367,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189394,7 +189394,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189421,7 +189421,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189448,7 +189448,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189490,7 +189490,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189517,7 +189517,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189544,7 +189544,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189571,7 +189571,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -192532,12 +192532,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 200,
+						"hold": 15,
+						"slide": 8,
+						"touch": 27,
+						"break": 6,
+						"total": 256
 					},
 					"regions": {
 						"jp": true,
@@ -192558,12 +192558,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 354,
+						"hold": 17,
+						"slide": 8,
+						"touch": 36,
+						"break": 2,
+						"total": 417
 					},
 					"regions": {
 						"jp": true,
@@ -193312,7 +193312,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 185
 					},
 					"regions": {
 						"jp": true,
@@ -193334,12 +193334,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 316,
+						"hold": 24,
+						"slide": 13,
+						"touch": 18,
+						"break": 4,
+						"total": 375
 					},
 					"regions": {
 						"jp": true,
@@ -193359,7 +193359,7 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 341,
 						"hold": 62,
@@ -193536,7 +193536,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "MORNINGLOOM",
 			"artist": "saaa",
-			"bpm": null,
+			"bpm": 102,
 			"imageName": "0f7523bad2ef4924fa35f0fbd69fc2069d166e825b33181a8cf662aab98051f9.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-01-24",
@@ -193605,7 +193605,7 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 388,
 						"hold": 50,
@@ -193632,7 +193632,7 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.7",
 					"internalLevelValue": 13.7,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
 						"tap": 418,
 						"hold": 78,
@@ -193786,7 +193786,7 @@
 			"imageName": "dc94fded7370918d161737c4409799d7985f5f8de05ffb27fe543c89dd3fd8f7.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-07",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -193799,12 +193799,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 255,
+						"hold": 12,
+						"slide": 8,
+						"touch": 8,
+						"break": 9,
+						"total": 294
 					},
 					"regions": {
 						"jp": true,
@@ -193826,12 +193826,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 377,
+						"hold": 14,
+						"slide": 6,
+						"touch": 24,
+						"break": 2,
+						"total": 423
 					},
 					"regions": {
 						"jp": true,
@@ -193851,7 +193851,7 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 461,
 						"hold": 52,
@@ -193909,7 +193909,7 @@
 			"imageName": "e9fa111755b86a61eb6a041f8aad0c53ace9e25d76c77dcc6b3fe74a41708edf.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-07",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -193922,12 +193922,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 231,
+						"hold": 13,
+						"slide": 4,
+						"touch": 8,
+						"break": 14,
+						"total": 270
 					},
 					"regions": {
 						"jp": true,
@@ -193949,12 +193949,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 343,
+						"hold": 20,
+						"slide": 11,
+						"touch": 15,
+						"break": 12,
+						"total": 401
 					},
 					"regions": {
 						"jp": true,
@@ -193974,7 +193974,7 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 434,
 						"hold": 64,
@@ -194032,7 +194032,7 @@
 			"imageName": "15a47255d4ac413f79a525ede1244f859a74ee51d71848c6dc9c7d252ae56e30.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-07",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -194045,12 +194045,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 170,
+						"hold": 13,
+						"slide": 7,
+						"touch": 8,
+						"break": 7,
+						"total": 205
 					},
 					"regions": {
 						"jp": true,
@@ -194072,12 +194072,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 273,
+						"hold": 19,
+						"slide": 4,
+						"touch": 21,
+						"break": 3,
+						"total": 320
 					},
 					"regions": {
 						"jp": true,
@@ -194097,7 +194097,7 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 386,
 						"hold": 77,
@@ -194155,7 +194155,7 @@
 			"imageName": "60485d04fe1ae4166db772b8ef6836668af9d390c746f1b34abbf7b6a4de175f.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-07",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -194168,12 +194168,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 183,
+						"hold": 24,
+						"slide": 8,
+						"touch": 15,
+						"break": 9,
+						"total": 254
 					},
 					"regions": {
 						"jp": true,
@@ -194195,12 +194195,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 336,
+						"hold": 18,
+						"slide": 12,
+						"touch": 28,
+						"break": 3,
+						"total": 397
 					},
 					"regions": {
 						"jp": true,
@@ -194220,7 +194220,7 @@
 					"levelValue": 12,
 					"internalLevel": "12.0",
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 451,
 						"hold": 36,
@@ -194255,6 +194255,457 @@
 						"touch": 22,
 						"break": 48,
 						"total": 805
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				}
+			]
+		},
+		{
+			"songId": "[星]ほしぞらスペクタクル",
+			"category": "宴会場",
+			"title": "[星]ほしぞらスペクタクル",
+			"artist": "奏音",
+			"bpm": null,
+			"imageName": "0aad1815e3ded98572b433a214f2189c844bf9224ee6a384f7fd9d44f32b1012.png",
+			"version": "PRiSM",
+			"releaseDate": "2025-02-14",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "ほしだけスペクタクル",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【星】",
+					"level": "14?",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[片]神々が恋した幻想郷",
+			"category": "宴会場",
+			"title": "[片]神々が恋した幻想郷",
+			"artist": "Unlucky Morpheus",
+			"bpm": null,
+			"imageName": "c717245dff86937284935051b531adff6876466fb562c796cb7aadffa9c0ac50.png",
+			"version": "PRiSM",
+			"releaseDate": "2025-02-14",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "神々が恋したトリル郷",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【片】",
+					"level": "14?",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "お願い！コンコンお稲荷さま",
+			"category": "ゲーム＆バラエティ",
+			"title": "お願い！コンコンお稲荷さま",
+			"artist": "ARM×狐夢想 feat. ななひら",
+			"bpm": null,
+			"imageName": "72198c7643a18b3957bf77a46e8069235475de81e5af1f708699b88c684e0b90.png",
+			"version": "PRiSM",
+			"releaseDate": "2025-02-14",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				}
+			]
+		},
+		{
+			"songId": "いっぱい食べる君が好きだよ",
+			"category": "ゲーム＆バラエティ",
+			"title": "いっぱい食べる君が好きだよ",
+			"artist": "ななひら",
+			"bpm": null,
+			"imageName": "a10abf04b8975cd640b6b5218137c09c64fb1d64c97e75d9bcd9ffe013251067.png",
+			"version": "PRiSM",
+			"releaseDate": "2025-02-14",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				}
+			]
+		},
+		{
+			"songId": "ピポピポ -People People- feat. ななひら",
+			"category": "ゲーム＆バラエティ",
+			"title": "ピポピポ -People People- feat. ななひら",
+			"artist": "Neko Hacker",
+			"bpm": null,
+			"imageName": "ff4a13d313aed35911ae2f7608233cc75430bf12c4b3c9d819e117351edb635e.png",
+			"version": "PRiSM",
+			"releaseDate": "2025-02-14",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
 					},
 					"regions": {
 						"jp": true,
@@ -194453,5 +194904,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-02-07T12:39:23.471Z"
+	"updateTime": "2025-02-14T01:20:39.170Z"
 }
