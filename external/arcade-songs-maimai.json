@@ -67472,8 +67472,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.9",
-					"internalLevelValue": 13.9,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 736,
@@ -194450,8 +194450,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -194573,8 +194573,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -194696,8 +194696,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -194904,5 +194904,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-02-14T01:20:39.170Z"
+	"updateTime": "2025-02-15T17:09:23.620Z"
 }
