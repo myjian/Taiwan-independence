@@ -33386,8 +33386,8 @@
 					"difficulty": "remaster",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.5",
-					"internalLevelValue": 13.5,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 418,
@@ -35132,8 +35132,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.8",
-					"internalLevelValue": 13.8,
+					"internalLevel": "13.6",
+					"internalLevelValue": 13.6,
 					"noteDesigner": "チャン@DP皆伝",
 					"noteCounts": {
 						"tap": 421,
@@ -40424,8 +40424,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.7",
-					"internalLevelValue": 13.7,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 413,
@@ -45269,8 +45269,8 @@
 					"difficulty": "remaster",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.7",
-					"internalLevelValue": 13.7,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": "ものくロシェ",
 					"noteCounts": {
 						"tap": 798,
@@ -52772,8 +52772,8 @@
 					"difficulty": "remaster",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.5",
-					"internalLevelValue": 13.5,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
 					"noteDesigner": "Techno Kitchen",
 					"noteCounts": {
 						"tap": 438,
@@ -100460,8 +100460,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.7",
-					"internalLevelValue": 13.7,
+					"internalLevel": "13.6",
+					"internalLevelValue": 13.6,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 636,
@@ -188760,11 +188760,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -188786,11 +188788,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -188812,11 +188816,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -188838,11 +188844,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				}
@@ -189125,11 +189133,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -189151,11 +189161,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -189177,11 +189189,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -189203,11 +189217,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				}
@@ -194356,7 +194372,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "お願い！コンコンお稲荷さま",
 			"artist": "ARM×狐夢想 feat. ななひら",
-			"bpm": null,
+			"bpm": 175,
 			"imageName": "72198c7643a18b3957bf77a46e8069235475de81e5af1f708699b88c684e0b90.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-14",
@@ -194371,14 +194387,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 181,
+						"hold": 29,
+						"slide": 4,
+						"touch": 16,
+						"break": 10,
+						"total": 240
 					},
 					"regions": {
 						"jp": true,
@@ -194398,14 +194414,14 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 326,
+						"hold": 24,
+						"slide": 10,
+						"touch": 15,
+						"break": 6,
+						"total": 381
 					},
 					"regions": {
 						"jp": true,
@@ -194427,12 +194443,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 262,
+						"hold": 63,
+						"slide": 47,
+						"touch": 40,
+						"break": 76,
+						"total": 488
 					},
 					"regions": {
 						"jp": true,
@@ -194452,14 +194468,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.2",
 					"internalLevelValue": 13.2,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 444,
+						"hold": 52,
+						"slide": 133,
+						"touch": 57,
+						"break": 144,
+						"total": 830
 					},
 					"regions": {
 						"jp": true,
@@ -194479,7 +194495,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "いっぱい食べる君が好きだよ",
 			"artist": "ななひら",
-			"bpm": null,
+			"bpm": 224,
 			"imageName": "a10abf04b8975cd640b6b5218137c09c64fb1d64c97e75d9bcd9ffe013251067.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-14",
@@ -194494,14 +194510,14 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 205,
+						"hold": 15,
+						"slide": 4,
+						"touch": 8,
+						"break": 3,
+						"total": 235
 					},
 					"regions": {
 						"jp": true,
@@ -194521,14 +194537,14 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 347,
+						"hold": 12,
+						"slide": 6,
+						"touch": 43,
+						"break": 2,
+						"total": 410
 					},
 					"regions": {
 						"jp": true,
@@ -194550,12 +194566,12 @@
 					"internalLevelValue": 10.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 434,
+						"hold": 76,
+						"slide": 38,
+						"touch": 39,
+						"break": 32,
+						"total": 619
 					},
 					"regions": {
 						"jp": true,
@@ -194575,14 +194591,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.2",
 					"internalLevelValue": 13.2,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 549,
+						"hold": 52,
+						"slide": 90,
+						"touch": 54,
+						"break": 53,
+						"total": 798
 					},
 					"regions": {
 						"jp": true,
@@ -194602,7 +194618,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "ピポピポ -People People- feat. ななひら",
 			"artist": "Neko Hacker",
-			"bpm": null,
+			"bpm": 230,
 			"imageName": "ff4a13d313aed35911ae2f7608233cc75430bf12c4b3c9d819e117351edb635e.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-14",
@@ -194617,14 +194633,14 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 201,
+						"hold": 18,
+						"slide": 7,
+						"touch": 16,
+						"break": 1,
+						"total": 243
 					},
 					"regions": {
 						"jp": true,
@@ -194644,14 +194660,14 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 376,
+						"hold": 31,
+						"slide": 4,
+						"touch": 24,
+						"break": 5,
+						"total": 440
 					},
 					"regions": {
 						"jp": true,
@@ -194673,12 +194689,12 @@
 					"internalLevelValue": 11,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 495,
+						"hold": 69,
+						"slide": 33,
+						"touch": 6,
+						"break": 40,
+						"total": 643
 					},
 					"regions": {
 						"jp": true,
@@ -194698,14 +194714,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "ぴちネコ",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 530,
+						"hold": 142,
+						"slide": 100,
+						"touch": 88,
+						"break": 170,
+						"total": 1030
 					},
 					"regions": {
 						"jp": true,
@@ -194904,5 +194920,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-02-15T17:09:23.620Z"
+	"updateTime": "2025-02-18T13:49:01.315Z"
 }
