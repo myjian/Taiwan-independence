@@ -193323,11 +193323,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 141,
+						"hold": 13,
+						"slide": 8,
+						"touch": 15,
+						"break": 8,
 						"total": 185
 					},
 					"regions": {
@@ -194920,5 +194920,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-02-18T13:49:01.315Z"
+	"updateTime": "2025-02-21T03:43:22.904Z"
 }
