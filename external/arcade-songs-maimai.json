@@ -195136,11 +195136,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -195162,11 +195164,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -195188,11 +195192,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -195214,11 +195220,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				}
@@ -195408,5 +195416,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-02-27T12:27:21.856Z"
+	"updateTime": "2025-02-27T14:04:09.682Z"
 }
