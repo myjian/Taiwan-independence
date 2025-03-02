@@ -194441,7 +194441,7 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
 						"tap": 262,
 						"hold": 63,
@@ -194564,7 +194564,7 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
 						"tap": 434,
 						"hold": 76,
@@ -194687,7 +194687,7 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
 						"tap": 495,
 						"hold": 69,
@@ -195056,7 +195056,7 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 705,
 						"hold": 54,
@@ -195083,7 +195083,7 @@
 					"levelValue": 14.6,
 					"internalLevel": null,
 					"internalLevelValue": 14.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太 vs Luxizhel",
 					"noteCounts": {
 						"tap": 744,
 						"hold": 95,
@@ -195181,14 +195181,14 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 660
 					},
 					"regions": {
 						"jp": true,
@@ -195416,5 +195416,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-02-27T14:04:09.682Z"
+	"updateTime": "2025-03-02T14:37:29.856Z"
 }
