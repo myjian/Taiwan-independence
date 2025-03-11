@@ -145293,8 +145293,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.6",
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.5",
+					"internalLevelValue": 13.5,
 					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
 						"tap": 461,
@@ -194958,8 +194958,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 533,
@@ -195054,8 +195054,8 @@
 					"difficulty": "expert",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.5",
+					"internalLevelValue": 13.5,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 705,
@@ -195081,8 +195081,8 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
+					"internalLevel": "14.7",
+					"internalLevelValue": 14.7,
 					"noteDesigner": "サファ太 vs Luxizhel",
 					"noteCounts": {
 						"tap": 744,
@@ -195179,8 +195179,8 @@
 					"difficulty": "expert",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.5",
+					"internalLevelValue": 13.5,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 397,
@@ -195207,8 +195207,8 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
+					"internalLevel": "14.9",
+					"internalLevelValue": 14.9,
 					"noteDesigner": "BELiZHEL vs  Safari",
 					"noteCounts": {
 						"tap": 725,
@@ -195416,5 +195416,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-07T01:19:57.474Z"
+	"updateTime": "2025-03-11T16:10:07.267Z"
 }
