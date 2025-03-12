@@ -138292,8 +138292,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 489,
@@ -195416,5 +195416,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-11T16:10:07.267Z"
+	"updateTime": "2025-03-12T07:34:22.030Z"
 }
