@@ -232,6 +232,279 @@
 			]
 		},
 		{
+			"songId": "Bad Apple!! feat nomico",
+			"category": "東方Project",
+			"title": "Bad Apple!! feat nomico",
+			"artist": "Masayoshi Minoshima",
+			"bpm": 138,
+			"imageName": "5ad1c3494ec97be53f527bdf1a6c9141881c16555c63391f0730bafa00f1202e.png",
+			"version": "GreeN",
+			"releaseDate": "2013-07-11",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 127,
+						"hold": 7,
+						"slide": 4,
+						"touch": null,
+						"break": 7,
+						"total": 145
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 245,
+						"hold": 5,
+						"slide": 4,
+						"touch": null,
+						"break": 11,
+						"total": 265
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": "譜面-100号",
+					"noteCounts": {
+						"tap": 376,
+						"hold": 47,
+						"slide": 17,
+						"touch": null,
+						"break": 8,
+						"total": 448
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
+					"noteDesigner": "mai-Star",
+					"noteCounts": {
+						"tap": 453,
+						"hold": 67,
+						"slide": 34,
+						"touch": null,
+						"break": 36,
+						"total": 590
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "remaster",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
+					"noteDesigner": "合作だよ",
+					"noteCounts": {
+						"tap": 515,
+						"hold": 34,
+						"slide": 114,
+						"touch": null,
+						"break": 35,
+						"total": 698
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				}
+			]
+		},
+		{
+			"songId": "Help me, ERINNNNNN!!",
+			"category": "東方Project",
+			"title": "Help me, ERINNNNNN!!",
+			"artist": "ビートまりお(COOL＆CREATE)",
+			"bpm": 183,
+			"imageName": "0bfba30a9ad204ff1851361b96b1455289c9bdb69218964ed9c35271f052d6f6.png",
+			"version": "GreeN",
+			"releaseDate": "2013-09-05",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 180,
+						"hold": 25,
+						"slide": 7,
+						"touch": null,
+						"break": 6,
+						"total": 218
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 201,
+						"hold": 20,
+						"slide": 18,
+						"touch": null,
+						"break": 2,
+						"total": 241
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 276,
+						"hold": 61,
+						"slide": 60,
+						"touch": null,
+						"break": 15,
+						"total": 412
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": "譜面-100号",
+					"noteCounts": {
+						"tap": 383,
+						"hold": 43,
+						"slide": 107,
+						"touch": null,
+						"break": 6,
+						"total": 539
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				}
+			]
+		},
+		{
 			"songId": "Our Fighting",
 			"category": "ゲーム＆バラエティ",
 			"title": "Our Fighting",
@@ -7050,6 +7323,375 @@
 						"jp": false,
 						"intl": false,
 						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "YONA YONA DANCE",
+			"category": "POPS＆アニメ",
+			"title": "YONA YONA DANCE",
+			"artist": "和田アキ子",
+			"bpm": 145,
+			"imageName": "beed9f22295ac1835fd14d516e7aae169fef697e6d124aacb09bfed0d768b587.png",
+			"version": "UNiVERSE PLUS",
+			"releaseDate": "2022-03-24",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "1",
+					"levelValue": 1,
+					"internalLevel": null,
+					"internalLevelValue": 1,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 72,
+						"hold": 8,
+						"slide": 7,
+						"touch": 8,
+						"break": 3,
+						"total": 98
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 260,
+						"hold": 26,
+						"slide": 9,
+						"touch": 11,
+						"break": 12,
+						"total": 318
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": "9.0",
+					"internalLevelValue": 9,
+					"noteDesigner": "隅田川星人",
+					"noteCounts": {
+						"tap": 280,
+						"hold": 93,
+						"slide": 23,
+						"touch": 96,
+						"break": 12,
+						"total": 504
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 404,
+						"hold": 67,
+						"slide": 116,
+						"touch": 53,
+						"break": 27,
+						"total": 667
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Photon Melodies",
+			"category": "POPS＆アニメ",
+			"title": "Photon Melodies",
+			"artist": "Photon Maiden",
+			"bpm": 128,
+			"imageName": "ef00e2517aaf9ce9ae0640c146896ab30ca6aa0b1fe93acd2499ebde516af759.png",
+			"version": "UNiVERSE PLUS",
+			"releaseDate": "2022-04-15",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 106,
+						"hold": 8,
+						"slide": 3,
+						"touch": 0,
+						"break": 3,
+						"total": 120
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 116,
+						"hold": 16,
+						"slide": 14,
+						"touch": 27,
+						"break": 10,
+						"total": 183
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": "ロシェ@ペンギン",
+					"noteCounts": {
+						"tap": 222,
+						"hold": 86,
+						"slide": 23,
+						"touch": 18,
+						"break": 12,
+						"total": 361
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 359,
+						"hold": 26,
+						"slide": 121,
+						"touch": 54,
+						"break": 15,
+						"total": 575
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "吾輩よ猫であれ",
+			"category": "POPS＆アニメ",
+			"title": "吾輩よ猫であれ",
+			"artist": "Lyrical Lily",
+			"bpm": 136,
+			"imageName": "c4830cd3590e4b00dbf6d3e0851b1685547e5785c17e1ea8635104f198b0d5ac.png",
+			"version": "UNiVERSE PLUS",
+			"releaseDate": "2022-04-15",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 103,
+						"hold": 7,
+						"slide": 3,
+						"touch": 7,
+						"break": 1,
+						"total": 121
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 169,
+						"hold": 23,
+						"slide": 10,
+						"touch": 25,
+						"break": 4,
+						"total": 231
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "8+",
+					"levelValue": 8.6,
+					"internalLevel": null,
+					"internalLevelValue": 8.6,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 223,
+						"hold": 72,
+						"slide": 22,
+						"touch": 25,
+						"break": 6,
+						"total": 348
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 377,
+						"hold": 56,
+						"slide": 90,
+						"touch": 27,
+						"break": 8,
+						"total": 558
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -25363,6 +26005,252 @@
 			]
 		},
 		{
+			"songId": "オントロジー",
+			"category": "POPS＆アニメ",
+			"title": "オントロジー",
+			"artist": "Rain Drops",
+			"bpm": 192,
+			"imageName": "90ad22d33eb9076ca52ca03db83985a87cdb1852d535e4e22432715946296598.png",
+			"version": "UNiVERSE PLUS",
+			"releaseDate": "2022-06-10",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 103,
+						"hold": 4,
+						"slide": 6,
+						"touch": 15,
+						"break": 3,
+						"total": 131
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 329,
+						"hold": 15,
+						"slide": 13,
+						"touch": 15,
+						"break": 10,
+						"total": 382
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": "Jack",
+					"noteCounts": {
+						"tap": 449,
+						"hold": 39,
+						"slide": 24,
+						"touch": 16,
+						"break": 14,
+						"total": 542
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 479,
+						"hold": 30,
+						"slide": 149,
+						"touch": 20,
+						"break": 24,
+						"total": 702
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "剣を抜け！GCCX MAX",
+			"category": "POPS＆アニメ",
+			"title": "剣を抜け！GCCX MAX",
+			"artist": "メッセメッセクラブ",
+			"bpm": 96,
+			"imageName": "251243f31824edf461bd9a43d7d455f383f046d4828ef94c3b7257f916ffe59d.png",
+			"version": "UNiVERSE PLUS",
+			"releaseDate": "2022-06-10",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 143,
+						"hold": 5,
+						"slide": 5,
+						"touch": 9,
+						"break": 8,
+						"total": 170
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 181,
+						"hold": 20,
+						"slide": 8,
+						"touch": 66,
+						"break": 16,
+						"total": 291
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 218,
+						"hold": 114,
+						"slide": 44,
+						"touch": 17,
+						"break": 32,
+						"total": 425
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
+					"noteDesigner": "ぴちネコ",
+					"noteCounts": {
+						"tap": 359,
+						"hold": 96,
+						"slide": 101,
+						"touch": 168,
+						"break": 64,
+						"total": 788
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE PLUS"
+				}
+			]
+		},
+		{
 			"songId": "アンダーキッズ",
 			"category": "POPS＆アニメ",
 			"title": "アンダーキッズ",
@@ -25482,6 +26370,211 @@
 					},
 					"isSpecial": false,
 					"version": "BUDDiES"
+				}
+			]
+		},
+		{
+			"songId": "[協]ぽっぴっぽー",
+			"category": "宴会場",
+			"title": "[協]ぽっぴっぽー",
+			"artist": "",
+			"bpm": null,
+			"imageName": "634532beae7f19f2ec22f4923713bdb234c44584d43d20df283b6d8756b79392.png",
+			"version": "BUDDiES",
+			"releaseDate": "2023-09-14",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "ぽ・っぴ・っぽー",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【協】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[協]ポップミュージックは僕のもの",
+			"category": "宴会場",
+			"title": "[協]ポップミュージックは僕のもの",
+			"artist": "ONIGAWARA",
+			"bpm": null,
+			"imageName": "0cee7f2b4d14bb1024304250d8c93040d147d5c0f4893751f9911e9a493b6def.png",
+			"version": "BUDDiES",
+			"releaseDate": "2023-09-14",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "ポップミュージックは僕たちのもの",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【協】",
+					"level": "12+?",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[光]BREaK! BREaK! BREaK!",
+			"category": "宴会場",
+			"title": "[光]BREaK! BREaK! BREaK!",
+			"artist": "HiTECH NINJA vs Cranky",
+			"bpm": null,
+			"imageName": "4f9500cbc714e859a617ed06238916752a145271132d6199e7c0053b5b7b4146.png",
+			"version": "BUDDiES",
+			"releaseDate": "2023-10-12",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "BREaK! BREaK! BREaK! BREaK! BREaK! BREaK!",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【光】",
+					"level": "14+?",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[蔵]Aegleseeker",
+			"category": "宴会場",
+			"title": "[蔵]Aegleseeker",
+			"artist": "Silentroom vs Frums",
+			"bpm": null,
+			"imageName": "0fee1f54c5613514d93e215e37a737be3fffb1e47fd04bbd4ca562595eddc4e3.png",
+			"version": "BUDDiES",
+			"releaseDate": "2023-10-12",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "and in that light, I find deliverance.",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【蔵】",
+					"level": "14+?",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[宴]人マニア",
+			"category": "宴会場",
+			"title": "[宴]人マニア",
+			"artist": "原口沙輔 feat.重音テト",
+			"bpm": null,
+			"imageName": "a12463905c6a1154f56d89c0acda045f7f3fc77ff063e35413ec616ce74b4585.png",
+			"version": "PRiSM",
+			"releaseDate": "2024-12-06",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "人（の初見姿観察推奨）マニア",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【X】",
+					"level": "14?",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		},
@@ -28981,8 +30074,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "ニャイン",
@@ -29000,7 +30093,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "maimai"
@@ -32273,10 +33369,118 @@
 			"imageName": "271f40408574f8a63e9d0e172e47154cbd56acd9678ddc127becec270a5d9df0.png",
 			"version": "maimai PLUS",
 			"releaseDate": "2012-12-13",
-			"isNew": false,
+			"isNew": true,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
 				{
 					"type": "std",
 					"difficulty": "basic",
@@ -34011,8 +35215,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "12+",
+					"levelValue": 12.6,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": "Luxizhel",
@@ -34030,7 +35234,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES PLUS"
@@ -34611,10 +35818,10 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevelValue": 13,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 370,
@@ -34630,7 +35837,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "maimai PLUS"
@@ -36330,8 +37540,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "譜面-100号",
@@ -36349,7 +37559,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "maimai PLUS"
@@ -37203,8 +38416,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.8",
 					"internalLevelValue": 12.8,
 					"noteDesigner": "ニャイン",
@@ -37222,7 +38435,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "maimai PLUS"
@@ -37353,8 +38569,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "12+",
+					"levelValue": 12.6,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": "mai-Star",
@@ -37372,7 +38588,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "maimai PLUS"
@@ -38376,8 +39595,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "某S氏",
@@ -38395,157 +39614,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				}
-			]
-		},
-		{
-			"songId": "Bad Apple!! feat nomico",
-			"category": "東方Project",
-			"title": "Bad Apple!! feat nomico",
-			"artist": "Masayoshi Minoshima",
-			"bpm": 138,
-			"imageName": "5ad1c3494ec97be53f527bdf1a6c9141881c16555c63391f0730bafa00f1202e.png",
-			"version": "GreeN",
-			"releaseDate": "2013-07-11",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 127,
-						"hold": 7,
-						"slide": 4,
-						"touch": null,
-						"break": 7,
-						"total": 145
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 245,
-						"hold": 5,
-						"slide": 4,
-						"touch": null,
-						"break": 11,
-						"total": 265
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "10+",
-					"levelValue": 10.6,
-					"internalLevel": null,
-					"internalLevelValue": 10.6,
-					"noteDesigner": "譜面-100号",
-					"noteCounts": {
-						"tap": 376,
-						"hold": 47,
-						"slide": 17,
-						"touch": null,
-						"break": 8,
-						"total": 448
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
-					"noteDesigner": "mai-Star",
-					"noteCounts": {
-						"tap": 453,
-						"hold": 67,
-						"slide": 34,
-						"touch": null,
-						"break": 36,
-						"total": 590
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "remaster",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": "13.3",
-					"internalLevelValue": 13.3,
-					"noteDesigner": "合作だよ",
-					"noteCounts": {
-						"tap": 515,
-						"hold": 34,
-						"slide": 114,
-						"touch": null,
-						"break": 35,
-						"total": 698
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "GreeN"
@@ -41799,6 +42871,156 @@
 			]
 		},
 		{
+			"songId": "Bad Apple!! feat.nomico",
+			"category": "東方Project",
+			"title": "Bad Apple!! feat.nomico",
+			"artist": "Masayoshi Minoshima",
+			"bpm": null,
+			"imageName": "5ad1c3494ec97be53f527bdf1a6c9141881c16555c63391f0730bafa00f1202e.png",
+			"version": "GreeN",
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "remaster",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				}
+			]
+		},
+		{
 			"songId": "ココロスキャンのうた",
 			"category": "ゲーム＆バラエティ",
 			"title": "ココロスキャンのうた",
@@ -42714,129 +43936,6 @@
 			]
 		},
 		{
-			"songId": "Help me, ERINNNNNN!!",
-			"category": "東方Project",
-			"title": "Help me, ERINNNNNN!!",
-			"artist": "ビートまりお(COOL＆CREATE)",
-			"bpm": 183,
-			"imageName": "0bfba30a9ad204ff1851361b96b1455289c9bdb69218964ed9c35271f052d6f6.png",
-			"version": "GreeN",
-			"releaseDate": "2013-09-05",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 180,
-						"hold": 25,
-						"slide": 7,
-						"touch": null,
-						"break": 6,
-						"total": 218
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": null,
-					"internalLevelValue": 7,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 201,
-						"hold": 20,
-						"slide": 18,
-						"touch": null,
-						"break": 2,
-						"total": 241
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "11+",
-					"levelValue": 11.6,
-					"internalLevel": null,
-					"internalLevelValue": 11.6,
-					"noteDesigner": "はっぴー",
-					"noteCounts": {
-						"tap": 276,
-						"hold": 61,
-						"slide": 60,
-						"touch": null,
-						"break": 15,
-						"total": 412
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
-					"noteDesigner": "譜面-100号",
-					"noteCounts": {
-						"tap": 383,
-						"hold": 43,
-						"slide": 107,
-						"touch": null,
-						"break": 6,
-						"total": 539
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				}
-			]
-		},
-		{
 			"songId": "夜咄ディセイブ",
 			"category": "niconico＆ボーカロイド",
 			"title": "夜咄ディセイブ",
@@ -43073,6 +44172,129 @@
 						"jp": true,
 						"intl": true,
 						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				}
+			]
+		},
+		{
+			"songId": "Help me, ERINNNNNN!!（Band ver.）",
+			"category": "東方Project",
+			"title": "Help me, ERINNNNNN!!（Band ver.）",
+			"artist": "ビートまりお(COOL＆CREATE)",
+			"bpm": null,
+			"imageName": "0bfba30a9ad204ff1851361b96b1455289c9bdb69218964ed9c35271f052d6f6.png",
+			"version": "GreeN",
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -44871,8 +46093,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.8",
 					"internalLevelValue": 12.8,
 					"noteDesigner": "はっぴー",
@@ -44890,7 +46112,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "GreeN"
@@ -57657,8 +58882,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.8",
 					"internalLevelValue": 12.8,
 					"noteDesigner": "譜面-100号",
@@ -57676,7 +58901,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "ORANGE"
@@ -58515,8 +59743,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "某S氏",
@@ -58534,7 +59762,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "ORANGE PLUS"
@@ -63822,8 +65053,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "mai-Star",
@@ -63841,7 +65072,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "PiNK"
@@ -67593,8 +68827,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "Revo@LC",
@@ -67612,7 +68846,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "PiNK PLUS"
@@ -67962,8 +69199,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "12+",
+					"levelValue": 12.6,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": "rioN",
@@ -67981,7 +69218,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "PiNK PLUS"
@@ -71814,10 +73054,10 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevelValue": 13,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 444,
@@ -71833,7 +73073,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "UNiVERSE"
@@ -79251,8 +80494,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "Jack",
@@ -79270,7 +80513,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "MURASAKi PLUS"
@@ -79620,8 +80866,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "12+",
+					"levelValue": 12.6,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": "小鳥遊さん",
@@ -79639,7 +80885,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "MURASAKi PLUS"
@@ -91047,8 +92296,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "12+",
+					"levelValue": 12.6,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": "玉子豆腐",
@@ -91066,7 +92315,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "MiLK PLUS"
@@ -96852,8 +98104,8 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "12+",
+					"levelValue": 12.6,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": "玉子豆腐",
@@ -96871,7 +98123,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "FiNALE"
@@ -104199,8 +105454,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "某S氏",
@@ -104218,7 +105473,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "maimaiでらっくす"
@@ -108597,8 +109855,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "7.3Hz＋Jack",
@@ -108616,7 +109874,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "maimaiでらっくす"
@@ -117780,8 +119041,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "Techno Kitchen",
@@ -117799,7 +119060,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "maimaiでらっくす PLUS"
@@ -134483,10 +135747,10 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevelValue": 13,
 					"noteDesigner": "ものくろっく",
 					"noteCounts": {
 						"tap": 547,
@@ -134502,7 +135766,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "UNiVERSE"
@@ -139751,8 +141018,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.8",
 					"internalLevelValue": 12.8,
 					"noteDesigner": "シチミヘルツ",
@@ -139770,7 +141037,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "UNiVERSE"
@@ -143242,129 +144512,6 @@
 			]
 		},
 		{
-			"songId": "YONA YONA DANCE",
-			"category": "POPS＆アニメ",
-			"title": "YONA YONA DANCE",
-			"artist": "和田アキ子",
-			"bpm": 145,
-			"imageName": "beed9f22295ac1835fd14d516e7aae169fef697e6d124aacb09bfed0d768b587.png",
-			"version": "UNiVERSE PLUS",
-			"releaseDate": "2022-03-24",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "1",
-					"levelValue": 1,
-					"internalLevel": null,
-					"internalLevelValue": 1,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 72,
-						"hold": 8,
-						"slide": 7,
-						"touch": 8,
-						"break": 3,
-						"total": 98
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 260,
-						"hold": 26,
-						"slide": 9,
-						"touch": 11,
-						"break": 12,
-						"total": 318
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "9",
-					"levelValue": 9,
-					"internalLevel": "9.0",
-					"internalLevelValue": 9,
-					"noteDesigner": "隅田川星人",
-					"noteCounts": {
-						"tap": 280,
-						"hold": 93,
-						"slide": 23,
-						"touch": 96,
-						"break": 12,
-						"total": 504
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
-					"noteDesigner": "はっぴー",
-					"noteCounts": {
-						"tap": 404,
-						"hold": 67,
-						"slide": 116,
-						"touch": 53,
-						"break": 27,
-						"total": 667
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				}
-			]
-		},
-		{
 			"songId": "若い力",
 			"category": "ゲーム＆バラエティ",
 			"title": "若い力",
@@ -143969,252 +145116,6 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				}
-			]
-		},
-		{
-			"songId": "Photon Melodies",
-			"category": "POPS＆アニメ",
-			"title": "Photon Melodies",
-			"artist": "Photon Maiden",
-			"bpm": 128,
-			"imageName": "ef00e2517aaf9ce9ae0640c146896ab30ca6aa0b1fe93acd2499ebde516af759.png",
-			"version": "UNiVERSE PLUS",
-			"releaseDate": "2022-04-15",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 106,
-						"hold": 8,
-						"slide": 3,
-						"touch": 0,
-						"break": 3,
-						"total": 120
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 116,
-						"hold": 16,
-						"slide": 14,
-						"touch": 27,
-						"break": 10,
-						"total": 183
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "10",
-					"levelValue": 10,
-					"internalLevel": null,
-					"internalLevelValue": 10,
-					"noteDesigner": "ロシェ@ペンギン",
-					"noteCounts": {
-						"tap": 222,
-						"hold": 86,
-						"slide": 23,
-						"touch": 18,
-						"break": 12,
-						"total": 361
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": "13.2",
-					"internalLevelValue": 13.2,
-					"noteDesigner": "はっぴー",
-					"noteCounts": {
-						"tap": 359,
-						"hold": 26,
-						"slide": 121,
-						"touch": 54,
-						"break": 15,
-						"total": 575
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				}
-			]
-		},
-		{
-			"songId": "吾輩よ猫であれ",
-			"category": "POPS＆アニメ",
-			"title": "吾輩よ猫であれ",
-			"artist": "Lyrical Lily",
-			"bpm": 136,
-			"imageName": "c4830cd3590e4b00dbf6d3e0851b1685547e5785c17e1ea8635104f198b0d5ac.png",
-			"version": "UNiVERSE PLUS",
-			"releaseDate": "2022-04-15",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 103,
-						"hold": 7,
-						"slide": 3,
-						"touch": 7,
-						"break": 1,
-						"total": 121
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 169,
-						"hold": 23,
-						"slide": 10,
-						"touch": 25,
-						"break": 4,
-						"total": 231
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "8+",
-					"levelValue": 8.6,
-					"internalLevel": null,
-					"internalLevelValue": 8.6,
-					"noteDesigner": "はっぴー",
-					"noteCounts": {
-						"tap": 223,
-						"hold": 72,
-						"slide": 22,
-						"touch": 25,
-						"break": 6,
-						"total": 348
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": "12.2",
-					"internalLevelValue": 12.2,
-					"noteDesigner": "はっぴー",
-					"noteCounts": {
-						"tap": 377,
-						"hold": 56,
-						"slide": 90,
-						"touch": 27,
-						"break": 8,
-						"total": 558
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
 						"cn": true
 					},
 					"regionOverrides": {
@@ -146291,252 +147192,6 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				}
-			]
-		},
-		{
-			"songId": "オントロジー",
-			"category": "POPS＆アニメ",
-			"title": "オントロジー",
-			"artist": "Rain Drops",
-			"bpm": 192,
-			"imageName": "90ad22d33eb9076ca52ca03db83985a87cdb1852d535e4e22432715946296598.png",
-			"version": "UNiVERSE PLUS",
-			"releaseDate": "2022-06-10",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 103,
-						"hold": 4,
-						"slide": 6,
-						"touch": 15,
-						"break": 3,
-						"total": 131
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": null,
-					"internalLevelValue": 7,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 329,
-						"hold": 15,
-						"slide": 13,
-						"touch": 15,
-						"break": 10,
-						"total": 382
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "10",
-					"levelValue": 10,
-					"internalLevel": null,
-					"internalLevelValue": 10,
-					"noteDesigner": "Jack",
-					"noteCounts": {
-						"tap": 449,
-						"hold": 39,
-						"slide": 24,
-						"touch": 16,
-						"break": 14,
-						"total": 542
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
-					"noteDesigner": "はっぴー",
-					"noteCounts": {
-						"tap": 479,
-						"hold": 30,
-						"slide": 149,
-						"touch": 20,
-						"break": 24,
-						"total": 702
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				}
-			]
-		},
-		{
-			"songId": "剣を抜け！GCCX MAX",
-			"category": "POPS＆アニメ",
-			"title": "剣を抜け！GCCX MAX",
-			"artist": "メッセメッセクラブ",
-			"bpm": 96,
-			"imageName": "251243f31824edf461bd9a43d7d455f383f046d4828ef94c3b7257f916ffe59d.png",
-			"version": "UNiVERSE PLUS",
-			"releaseDate": "2022-06-10",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 143,
-						"hold": 5,
-						"slide": 5,
-						"touch": 9,
-						"break": 8,
-						"total": 170
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 181,
-						"hold": 20,
-						"slide": 8,
-						"touch": 66,
-						"break": 16,
-						"total": 291
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "9",
-					"levelValue": 9,
-					"internalLevel": null,
-					"internalLevelValue": 9,
-					"noteDesigner": "はっぴー",
-					"noteCounts": {
-						"tap": 218,
-						"hold": 114,
-						"slide": 44,
-						"touch": 17,
-						"break": 32,
-						"total": 425
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "UNiVERSE PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
-					"noteDesigner": "ぴちネコ",
-					"noteCounts": {
-						"tap": 359,
-						"hold": 96,
-						"slide": 101,
-						"touch": 168,
-						"break": 64,
-						"total": 788
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
 						"cn": true
 					},
 					"regionOverrides": {
@@ -153530,8 +154185,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "じゃこレモン",
@@ -153549,7 +154204,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "FESTiVAL"
@@ -154145,8 +154803,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "はっぴー",
@@ -154164,7 +154822,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "FESTiVAL"
@@ -169945,8 +170606,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "12+",
+					"levelValue": 12.6,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": "アマリリス",
@@ -169964,7 +170625,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES"
@@ -169991,47 +170655,6 @@
 					"levelValue": 12,
 					"internalLevel": null,
 					"internalLevelValue": 12,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[協]ぽっぴっぽー",
-			"category": "宴会場",
-			"title": "[協]ぽっぴっぽー",
-			"artist": "",
-			"bpm": null,
-			"imageName": "634532beae7f19f2ec22f4923713bdb234c44584d43d20df283b6d8756b79392.png",
-			"version": "BUDDiES",
-			"releaseDate": "2023-09-14",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "ぽ・っぴ・っぽー",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【協】",
-					"level": "13+?",
-					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -170155,47 +170778,6 @@
 					"levelValue": 14,
 					"internalLevel": null,
 					"internalLevelValue": 14,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[協]ポップミュージックは僕のもの",
-			"category": "宴会場",
-			"title": "[協]ポップミュージックは僕のもの",
-			"artist": "ONIGAWARA",
-			"bpm": null,
-			"imageName": "0cee7f2b4d14bb1024304250d8c93040d147d5c0f4893751f9911e9a493b6def.png",
-			"version": "BUDDiES",
-			"releaseDate": "2023-09-14",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "ポップミュージックは僕たちのもの",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【協】",
-					"level": "12+?",
-					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -171139,88 +171721,6 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[光]BREaK! BREaK! BREaK!",
-			"category": "宴会場",
-			"title": "[光]BREaK! BREaK! BREaK!",
-			"artist": "HiTECH NINJA vs Cranky",
-			"bpm": null,
-			"imageName": "4f9500cbc714e859a617ed06238916752a145271132d6199e7c0053b5b7b4146.png",
-			"version": "BUDDiES",
-			"releaseDate": "2023-10-12",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "BREaK! BREaK! BREaK! BREaK! BREaK! BREaK!",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【光】",
-					"level": "14+?",
-					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[蔵]Aegleseeker",
-			"category": "宴会場",
-			"title": "[蔵]Aegleseeker",
-			"artist": "Silentroom vs Frums",
-			"bpm": null,
-			"imageName": "0fee1f54c5613514d93e215e37a737be3fffb1e47fd04bbd4ca562595eddc4e3.png",
-			"version": "BUDDiES",
-			"releaseDate": "2023-10-12",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "and in that light, I find deliverance.",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【蔵】",
-					"level": "14+?",
-					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -177492,8 +177992,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "12+",
+					"levelValue": 12.6,
 					"internalLevel": "13.1",
 					"internalLevelValue": 13.1,
 					"noteDesigner": "サファ太",
@@ -177511,7 +178011,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES"
@@ -177528,7 +178031,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-03-21",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -177651,7 +178154,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-03-21",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -177774,7 +178277,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-03-21",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -177897,7 +178400,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-03-21",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -178511,8 +179014,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
 					"noteDesigner": "アマリリス",
@@ -178530,7 +179033,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12+",
+							"levelValue": 12.6
+						}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES PLUS"
@@ -180437,8 +180943,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "13+",
+					"levelValue": 13.6,
 					"internalLevel": "13.5",
 					"internalLevelValue": 13.5,
 					"noteDesigner": "Luxizhel",
@@ -180456,7 +180962,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES PLUS"
@@ -181457,7 +181966,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-05-10",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -181580,7 +182089,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-05-10",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -181703,7 +182212,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-05-10",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -181826,7 +182335,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-05-10",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -183220,7 +183729,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-06-21",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -183343,7 +183852,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-06-21",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -183466,7 +183975,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-06-21",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -183589,7 +184098,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-06-21",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -184045,8 +184554,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "13+",
+					"levelValue": 13.6,
 					"internalLevel": "13.5",
 					"internalLevelValue": 13.5,
 					"noteDesigner": "Jack",
@@ -184064,7 +184573,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES PLUS"
@@ -185050,7 +185562,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-08-02",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -185173,7 +185685,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-08-02",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -185296,7 +185808,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-08-02",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -185419,7 +185931,7 @@
 			"version": "BUDDiES PLUS",
 			"releaseDate": "2024-08-02",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -186998,7 +187510,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -187025,7 +187537,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -187052,7 +187564,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -187079,7 +187591,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -189112,7 +189624,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2024-10-11",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -189137,11 +189649,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -189165,11 +189676,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -189193,11 +189703,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -189221,11 +189730,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				}
 			]
 		},
@@ -190917,7 +191425,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190944,7 +191452,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190971,7 +191479,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190998,7 +191506,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191286,11 +191794,14 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13+?",
+							"levelValue": 13.6
+						}
 					},
 					"isSpecial": true
 				}
@@ -191327,7 +191838,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191359,12 +191870,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 236,
+						"hold": 18,
+						"slide": 4,
+						"touch": 18,
+						"break": 7,
+						"total": 283
 					},
 					"regions": {
 						"jp": true,
@@ -191386,12 +191897,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 362,
+						"hold": 16,
+						"slide": 6,
+						"touch": 26,
+						"break": 5,
+						"total": 415
 					},
 					"regions": {
 						"jp": true,
@@ -192117,9 +192628,9 @@
 			]
 		},
 		{
-			"songId": "[宴]人マニア",
+			"songId": "[X]人マニア",
 			"category": "宴会場",
-			"title": "[宴]人マニア",
+			"title": "[X]人マニア",
 			"artist": "原口沙輔 feat.重音テト",
 			"bpm": null,
 			"imageName": "a12463905c6a1154f56d89c0acda045f7f3fc77ff063e35413ec616ce74b4585.png",
@@ -193065,7 +193576,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2025-01-10",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -193188,7 +193699,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2025-01-10",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -193820,7 +194331,7 @@
 						"slide": 8,
 						"touch": 8,
 						"break": 9,
-						"total": 294
+						"total": 292
 					},
 					"regions": {
 						"jp": true,
@@ -194189,7 +194700,7 @@
 						"slide": 8,
 						"touch": 15,
 						"break": 9,
-						"total": 254
+						"total": 239
 					},
 					"regions": {
 						"jp": true,
@@ -194745,7 +195256,7 @@
 			"imageName": "acc92d51780a20ab55927e358d7f4c63536d2bc40b7f6a8347032f09dd6d5f6d.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-27",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -194868,7 +195379,7 @@
 			"imageName": "93cf633b227bbb2c1b9366b2708f50c3aeadd7ed8c4b9a34e5ef4cdd25773b43.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-27",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -194991,7 +195502,7 @@
 			"imageName": "5c64b0d4e8582058ba116c03f19eb8797f919daed107fceb5c4fb1fcf426302e.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-27",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -195114,7 +195625,7 @@
 			"imageName": "8210d983a3fb31ce543248857a382d89df7db570caf68fdde3c6706d39ec9277.png",
 			"version": "PRiSM",
 			"releaseDate": "2025-02-27",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -195229,6 +195740,2391 @@
 						}
 					},
 					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Fraq",
+			"category": "maimai",
+			"title": "Fraq",
+			"artist": "owl＊tree feat. べんざ",
+			"bpm": null,
+			"imageName": "c5e05f0d999f057ee3d335431d3168a8991750c820370c44432fa1dc9c42b7e6.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "ウタヒメナイトストーム",
+			"category": "maimai",
+			"title": "ウタヒメナイトストーム",
+			"artist": "yowanecity feat.Eye",
+			"bpm": null,
+			"imageName": "66c9aa47b034e3b7942bacaaf1f0c2a5c27ef73114989f55f9e0687b43870e97.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Feel The Luv",
+			"category": "maimai",
+			"title": "Feel The Luv",
+			"artist": "EmoCosine",
+			"bpm": null,
+			"imageName": "696469997791890500b4cb86ffce8c8b6471f5d234f50ae201a4e57f498f9fa8.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Supersonic Generation",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "Supersonic Generation",
+			"artist": "Massive New Krew",
+			"bpm": null,
+			"imageName": "6b0d5a9978831eeb4fb16ed342ac12740ccba94894326e7e47433f62dcc0867e.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "PRiSM"
+						}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "PRiSM"
+						}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "PRiSM"
+						}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "PRiSM"
+						}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Zitronectar",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "Zitronectar",
+			"artist": "Reku Mochizuki",
+			"bpm": null,
+			"imageName": "0f9e0998c092ba2a68cd3fc221b2dae6022527ac68948f4afcf079b63bf6d88c.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8+",
+					"levelValue": 8.6,
+					"internalLevel": null,
+					"internalLevelValue": 8.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "きゅびずむ",
+			"category": "POPS＆アニメ",
+			"title": "きゅびずむ",
+			"artist": "超てんちゃん",
+			"bpm": null,
+			"imageName": "3522ffb259bf5e72fcca638754ce5d6472ee7d1bda6f3a54e50a7fb98faf27c1.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "きゅびびびびずむ",
+			"category": "POPS＆アニメ",
+			"title": "きゅびびびびずむ",
+			"artist": "超てんちゃん",
+			"bpm": null,
+			"imageName": "8c0013d320645f580f991355b2076d5902a960d46248dae68ddeee84ee04e7a8.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "ゆりかご",
+			"category": "niconico＆ボーカロイド",
+			"title": "ゆりかご",
+			"artist": "歌：可不／作詞・作曲：MIMI",
+			"bpm": null,
+			"imageName": "916cc6c89c2901f65a0721601bf96b9b6499835a4809219dfab7c9664c5bc05d.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "月光",
+			"category": "niconico＆ボーカロイド",
+			"title": "月光",
+			"artist": "歌：V.I.P／作詞・作曲：廉",
+			"bpm": null,
+			"imageName": "8afef61d14795b657b49abfa93592be68a556bebe1be579842bd997c96b5245a.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "はいよろこんで",
+			"category": "POPS＆アニメ",
+			"title": "はいよろこんで",
+			"artist": "こっちのけんと",
+			"bpm": null,
+			"imageName": "aea435f0b0580ebdf210c5b824804023993f56c94b40b9d0b226ee40c4703ef5.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "ビビデバ",
+			"category": "POPS＆アニメ",
+			"title": "ビビデバ",
+			"artist": "星街すいせい（ホロライブ）",
+			"bpm": null,
+			"imageName": "900eb4d67d3ed6d1980058fd1211f25f0822f23a8e25f2ce257b742ee7f0e03a.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "シカ色デイズ",
+			"category": "POPS＆アニメ",
+			"title": "シカ色デイズ",
+			"artist": "シカ部 [鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)、虎視餡子 (CV.田辺留依)、馬車芽めめ (CV.和泉風花)]",
+			"bpm": null,
+			"imageName": "9d3fda98e5bc7c5091ea4ff033fbd8dc2d663c19be82f9fff4a3beae872864c7.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "メズマライザー",
+			"category": "niconico＆ボーカロイド",
+			"title": "メズマライザー",
+			"artist": "サツキ feat.初音ミク・重音テト",
+			"bpm": null,
+			"imageName": "44c55b94a4f2b8c101ebf8c96f906c1cc5cc8b273012306793676d8b9a3e37b8.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "ももいろの鍵",
+			"category": "niconico＆ボーカロイド",
+			"title": "ももいろの鍵",
+			"artist": "いよわ",
+			"bpm": null,
+			"imageName": "ac0b0c66fdc5741bd10e7b280ade2d82cc76d7921f8d473e3ccaf6e733368570.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "のだ",
+			"category": "niconico＆ボーカロイド",
+			"title": "のだ",
+			"artist": "大漠波新",
+			"bpm": null,
+			"imageName": "bc926b0a548176ba855196aff940a3dad615c8b2d7bec485d4e9f1ce96ed7923.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Idoratrize World",
+			"category": "東方Project",
+			"title": "Idoratrize World",
+			"artist": "A-One",
+			"bpm": null,
+			"imageName": "1a1f82ebcaa6501ef1d8e1fd121a9527b4e3c043a8093684c86e66f72a1119ca.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Synthesis.",
+			"category": "ゲーム＆バラエティ",
+			"title": "Synthesis.",
+			"artist": "tn-shi",
+			"bpm": null,
+			"imageName": "f7a4ccd98b2f0fa921fd081d6d43cfa09038274c3452e99ed51b070d14409d72.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8+",
+					"levelValue": 8.6,
+					"internalLevel": null,
+					"internalLevelValue": 8.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "[甘]スイートマジック",
+			"category": "宴会場",
+			"title": "[甘]スイートマジック",
+			"artist": "ろん×Junky",
+			"bpm": null,
+			"imageName": "31f2fe5a9d47549648e15d46435abc418c450e0af529f70ed4127ed2eae7616d.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "そんな「甘い魔法」",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【甘】",
+					"level": "12?",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[回]ハム太郎とっとこうた",
+			"category": "宴会場",
+			"title": "[回]ハム太郎とっとこうた",
+			"artist": "ハムちゃんず [covered by 光吉猛修]",
+			"bpm": null,
+			"imageName": "06f4e2a34d6d59cffcb7bcaa6f07fdc51a76648f908e00594f6356f17b9b135c.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "まわると　うれしいね",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【回】",
+					"level": "13?",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[即]チューリングの跡",
+			"category": "宴会場",
+			"title": "[即]チューリングの跡",
+			"artist": "Frums",
+			"bpm": null,
+			"imageName": "9c5fdab71b0c6b3f056ecbcbc48cd17f44daee52d982d0adf406a64cbbca2716.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "実際はBPM360らしいので…",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【即】",
+					"level": "13?",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[匿]匿名M",
+			"category": "宴会場",
+			"title": "[匿]匿名M",
+			"artist": "ピノキオピー",
+			"bpm": null,
+			"imageName": "7e3280891240d7f72f15eb03be289b21869044b3b38788ee16c71f5a0a22315f.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】本日はインタビューよろしくお願いいたします",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【匿】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[助]メズマライザー",
+			"category": "宴会場",
+			"title": "[助]メズマライザー",
+			"artist": "サツキ feat.初音ミク・重音テト",
+			"bpm": null,
+			"imageName": "44c55b94a4f2b8c101ebf8c96f906c1cc5cc8b273012306793676d8b9a3e37b8.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】誰か、助けてね(^^♪",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【助】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		}
@@ -195351,7 +198247,11 @@
 		},
 		{
 			"version": "PRiSM",
-			"abbr": "PRiSM"
+			"abbr": "PRiSM (鏡)"
+		},
+		{
+			"version": "PRiSM PLUS",
+			"abbr": "PRiSM+"
 		}
 	],
 	"types": [
@@ -195416,5 +198316,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-12T07:34:22.030Z"
+	"updateTime": "2025-03-13T01:15:00.614Z"
 }
