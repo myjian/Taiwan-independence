@@ -232,279 +232,6 @@
 			]
 		},
 		{
-			"songId": "Bad Apple!! feat nomico",
-			"category": "東方Project",
-			"title": "Bad Apple!! feat nomico",
-			"artist": "Masayoshi Minoshima",
-			"bpm": 138,
-			"imageName": "5ad1c3494ec97be53f527bdf1a6c9141881c16555c63391f0730bafa00f1202e.png",
-			"version": "GreeN",
-			"releaseDate": "2013-07-11",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 127,
-						"hold": 7,
-						"slide": 4,
-						"touch": null,
-						"break": 7,
-						"total": 145
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 245,
-						"hold": 5,
-						"slide": 4,
-						"touch": null,
-						"break": 11,
-						"total": 265
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "10+",
-					"levelValue": 10.6,
-					"internalLevel": null,
-					"internalLevelValue": 10.6,
-					"noteDesigner": "譜面-100号",
-					"noteCounts": {
-						"tap": 376,
-						"hold": 47,
-						"slide": 17,
-						"touch": null,
-						"break": 8,
-						"total": 448
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
-					"noteDesigner": "mai-Star",
-					"noteCounts": {
-						"tap": 453,
-						"hold": 67,
-						"slide": 34,
-						"touch": null,
-						"break": 36,
-						"total": 590
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "remaster",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": "13.3",
-					"internalLevelValue": 13.3,
-					"noteDesigner": "合作だよ",
-					"noteCounts": {
-						"tap": 515,
-						"hold": 34,
-						"slide": 114,
-						"touch": null,
-						"break": 35,
-						"total": 698
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				}
-			]
-		},
-		{
-			"songId": "Help me, ERINNNNNN!!",
-			"category": "東方Project",
-			"title": "Help me, ERINNNNNN!!",
-			"artist": "ビートまりお(COOL＆CREATE)",
-			"bpm": 183,
-			"imageName": "0bfba30a9ad204ff1851361b96b1455289c9bdb69218964ed9c35271f052d6f6.png",
-			"version": "GreeN",
-			"releaseDate": "2013-09-05",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 180,
-						"hold": 25,
-						"slide": 7,
-						"touch": null,
-						"break": 6,
-						"total": 218
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": null,
-					"internalLevelValue": 7,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 201,
-						"hold": 20,
-						"slide": 18,
-						"touch": null,
-						"break": 2,
-						"total": 241
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "11+",
-					"levelValue": 11.6,
-					"internalLevel": null,
-					"internalLevelValue": 11.6,
-					"noteDesigner": "はっぴー",
-					"noteCounts": {
-						"tap": 276,
-						"hold": 61,
-						"slide": 60,
-						"touch": null,
-						"break": 15,
-						"total": 412
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
-					"noteDesigner": "譜面-100号",
-					"noteCounts": {
-						"tap": 383,
-						"hold": 43,
-						"slide": 107,
-						"touch": null,
-						"break": 6,
-						"total": 539
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				}
-			]
-		},
-		{
 			"songId": "Our Fighting",
 			"category": "ゲーム＆バラエティ",
 			"title": "Our Fighting",
@@ -39625,6 +39352,156 @@
 			]
 		},
 		{
+			"songId": "Bad Apple!! feat.nomico",
+			"category": "東方Project",
+			"title": "Bad Apple!! feat.nomico",
+			"artist": "Masayoshi Minoshima",
+			"bpm": 138,
+			"imageName": "5ad1c3494ec97be53f527bdf1a6c9141881c16555c63391f0730bafa00f1202e.png",
+			"version": "GreeN",
+			"releaseDate": "2013-07-11",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 127,
+						"hold": 7,
+						"slide": 4,
+						"touch": null,
+						"break": 7,
+						"total": 145
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 245,
+						"hold": 5,
+						"slide": 4,
+						"touch": null,
+						"break": 11,
+						"total": 265
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": "譜面-100号",
+					"noteCounts": {
+						"tap": 376,
+						"hold": 47,
+						"slide": 17,
+						"touch": null,
+						"break": 8,
+						"total": 448
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": "mai-Star",
+					"noteCounts": {
+						"tap": 453,
+						"hold": 67,
+						"slide": 34,
+						"touch": null,
+						"break": 36,
+						"total": 590
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "remaster",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": "合作だよ",
+					"noteCounts": {
+						"tap": 515,
+						"hold": 34,
+						"slide": 114,
+						"touch": null,
+						"break": 35,
+						"total": 698
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				}
+			]
+		},
+		{
 			"songId": "Grip & Break down !!",
 			"category": "東方Project",
 			"title": "Grip & Break down !!",
@@ -42871,156 +42748,6 @@
 			]
 		},
 		{
-			"songId": "Bad Apple!! feat.nomico",
-			"category": "東方Project",
-			"title": "Bad Apple!! feat.nomico",
-			"artist": "Masayoshi Minoshima",
-			"bpm": null,
-			"imageName": "5ad1c3494ec97be53f527bdf1a6c9141881c16555c63391f0730bafa00f1202e.png",
-			"version": "GreeN",
-			"releaseDate": null,
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "10+",
-					"levelValue": 10.6,
-					"internalLevel": null,
-					"internalLevelValue": 10.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "remaster",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				}
-			]
-		},
-		{
 			"songId": "ココロスキャンのうた",
 			"category": "ゲーム＆バラエティ",
 			"title": "ココロスキャンのうた",
@@ -43936,6 +43663,129 @@
 			]
 		},
 		{
+			"songId": "Help me, ERINNNNNN!!（Band ver.）",
+			"category": "東方Project",
+			"title": "Help me, ERINNNNNN!!（Band ver.）",
+			"artist": "ビートまりお(COOL＆CREATE)",
+			"bpm": 183,
+			"imageName": "0bfba30a9ad204ff1851361b96b1455289c9bdb69218964ed9c35271f052d6f6.png",
+			"version": "GreeN",
+			"releaseDate": "2013-09-05",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 180,
+						"hold": 25,
+						"slide": 7,
+						"touch": null,
+						"break": 6,
+						"total": 218
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 201,
+						"hold": 20,
+						"slide": 18,
+						"touch": null,
+						"break": 2,
+						"total": 241
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 276,
+						"hold": 61,
+						"slide": 60,
+						"touch": null,
+						"break": 15,
+						"total": 412
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": "譜面-100号",
+					"noteCounts": {
+						"tap": 383,
+						"hold": 43,
+						"slide": 107,
+						"touch": null,
+						"break": 6,
+						"total": 539
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "GreeN"
+				}
+			]
+		},
+		{
 			"songId": "夜咄ディセイブ",
 			"category": "niconico＆ボーカロイド",
 			"title": "夜咄ディセイブ",
@@ -44172,129 +44022,6 @@
 						"jp": true,
 						"intl": true,
 						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				}
-			]
-		},
-		{
-			"songId": "Help me, ERINNNNNN!!（Band ver.）",
-			"category": "東方Project",
-			"title": "Help me, ERINNNNNN!!（Band ver.）",
-			"artist": "ビートまりお(COOL＆CREATE)",
-			"bpm": null,
-			"imageName": "0bfba30a9ad204ff1851361b96b1455289c9bdb69218964ed9c35271f052d6f6.png",
-			"version": "GreeN",
-			"releaseDate": null,
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": null,
-					"internalLevelValue": 7,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "11+",
-					"levelValue": 11.6,
-					"internalLevel": null,
-					"internalLevelValue": 11.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "GreeN"
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -196009,7 +195736,7 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196036,7 +195763,7 @@
 					"levelValue": 7.6,
 					"internalLevel": null,
 					"internalLevelValue": 7.6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196878,7 +196605,7 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196905,7 +196632,7 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197013,7 +196740,7 @@
 			"category": "POPS＆アニメ",
 			"title": "ビビデバ",
 			"artist": "星街すいせい（ホロライブ）",
-			"bpm": null,
+			"bpm": 120,
 			"imageName": "900eb4d67d3ed6d1980058fd1211f25f0822f23a8e25f2ce257b742ee7f0e03a.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -197028,7 +196755,7 @@
 					"levelValue": 2,
 					"internalLevel": null,
 					"internalLevelValue": 2,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197055,7 +196782,7 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197109,7 +196836,7 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "緑川 犬三郎",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197136,7 +196863,7 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197178,7 +196905,7 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197205,7 +196932,7 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -198316,5 +198043,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-13T01:15:00.614Z"
+	"updateTime": "2025-03-13T13:05:23.602Z"
 }
