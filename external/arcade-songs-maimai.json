@@ -180798,8 +180798,8 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": "14.7",
-					"internalLevelValue": 14.7,
+					"internalLevel": "14.6",
+					"internalLevelValue": 14.6,
 					"noteDesigner": "The Dove",
 					"noteCounts": {
 						"tap": 670,
@@ -181167,8 +181167,8 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": "14.4",
-					"internalLevelValue": 14.4,
+					"internalLevel": "14.5",
+					"internalLevelValue": 14.5,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 917,
@@ -183217,8 +183217,8 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": "14.6",
-					"internalLevelValue": 14.6,
+					"internalLevel": "14.7",
+					"internalLevelValue": 14.7,
 					"noteDesigner": "アミノハバキリ",
 					"noteCounts": {
 						"tap": 983,
@@ -195542,8 +195542,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -195569,8 +195569,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -195692,8 +195692,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -195915,8 +195915,8 @@
 					"difficulty": "expert",
 					"level": "11+",
 					"levelValue": 11.6,
-					"internalLevel": null,
-					"internalLevelValue": 11.6,
+					"internalLevel": "11.7",
+					"internalLevelValue": 11.7,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -195944,8 +195944,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -196042,7 +196042,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": null,
 					"noteCounts": {
@@ -196069,8 +196069,8 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
+					"internalLevel": "14.3",
+					"internalLevelValue": 14.3,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -196192,8 +196192,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -196288,7 +196288,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": null,
 					"noteCounts": {
@@ -196315,8 +196315,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -196438,7 +196438,7 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": null,
 					"noteCounts": {
@@ -196561,8 +196561,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -196684,7 +196684,7 @@
 					"difficulty": "master",
 					"level": "11+",
 					"levelValue": 11.6,
-					"internalLevel": null,
+					"internalLevel": "11.6",
 					"internalLevelValue": 11.6,
 					"noteDesigner": null,
 					"noteCounts": {
@@ -196711,8 +196711,8 @@
 					"difficulty": "remaster",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -196834,8 +196834,8 @@
 					"difficulty": "master",
 					"level": "11+",
 					"levelValue": 11.6,
-					"internalLevel": null,
-					"internalLevelValue": 11.6,
+					"internalLevel": "11.8",
+					"internalLevelValue": 11.8,
 					"noteDesigner": "緑川 犬三郎",
 					"noteCounts": {
 						"tap": null,
@@ -196861,8 +196861,8 @@
 					"difficulty": "remaster",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": null,
@@ -196984,8 +196984,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -197107,8 +197107,8 @@
 					"difficulty": "master",
 					"level": "11+",
 					"levelValue": 11.6,
-					"internalLevel": null,
-					"internalLevelValue": 11.6,
+					"internalLevel": "11.9",
+					"internalLevelValue": 11.9,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -197134,8 +197134,8 @@
 					"difficulty": "remaster",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -197257,8 +197257,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -197380,8 +197380,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -197503,8 +197503,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -197599,7 +197599,7 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": null,
 					"noteCounts": {
@@ -197626,8 +197626,8 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
+					"internalLevel": "14.1",
+					"internalLevelValue": 14.1,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -198043,5 +198043,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-13T13:05:23.602Z"
+	"updateTime": "2025-03-13T16:37:43.399Z"
 }
