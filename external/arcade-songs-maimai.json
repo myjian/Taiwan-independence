@@ -33107,7 +33107,7 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -33134,7 +33134,7 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -195490,7 +195490,7 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -195517,7 +195517,7 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -195613,7 +195613,7 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -195640,7 +195640,7 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -195859,7 +195859,7 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -195888,7 +195888,7 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -195990,7 +195990,7 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196017,7 +196017,7 @@
 					"levelValue": 8.6,
 					"internalLevel": null,
 					"internalLevelValue": 8.6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196073,12 +196073,12 @@
 					"internalLevelValue": 14.3,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 469,
+						"hold": 51,
+						"slide": 106,
+						"touch": 29,
+						"break": 87,
+						"total": 740
 					},
 					"regions": {
 						"jp": true,
@@ -196113,7 +196113,7 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196140,7 +196140,7 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196196,12 +196196,12 @@
 					"internalLevelValue": 12.9,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 445,
+						"hold": 68,
+						"slide": 87,
+						"touch": 65,
+						"break": 73,
+						"total": 738
 					},
 					"regions": {
 						"jp": true,
@@ -196236,7 +196236,7 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196263,7 +196263,7 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196359,7 +196359,7 @@
 					"levelValue": 2,
 					"internalLevel": null,
 					"internalLevelValue": 2,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196386,7 +196386,7 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196482,7 +196482,7 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196509,7 +196509,7 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -196607,12 +196607,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 155,
+						"hold": 17,
+						"slide": 4,
+						"touch": 9,
+						"break": 8,
+						"total": 193
 					},
 					"regions": {
 						"jp": true,
@@ -196634,12 +196634,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 305,
+						"hold": 20,
+						"slide": 6,
+						"touch": 12,
+						"break": 2,
+						"total": 346
 					},
 					"regions": {
 						"jp": true,
@@ -196688,12 +196688,12 @@
 					"internalLevelValue": 11.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 401,
+						"hold": 81,
+						"slide": 105,
+						"touch": 16,
+						"break": 46,
+						"total": 649
 					},
 					"regions": {
 						"jp": true,
@@ -196757,12 +196757,12 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 143,
+						"hold": 13,
+						"slide": 6,
+						"touch": 7,
+						"break": 4,
+						"total": 173
 					},
 					"regions": {
 						"jp": true,
@@ -196784,12 +196784,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 277,
+						"hold": 14,
+						"slide": 7,
+						"touch": 13,
+						"break": 5,
+						"total": 316
 					},
 					"regions": {
 						"jp": true,
@@ -196809,14 +196809,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 312,
+						"hold": 89,
+						"slide": 32,
+						"touch": 15,
+						"break": 32,
+						"total": 480
 					},
 					"regions": {
 						"jp": true,
@@ -196838,12 +196838,12 @@
 					"internalLevelValue": 11.8,
 					"noteDesigner": "緑川 犬三郎",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 500,
+						"hold": 68,
+						"slide": 82,
+						"touch": 5,
+						"break": 15,
+						"total": 668
 					},
 					"regions": {
 						"jp": true,
@@ -196865,12 +196865,12 @@
 					"internalLevelValue": 13.2,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 616,
+						"hold": 40,
+						"slide": 107,
+						"touch": 44,
+						"break": 18,
+						"total": 825
 					},
 					"regions": {
 						"jp": true,
@@ -197013,7 +197013,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "メズマライザー",
 			"artist": "サツキ feat.初音ミク・重音テト",
-			"bpm": null,
+			"bpm": 185,
 			"imageName": "44c55b94a4f2b8c101ebf8c96f906c1cc5cc8b273012306793676d8b9a3e37b8.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -197028,14 +197028,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 175,
+						"hold": 22,
+						"slide": 7,
+						"touch": 6,
+						"break": 7,
+						"total": 217
 					},
 					"regions": {
 						"jp": true,
@@ -197055,14 +197055,14 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 357,
+						"hold": 22,
+						"slide": 13,
+						"touch": 15,
+						"break": 5,
+						"total": 412
 					},
 					"regions": {
 						"jp": true,
@@ -197084,12 +197084,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 379,
+						"hold": 44,
+						"slide": 56,
+						"touch": 29,
+						"break": 16,
+						"total": 524
 					},
 					"regions": {
 						"jp": true,
@@ -197111,12 +197111,12 @@
 					"internalLevelValue": 11.9,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 428,
+						"hold": 70,
+						"slide": 127,
+						"touch": 40,
+						"break": 10,
+						"total": 675
 					},
 					"regions": {
 						"jp": true,
@@ -197138,12 +197138,12 @@
 					"internalLevelValue": 13.8,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 613,
+						"hold": 38,
+						"slide": 83,
+						"touch": 111,
+						"break": 155,
+						"total": 1000
 					},
 					"regions": {
 						"jp": true,
@@ -197178,7 +197178,7 @@
 					"levelValue": 2,
 					"internalLevel": null,
 					"internalLevelValue": 2,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197205,7 +197205,7 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197259,7 +197259,7 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.7",
 					"internalLevelValue": 12.7,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197301,7 +197301,7 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197328,7 +197328,7 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197424,7 +197424,7 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197451,7 +197451,7 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197547,7 +197547,7 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197574,7 +197574,7 @@
 					"levelValue": 8.6,
 					"internalLevel": null,
 					"internalLevelValue": 8.6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197854,6 +197854,125 @@
 					"isSpecial": true
 				}
 			]
+		},
+		{
+			"songId": "Åntinomiε",
+			"category": "maimai",
+			"title": "Åntinomiε",
+			"artist": "ああ…翡翠茶漬け…",
+			"bpm": 242,
+			"imageName": "ae0bacd24852a9c6d705dfe0e8aae2460b2f58616e04b54c35f4a24b4e5bae57.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-13",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": "SAFARI☆CAT",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				}
+			]
 		}
 	],
 	"categories": [
@@ -198043,5 +198162,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-13T16:37:43.399Z"
+	"updateTime": "2025-03-14T17:52:02.711Z"
 }
