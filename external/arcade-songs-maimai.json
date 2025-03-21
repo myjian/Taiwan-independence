@@ -29803,8 +29803,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 416,
@@ -33161,7 +33161,7 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -33186,16 +33186,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 309,
+						"hold": 41,
+						"slide": 101,
+						"touch": 72,
+						"break": 20,
+						"total": 543
 					},
 					"regions": {
 						"jp": true,
@@ -34440,8 +34440,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.1",
-					"internalLevelValue": 13.1,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
 					"noteDesigner": "Starlight Disco Festa",
 					"noteCounts": {
 						"tap": 315,
@@ -37269,8 +37269,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 374,
@@ -37422,8 +37422,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 372,
@@ -38145,8 +38145,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 254,
@@ -39324,8 +39324,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 402,
@@ -39477,8 +39477,8 @@
 					"difficulty": "remaster",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": "合作だよ",
 					"noteCounts": {
 						"tap": 515,
@@ -39708,8 +39708,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.3",
-					"internalLevelValue": 13.3,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 563,
@@ -44553,8 +44553,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 433,
@@ -45822,8 +45822,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 271,
@@ -58611,8 +58611,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 429,
@@ -59472,8 +59472,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 458,
@@ -64782,8 +64782,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 452,
@@ -67176,8 +67176,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.3",
-					"internalLevelValue": 13.3,
+					"internalLevel": "13.5",
+					"internalLevelValue": 13.5,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 531,
@@ -68556,8 +68556,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "Revo@LC",
 					"noteCounts": {
 						"tap": 603,
@@ -69054,8 +69054,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.1",
-					"internalLevelValue": 13.1,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 720,
@@ -72783,8 +72783,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 444,
@@ -77997,8 +77997,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.6",
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.5",
+					"internalLevelValue": 13.5,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": 654,
@@ -80223,8 +80223,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 540,
@@ -105183,8 +105183,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 492,
@@ -109584,8 +109584,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "7.3Hz＋Jack",
 					"noteCounts": {
 						"tap": 474,
@@ -116310,8 +116310,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.3",
-					"internalLevelValue": 13.3,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
 					"noteDesigner": "小鳥遊さん",
 					"noteCounts": {
 						"tap": 676,
@@ -116802,8 +116802,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "Safata.Hz",
 					"noteCounts": {
 						"tap": 472,
@@ -117048,8 +117048,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 646,
@@ -117171,8 +117171,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.7",
-					"internalLevelValue": 12.7,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 589,
@@ -118770,8 +118770,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "Techno Kitchen",
 					"noteCounts": {
 						"tap": 425,
@@ -119169,8 +119169,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 580,
@@ -121014,7 +121014,7 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
@@ -124641,8 +124641,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.1",
-					"internalLevelValue": 13.1,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 368,
@@ -129606,8 +129606,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 421,
@@ -130740,8 +130740,8 @@
 					"difficulty": "remaster",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 640,
@@ -131478,8 +131478,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 404,
@@ -132858,8 +132858,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.1",
-					"internalLevelValue": 13.1,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 663,
@@ -133719,8 +133719,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 523,
@@ -134834,8 +134834,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.1",
-					"internalLevelValue": 13.1,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": 461,
@@ -135476,8 +135476,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "ものくろっく",
 					"noteCounts": {
 						"tap": 547,
@@ -137756,8 +137756,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 430,
@@ -140009,8 +140009,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.1",
-					"internalLevelValue": 13.1,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "Redarrow",
 					"noteCounts": {
 						"tap": 613,
@@ -140747,8 +140747,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": 504,
@@ -141953,8 +141953,8 @@
 					"difficulty": "expert",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
 						"tap": 441,
@@ -142226,8 +142226,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.6",
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.5",
+					"internalLevelValue": 13.5,
 					"noteDesigner": "ロシアンブラック",
 					"noteCounts": {
 						"tap": 455,
@@ -148641,8 +148641,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
 						"tap": 621,
@@ -153914,8 +153914,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
 						"tap": 427,
@@ -154532,8 +154532,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 638,
@@ -155750,8 +155750,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 385,
@@ -159194,8 +159194,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.1",
-					"internalLevelValue": 13.1,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "Redarrow",
 					"noteCounts": {
 						"tap": 597,
@@ -167425,8 +167425,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 475,
@@ -167548,8 +167548,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
 						"tap": 390,
@@ -171035,8 +171035,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 102,
@@ -172314,8 +172314,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.4",
-					"internalLevelValue": 13.4,
+					"internalLevel": "13.5",
+					"internalLevelValue": 13.5,
 					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 469,
@@ -178743,8 +178743,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "アマリリス",
 					"noteCounts": {
 						"tap": 596,
@@ -179688,8 +179688,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.1",
-					"internalLevelValue": 13.1,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
 					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
 						"tap": 511,
@@ -181290,8 +181290,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.5",
-					"internalLevelValue": 13.5,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 697,
@@ -182520,8 +182520,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.2",
-					"internalLevelValue": 13.2,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 658,
@@ -183094,8 +183094,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.1",
-					"internalLevelValue": 13.1,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
 						"tap": 360,
@@ -195475,7 +195475,7 @@
 			"category": "maimai",
 			"title": "Fraq",
 			"artist": "owl＊tree feat. べんざ",
-			"bpm": null,
+			"bpm": 221,
 			"imageName": "c5e05f0d999f057ee3d335431d3168a8991750c820370c44432fa1dc9c42b7e6.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -195544,7 +195544,7 @@
 					"levelValue": 12,
 					"internalLevel": "12.2",
 					"internalLevelValue": 12.2,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -195571,14 +195571,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.7",
 					"internalLevelValue": 13.7,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 521,
+						"hold": 83,
+						"slide": 110,
+						"touch": 26,
+						"break": 66,
+						"total": 806
 					},
 					"regions": {
 						"jp": true,
@@ -195598,7 +195598,7 @@
 			"category": "maimai",
 			"title": "ウタヒメナイトストーム",
 			"artist": "yowanecity feat.Eye",
-			"bpm": null,
+			"bpm": 164,
 			"imageName": "66c9aa47b034e3b7942bacaaf1f0c2a5c27ef73114989f55f9e0687b43870e97.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -195615,12 +195615,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 157,
+						"hold": 18,
+						"slide": 4,
+						"touch": 8,
+						"break": 3,
+						"total": 190
 					},
 					"regions": {
 						"jp": true,
@@ -195667,14 +195667,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 406,
+						"hold": 46,
+						"slide": 55,
+						"touch": 16,
+						"break": 29,
+						"total": 552
 					},
 					"regions": {
 						"jp": true,
@@ -195694,14 +195694,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 631,
+						"hold": 43,
+						"slide": 142,
+						"touch": 14,
+						"break": 26,
+						"total": 856
 					},
 					"regions": {
 						"jp": true,
@@ -195721,7 +195721,7 @@
 			"category": "maimai",
 			"title": "Feel The Luv",
 			"artist": "EmoCosine",
-			"bpm": null,
+			"bpm": 155,
 			"imageName": "696469997791890500b4cb86ffce8c8b6471f5d234f50ae201a4e57f498f9fa8.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -195738,12 +195738,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 170,
+						"hold": 9,
+						"slide": 8,
+						"touch": 14,
+						"break": 10,
+						"total": 211
 					},
 					"regions": {
 						"jp": true,
@@ -195790,14 +195790,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 413,
+						"hold": 86,
+						"slide": 48,
+						"touch": 11,
+						"break": 36,
+						"total": 594
 					},
 					"regions": {
 						"jp": true,
@@ -195815,16 +195815,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 611,
+						"hold": 42,
+						"slide": 90,
+						"touch": 127,
+						"break": 57,
+						"total": 927
 					},
 					"regions": {
 						"jp": true,
@@ -195844,7 +195844,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "Supersonic Generation",
 			"artist": "Massive New Krew",
-			"bpm": null,
+			"bpm": 155,
 			"imageName": "6b0d5a9978831eeb4fb16ed342ac12740ccba94894326e7e47433f62dcc0867e.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -195917,7 +195917,7 @@
 					"levelValue": 11.6,
 					"internalLevel": "11.7",
 					"internalLevelValue": 11.7,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -195946,14 +195946,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.9",
 					"internalLevelValue": 13.9,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 567,
+						"hold": 12,
+						"slide": 91,
+						"touch": 70,
+						"break": 75,
+						"total": 815
 					},
 					"regions": {
 						"jp": true,
@@ -195975,7 +195975,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "Zitronectar",
 			"artist": "Reku Mochizuki",
-			"bpm": null,
+			"bpm": 222,
 			"imageName": "0f9e0998c092ba2a68cd3fc221b2dae6022527ac68948f4afcf079b63bf6d88c.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -196044,14 +196044,14 @@
 					"levelValue": 12,
 					"internalLevel": "12.0",
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 357,
+						"hold": 64,
+						"slide": 55,
+						"touch": 31,
+						"break": 39,
+						"total": 546
 					},
 					"regions": {
 						"jp": true,
@@ -196071,14 +196071,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.3",
 					"internalLevelValue": 14.3,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 469,
 						"hold": 51,
 						"slide": 106,
 						"touch": 29,
 						"break": 87,
-						"total": 740
+						"total": 742
 					},
 					"regions": {
 						"jp": true,
@@ -196098,7 +196098,7 @@
 			"category": "POPS＆アニメ",
 			"title": "きゅびずむ",
 			"artist": "超てんちゃん",
-			"bpm": null,
+			"bpm": 185,
 			"imageName": "3522ffb259bf5e72fcca638754ce5d6472ee7d1bda6f3a54e50a7fb98faf27c1.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -196115,12 +196115,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 134,
+						"hold": 14,
+						"slide": 4,
+						"touch": 12,
+						"break": 8,
+						"total": 172
 					},
 					"regions": {
 						"jp": true,
@@ -196142,12 +196142,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 308,
+						"hold": 18,
+						"slide": 9,
+						"touch": 29,
+						"break": 5,
+						"total": 369
 					},
 					"regions": {
 						"jp": true,
@@ -196167,14 +196167,14 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 315,
+						"hold": 53,
+						"slide": 33,
+						"touch": 19,
+						"break": 49,
+						"total": 469
 					},
 					"regions": {
 						"jp": true,
@@ -196194,7 +196194,7 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 445,
 						"hold": 68,
@@ -196221,7 +196221,7 @@
 			"category": "POPS＆アニメ",
 			"title": "きゅびびびびずむ",
 			"artist": "超てんちゃん",
-			"bpm": null,
+			"bpm": 185,
 			"imageName": "8c0013d320645f580f991355b2076d5902a960d46248dae68ddeee84ee04e7a8.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -196238,12 +196238,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 221,
+						"hold": 15,
+						"slide": 15,
+						"touch": 13,
+						"break": 14,
+						"total": 278
 					},
 					"regions": {
 						"jp": true,
@@ -196265,12 +196265,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 404,
+						"hold": 18,
+						"slide": 13,
+						"touch": 14,
+						"break": 14,
+						"total": 463
 					},
 					"regions": {
 						"jp": true,
@@ -196290,14 +196290,14 @@
 					"levelValue": 12,
 					"internalLevel": "12.0",
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 323,
+						"hold": 129,
+						"slide": 41,
+						"touch": 49,
+						"break": 124,
+						"total": 666
 					},
 					"regions": {
 						"jp": true,
@@ -196317,14 +196317,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "サぴぴぴぴちネファ太太太太コ",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 424,
+						"hold": 98,
+						"slide": 103,
+						"touch": 121,
+						"break": 248,
+						"total": 994
 					},
 					"regions": {
 						"jp": true,
@@ -196344,7 +196344,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "ゆりかご",
 			"artist": "歌：可不／作詞・作曲：MIMI",
-			"bpm": null,
+			"bpm": 120,
 			"imageName": "916cc6c89c2901f65a0721601bf96b9b6499835a4809219dfab7c9664c5bc05d.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -196361,12 +196361,12 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 86,
+						"hold": 9,
+						"slide": 6,
+						"touch": 13,
+						"break": 2,
+						"total": 116
 					},
 					"regions": {
 						"jp": true,
@@ -196388,12 +196388,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 153,
+						"hold": 21,
+						"slide": 8,
+						"touch": 28,
+						"break": 5,
+						"total": 215
 					},
 					"regions": {
 						"jp": true,
@@ -196413,14 +196413,14 @@
 					"levelValue": 9,
 					"internalLevel": null,
 					"internalLevelValue": 9,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 255,
+						"hold": 34,
+						"slide": 20,
+						"touch": 24,
+						"break": 10,
+						"total": 343
 					},
 					"regions": {
 						"jp": true,
@@ -196440,14 +196440,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 457,
+						"hold": 38,
+						"slide": 88,
+						"touch": 58,
+						"break": 13,
+						"total": 654
 					},
 					"regions": {
 						"jp": true,
@@ -196467,7 +196467,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "月光",
 			"artist": "歌：V.I.P／作詞・作曲：廉",
-			"bpm": null,
+			"bpm": 195,
 			"imageName": "8afef61d14795b657b49abfa93592be68a556bebe1be579842bd997c96b5245a.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -196484,12 +196484,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 176,
+						"hold": 16,
+						"slide": 6,
+						"touch": 8,
+						"break": 5,
+						"total": 211
 					},
 					"regions": {
 						"jp": true,
@@ -196511,12 +196511,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 350,
+						"hold": 16,
+						"slide": 5,
+						"touch": 24,
+						"break": 3,
+						"total": 398
 					},
 					"regions": {
 						"jp": true,
@@ -196536,14 +196536,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 514,
+						"hold": 44,
+						"slide": 44,
+						"touch": 12,
+						"break": 27,
+						"total": 641
 					},
 					"regions": {
 						"jp": true,
@@ -196563,14 +196563,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.7",
 					"internalLevelValue": 13.7,
-					"noteDesigner": null,
+					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 550,
+						"hold": 54,
+						"slide": 137,
+						"touch": 10,
+						"break": 69,
+						"total": 820
 					},
 					"regions": {
 						"jp": true,
@@ -196590,7 +196590,7 @@
 			"category": "POPS＆アニメ",
 			"title": "はいよろこんで",
 			"artist": "こっちのけんと",
-			"bpm": null,
+			"bpm": 147,
 			"imageName": "aea435f0b0580ebdf210c5b824804023993f56c94b40b9d0b226ee40c4703ef5.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -196637,7 +196637,7 @@
 						"tap": 305,
 						"hold": 20,
 						"slide": 6,
-						"touch": 12,
+						"touch": 13,
 						"break": 2,
 						"total": 346
 					},
@@ -196659,14 +196659,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 357,
+						"hold": 37,
+						"slide": 56,
+						"touch": 34,
+						"break": 22,
+						"total": 506
 					},
 					"regions": {
 						"jp": true,
@@ -196686,7 +196686,7 @@
 					"levelValue": 11.6,
 					"internalLevel": "11.6",
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "緑川 犬三郎",
 					"noteCounts": {
 						"tap": 401,
 						"hold": 81,
@@ -196713,14 +196713,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.2",
 					"internalLevelValue": 13.2,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 588,
+						"hold": 78,
+						"slide": 95,
+						"touch": 37,
+						"break": 40,
+						"total": 838
 					},
 					"regions": {
 						"jp": true,
@@ -196839,7 +196839,7 @@
 					"noteDesigner": "緑川 犬三郎",
 					"noteCounts": {
 						"tap": 500,
-						"hold": 68,
+						"hold": 66,
 						"slide": 82,
 						"touch": 5,
 						"break": 15,
@@ -196890,7 +196890,7 @@
 			"category": "POPS＆アニメ",
 			"title": "シカ色デイズ",
 			"artist": "シカ部 [鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)、虎視餡子 (CV.田辺留依)、馬車芽めめ (CV.和泉風花)]",
-			"bpm": null,
+			"bpm": 183,
 			"imageName": "9d3fda98e5bc7c5091ea4ff033fbd8dc2d663c19be82f9fff4a3beae872864c7.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -196907,12 +196907,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 99,
+						"hold": 7,
+						"slide": 4,
+						"touch": 6,
+						"break": 6,
+						"total": 122
 					},
 					"regions": {
 						"jp": true,
@@ -196934,12 +196934,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 182,
+						"hold": 12,
+						"slide": 4,
+						"touch": 28,
+						"break": 4,
+						"total": 230
 					},
 					"regions": {
 						"jp": true,
@@ -196959,14 +196959,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 281,
+						"hold": 34,
+						"slide": 22,
+						"touch": 31,
+						"break": 20,
+						"total": 388
 					},
 					"regions": {
 						"jp": true,
@@ -196986,14 +196986,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.8",
 					"internalLevelValue": 12.8,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 275,
+						"hold": 24,
+						"slide": 113,
+						"touch": 52,
+						"break": 31,
+						"total": 495
 					},
 					"regions": {
 						"jp": true,
@@ -197082,7 +197082,7 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
 						"tap": 379,
 						"hold": 44,
@@ -197109,7 +197109,7 @@
 					"levelValue": 11.6,
 					"internalLevel": "11.9",
 					"internalLevelValue": 11.9,
-					"noteDesigner": null,
+					"noteDesigner": "緑風 犬三郎",
 					"noteCounts": {
 						"tap": 428,
 						"hold": 70,
@@ -197136,7 +197136,7 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 613,
 						"hold": 38,
@@ -197163,7 +197163,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "ももいろの鍵",
 			"artist": "いよわ",
-			"bpm": null,
+			"bpm": 165,
 			"imageName": "ac0b0c66fdc5741bd10e7b280ade2d82cc76d7921f8d473e3ccaf6e733368570.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -197180,12 +197180,12 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 135,
+						"hold": 10,
+						"slide": 4,
+						"touch": 17,
+						"break": 8,
+						"total": 174
 					},
 					"regions": {
 						"jp": true,
@@ -197207,12 +197207,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 258,
+						"hold": 14,
+						"slide": 11,
+						"touch": 28,
+						"break": 3,
+						"total": 314
 					},
 					"regions": {
 						"jp": true,
@@ -197232,14 +197232,14 @@
 					"levelValue": 9,
 					"internalLevel": null,
 					"internalLevelValue": 9,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 305,
+						"hold": 45,
+						"slide": 22,
+						"touch": 13,
+						"break": 11,
+						"total": 396
 					},
 					"regions": {
 						"jp": true,
@@ -197261,12 +197261,12 @@
 					"internalLevelValue": 12.7,
 					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 395,
+						"hold": 90,
+						"slide": 89,
+						"touch": 36,
+						"break": 30,
+						"total": 640
 					},
 					"regions": {
 						"jp": true,
@@ -197286,7 +197286,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "のだ",
 			"artist": "大漠波新",
-			"bpm": null,
+			"bpm": 142,
 			"imageName": "bc926b0a548176ba855196aff940a3dad615c8b2d7bec485d4e9f1ce96ed7923.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -197303,12 +197303,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 158,
+						"hold": 15,
+						"slide": 4,
+						"touch": 8,
+						"break": 6,
+						"total": 191
 					},
 					"regions": {
 						"jp": true,
@@ -197330,12 +197330,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 240,
+						"hold": 13,
+						"slide": 15,
+						"touch": 26,
+						"break": 6,
+						"total": 300
 					},
 					"regions": {
 						"jp": true,
@@ -197355,14 +197355,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 273,
+						"hold": 62,
+						"slide": 41,
+						"touch": 11,
+						"break": 56,
+						"total": 443
 					},
 					"regions": {
 						"jp": true,
@@ -197382,14 +197382,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.3",
 					"internalLevelValue": 13.3,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel＆はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 526,
+						"hold": 34,
+						"slide": 141,
+						"touch": 74,
+						"break": 55,
+						"total": 830
 					},
 					"regions": {
 						"jp": true,
@@ -197426,12 +197426,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 149,
+						"hold": 11,
+						"slide": 4,
+						"touch": 7,
+						"break": 8,
+						"total": 179
 					},
 					"regions": {
 						"jp": true,
@@ -197453,12 +197453,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 282,
+						"hold": 16,
+						"slide": 14,
+						"touch": 28,
+						"break": 2,
+						"total": 342
 					},
 					"regions": {
 						"jp": true,
@@ -197478,7 +197478,7 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -197505,14 +197505,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.3",
 					"internalLevelValue": 13.3,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 487,
+						"hold": 51,
+						"slide": 130,
+						"touch": 41,
+						"break": 52,
+						"total": 761
 					},
 					"regions": {
 						"jp": true,
@@ -197532,7 +197532,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Synthesis.",
 			"artist": "tn-shi",
-			"bpm": null,
+			"bpm": 180,
 			"imageName": "f7a4ccd98b2f0fa921fd081d6d43cfa09038274c3452e99ed51b070d14409d72.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -197549,12 +197549,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 218,
+						"hold": 18,
+						"slide": 10,
+						"touch": 22,
+						"break": 5,
+						"total": 273
 					},
 					"regions": {
 						"jp": true,
@@ -197601,14 +197601,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 400,
+						"hold": 128,
+						"slide": 65,
+						"touch": 32,
+						"break": 20,
+						"total": 645
 					},
 					"regions": {
 						"jp": true,
@@ -197628,14 +197628,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.1",
 					"internalLevelValue": 14.1,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 738,
+						"hold": 84,
+						"slide": 72,
+						"touch": 127,
+						"break": 82,
+						"total": 1103
 					},
 					"regions": {
 						"jp": true,
@@ -197927,14 +197927,14 @@
 					"levelValue": 12.6,
 					"internalLevel": null,
 					"internalLevelValue": 12.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 471,
+						"hold": 87,
+						"slide": 58,
+						"touch": 19,
+						"break": 53,
+						"total": 688
 					},
 					"regions": {
 						"jp": true,
@@ -197955,12 +197955,12 @@
 					"internalLevelValue": 14.6,
 					"noteDesigner": "SAFARI☆CAT",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 631,
+						"hold": 98,
+						"slide": 114,
+						"touch": 72,
+						"break": 124,
+						"total": 1039
 					},
 					"regions": {
 						"jp": true,
@@ -198162,5 +198162,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-14T17:52:02.711Z"
+	"updateTime": "2025-03-21T01:21:21.864Z"
 }
