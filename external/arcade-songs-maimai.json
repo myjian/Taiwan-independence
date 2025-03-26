@@ -195519,12 +195519,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 358,
+						"hold": 26,
+						"slide": 8,
+						"touch": 28,
+						"break": 7,
+						"total": 427
 					},
 					"regions": {
 						"jp": true,
@@ -195546,12 +195546,12 @@
 					"internalLevelValue": 12.2,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 466,
+						"hold": 90,
+						"slide": 31,
+						"touch": 55,
+						"break": 35,
+						"total": 677
 					},
 					"regions": {
 						"jp": true,
@@ -195642,12 +195642,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 260,
+						"hold": 12,
+						"slide": 12,
+						"touch": 26,
+						"break": 3,
+						"total": 313
 					},
 					"regions": {
 						"jp": true,
@@ -195765,12 +195765,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 300,
+						"hold": 18,
+						"slide": 4,
+						"touch": 26,
+						"break": 4,
+						"total": 352
 					},
 					"regions": {
 						"jp": true,
@@ -195861,12 +195861,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 140,
+						"hold": 11,
+						"slide": 4,
+						"touch": 6,
+						"break": 10,
+						"total": 171
 					},
 					"regions": {
 						"jp": true,
@@ -195890,12 +195890,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 251,
+						"hold": 22,
+						"slide": 7,
+						"touch": 28,
+						"break": 3,
+						"total": 311
 					},
 					"regions": {
 						"jp": true,
@@ -195919,12 +195919,12 @@
 					"internalLevelValue": 11.7,
 					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 341,
+						"hold": 59,
+						"slide": 32,
+						"touch": 31,
+						"break": 40,
+						"total": 503
 					},
 					"regions": {
 						"jp": true,
@@ -195992,12 +195992,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 168,
+						"hold": 8,
+						"slide": 8,
+						"touch": 9,
+						"break": 5,
+						"total": 198
 					},
 					"regions": {
 						"jp": true,
@@ -196019,12 +196019,12 @@
 					"internalLevelValue": 8.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 300,
+						"hold": 14,
+						"slide": 6,
+						"touch": 16,
+						"break": 4,
+						"total": 340
 					},
 					"regions": {
 						"jp": true,
@@ -197409,7 +197409,7 @@
 			"category": "東方Project",
 			"title": "Idoratrize World",
 			"artist": "A-One",
-			"bpm": null,
+			"bpm": 170,
 			"imageName": "1a1f82ebcaa6501ef1d8e1fd121a9527b4e3c043a8093684c86e66f72a1119ca.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
@@ -197480,12 +197480,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 354,
+						"hold": 51,
+						"slide": 56,
+						"touch": 27,
+						"break": 37,
+						"total": 525
 					},
 					"regions": {
 						"jp": true,
@@ -197576,12 +197576,12 @@
 					"internalLevelValue": 8.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 417,
+						"hold": 16,
+						"slide": 12,
+						"touch": 29,
+						"break": 3,
+						"total": 477
 					},
 					"regions": {
 						"jp": true,
@@ -197877,12 +197877,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 254,
+						"hold": 18,
+						"slide": 8,
+						"touch": 26,
+						"break": 2,
+						"total": 308
 					},
 					"regions": {
 						"jp": true,
@@ -197903,12 +197903,12 @@
 					"internalLevelValue": 9,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 433,
+						"hold": 21,
+						"slide": 14,
+						"touch": 24,
+						"break": 2,
+						"total": 494
 					},
 					"regions": {
 						"jp": true,
@@ -197951,7 +197951,7 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": null,
+					"internalLevel": "14.6",
 					"internalLevelValue": 14.6,
 					"noteDesigner": "SAFARI☆CAT",
 					"noteCounts": {
@@ -198162,5 +198162,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-21T11:57:03.021Z"
+	"updateTime": "2025-03-26T14:59:10.268Z"
 }
