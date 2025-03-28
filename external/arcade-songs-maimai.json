@@ -36438,7 +36438,7 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
@@ -197979,7 +197979,7 @@
 			"category": "POPS＆アニメ",
 			"title": "もういいよ",
 			"artist": "こっちのけんと",
-			"bpm": null,
+			"bpm": 147,
 			"imageName": "6667be743d76cf7f44b3d64920b6463b8f8af15f4a8c81a02cf2bce29b163711.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-28",
@@ -197994,14 +197994,14 @@
 					"levelValue": 2,
 					"internalLevel": null,
 					"internalLevelValue": 2,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 124,
+						"hold": 15,
+						"slide": 4,
+						"touch": 13,
+						"break": 8,
+						"total": 164
 					},
 					"regions": {
 						"jp": true,
@@ -198021,14 +198021,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 265,
+						"hold": 18,
+						"slide": 6,
+						"touch": 22,
+						"break": 5,
+						"total": 316
 					},
 					"regions": {
 						"jp": true,
@@ -198048,14 +198048,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 358,
+						"hold": 119,
+						"slide": 38,
+						"touch": 16,
+						"break": 15,
+						"total": 546
 					},
 					"regions": {
 						"jp": true,
@@ -198073,16 +198073,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 526,
+						"hold": 65,
+						"slide": 107,
+						"touch": 70,
+						"break": 38,
+						"total": 806
 					},
 					"regions": {
 						"jp": true,
@@ -198102,7 +198102,7 @@
 			"category": "POPS＆アニメ",
 			"title": "モエチャッカファイア",
 			"artist": "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」",
-			"bpm": null,
+			"bpm": 163,
 			"imageName": "acd6fac4b9d6cfd302cd300492403c202fbf153208638ba115c4eb9731702dc3.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-28",
@@ -198117,14 +198117,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 164,
+						"hold": 11,
+						"slide": 6,
+						"touch": 6,
+						"break": 11,
+						"total": 198
 					},
 					"regions": {
 						"jp": true,
@@ -198144,14 +198144,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 257,
+						"hold": 17,
+						"slide": 16,
+						"touch": 26,
+						"break": 6,
+						"total": 332
 					},
 					"regions": {
 						"jp": true,
@@ -198171,14 +198171,14 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 393,
+						"hold": 22,
+						"slide": 45,
+						"touch": 29,
+						"break": 36,
+						"total": 525
 					},
 					"regions": {
 						"jp": true,
@@ -198196,16 +198196,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 675,
+						"hold": 54,
+						"slide": 131,
+						"touch": 70,
+						"break": 54,
+						"total": 984
 					},
 					"regions": {
 						"jp": true,
@@ -198408,5 +198408,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-28T01:21:11.463Z"
+	"updateTime": "2025-03-28T11:33:27.186Z"
 }
