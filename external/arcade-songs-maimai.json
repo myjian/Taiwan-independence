@@ -27619,7 +27619,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
@@ -33096,7 +33096,7 @@
 			"imageName": "271f40408574f8a63e9d0e172e47154cbd56acd9678ddc127becec270a5d9df0.png",
 			"version": "maimai PLUS",
 			"releaseDate": "2012-12-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -33294,7 +33294,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
@@ -35301,7 +35301,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
@@ -42600,7 +42600,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
@@ -43092,7 +43092,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
@@ -47637,7 +47637,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
@@ -48114,7 +48114,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
@@ -49452,7 +49452,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
@@ -52701,8 +52701,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
+					"internalLevel": "12.6",
+					"internalLevelValue": 12.6,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 332,
@@ -60867,8 +60867,8 @@
 					"difficulty": "remaster",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "チャン@DP皆伝",
 					"noteCounts": {
 						"tap": 276,
@@ -62776,7 +62776,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -62803,7 +62803,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -62830,7 +62830,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -62857,7 +62857,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -63198,7 +63198,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
@@ -75063,7 +75063,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
@@ -83766,7 +83766,7 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "小鳥遊さん",
 					"noteCounts": {
@@ -85362,8 +85362,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
+					"internalLevel": "12.6",
+					"internalLevelValue": 12.6,
 					"noteDesigner": "rioN",
 					"noteCounts": {
 						"tap": 333,
@@ -93462,8 +93462,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
+					"internalLevel": "12.6",
+					"internalLevelValue": 12.6,
 					"noteDesigner": "小鳥遊さん",
 					"noteCounts": {
 						"tap": 416,
@@ -95811,7 +95811,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
@@ -100746,7 +100746,7 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "Jack",
 					"noteCounts": {
@@ -106032,7 +106032,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "Jack",
 					"noteCounts": {
@@ -113919,7 +113919,7 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "Jack",
 					"noteCounts": {
@@ -140351,8 +140351,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
+					"internalLevel": "12.6",
+					"internalLevelValue": 12.6,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 530,
@@ -144056,8 +144056,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
+					"internalLevel": "12.6",
+					"internalLevelValue": 12.6,
 					"noteDesigner": "翠楼屋",
 					"noteCounts": {
 						"tap": 507,
@@ -170062,8 +170062,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.7",
-					"internalLevelValue": 12.7,
+					"internalLevel": "12.6",
+					"internalLevelValue": 12.6,
 					"noteDesigner": "メロンポップ",
 					"noteCounts": {
 						"tap": 381,
@@ -172533,8 +172533,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
+					"internalLevel": "12.6",
+					"internalLevelValue": 12.6,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 453,
@@ -182971,8 +182971,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.7",
-					"internalLevelValue": 12.7,
+					"internalLevel": "12.6",
+					"internalLevelValue": 12.6,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 362,
@@ -191029,7 +191029,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191056,7 +191056,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191083,7 +191083,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191110,7 +191110,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191275,7 +191275,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191302,7 +191302,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191329,7 +191329,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191356,7 +191356,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191398,7 +191398,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191425,7 +191425,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191452,7 +191452,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191479,7 +191479,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -195479,7 +195479,7 @@
 			"imageName": "c5e05f0d999f057ee3d335431d3168a8991750c820370c44432fa1dc9c42b7e6.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -195602,7 +195602,7 @@
 			"imageName": "66c9aa47b034e3b7942bacaaf1f0c2a5c27ef73114989f55f9e0687b43870e97.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -195725,7 +195725,7 @@
 			"imageName": "696469997791890500b4cb86ffce8c8b6471f5d234f50ae201a4e57f498f9fa8.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -195848,7 +195848,7 @@
 			"imageName": "6b0d5a9978831eeb4fb16ed342ac12740ccba94894326e7e47433f62dcc0867e.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -195979,7 +195979,7 @@
 			"imageName": "0f9e0998c092ba2a68cd3fc221b2dae6022527ac68948f4afcf079b63bf6d88c.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -196102,7 +196102,7 @@
 			"imageName": "3522ffb259bf5e72fcca638754ce5d6472ee7d1bda6f3a54e50a7fb98faf27c1.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -196225,7 +196225,7 @@
 			"imageName": "8c0013d320645f580f991355b2076d5902a960d46248dae68ddeee84ee04e7a8.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -196348,7 +196348,7 @@
 			"imageName": "916cc6c89c2901f65a0721601bf96b9b6499835a4809219dfab7c9664c5bc05d.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -196471,7 +196471,7 @@
 			"imageName": "8afef61d14795b657b49abfa93592be68a556bebe1be579842bd997c96b5245a.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -196594,7 +196594,7 @@
 			"imageName": "aea435f0b0580ebdf210c5b824804023993f56c94b40b9d0b226ee40c4703ef5.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -196744,7 +196744,7 @@
 			"imageName": "900eb4d67d3ed6d1980058fd1211f25f0822f23a8e25f2ce257b742ee7f0e03a.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -196894,7 +196894,7 @@
 			"imageName": "9d3fda98e5bc7c5091ea4ff033fbd8dc2d663c19be82f9fff4a3beae872864c7.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -197017,7 +197017,7 @@
 			"imageName": "44c55b94a4f2b8c101ebf8c96f906c1cc5cc8b273012306793676d8b9a3e37b8.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -197167,7 +197167,7 @@
 			"imageName": "ac0b0c66fdc5741bd10e7b280ade2d82cc76d7921f8d473e3ccaf6e733368570.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -197290,7 +197290,7 @@
 			"imageName": "bc926b0a548176ba855196aff940a3dad615c8b2d7bec485d4e9f1ce96ed7923.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -197413,7 +197413,7 @@
 			"imageName": "1a1f82ebcaa6501ef1d8e1fd121a9527b4e3c043a8093684c86e66f72a1119ca.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -197536,7 +197536,7 @@
 			"imageName": "f7a4ccd98b2f0fa921fd081d6d43cfa09038274c3452e99ed51b070d14409d72.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -197864,7 +197864,7 @@
 			"imageName": "ae0bacd24852a9c6d705dfe0e8aae2460b2f58616e04b54c35f4a24b4e5bae57.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -197971,6 +197971,252 @@
 						"intl": {}
 					},
 					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "もういいよ",
+			"category": "POPS＆アニメ",
+			"title": "もういいよ",
+			"artist": "こっちのけんと",
+			"bpm": null,
+			"imageName": "6667be743d76cf7f44b3d64920b6463b8f8af15f4a8c81a02cf2bce29b163711.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-28",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "モエチャッカファイア",
+			"category": "POPS＆アニメ",
+			"title": "モエチャッカファイア",
+			"artist": "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」",
+			"bpm": null,
+			"imageName": "acd6fac4b9d6cfd302cd300492403c202fbf153208638ba115c4eb9731702dc3.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-03-28",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		}
@@ -198162,5 +198408,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-26T14:59:10.268Z"
+	"updateTime": "2025-03-28T01:21:11.463Z"
 }
