@@ -26527,8 +26527,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 148,
@@ -27742,8 +27742,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 293,
@@ -28111,8 +28111,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 199,
@@ -28465,8 +28465,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 236,
@@ -29080,8 +29080,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 352,
@@ -29107,8 +29107,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 230,
@@ -29680,8 +29680,8 @@
 					"difficulty": "remaster",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 208,
@@ -30079,8 +30079,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 293,
@@ -30202,8 +30202,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "maimai TEAM",
 					"noteCounts": {
 						"tap": 381,
@@ -31233,8 +31233,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 213,
@@ -32025,8 +32025,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 390,
@@ -32175,8 +32175,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 295,
@@ -32667,8 +32667,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 390,
@@ -33109,12 +33109,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 102,
+						"hold": 9,
+						"slide": 4,
+						"touch": 7,
+						"break": 2,
+						"total": 124
 					},
 					"regions": {
 						"jp": true,
@@ -33136,12 +33136,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 210,
+						"hold": 16,
+						"slide": 4,
+						"touch": 28,
+						"break": 6,
+						"total": 264
 					},
 					"regions": {
 						"jp": true,
@@ -33163,12 +33163,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 334,
+						"hold": 45,
+						"slide": 33,
+						"touch": 5,
+						"break": 15,
+						"total": 432
 					},
 					"regions": {
 						"jp": true,
@@ -33417,8 +33417,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 528,
@@ -34548,8 +34548,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 151,
@@ -34575,8 +34575,8 @@
 					"difficulty": "remaster",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 261,
@@ -34698,8 +34698,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 356,
@@ -34944,8 +34944,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 324,
@@ -35055,8 +35055,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 229,
@@ -35424,8 +35424,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 328,
@@ -35700,8 +35700,8 @@
 					"difficulty": "remaster",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "Techno Kitchen",
 					"noteCounts": {
 						"tap": 475,
@@ -36315,8 +36315,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.1",
+					"internalLevelValue": 12.1,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 279,
@@ -36861,8 +36861,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 189,
@@ -36984,8 +36984,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 230,
@@ -37503,7 +37503,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
@@ -37776,8 +37776,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 257,
@@ -38298,8 +38298,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 366,
@@ -39450,8 +39450,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 453,
@@ -39912,7 +39912,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "チャン@DP皆伝",
 					"noteCounts": {
@@ -40212,7 +40212,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
@@ -40335,8 +40335,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 160,
@@ -40950,8 +40950,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 386,
@@ -41127,8 +41127,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 321,
@@ -41523,8 +41523,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 200,
@@ -41769,8 +41769,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 349,
@@ -42192,8 +42192,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 309,
@@ -42450,8 +42450,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
 					"noteDesigner": "ニャイン",
 					"noteCounts": {
 						"tap": 348,
@@ -44103,8 +44103,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.3",
+					"internalLevelValue": 12.3,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 269,
@@ -44253,8 +44253,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.1",
+					"internalLevelValue": 12.1,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 493,
@@ -46167,7 +46167,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "合作だよ",
 					"noteCounts": {
@@ -46821,8 +46821,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "maimai TEAM",
 					"noteCounts": {
 						"tap": 427,
@@ -48237,8 +48237,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 636,
@@ -48729,8 +48729,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 299,
@@ -49698,8 +49698,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 311,
@@ -50286,8 +50286,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
 					"noteDesigner": "合作だよ",
 					"noteCounts": {
 						"tap": 354,
@@ -50682,8 +50682,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 437,
@@ -51786,8 +51786,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 297,
@@ -52455,8 +52455,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 372,
@@ -52728,8 +52728,8 @@
 					"difficulty": "remaster",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 485,
@@ -53451,7 +53451,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
@@ -54462,7 +54462,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
@@ -55089,8 +55089,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 297,
@@ -57861,8 +57861,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 346,
@@ -59598,8 +59598,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "rioN",
 					"noteCounts": {
 						"tap": 457,
@@ -60594,7 +60594,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
@@ -62013,7 +62013,7 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "Jack",
 					"noteCounts": {
@@ -62475,8 +62475,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "Techno Kitchen",
 					"noteCounts": {
 						"tap": 434,
@@ -63048,8 +63048,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 638,
@@ -64167,8 +64167,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 392,
@@ -65304,8 +65304,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "rioN",
 					"noteCounts": {
 						"tap": 428,
@@ -65427,8 +65427,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 656,
@@ -66561,8 +66561,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
 						"tap": 360,
@@ -68928,8 +68928,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "rioN",
 					"noteCounts": {
 						"tap": 639,
@@ -69900,8 +69900,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 516,
@@ -70542,8 +70542,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
 						"tap": 441,
@@ -71622,7 +71622,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "しろいろ",
 					"noteCounts": {
@@ -73386,8 +73386,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "華火職人",
 					"noteCounts": {
 						"tap": 452,
@@ -74817,7 +74817,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "rioN",
 					"noteCounts": {
@@ -76509,8 +76509,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 368,
@@ -77232,7 +77232,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
@@ -77259,8 +77259,8 @@
 					"difficulty": "remaster",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "玉子豆腐",
 					"noteCounts": {
 						"tap": 406,
@@ -78351,8 +78351,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "LabiLabi",
 					"noteCounts": {
 						"tap": 466,
@@ -78816,8 +78816,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 357,
@@ -79239,8 +79239,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "Revo@LC",
 					"noteCounts": {
 						"tap": 652,
@@ -79362,8 +79362,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "Moon Strix",
 					"noteCounts": {
 						"tap": 394,
@@ -80595,8 +80595,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "小鳥遊さん",
 					"noteCounts": {
 						"tap": 338,
@@ -82578,8 +82578,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "玉子豆腐",
 					"noteCounts": {
 						"tap": 108,
@@ -83070,8 +83070,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "ものくろっく",
 					"noteCounts": {
 						"tap": 383,
@@ -83439,8 +83439,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "華火職人",
 					"noteCounts": {
 						"tap": 483,
@@ -88941,8 +88941,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "玉子豆腐",
 					"noteCounts": {
 						"tap": 404,
@@ -92025,8 +92025,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "玉子豆腐",
 					"noteCounts": {
 						"tap": 599,
@@ -92478,8 +92478,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 543,
@@ -93366,8 +93366,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 420,
@@ -96645,8 +96645,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 278,
@@ -96822,8 +96822,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 637,
@@ -97833,8 +97833,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "玉子豆腐",
 					"noteCounts": {
 						"tap": 408,
@@ -98082,7 +98082,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "緑風 犬三郎",
 					"noteCounts": {
@@ -99639,8 +99639,8 @@
 					"difficulty": "remaster",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "華火職人",
 					"noteCounts": {
 						"tap": 468,
@@ -100035,8 +100035,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 501,
@@ -101169,8 +101169,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "緑風 犬三郎",
 					"noteCounts": {
 						"tap": 643,
@@ -102357,8 +102357,8 @@
 					"difficulty": "remaster",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 249,
@@ -102603,8 +102603,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.1",
+					"internalLevelValue": 12.1,
 					"noteDesigner": "緑風 犬三郎",
 					"noteCounts": {
 						"tap": 635,
@@ -102753,8 +102753,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 505,
@@ -103122,8 +103122,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.1",
+					"internalLevelValue": 12.1,
 					"noteDesigner": "緑風 犬三郎",
 					"noteCounts": {
 						"tap": 472,
@@ -103641,8 +103641,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 387,
@@ -104310,8 +104310,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 189,
@@ -105060,8 +105060,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 530,
@@ -106305,7 +106305,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "小鳥遊さん",
 					"noteCounts": {
@@ -106674,8 +106674,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": 423,
@@ -107439,7 +107439,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
@@ -108573,8 +108573,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 271,
@@ -110352,8 +110352,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 498,
@@ -110721,8 +110721,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 523,
@@ -110844,7 +110844,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
@@ -110967,7 +110967,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
@@ -111090,8 +111090,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 324,
@@ -111459,8 +111459,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 507,
@@ -112443,8 +112443,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "小鳥遊さん",
 					"noteCounts": {
 						"tap": 467,
@@ -112812,7 +112812,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "ぴちネコ",
 					"noteCounts": {
@@ -112962,8 +112962,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 372,
@@ -114684,8 +114684,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": 475,
@@ -115053,8 +115053,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 482,
@@ -118032,8 +118032,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
 						"tap": 386,
@@ -118155,8 +118155,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.7",
-					"internalLevelValue": 12.7,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "某S氏",
 					"noteCounts": {
 						"tap": 480,
@@ -118278,8 +118278,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "小鳥遊さん",
 					"noteCounts": {
 						"tap": 592,
@@ -118401,8 +118401,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": 337,
@@ -118896,7 +118896,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
@@ -119388,7 +119388,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "小鳥遊さん",
 					"noteCounts": {
@@ -119634,8 +119634,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 477,
@@ -122367,8 +122367,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.7",
-					"internalLevelValue": 12.7,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 727,
@@ -123009,8 +123009,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 633,
@@ -123255,8 +123255,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 581,
@@ -123720,8 +123720,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": 574,
@@ -123843,7 +123843,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
@@ -123993,8 +123993,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 483,
@@ -124020,8 +124020,8 @@
 					"difficulty": "remaster",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.7",
-					"internalLevelValue": 12.7,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 498,
@@ -124485,7 +124485,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
@@ -124895,8 +124895,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.7",
-					"internalLevelValue": 12.7,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 289,
@@ -125020,8 +125020,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 528,
@@ -126477,8 +126477,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "小鳥遊さん",
 					"noteCounts": {
 						"tap": 581,
@@ -127365,8 +127365,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 530,
@@ -127488,8 +127488,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "小鳥遊さん",
 					"noteCounts": {
 						"tap": 509,
@@ -127857,8 +127857,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "アミノハバキリ",
 					"noteCounts": {
 						"tap": 499,
@@ -128076,8 +128076,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": 214,
@@ -129483,8 +129483,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 605,
@@ -129729,8 +129729,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
 						"tap": 452,
@@ -130563,8 +130563,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "ぴちネコ",
 					"noteCounts": {
 						"tap": 300,
@@ -131697,7 +131697,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
@@ -131943,8 +131943,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "ぴちネコ",
 					"noteCounts": {
 						"tap": 374,
@@ -132093,8 +132093,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 354,
@@ -132216,8 +132216,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 437,
@@ -133104,8 +133104,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 604,
@@ -133473,7 +133473,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
@@ -135326,8 +135326,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": 635,
@@ -135575,7 +135575,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
@@ -135944,8 +135944,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 514,
@@ -137023,8 +137023,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": "12.2",
-					"internalLevelValue": 12.2,
+					"internalLevel": "12.1",
+					"internalLevelValue": 12.1,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
 						"tap": 276,
@@ -138644,7 +138644,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
@@ -138767,7 +138767,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
@@ -139859,7 +139859,7 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "シチミヘルツ",
 					"noteCounts": {
@@ -142445,8 +142445,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": "12.7",
-					"internalLevelValue": 12.7,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 455,
@@ -146140,8 +146140,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": "12.0",
-					"internalLevelValue": 12,
+					"internalLevel": "12.1",
+					"internalLevelValue": 12.1,
 					"noteDesigner": "翠楼屋",
 					"noteCounts": {
 						"tap": 362,
@@ -152633,8 +152633,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": "12.0",
-					"internalLevelValue": 12,
+					"internalLevel": "12.1",
+					"internalLevelValue": 12.1,
 					"noteDesigner": "翠楼屋",
 					"noteCounts": {
 						"tap": 464,
@@ -164719,8 +164719,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": "12.7",
-					"internalLevelValue": 12.7,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 374,
@@ -166318,8 +166318,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 197,
@@ -167302,8 +167302,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "カマボコ君",
 					"noteCounts": {
 						"tap": 501,
@@ -169270,8 +169270,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": "11.8",
-					"internalLevelValue": 11.8,
+					"internalLevel": "12.1",
+					"internalLevelValue": 12.1,
 					"noteDesigner": "緑風 犬三郎",
 					"noteCounts": {
 						"tap": 441,
@@ -170335,8 +170335,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "アマリリス",
 					"noteCounts": {
 						"tap": 488,
@@ -174960,8 +174960,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 345,
@@ -177721,8 +177721,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "13.1",
-					"internalLevelValue": 13.1,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 496,
@@ -182766,8 +182766,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "Jack&アマリリス",
 					"noteCounts": {
 						"tap": 442,
@@ -185720,8 +185720,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 552,
@@ -197983,7 +197983,7 @@
 			"imageName": "6667be743d76cf7f44b3d64920b6463b8f8af15f4a8c81a02cf2bce29b163711.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-28",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -198106,7 +198106,7 @@
 			"imageName": "acd6fac4b9d6cfd302cd300492403c202fbf153208638ba115c4eb9731702dc3.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-28",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -198146,7 +198146,7 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": 257,
+						"tap": 267,
 						"hold": 17,
 						"slide": 16,
 						"touch": 26,
@@ -198217,6 +198217,293 @@
 					},
 					"isSpecial": false,
 					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "マヌルネコのうた",
+			"category": "POPS＆アニメ",
+			"title": "マヌルネコのうた",
+			"artist": "小田朋美",
+			"bpm": null,
+			"imageName": "4a96546c17849f78191f5179a1457e741458d9efc83a5fbb0094fdfb1a71abb3.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-04-01",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "スナネコのうた",
+			"category": "POPS＆アニメ",
+			"title": "スナネコのうた",
+			"artist": "ぷにぷに電機",
+			"bpm": null,
+			"imageName": "a8db886143caf646c97ebc13b1c8ed88202e0e8aa61035cdf955ebc115553e6b.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-04-01",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "[幸]犬日和。(はっぴー歌唱Ver)",
+			"category": "宴会場",
+			"title": "[幸]犬日和。(はっぴー歌唱Ver)",
+			"artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
+			"bpm": null,
+			"imageName": "e089d171e667a0c8f8f45a256278ed5c350694d6613ecda6fc50c82637c356f7.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-04-01",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "HOLDだけでがんばろうとした。",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【幸】",
+					"level": "13?",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		}
@@ -198408,5 +198695,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-03-28T11:33:27.186Z"
+	"updateTime": "2025-04-01T01:13:07.693Z"
 }
