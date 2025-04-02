@@ -29530,8 +29530,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "maimai TEAM",
 					"noteCounts": {
 						"tap": 357,
@@ -32817,8 +32817,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 228,
@@ -35673,8 +35673,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 316,
@@ -38820,8 +38820,8 @@
 					"difficulty": "remaster",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
 						"tap": 527,
@@ -43761,8 +43761,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "譜面-100号",
 					"noteCounts": {
 						"tap": 383,
@@ -110475,7 +110475,7 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
+					"internalLevel": "12.0",
 					"internalLevelValue": 12,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
@@ -128595,8 +128595,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 540,
@@ -131232,8 +131232,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
 					"noteDesigner": "はっぴー respects for 某S氏",
 					"noteCounts": {
 						"tap": 544,
@@ -140501,8 +140501,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "アマリリス",
 					"noteCounts": {
 						"tap": 393,
@@ -198225,7 +198225,7 @@
 			"category": "POPS＆アニメ",
 			"title": "マヌルネコのうた",
 			"artist": "小田朋美",
-			"bpm": null,
+			"bpm": 137,
 			"imageName": "4a96546c17849f78191f5179a1457e741458d9efc83a5fbb0094fdfb1a71abb3.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-01",
@@ -198240,7 +198240,7 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -198267,7 +198267,7 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -198321,7 +198321,7 @@
 					"levelValue": 13,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -198348,7 +198348,7 @@
 			"category": "POPS＆アニメ",
 			"title": "スナネコのうた",
 			"artist": "ぷにぷに電機",
-			"bpm": null,
+			"bpm": 92,
 			"imageName": "a8db886143caf646c97ebc13b1c8ed88202e0e8aa61035cdf955ebc115553e6b.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-01",
@@ -198363,14 +198363,14 @@
 					"levelValue": 2,
 					"internalLevel": null,
 					"internalLevelValue": 2,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 98,
+						"hold": 2,
+						"slide": 4,
+						"touch": 8,
+						"break": 5,
+						"total": 117
 					},
 					"regions": {
 						"jp": true,
@@ -198390,7 +198390,7 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -198424,7 +198424,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 261
 					},
 					"regions": {
 						"jp": true,
@@ -198444,14 +198444,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.4",
 					"internalLevelValue": 13.4,
-					"noteDesigner": null,
+					"noteDesigner": "ぴちネコ",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 280,
+						"hold": 34,
+						"slide": 58,
+						"touch": 118,
+						"break": 76,
+						"total": 566
 					},
 					"regions": {
 						"jp": true,
@@ -198695,5 +198695,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-04-01T01:13:07.693Z"
+	"updateTime": "2025-04-02T18:08:24.237Z"
 }
