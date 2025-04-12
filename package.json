@@ -5,7 +5,9 @@
   "main": "src/index.ts",
   "scripts": {
     "build": "tsc",
-    "format": "prettier --write src/**/*.{ts,tsx}"
+    "watch": "tsc --watch",
+    "format": "prettier --write src/**/*.{ts,tsx}",
+    "serve": "npx serve -C -l 8081 external"
   },
   "dependencies": {},
   "devDependencies": {

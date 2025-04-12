@@ -13,7 +13,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository content
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Configure Git
@@ -23,10 +23,21 @@ jobs:
           git fetch origin
           git checkout gh-pages
 
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: package.json
+
+      - name: Build
+        run: |
+          npm install
+          npm run build
+
       - name: Fetch file
         run: |
           mkdir -p external
           curl https://dp4p6x0xfi5o9.cloudfront.net/maimai/data.json -o external/arcade-songs-maimai.json
+          node build/index.js external/arcade-songs-maimai.json external/magic.json
 
       - name: Push changes
         run: |
