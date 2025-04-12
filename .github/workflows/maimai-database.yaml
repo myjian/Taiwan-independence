@@ -23,7 +23,7 @@ jobs:
           git fetch origin
           git checkout gh-pages
 
-      - name: Setup node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version-file: package.json
@@ -33,7 +33,7 @@ jobs:
           npm install
           npm run build
 
-      - name: Fetch file
+      - name: Fetch and parse file
         run: |
           mkdir -p external
           curl https://dp4p6x0xfi5o9.cloudfront.net/maimai/data.json -o external/arcade-songs-maimai.json
