@@ -1,20 +1,33 @@
 import fs from 'fs/promises';
 
 import {parseArcadeSongsResponse} from './arcade-songs';
+import {parseOtogeDbData} from './otoge-db';
 
-if (process.argv.length !== 4) {
+if (process.argv.length !== 6) {
   console.error(
-    `Usage: node ${process.argv[1]} <arcade-songs-file> <output-file>`
+    `Usage: node ${process.argv[1]} <arcade-songs-file> <otoge-db> <otoge-db-intl> <output-file>`
   );
   process.exit(1);
 }
 
 const inputFilePath = process.argv[2];
-const outputFilePath = process.argv[3];
+const otogeDbFilePath = process.argv[3];
+const otogeDbIntlFilePath = process.argv[4];
+const outputFilePath = process.argv[5];
 
 fs.readFile(inputFilePath, {encoding: 'utf-8'})
-  .then(fileContent => {
-    const songs = parseArcadeSongsResponse(fileContent);
+  .then(async fileContent => {
+    const jpOverride = parseOtogeDbData(
+      await fs.readFile(otogeDbFilePath, {encoding: 'utf-8'})
+    );
+    const intlOverride = parseOtogeDbData(
+      await fs.readFile(otogeDbIntlFilePath, {encoding: 'utf-8'})
+    );
+    const songs = parseArcadeSongsResponse(
+      fileContent,
+      jpOverride,
+      intlOverride
+    );
     const outputText =
       '[\n  ' + songs.map(song => JSON.stringify(song)).join(',\n  ') + '\n]';
     return fs.writeFile(outputFilePath, outputText, 'utf-8');

@@ -37,7 +37,9 @@ jobs:
         run: |
           mkdir -p external
           curl https://dp4p6x0xfi5o9.cloudfront.net/maimai/data.json -o external/arcade-songs-maimai.json
-          node build/index.js external/arcade-songs-maimai.json external/magic.json
+          curl https://raw.githubusercontent.com/zvuc/otoge-db/refs/heads/master/maimai/data/music-ex.json -o external/otoge-db.json
+          curl https://raw.githubusercontent.com/zvuc/otoge-db/refs/heads/master/maimai/data/music-ex-intl.json -o external/otoge-db-intl.json
+          node build/index.js external/arcade-songs-maimai.json external/otoge-db.json external/otoge-db-intl.json external/magic.json
 
       - name: Push changes
         run: |

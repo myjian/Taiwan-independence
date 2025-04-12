@@ -3,5 +3,8 @@
   "prettier.requireConfig": true,
   "prettier.singleQuote": true,
   "prettier.tabWidth": 2,
-  "prettier.trailingComma": "es5"
+  "prettier.trailingComma": "es5",
+  "[json]": {
+    "editor.tabSize": 2
+  }
 }
