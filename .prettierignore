@@ -1,0 +1,17 @@
+# Ignore all files in the node_modules directory
+node_modules/
+
+# Ignore all build output
+build/
+
+# Ignore specific files
+*.log
+*.tmp
+
+# Ignore configuration files
+*.config.js
+*.config.ts
+
+# Ignore any other files or directories you want Prettier to skip
+*.min.js
+*.min.css
