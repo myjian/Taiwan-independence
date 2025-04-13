@@ -7548,9 +7548,9 @@
 			]
 		},
 		{
-			"songId": "Choo Choo Train",
+			"songId": "Choo Choo TRAIN",
 			"category": "POPS＆アニメ",
-			"title": "Choo Choo Train",
+			"title": "Choo Choo TRAIN",
 			"artist": "EXILE［PV］",
 			"bpm": 115,
 			"imageName": "afc15c0732441c1b0903777a157db2698b32914a43b9a69f5f3496b1caf93e90.png",
@@ -27542,12 +27542,12 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 97,
+						"hold": 11,
+						"slide": 6,
+						"touch": 4,
+						"break": 8,
+						"total": 126
 					},
 					"regions": {
 						"jp": true,
@@ -27569,12 +27569,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 162,
+						"hold": 12,
+						"slide": 6,
+						"touch": 28,
+						"break": 10,
+						"total": 218
 					},
 					"regions": {
 						"jp": true,
@@ -27596,12 +27596,12 @@
 					"internalLevelValue": 9,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 216,
+						"hold": 38,
+						"slide": 14,
+						"touch": 21,
+						"break": 30,
+						"total": 319
 					},
 					"regions": {
 						"jp": true,
@@ -27621,14 +27621,14 @@
 					"levelValue": 13.6,
 					"internalLevel": null,
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 417,
+						"hold": 8,
+						"slide": 91,
+						"touch": 41,
+						"break": 74,
+						"total": 631
 					},
 					"regions": {
 						"jp": true,
@@ -192903,11 +192903,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -192929,11 +192931,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -192955,11 +192959,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				},
@@ -192981,11 +192987,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM"
+						}
 					},
 					"isSpecial": false
 				}
@@ -198350,12 +198358,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 116,
+						"hold": 8,
+						"slide": 6,
+						"touch": 9,
+						"break": 5,
+						"total": 144
 					},
 					"regions": {
 						"jp": true,
@@ -198377,12 +198385,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 190,
+						"hold": 14,
+						"slide": 7,
+						"touch": 28,
+						"break": 5,
+						"total": 244
 					},
 					"regions": {
 						"jp": true,
@@ -198402,14 +198410,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 258,
+						"hold": 54,
+						"slide": 33,
+						"touch": 32,
+						"break": 21,
+						"total": 398
 					},
 					"regions": {
 						"jp": true,
@@ -198431,12 +198439,12 @@
 					"internalLevelValue": 13,
 					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 322,
+						"hold": 8,
+						"slide": 153,
+						"touch": 5,
+						"break": 15,
+						"total": 503
 					},
 					"regions": {
 						"jp": true,
@@ -198500,12 +198508,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 159,
+						"hold": 12,
+						"slide": 4,
+						"touch": 13,
+						"break": 4,
+						"total": 192
 					},
 					"regions": {
 						"jp": true,
@@ -198525,13 +198533,13 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 176,
+						"hold": 38,
+						"slide": 16,
+						"touch": 17,
+						"break": 14,
 						"total": 261
 					},
 					"regions": {
@@ -199291,5 +199299,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-04-11T01:27:07.275Z"
+	"updateTime": "2025-04-13T02:37:12.194Z"
 }
