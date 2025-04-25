@@ -199116,7 +199116,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "あいたい星人",
 			"artist": "DECO*27",
-			"bpm": null,
+			"bpm": 150,
 			"imageName": "51b35a04bba98253edc7c63bc26a996196b871384f2f7eb58fbcdb0a0e3930d1.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-24",
@@ -199131,14 +199131,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 175,
+						"hold": 11,
+						"slide": 4,
+						"touch": 8,
+						"break": 9,
+						"total": 207
 					},
 					"regions": {
 						"jp": true,
@@ -199158,14 +199158,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 284,
+						"hold": 18,
+						"slide": 13,
+						"touch": 11,
+						"break": 4,
+						"total": 330
 					},
 					"regions": {
 						"jp": true,
@@ -199187,12 +199187,12 @@
 					"internalLevelValue": 9.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 379,
+						"hold": 76,
+						"slide": 50,
+						"touch": 17,
+						"break": 7,
+						"total": 529
 					},
 					"regions": {
 						"jp": true,
@@ -199212,14 +199212,14 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 519,
+						"hold": 62,
+						"slide": 103,
+						"touch": 11,
+						"break": 57,
+						"total": 752
 					},
 					"regions": {
 						"jp": true,
@@ -199239,7 +199239,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "ハオ",
 			"artist": "DECO*27",
-			"bpm": null,
+			"bpm": 176,
 			"imageName": "db93e27724efbe5df1a8fc3e8d5035c9a7e2815d21af7869e476742ec7c90822.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-24",
@@ -199254,14 +199254,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 155,
+						"hold": 11,
+						"slide": 4,
+						"touch": 7,
+						"break": 13,
+						"total": 190
 					},
 					"regions": {
 						"jp": true,
@@ -199281,14 +199281,14 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 288,
+						"hold": 14,
+						"slide": 7,
+						"touch": 27,
+						"break": 8,
+						"total": 344
 					},
 					"regions": {
 						"jp": true,
@@ -199310,12 +199310,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 392,
+						"hold": 27,
+						"slide": 21,
+						"touch": 24,
+						"break": 38,
+						"total": 502
 					},
 					"regions": {
 						"jp": true,
@@ -199335,14 +199335,14 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 442,
+						"hold": 28,
+						"slide": 136,
+						"touch": 76,
+						"break": 70,
+						"total": 752
 					},
 					"regions": {
 						"jp": true,
@@ -199545,5 +199545,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-04-25T01:31:34.571Z"
+	"updateTime": "2025-04-25T10:57:22.387Z"
 }
