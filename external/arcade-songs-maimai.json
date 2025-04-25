@@ -27529,7 +27529,7 @@
 			"imageName": "4de607204098ec4d30eee2651ea5a0e6b470fcd3553c582cc0d9b6dbbff3e8e8.png",
 			"version": "maimai",
 			"releaseDate": "2012-07-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -190591,7 +190591,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190618,7 +190618,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190645,7 +190645,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190672,7 +190672,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190699,7 +190699,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190741,7 +190741,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190768,7 +190768,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190795,7 +190795,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190822,7 +190822,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190849,7 +190849,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190891,7 +190891,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190918,7 +190918,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190945,7 +190945,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -190972,7 +190972,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191014,7 +191014,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191041,7 +191041,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191068,7 +191068,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -191095,7 +191095,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194403,7 +194403,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2025-02-07",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -194526,7 +194526,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2025-02-07",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -194977,7 +194977,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2025-02-14",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -198632,7 +198632,7 @@
 			"imageName": "d4f9ada0ddcb184121765cb9c9161b7ab8cf6dffdbb2189029b71b1a94dcccaa.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -198751,7 +198751,7 @@
 			"imageName": "f9028397884cc704fe579bc97a801560dfabc6d39177e3bab2e4a71f274c2435.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -198874,7 +198874,7 @@
 			"imageName": "35f7753bd0fd0f35e5209f4f7cd6e4aece12473f33001419fb894f1aee69c62b.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -198997,7 +198997,7 @@
 			"imageName": "da7fc29cf52c4f6b70cba978ed232d1710a0b578050036158b5626cdd1df6b88.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -199097,6 +199097,252 @@
 						"touch": 7,
 						"break": 46,
 						"total": 705
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "あいたい星人",
+			"category": "niconico＆ボーカロイド",
+			"title": "あいたい星人",
+			"artist": "DECO*27",
+			"bpm": null,
+			"imageName": "51b35a04bba98253edc7c63bc26a996196b871384f2f7eb58fbcdb0a0e3930d1.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-04-24",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "ハオ",
+			"category": "niconico＆ボーカロイド",
+			"title": "ハオ",
+			"artist": "DECO*27",
+			"bpm": null,
+			"imageName": "db93e27724efbe5df1a8fc3e8d5035c9a7e2815d21af7869e476742ec7c90822.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-04-24",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
 					},
 					"regions": {
 						"jp": true,
@@ -199299,5 +199545,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-04-18T12:06:54.219Z"
+	"updateTime": "2025-04-25T01:31:34.571Z"
 }
