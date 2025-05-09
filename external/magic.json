@@ -1548,5 +1548,9 @@
   {"debut":24,"genre":"ゲーム＆バラエティ","name":"Overjoy ★ OVERDOSE!!","dx":1,"lv":[-4,7.8,11,14.1],"ico":"b2c3bad6c7f6d2c7"},
   {"debut":24,"genre":"ゲーム＆バラエティ","name":"DATAERR0R","dx":1,"lv":[-5,8,11.7,14],"ico":"e3da5b1f49b33f3b"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"あいたい星人","dx":1,"lv":[-3,6.2,9.7,13.2],"ico":"1bc129c66ee45843"},
-  {"debut":24,"genre":"niconico＆ボーカロイド","name":"ハオ","dx":1,"lv":[-3,7,10,13.2],"ico":"97298d8f5ff9e33c"}
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"ハオ","dx":1,"lv":[-3,7,10,13.2],"ico":"97298d8f5ff9e33c"},
+  {"debut":24,"genre":"maimai","name":"概して過誤","dx":1,"lv":[-4,-7.6,-10.6,-13.6],"ico":"1a43fdb9edd49c1d"},
+  {"debut":24,"genre":"maimai","name":"Unfinished Epic","dx":1,"lv":[-5,-8.6,-11,-13.6],"ico":"6c00472275eba77d"},
+  {"debut":24,"genre":"maimai","name":"忙シー日","dx":1,"lv":[-3,-7.6,-11.6,-14],"ico":"e27b4a41495e33d3"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"好きな惣菜発表ドラゴン","dx":1,"lv":[-3,-6,-9,-12],"ico":"f5f0c148fc18e746"}
 ]
