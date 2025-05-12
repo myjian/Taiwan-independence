@@ -27619,8 +27619,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 417,
@@ -198041,8 +198041,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 471,
@@ -198693,7 +198693,7 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
+					"internalLevel": "12.6",
 					"internalLevelValue": 12.6,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
@@ -198719,8 +198719,8 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
+					"internalLevel": "14.7",
+					"internalLevelValue": 14.7,
 					"noteDesigner": "BELiZHEL",
 					"noteCounts": {
 						"tap": 763,
@@ -198841,8 +198841,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 666,
@@ -198964,8 +198964,8 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
+					"internalLevel": "14.1",
+					"internalLevelValue": 14.1,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 827,
@@ -199087,7 +199087,7 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
+					"internalLevel": "14.0",
 					"internalLevelValue": 14,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
@@ -199120,7 +199120,7 @@
 			"imageName": "51b35a04bba98253edc7c63bc26a996196b871384f2f7eb58fbcdb0a0e3930d1.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-24",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -199210,8 +199210,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
 						"tap": 519,
@@ -199243,7 +199243,7 @@
 			"imageName": "db93e27724efbe5df1a8fc3e8d5035c9a7e2815d21af7869e476742ec7c90822.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-24",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -199333,8 +199333,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 442,
@@ -199362,7 +199362,7 @@
 			"category": "maimai",
 			"title": "概して過誤",
 			"artist": "isonosuke feat.知声",
-			"bpm": null,
+			"bpm": 170,
 			"imageName": "91021b395a15c6d44001bca38135cfdbb49f0eac568c642a2fe819e1942f23d1.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
@@ -199379,12 +199379,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 181,
+						"hold": 13,
+						"slide": 5,
+						"touch": 17,
+						"break": 8,
+						"total": 224
 					},
 					"regions": {
 						"jp": true,
@@ -199406,12 +199406,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 306,
+						"hold": 16,
+						"slide": 14,
+						"touch": 29,
+						"break": 6,
+						"total": 371
 					},
 					"regions": {
 						"jp": true,
@@ -199433,12 +199433,12 @@
 					"internalLevelValue": 10.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 318,
+						"hold": 69,
+						"slide": 43,
+						"touch": 18,
+						"break": 56,
+						"total": 504
 					},
 					"regions": {
 						"jp": true,
@@ -199456,16 +199456,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 608,
+						"hold": 52,
+						"slide": 78,
+						"touch": 19,
+						"break": 43,
+						"total": 800
 					},
 					"regions": {
 						"jp": true,
@@ -199485,7 +199485,7 @@
 			"category": "maimai",
 			"title": "Unfinished Epic",
 			"artist": "SLAVE.V-V-R feat.Sor△",
-			"bpm": null,
+			"bpm": 185,
 			"imageName": "4bc8243a82de1100a3bd2dc1a077d0735a084fbd9c9ea6ef9f064ca788fdcfaa.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
@@ -199502,12 +199502,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 247,
+						"hold": 11,
+						"slide": 4,
+						"touch": 8,
+						"break": 8,
+						"total": 278
 					},
 					"regions": {
 						"jp": true,
@@ -199529,12 +199529,12 @@
 					"internalLevelValue": 8.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 405,
+						"hold": 14,
+						"slide": 12,
+						"touch": 20,
+						"break": 6,
+						"total": 457
 					},
 					"regions": {
 						"jp": true,
@@ -199556,12 +199556,12 @@
 					"internalLevelValue": 11,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 427,
+						"hold": 63,
+						"slide": 77,
+						"touch": 38,
+						"break": 50,
+						"total": 655
 					},
 					"regions": {
 						"jp": true,
@@ -199579,16 +199579,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 584,
+						"hold": 46,
+						"slide": 126,
+						"touch": 71,
+						"break": 76,
+						"total": 903
 					},
 					"regions": {
 						"jp": true,
@@ -199608,7 +199608,7 @@
 			"category": "maimai",
 			"title": "忙シー日",
 			"artist": "原口沙輔, 式部めぐり",
-			"bpm": null,
+			"bpm": 150,
 			"imageName": "2b0ebffa60a03d90bbde07e2b580ce23597b5ec4ff8eafb168936f4cf195a00b.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
@@ -199625,12 +199625,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 139,
+						"hold": 12,
+						"slide": 7,
+						"touch": 8,
+						"break": 28,
+						"total": 194
 					},
 					"regions": {
 						"jp": true,
@@ -199652,12 +199652,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 298,
+						"hold": 16,
+						"slide": 14,
+						"touch": 26,
+						"break": 2,
+						"total": 356
 					},
 					"regions": {
 						"jp": true,
@@ -199679,12 +199679,12 @@
 					"internalLevelValue": 11.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 280,
+						"hold": 112,
+						"slide": 47,
+						"touch": 13,
+						"break": 77,
+						"total": 529
 					},
 					"regions": {
 						"jp": true,
@@ -199702,16 +199702,16 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"internalLevel": "14.2",
+					"internalLevelValue": 14.2,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 683,
+						"hold": 36,
+						"slide": 140,
+						"touch": 49,
+						"break": 54,
+						"total": 962
 					},
 					"regions": {
 						"jp": true,
@@ -199731,7 +199731,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "好きな惣菜発表ドラゴン",
 			"artist": "ンバヂ",
-			"bpm": null,
+			"bpm": 160,
 			"imageName": "83dd218ce1138c8276764ece2a6353c55d6fb1e1542893a2c396d5df260022ed.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
@@ -199748,12 +199748,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 131,
+						"hold": 11,
+						"slide": 6,
+						"touch": 6,
+						"break": 10,
+						"total": 164
 					},
 					"regions": {
 						"jp": true,
@@ -199775,12 +199775,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 247,
+						"hold": 12,
+						"slide": 9,
+						"touch": 28,
+						"break": 6,
+						"total": 302
 					},
 					"regions": {
 						"jp": true,
@@ -199800,14 +199800,14 @@
 					"levelValue": 9,
 					"internalLevel": null,
 					"internalLevelValue": 9,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 250,
+						"hold": 39,
+						"slide": 22,
+						"touch": 0,
+						"break": 43,
+						"total": 354
 					},
 					"regions": {
 						"jp": true,
@@ -199825,16 +199825,16 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 294,
+						"hold": 63,
+						"slide": 55,
+						"touch": 28,
+						"break": 50,
+						"total": 490
 					},
 					"regions": {
 						"jp": true,
@@ -200094,6 +200094,125 @@
 					"isSpecial": true
 				}
 			]
+		},
+		{
+			"songId": "FLΛME/FRΦST",
+			"category": "maimai",
+			"title": "FLΛME/FRΦST",
+			"artist": "FANTAGIRAFF",
+			"bpm": 174,
+			"imageName": "b60816b3e4323a60d1651dfb31e7b4ac58781c6526abb1341b9039462858e009.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-05-09",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": "SΛFΛRI/RΦCHER",
+					"noteCounts": {
+						"tap": 687,
+						"hold": 46,
+						"slide": 73,
+						"touch": 118,
+						"break": 122,
+						"total": 1046
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				}
+			]
 		}
 	],
 	"categories": [
@@ -200283,5 +200402,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-05-09T01:14:16.893Z"
+	"updateTime": "2025-05-12T03:54:05.070Z"
 }
