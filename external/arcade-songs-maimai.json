@@ -199677,7 +199677,7 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 280,
 						"hold": 112,
@@ -200117,12 +200117,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 203,
+						"hold": 12,
+						"slide": 6,
+						"touch": 8,
+						"break": 14,
+						"total": 243
 					},
 					"regions": {
 						"jp": true,
@@ -200143,12 +200143,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 297,
+						"hold": 20,
+						"slide": 10,
+						"touch": 28,
+						"break": 3,
+						"total": 358
 					},
 					"regions": {
 						"jp": true,
@@ -200165,16 +200165,16 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
-					"noteDesigner": null,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 424,
+						"hold": 31,
+						"slide": 63,
+						"touch": 19,
+						"break": 62,
+						"total": 599
 					},
 					"regions": {
 						"jp": true,
@@ -200191,8 +200191,8 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
+					"internalLevel": "14.8",
+					"internalLevelValue": 14.8,
 					"noteDesigner": "SΛFΛRI/RΦCHER",
 					"noteCounts": {
 						"tap": 687,
@@ -200402,5 +200402,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-05-12T03:54:05.070Z"
+	"updateTime": "2025-05-16T01:16:06.864Z"
 }
