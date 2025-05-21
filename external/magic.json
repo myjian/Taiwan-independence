@@ -1553,5 +1553,8 @@
   {"debut":24,"genre":"maimai","name":"Unfinished Epic","dx":1,"lv":[-5,8.7,11.5,13.8],"ico":"6c00472275eba77d"},
   {"debut":24,"genre":"maimai","name":"忙シー日","dx":1,"lv":[-3,7.9,11.8,14.2],"ico":"e27b4a41495e33d3"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"好きな惣菜発表ドラゴン","dx":1,"lv":[-3,6.5,9.5,12.5],"ico":"f5f0c148fc18e746"},
-  {"debut":24,"genre":"maimai","name":"FLΛME/FRΦST","dx":1,"lv":[-5,8,12.9,14.8],"ico":"cd7dc8b9ec80cf06"}
+  {"debut":24,"genre":"maimai","name":"FLΛME/FRΦST","dx":1,"lv":[-5,8,12.9,14.8],"ico":"cd7dc8b9ec80cf06"},
+  {"debut":24,"genre":"東方Project","name":"Help me, ERINNNNNN!!","dx":1,"lv":[-4,7.8,10.7,13.3],"ico":"4911d20e27cad7a0"},
+  {"debut":24,"genre":"東方Project","name":"超最終鬼畜妹フランドール・S","dx":1,"lv":[-5,8.2,12.6,13.9],"ico":"6cf3e3f842e52194"},
+  {"debut":24,"genre":"ゲーム＆バラエティ","name":"Destined Marionette","dx":1,"lv":[-4,8.2,12.5,14.2],"ico":"7fa4a3f8246030ce"}
 ]

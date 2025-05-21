@@ -196342,7 +196342,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -199366,7 +199366,7 @@
 			"imageName": "91021b395a15c6d44001bca38135cfdbb49f0eac568c642a2fe819e1942f23d1.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -199489,7 +199489,7 @@
 			"imageName": "4bc8243a82de1100a3bd2dc1a077d0735a084fbd9c9ea6ef9f064ca788fdcfaa.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -199612,7 +199612,7 @@
 			"imageName": "2b0ebffa60a03d90bbde07e2b580ce23597b5ec4ff8eafb168936f4cf195a00b.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -199735,7 +199735,7 @@
 			"imageName": "83dd218ce1138c8276764ece2a6353c55d6fb1e1542893a2c396d5df260022ed.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -200104,7 +200104,7 @@
 			"imageName": "b60816b3e4323a60d1651dfb31e7b4ac58781c6526abb1341b9039462858e009.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -200211,6 +200211,416 @@
 						"intl": {}
 					},
 					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Help me, ERINNNNNN!!",
+			"category": "東方Project",
+			"title": "Help me, ERINNNNNN!!",
+			"artist": "ビートまりお",
+			"bpm": 185,
+			"imageName": "a3f1074023bf576cbf63d6436f0e31291371508816d06580ddfce96bbff92726.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-05-21",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 190,
+						"hold": 11,
+						"slide": 6,
+						"touch": 6,
+						"break": 7,
+						"total": 220
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 297,
+						"hold": 12,
+						"slide": 8,
+						"touch": 42,
+						"break": 2,
+						"total": 361
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 471,
+						"hold": 48,
+						"slide": 41,
+						"touch": 8,
+						"break": 13,
+						"total": 581
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
+					"noteDesigner": "鳩ホルダー",
+					"noteCounts": {
+						"tap": 619,
+						"hold": 48,
+						"slide": 62,
+						"touch": 100,
+						"break": 85,
+						"total": 914
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "超最終鬼畜妹フランドール・S",
+			"category": "東方Project",
+			"title": "超最終鬼畜妹フランドール・S",
+			"artist": "ビートまりお×まろん",
+			"bpm": 210,
+			"imageName": "61baff18a353052253ee138f667c83e4072e8baff78980b51483c7dc87d21666.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-05-21",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 197,
+						"hold": 11,
+						"slide": 4,
+						"touch": 12,
+						"break": 13,
+						"total": 237
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 331,
+						"hold": 14,
+						"slide": 11,
+						"touch": 26,
+						"break": 2,
+						"total": 384
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.6",
+					"internalLevelValue": 12.6,
+					"noteDesigner": "鳩ホルダー",
+					"noteCounts": {
+						"tap": 394,
+						"hold": 76,
+						"slide": 60,
+						"touch": 56,
+						"break": 46,
+						"total": 632
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 584,
+						"hold": 53,
+						"slide": 88,
+						"touch": 51,
+						"break": 64,
+						"total": 840
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Destined Marionette",
+			"category": "ゲーム＆バラエティ",
+			"title": "Destined Marionette",
+			"artist": "ビートまりお",
+			"bpm": 186,
+			"imageName": "ac5252d5b23964f6ff0cc99edddb29c4951c4fe52ed5d135acc9e1c73e83d428.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-05-21",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 190,
+						"hold": 18,
+						"slide": 3,
+						"touch": 8,
+						"break": 9,
+						"total": 228
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 379,
+						"hold": 20,
+						"slide": 5,
+						"touch": 28,
+						"break": 5,
+						"total": 437
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 473,
+						"hold": 41,
+						"slide": 51,
+						"touch": 17,
+						"break": 40,
+						"total": 622
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.2",
+					"internalLevelValue": 14.2,
+					"noteDesigner": "ぴちネコ",
+					"noteCounts": {
+						"tap": 660,
+						"hold": 81,
+						"slide": 111,
+						"touch": 50,
+						"break": 121,
+						"total": 1023
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "[協]Ultimate taste",
+			"category": "宴会場",
+			"title": "[協]Ultimate taste",
+			"artist": "ぱらどっと",
+			"bpm": null,
+			"imageName": "6234a6b63bdc987c38d87f9a99821fc1dc95e33d9ac5c1baa5fc4673f7803636.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-05-21",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】みんなでFull Flavor!",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【協】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		}
@@ -200402,5 +200812,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-05-16T01:16:06.864Z"
+	"updateTime": "2025-05-21T09:51:06.411Z"
 }
