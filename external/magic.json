@@ -1556,5 +1556,6 @@
   {"debut":24,"genre":"maimai","name":"FLΛME/FRΦST","dx":1,"lv":[5,8,12.9,14.8],"ico":"cd7dc8b9ec80cf06"},
   {"debut":24,"genre":"東方Project","name":"Help me, ERINNNNNN!!","dx":1,"lv":[4,7.8,10.7,13.3],"ico":"4911d20e27cad7a0"},
   {"debut":24,"genre":"東方Project","name":"超最終鬼畜妹フランドール・S","dx":1,"lv":[5,8.2,12.6,13.9],"ico":"6cf3e3f842e52194"},
-  {"debut":24,"genre":"ゲーム＆バラエティ","name":"Destined Marionette","dx":1,"lv":[4,8.2,12.5,14.2],"ico":"7fa4a3f8246030ce"}
+  {"debut":24,"genre":"ゲーム＆バラエティ","name":"Destined Marionette","dx":1,"lv":[4,8.2,12.5,14.2],"ico":"7fa4a3f8246030ce"},
+  {"debut":24,"genre":"ゲーム＆バラエティ","name":"MYTH Re：LEASE","dx":1,"lv":[-6,-8,12.9,14.5],"ico":"bf9cd35017832f93"}
 ]

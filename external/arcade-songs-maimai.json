@@ -200231,7 +200231,7 @@
 			"imageName": "a3f1074023bf576cbf63d6436f0e31291371508816d06580ddfce96bbff92726.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-21",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -200354,7 +200354,7 @@
 			"imageName": "61baff18a353052253ee138f667c83e4072e8baff78980b51483c7dc87d21666.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-21",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -200477,7 +200477,7 @@
 			"imageName": "ac5252d5b23964f6ff0cc99edddb29c4951c4fe52ed5d135acc9e1c73e83d428.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-21",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -200629,6 +200629,129 @@
 						"intl": {}
 					},
 					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "MYTH Re：LEASE",
+			"category": "ゲーム＆バラエティ",
+			"title": "MYTH Re：LEASE",
+			"artist": "打打だいず Vs. Tanchiky Vs. uma Vs. モリモリあつし",
+			"bpm": 202,
+			"imageName": "c472a0d48e94478e9c1b1ca5b4a98a99d1a400fa8780fe463c7961b1310971f2.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-05-30",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.5",
+					"internalLevelValue": 14.5,
+					"noteDesigner": "サファ太 Vs. Safari Vs. Saf Vs. モリモリさふぁた",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		}
@@ -200820,5 +200943,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-05-26T16:12:55.100Z"
+	"updateTime": "2025-05-30T05:13:21.963Z"
 }
