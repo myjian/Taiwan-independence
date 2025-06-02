@@ -199439,7 +199439,7 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 318,
 						"hold": 69,
@@ -199562,7 +199562,7 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 427,
 						"hold": 63,
@@ -200654,12 +200654,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 221,
+						"hold": 25,
+						"slide": 8,
+						"touch": 12,
+						"break": 9,
+						"total": 275
 					},
 					"regions": {
 						"jp": true,
@@ -200681,12 +200681,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 337,
+						"hold": 27,
+						"slide": 10,
+						"touch": 45,
+						"break": 2,
+						"total": 421
 					},
 					"regions": {
 						"jp": true,
@@ -200708,12 +200708,12 @@
 					"internalLevelValue": 12.9,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 553,
+						"hold": 45,
+						"slide": 61,
+						"touch": 25,
+						"break": 78,
+						"total": 762
 					},
 					"regions": {
 						"jp": true,
@@ -200735,12 +200735,12 @@
 					"internalLevelValue": 14.5,
 					"noteDesigner": "サファ太 Vs. Safari Vs. Saf Vs. モリモリさふぁた",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 627,
+						"hold": 63,
+						"slide": 57,
+						"touch": 64,
+						"break": 300,
+						"total": 1111
 					},
 					"regions": {
 						"jp": true,
@@ -200943,5 +200943,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-05-30T05:13:21.963Z"
+	"updateTime": "2025-06-02T16:38:13.688Z"
 }
