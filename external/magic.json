@@ -439,6 +439,7 @@
   {"debut":4,"genre":"maimai","name":"oboro","dx":0,"lv":[6,8.4,12,13.7],"regionOverrides":{"intl":{"lv":[0,0,12,13.7,0]}},"ico":"19b8ef35f1800884"},
   {"debut":21,"genre":"maimai","name":"oboro","dx":1,"lv":[4,7.8,11,13.7],"regionOverrides":{"intl":{"lv":[0,0,11,13.7,0]}},"ico":"19b8ef35f1800884"},
   {"debut":4,"genre":"maimai","name":"Dragoon","dx":0,"lv":[5,8.6,10.9,13.4,14.5],"regionOverrides":{"intl":{"lv":[0,0,10.9,13.4,14.5]}},"ico":"bf6a041e1c971bdd"},
+  {"debut":24,"genre":"maimai","name":"Dragoon","dx":1,"lv":[-4,-8,-11,-13.6],"ico":"bf6a041e1c971bdd"},
   {"debut":4,"genre":"niconico＆ボーカロイド","name":"不毛！","dx":0,"lv":[3,8.1,10.1,12.7],"regionOverrides":{"intl":{"lv":[0,0,10.1,12.7,0]}},"ico":"548131ddb354349f"},
   {"debut":4,"genre":"maimai","name":"おても☆Yan","dx":0,"lv":[4,6.8,10.5,13],"regionOverrides":{"intl":{"lv":[0,0,10.5,12.8,0]}},"ico":"a3c48c499abf548a"},
   {"debut":4,"genre":"maimai","name":"Caliburne ～Story of the Legendary sword～","dx":0,"lv":[5,9.4,12.9,14.3],"regionOverrides":{"intl":{"lv":[0,0,12.9,14.3,0]}},"ico":"7750698f692b00cd"},
@@ -1557,5 +1558,8 @@
   {"debut":24,"genre":"東方Project","name":"Help me, ERINNNNNN!!","dx":1,"lv":[4,7.8,10.7,13.3],"ico":"4911d20e27cad7a0"},
   {"debut":24,"genre":"東方Project","name":"超最終鬼畜妹フランドール・S","dx":1,"lv":[5,8.2,12.6,13.9],"ico":"6cf3e3f842e52194"},
   {"debut":24,"genre":"ゲーム＆バラエティ","name":"Destined Marionette","dx":1,"lv":[4,8.2,12.5,14.2],"ico":"7fa4a3f8246030ce"},
-  {"debut":24,"genre":"ゲーム＆バラエティ","name":"MYTH Re：LEASE","dx":1,"lv":[-6,8,12.9,14.5],"ico":"bf9cd35017832f93"}
+  {"debut":24,"genre":"ゲーム＆バラエティ","name":"MYTH Re：LEASE","dx":1,"lv":[-6,8,12.9,14.5],"ico":"bf9cd35017832f93"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"クーネル・エンゲイザー","dx":1,"lv":[-3,-7,-9.6,-12.6],"ico":"dc086a7d603b1832"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"ゼロトーキング","dx":1,"lv":[-2,-6,-9.6,-13],"ico":"d5b7dac7c24b8df6"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"抜錨","dx":1,"lv":[-3,-6,-10.6,-13],"ico":"e2995fcfaec824da"}
 ]
