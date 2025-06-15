@@ -28398,7 +28398,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -28425,7 +28425,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -28452,7 +28452,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -28479,7 +28479,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -34985,7 +34985,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -35012,7 +35012,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -35039,7 +35039,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -35066,7 +35066,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {
@@ -58367,14 +58367,14 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 129,
+						"hold": 10,
+						"slide": 4,
+						"touch": 16,
+						"break": 7,
+						"total": 166
 					},
 					"regions": {
 						"jp": true,
@@ -58394,14 +58394,14 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 252,
+						"hold": 16,
+						"slide": 10,
+						"touch": 28,
+						"break": 2,
+						"total": 308
 					},
 					"regions": {
 						"jp": true,
@@ -58421,14 +58421,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 330,
+						"hold": 43,
+						"slide": 54,
+						"touch": 36,
+						"break": 29,
+						"total": 492
 					},
 					"regions": {
 						"jp": true,
@@ -58446,16 +58446,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 482,
+						"hold": 43,
+						"slide": 108,
+						"touch": 48,
+						"break": 26,
+						"total": 707
 					},
 					"regions": {
 						"jp": true,
@@ -177996,7 +177996,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178023,7 +178023,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178050,7 +178050,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178077,7 +178077,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178119,7 +178119,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178146,7 +178146,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178173,7 +178173,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178200,7 +178200,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178242,7 +178242,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178269,7 +178269,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178296,7 +178296,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178323,7 +178323,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178365,7 +178365,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178392,7 +178392,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178419,7 +178419,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178446,7 +178446,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178619,7 +178619,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178646,7 +178646,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178673,7 +178673,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178700,7 +178700,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178742,7 +178742,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178769,7 +178769,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178796,7 +178796,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178823,7 +178823,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178850,7 +178850,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178892,7 +178892,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178919,7 +178919,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178946,7 +178946,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -178973,7 +178973,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {
@@ -179018,7 +179018,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179045,7 +179045,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179072,7 +179072,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179099,7 +179099,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179141,7 +179141,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179168,7 +179168,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179195,7 +179195,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179222,7 +179222,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179264,7 +179264,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179291,7 +179291,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179318,7 +179318,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179345,7 +179345,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179372,7 +179372,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179414,7 +179414,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179441,7 +179441,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179468,7 +179468,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179495,7 +179495,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179522,7 +179522,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179564,7 +179564,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179591,7 +179591,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179618,7 +179618,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179645,7 +179645,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179672,7 +179672,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179714,7 +179714,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179741,7 +179741,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179768,7 +179768,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179795,7 +179795,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179837,7 +179837,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179864,7 +179864,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179891,7 +179891,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179918,7 +179918,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179960,7 +179960,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -179987,7 +179987,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180014,7 +180014,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180041,7 +180041,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180083,7 +180083,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180110,7 +180110,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180137,7 +180137,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180164,7 +180164,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180206,7 +180206,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180233,7 +180233,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180260,7 +180260,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180287,7 +180287,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -200868,7 +200868,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "クーネル・エンゲイザー",
 			"artist": "電ǂ鯨",
-			"bpm": null,
+			"bpm": 170,
 			"imageName": "e64a1ccc2092804a2ff73c172babdff5dd5de99168eca3c6c65f2430b1be0c60.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-06",
@@ -200883,14 +200883,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 183,
+						"hold": 10,
+						"slide": 4,
+						"touch": 8,
+						"break": 5,
+						"total": 210
 					},
 					"regions": {
 						"jp": true,
@@ -200910,14 +200910,14 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 310,
+						"hold": 14,
+						"slide": 8,
+						"touch": 14,
+						"break": 4,
+						"total": 350
 					},
 					"regions": {
 						"jp": true,
@@ -200937,14 +200937,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 303,
+						"hold": 75,
+						"slide": 33,
+						"touch": 18,
+						"break": 52,
+						"total": 481
 					},
 					"regions": {
 						"jp": true,
@@ -200962,16 +200962,16 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
-					"noteDesigner": null,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 390,
+						"hold": 49,
+						"slide": 130,
+						"touch": 32,
+						"break": 43,
+						"total": 644
 					},
 					"regions": {
 						"jp": true,
@@ -200991,7 +200991,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "ゼロトーキング",
 			"artist": "はるまきごはん",
-			"bpm": null,
+			"bpm": 133,
 			"imageName": "ee0022a39edd895a8dc6a0e86a291eea07d8b18203db176ca1efa88a1f943978.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-06",
@@ -201006,14 +201006,14 @@
 					"levelValue": 2,
 					"internalLevel": null,
 					"internalLevelValue": 2,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 138,
+						"hold": 10,
+						"slide": 4,
+						"touch": 14,
+						"break": 1,
+						"total": 167
 					},
 					"regions": {
 						"jp": true,
@@ -201033,14 +201033,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 209,
+						"hold": 14,
+						"slide": 11,
+						"touch": 28,
+						"break": 3,
+						"total": 265
 					},
 					"regions": {
 						"jp": true,
@@ -201060,14 +201060,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 264,
+						"hold": 53,
+						"slide": 27,
+						"touch": 29,
+						"break": 10,
+						"total": 383
 					},
 					"regions": {
 						"jp": true,
@@ -201085,16 +201085,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 461,
+						"hold": 69,
+						"slide": 69,
+						"touch": 57,
+						"break": 22,
+						"total": 678
 					},
 					"regions": {
 						"jp": true,
@@ -201114,7 +201114,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "抜錨",
 			"artist": "ナナホシ管弦楽団",
-			"bpm": null,
+			"bpm": 140,
 			"imageName": "73339154ad0105f2ccca273d6330350eee3c255c0051459e867ead4a5a7835a4.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-06",
@@ -201129,14 +201129,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 158,
+						"hold": 10,
+						"slide": 5,
+						"touch": 14,
+						"break": 6,
+						"total": 193
 					},
 					"regions": {
 						"jp": true,
@@ -201156,14 +201156,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 282,
+						"hold": 14,
+						"slide": 7,
+						"touch": 13,
+						"break": 6,
+						"total": 322
 					},
 					"regions": {
 						"jp": true,
@@ -201183,14 +201183,14 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 425,
+						"hold": 60,
+						"slide": 43,
+						"touch": 2,
+						"break": 34,
+						"total": 564
 					},
 					"regions": {
 						"jp": true,
@@ -201208,16 +201208,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 554,
+						"hold": 42,
+						"slide": 106,
+						"touch": 23,
+						"break": 40,
+						"total": 765
 					},
 					"regions": {
 						"jp": true,
@@ -201420,5 +201420,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-06-06T01:12:11.098Z"
+	"updateTime": "2025-06-15T13:39:12.326Z"
 }
