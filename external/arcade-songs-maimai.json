@@ -58356,7 +58356,7 @@
 			"imageName": "434dc1342db00b19ce5963c43f1c8234b0bb77d20bf951978a79089cb2b28e97.png",
 			"version": "ORANGE",
 			"releaseDate": "2015-02-05",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -194294,7 +194294,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194321,7 +194321,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194348,7 +194348,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194375,7 +194375,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194417,7 +194417,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194444,7 +194444,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194471,7 +194471,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194498,7 +194498,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194540,7 +194540,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194567,7 +194567,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194594,7 +194594,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194621,7 +194621,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194663,7 +194663,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194690,7 +194690,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194717,7 +194717,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194744,7 +194744,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -200872,7 +200872,7 @@
 			"imageName": "e64a1ccc2092804a2ff73c172babdff5dd5de99168eca3c6c65f2430b1be0c60.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-06",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -200995,7 +200995,7 @@
 			"imageName": "ee0022a39edd895a8dc6a0e86a291eea07d8b18203db176ca1efa88a1f943978.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-06",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -201110,6 +201110,88 @@
 			]
 		},
 		{
+			"songId": "[覚]Hainuwele",
+			"category": "宴会場",
+			"title": "[覚]Hainuwele",
+			"artist": "ETIA.",
+			"bpm": null,
+			"imageName": "0e482d3fe98d45755363a909270688f5e2ebd96ae780fd2861531958fb42d6ed.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-20",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "maimai でらっくす版覚譜面もほしかった",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【覚】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[逆]WE'RE BACK!!",
+			"category": "宴会場",
+			"title": "[逆]WE'RE BACK!!",
+			"artist": "Zekk",
+			"bpm": null,
+			"imageName": "3d0fc531eaad9db6f8d8f5977a3ec2b0119b9f41297ca764363a5976b52595fa.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-20",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "SLIDE BACK!!",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【逆】",
+					"level": "12+?",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
 			"songId": "抜錨",
 			"category": "niconico＆ボーカロイド",
 			"title": "抜錨",
@@ -201118,7 +201200,7 @@
 			"imageName": "73339154ad0105f2ccca273d6330350eee3c255c0051459e867ead4a5a7835a4.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-06",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -201218,6 +201300,648 @@
 						"touch": 23,
 						"break": 40,
 						"total": 765
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "なんかノイズにきこえる",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "なんかノイズにきこえる",
+			"artist": "HaNaMiNa feat.Hana",
+			"bpm": 158,
+			"imageName": "7c378534fb419e378c4b9248d4d38e2d89a2133d50107ec3bbb53c26ed1b9094.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "うぇいびー",
+			"category": "POPS＆アニメ",
+			"title": "うぇいびー",
+			"artist": "三枝明那",
+			"bpm": null,
+			"imageName": "aaa6baeaded1935f3ab401e4b0ab90a9144042c7fea1c0aee11df13df0539ea0.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "RED",
+			"category": "POPS＆アニメ",
+			"title": "RED",
+			"artist": "三枝明那",
+			"bpm": null,
+			"imageName": "af3201ddf95d6676cbc66cf679016aabd78430ab463ac612baa360d589d9f8c9.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "ホラフキパペット",
+			"category": "POPS＆アニメ",
+			"title": "ホラフキパペット",
+			"artist": "七次元生徒会！",
+			"bpm": null,
+			"imageName": "2c7f47189b8bc71de07b8b68fc25b3a173ad3031c9fece4f25794c26216ea73d.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "BlackFlagBreaker!!",
+			"category": "POPS＆アニメ",
+			"title": "BlackFlagBreaker!!",
+			"artist": "社築 × sasakure.UK",
+			"bpm": null,
+			"imageName": "802e292413d17600cdfd93cb448b14da2403fd17d704d38589eed6085aaf12df.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
 					},
 					"regions": {
 						"jp": true,
@@ -201420,5 +202144,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-06-19T15:28:09.597Z"
+	"updateTime": "2025-06-20T02:18:51.487Z"
 }

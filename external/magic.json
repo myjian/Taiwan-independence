@@ -1561,5 +1561,10 @@
   {"debut":24,"genre":"ゲーム＆バラエティ","name":"MYTH Re：LEASE","dx":1,"lv":[-6,8,12.9,14.5],"ico":"bf9cd35017832f93"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"クーネル・エンゲイザー","dx":1,"lv":[-3,7,9.7,12.8],"ico":"dc086a7d603b1832"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"ゼロトーキング","dx":1,"lv":[-2,6,9.8,13.2],"ico":"d5b7dac7c24b8df6"},
-  {"debut":24,"genre":"niconico＆ボーカロイド","name":"抜錨","dx":1,"lv":[-3,6.7,10.7,13],"ico":"e2995fcfaec824da"}
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"抜錨","dx":1,"lv":[-3,6.7,10.7,13],"ico":"e2995fcfaec824da"},
+  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"なんかノイズにきこえる","dx":1,"lv":[-3,-7,-9.6,-13.6],"ico":"8bd4abae1de74251"},
+  {"debut":24,"genre":"POPS＆アニメ","name":"うぇいびー","dx":1,"lv":[-3,-7.6,-10,-13,-13.6],"ico":"4516b8b8e6cb4d7c"},
+  {"debut":24,"genre":"POPS＆アニメ","name":"RED","dx":1,"lv":[-3,-6,-9.6,-13],"ico":"9bfa0e4eab3c770c"},
+  {"debut":24,"genre":"POPS＆アニメ","name":"ホラフキパペット","dx":1,"lv":[-4,-7.6,-10.6,-13.6],"ico":"044c69ffe7a5d66a"},
+  {"debut":24,"genre":"POPS＆アニメ","name":"BlackFlagBreaker!!","dx":1,"lv":[-4,-8,-11,-13.6],"ico":"b63264a7cfe89264"}
 ]
