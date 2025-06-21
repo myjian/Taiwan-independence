@@ -163,6 +163,8 @@ const SPECIAL_PLATES: SpecialPlateDefinition[] = [
 const inputFilePath = process.argv[2];
 const outputDirPath = process.argv[3];
 
+const outputDirPromise = fs.mkdir(outputDirPath, {recursive: true});
+
 function addSongToSet(songs: Set<string>, song: ArcadeSong) {
   const nickname = getSongNickname(
     normalizeSongName(song.title),
@@ -173,6 +175,9 @@ function addSongToSet(songs: Set<string>, song: ArcadeSong) {
 
 fs.readFile(inputFilePath, {encoding: 'utf-8'})
   .then(async fileContent => {
+    // make sure the output directory is created.
+    await outputDirPromise;
+
     const response: ArcadeSongsResponse = JSON.parse(fileContent);
     for (const region of REGIONS) {
       response.versions.forEach(async (version, versionIdx) => {
