@@ -1,6 +1,7 @@
+/** Script to create magic */
 import fs from 'fs/promises';
 
-import {parseArcadeSongsResponse} from './arcade-songs';
+import {ArcadeSongsResponse, parseArcadeSongsResponse} from './arcade-songs';
 import {parseOtogeDbData} from './otoge-db';
 
 if (process.argv.length !== 6) {
@@ -23,11 +24,8 @@ fs.readFile(inputFilePath, {encoding: 'utf-8'})
     const intlOverride = parseOtogeDbData(
       await fs.readFile(otogeDbIntlFilePath, {encoding: 'utf-8'})
     );
-    const songs = parseArcadeSongsResponse(
-      fileContent,
-      jpOverride,
-      intlOverride
-    );
+    const response: ArcadeSongsResponse = JSON.parse(fileContent);
+    const songs = parseArcadeSongsResponse(response, jpOverride, intlOverride);
     const outputText =
       '[\n  ' + songs.map(song => JSON.stringify(song)).join(',\n  ') + '\n]';
     return fs.writeFile(outputFilePath, outputText, 'utf-8');

@@ -1,7 +1,7 @@
 import {ChartType, RegionOverride, SongProperties} from './models';
 import {normalizeSongName} from './song-name-helper';
 
-interface ArcadeSongsResponse {
+export interface ArcadeSongsResponse {
   songs: ArcadeSong[];
   versions: ArcadeSongVersion[];
 }
@@ -11,7 +11,7 @@ interface ArcadeSongVersion {
   abbr: string;
 }
 
-interface ArcadeSong {
+export interface ArcadeSong {
   songId: string;
   category: string;
   title: string;
@@ -29,6 +29,8 @@ interface ArcadeSongSheet {
   levelValue: number;
   internalLevel: string | null;
   internalLevelValue: number;
+  // Valid keys of regions are 'jp', 'intl', and 'cn'.
+  regions: Record<string, boolean>;
   regionOverrides: Record<string, Partial<ArcadeSongSheetRegionOverride>>;
   version: string;
 }
@@ -180,11 +182,10 @@ function parseArcadeSong(
 }
 
 export function parseArcadeSongsResponse(
-  rawContext: string,
+  response: ArcadeSongsResponse,
   jpOverride: Map<string, SongProperties[]>,
   intlOverride: Map<string, SongProperties[]>
 ): SongProperties[] {
-  const response: ArcadeSongsResponse = JSON.parse(rawContext);
   const versions = response.versions.map(v => v.version);
   return response.songs.reduce(
     (songs, song) =>
