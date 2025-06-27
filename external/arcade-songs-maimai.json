@@ -201323,7 +201323,7 @@
 			"imageName": "7c378534fb419e378c4b9248d4d38e2d89a2133d50107ec3bbb53c26ed1b9094.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-20",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -201336,12 +201336,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 210,
+						"hold": 9,
+						"slide": 4,
+						"touch": 6,
+						"break": 7,
+						"total": 236
 					},
 					"regions": {
 						"jp": true,
@@ -201363,12 +201363,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 316,
+						"hold": 16,
+						"slide": 10,
+						"touch": 26,
+						"break": 3,
+						"total": 371
 					},
 					"regions": {
 						"jp": true,
@@ -201388,14 +201388,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 416,
+						"hold": 39,
+						"slide": 47,
+						"touch": 6,
+						"break": 36,
+						"total": 544
 					},
 					"regions": {
 						"jp": true,
@@ -201413,16 +201413,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 661,
+						"hold": 37,
+						"slide": 135,
+						"touch": 11,
+						"break": 49,
+						"total": 893
 					},
 					"regions": {
 						"jp": true,
@@ -201442,11 +201442,11 @@
 			"category": "POPS＆アニメ",
 			"title": "うぇいびー",
 			"artist": "三枝明那",
-			"bpm": null,
+			"bpm": 200,
 			"imageName": "aaa6baeaded1935f3ab401e4b0ab90a9144042c7fea1c0aee11df13df0539ea0.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-20",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -201459,12 +201459,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 186,
+						"hold": 9,
+						"slide": 5,
+						"touch": 6,
+						"break": 8,
+						"total": 214
 					},
 					"regions": {
 						"jp": true,
@@ -201486,12 +201486,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 355,
+						"hold": 10,
+						"slide": 16,
+						"touch": 13,
+						"break": 6,
+						"total": 400
 					},
 					"regions": {
 						"jp": true,
@@ -201511,14 +201511,14 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 370,
+						"hold": 72,
+						"slide": 37,
+						"touch": 29,
+						"break": 37,
+						"total": 545
 					},
 					"regions": {
 						"jp": true,
@@ -201536,16 +201536,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 580,
+						"hold": 44,
+						"slide": 133,
+						"touch": 35,
+						"break": 47,
+						"total": 839
 					},
 					"regions": {
 						"jp": true,
@@ -201563,16 +201563,16 @@
 					"difficulty": "remaster",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": "三枝明那とはっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 629,
+						"hold": 48,
+						"slide": 176,
+						"touch": 23,
+						"break": 59,
+						"total": 935
 					},
 					"regions": {
 						"jp": true,
@@ -201592,11 +201592,11 @@
 			"category": "POPS＆アニメ",
 			"title": "RED",
 			"artist": "三枝明那",
-			"bpm": null,
+			"bpm": 168,
 			"imageName": "af3201ddf95d6676cbc66cf679016aabd78430ab463ac612baa360d589d9f8c9.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-20",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -201609,12 +201609,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 136,
+						"hold": 11,
+						"slide": 6,
+						"touch": 8,
+						"break": 3,
+						"total": 164
 					},
 					"regions": {
 						"jp": true,
@@ -201636,12 +201636,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 253,
+						"hold": 12,
+						"slide": 12,
+						"touch": 28,
+						"break": 3,
+						"total": 308
 					},
 					"regions": {
 						"jp": true,
@@ -201661,14 +201661,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 317,
+						"hold": 31,
+						"slide": 27,
+						"touch": 16,
+						"break": 8,
+						"total": 399
 					},
 					"regions": {
 						"jp": true,
@@ -201686,16 +201686,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 385,
+						"hold": 36,
+						"slide": 60,
+						"touch": 65,
+						"break": 57,
+						"total": 603
 					},
 					"regions": {
 						"jp": true,
@@ -201715,11 +201715,11 @@
 			"category": "POPS＆アニメ",
 			"title": "ホラフキパペット",
 			"artist": "七次元生徒会！",
-			"bpm": null,
+			"bpm": 205,
 			"imageName": "2c7f47189b8bc71de07b8b68fc25b3a173ad3031c9fece4f25794c26216ea73d.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-20",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -201731,6 +201731,252 @@
 					"internalLevel": null,
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 191,
+						"hold": 12,
+						"slide": 8,
+						"touch": 7,
+						"break": 6,
+						"total": 224
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 302,
+						"hold": 16,
+						"slide": 6,
+						"touch": 13,
+						"break": 4,
+						"total": 341
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 390,
+						"hold": 49,
+						"slide": 28,
+						"touch": 26,
+						"break": 37,
+						"total": 530
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.6",
+					"internalLevelValue": 13.6,
+					"noteDesigner": "メロンホップ",
+					"noteCounts": {
+						"tap": 457,
+						"hold": 54,
+						"slide": 126,
+						"touch": 80,
+						"break": 39,
+						"total": 756
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "BlackFlagBreaker!!",
+			"category": "POPS＆アニメ",
+			"title": "BlackFlagBreaker!!",
+			"artist": "社築 × sasakure.UK",
+			"bpm": 163,
+			"imageName": "802e292413d17600cdfd93cb448b14da2403fd17d704d38589eed6085aaf12df.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-20",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 186,
+						"hold": 9,
+						"slide": 5,
+						"touch": 6,
+						"break": 8,
+						"total": 214
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 349,
+						"hold": 12,
+						"slide": 15,
+						"touch": 26,
+						"break": 2,
+						"total": 404
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": "鳩ホルダー",
+					"noteCounts": {
+						"tap": 406,
+						"hold": 50,
+						"slide": 49,
+						"touch": 41,
+						"break": 42,
+						"total": 589
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 693,
+						"hold": 112,
+						"slide": 124,
+						"touch": 27,
+						"break": 42,
+						"total": 998
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "JIGOKU STATION CENTRAL GATE",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "JIGOKU STATION CENTRAL GATE",
+			"artist": "鬱P feat.000",
+			"bpm": null,
+			"imageName": "0e1d403a77ae281717e38a943763d5d770eec74b7152c0d7b58dcef7487257e7.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-27",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -201757,130 +202003,7 @@
 					"levelValue": 7.6,
 					"internalLevel": null,
 					"internalLevelValue": 7.6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "10+",
-					"levelValue": 10.6,
-					"internalLevel": null,
-					"internalLevelValue": 10.6,
 					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "13+",
-					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM PLUS"
-				}
-			]
-		},
-		{
-			"songId": "BlackFlagBreaker!!",
-			"category": "POPS＆アニメ",
-			"title": "BlackFlagBreaker!!",
-			"artist": "社築 × sasakure.UK",
-			"bpm": null,
-			"imageName": "802e292413d17600cdfd93cb448b14da2403fd17d704d38589eed6085aaf12df.png",
-			"version": "PRiSM PLUS",
-			"releaseDate": "2025-06-20",
-			"isNew": true,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "4",
-					"levelValue": 4,
-					"internalLevel": null,
-					"internalLevelValue": 4,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "8",
-					"levelValue": 8,
-					"internalLevel": null,
-					"internalLevelValue": 8,
-					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -201934,6 +202057,252 @@
 					"levelValue": 13.6,
 					"internalLevel": null,
 					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "㋰責任集合体",
+			"category": "niconico＆ボーカロイド",
+			"title": "㋰責任集合体",
+			"artist": "マサラダ",
+			"bpm": null,
+			"imageName": "994f16b997988b4c0b22c39412646787f5192e99a0e56fe4915c6f759a6d13eb.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-27",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "三日月ステップ 2023",
+			"category": "niconico＆ボーカロイド",
+			"title": "三日月ステップ 2023",
+			"artist": "r-906",
+			"bpm": null,
+			"imageName": "34a57b074052d8006f8c64a3eff87d09d330bfab810d7c20b09de62508c10e4d.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-27",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -202144,5 +202513,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-06-20T02:18:51.487Z"
+	"updateTime": "2025-06-27T01:13:42.119Z"
 }
