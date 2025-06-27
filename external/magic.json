@@ -1567,7 +1567,7 @@
   {"debut":24,"genre":"POPS＆アニメ","name":"RED","dx":1,"lv":[-3,6.5,9.7,13.3],"ico":"9bfa0e4eab3c770c"},
   {"debut":24,"genre":"POPS＆アニメ","name":"ホラフキパペット","dx":1,"lv":[-4,7.7,10.8,13.6],"ico":"044c69ffe7a5d66a"},
   {"debut":24,"genre":"POPS＆アニメ","name":"BlackFlagBreaker!!","dx":1,"lv":[-4,8,11,13.8],"ico":"b63264a7cfe89264"},
-  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"JIGOKU STATION CENTRAL GATE","dx":1,"lv":[-4,-7.6,-11,-13.6],"ico":"1803a7329d1d7290"},
-  {"debut":24,"genre":"niconico＆ボーカロイド","name":"㋰責任集合体","dx":1,"lv":[-3,-7,-9.6,-13],"ico":"a53cf82eedd35750"},
-  {"debut":24,"genre":"niconico＆ボーカロイド","name":"三日月ステップ 2023","dx":1,"lv":[-3,-7.6,-10,-13],"ico":"624953ea26b3f5c3"}
+  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"JIGOKU STATION CENTRAL GATE","dx":1,"lv":[-4,7.8,11.4,13.8],"ico":"1803a7329d1d7290"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"㋰責任集合体","dx":1,"lv":[-3,7.5,9.8,13.5],"ico":"a53cf82eedd35750"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"三日月ステップ 2023","dx":1,"lv":[-3,7.7,10,13],"ico":"624953ea26b3f5c3"}
 ]
