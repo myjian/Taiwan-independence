@@ -202055,8 +202055,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -202178,8 +202178,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.5",
+					"internalLevelValue": 13.5,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -202301,7 +202301,7 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": null,
 					"noteCounts": {
@@ -202513,5 +202513,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-06-27T13:11:07.112Z"
+	"updateTime": "2025-06-28T19:25:34.667Z"
 }
