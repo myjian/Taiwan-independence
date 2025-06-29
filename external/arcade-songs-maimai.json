@@ -202352,103 +202352,128 @@
 	"versions": [
 		{
 			"version": "maimai",
-			"abbr": "maimai (真)"
+			"abbr": "maimai (真)",
+			"releaseDate": "2012-07-11"
 		},
 		{
 			"version": "maimai PLUS",
-			"abbr": "maimai+ (真)"
+			"abbr": "maimai+ (真)",
+			"releaseDate": "2012-12-13"
 		},
 		{
 			"version": "GreeN",
-			"abbr": "GreeN (超)"
+			"abbr": "GreeN (超)",
+			"releaseDate": "2013-07-11"
 		},
 		{
 			"version": "GreeN PLUS",
-			"abbr": "GreeN+ (檄)"
+			"abbr": "GreeN+ (檄)",
+			"releaseDate": "2014-02-26"
 		},
 		{
 			"version": "ORANGE",
-			"abbr": "ORANGE (橙)"
+			"abbr": "ORANGE (橙)",
+			"releaseDate": "2014-09-18"
 		},
 		{
 			"version": "ORANGE PLUS",
-			"abbr": "ORANGE+ (暁)"
+			"abbr": "ORANGE+ (暁)",
+			"releaseDate": "2015-03-19"
 		},
 		{
 			"version": "PiNK",
-			"abbr": "PiNK (桃)"
+			"abbr": "PiNK (桃)",
+			"releaseDate": "2015-12-09"
 		},
 		{
 			"version": "PiNK PLUS",
-			"abbr": "PiNK+ (櫻)"
+			"abbr": "PiNK+ (櫻)",
+			"releaseDate": "2016-06-30"
 		},
 		{
 			"version": "MURASAKi",
-			"abbr": "MURASAKi (紫)"
+			"abbr": "MURASAKi (紫)",
+			"releaseDate": "2016-12-15"
 		},
 		{
 			"version": "MURASAKi PLUS",
-			"abbr": "MURASAKi+ (菫)"
+			"abbr": "MURASAKi+ (菫)",
+			"releaseDate": "2017-06-22"
 		},
 		{
 			"version": "MiLK",
-			"abbr": "MiLK (白)"
+			"abbr": "MiLK (白)",
+			"releaseDate": "2017-12-14"
 		},
 		{
 			"version": "MiLK PLUS",
-			"abbr": "MiLK+ (雪)"
+			"abbr": "MiLK+ (雪)",
+			"releaseDate": "2018-06-21"
 		},
 		{
 			"version": "FiNALE",
-			"abbr": "FiNALE (輝)"
+			"abbr": "FiNALE (輝)",
+			"releaseDate": "2018-12-13"
 		},
 		{
 			"version": "maimaiでらっくす",
-			"abbr": "でらっくす (熊)"
+			"abbr": "でらっくす (熊)",
+			"releaseDate": "2019-07-11"
 		},
 		{
 			"version": "maimaiでらっくす PLUS",
-			"abbr": "でらっくす+ (華)"
+			"abbr": "でらっくす+ (華)",
+			"releaseDate": "2020-01-23"
 		},
 		{
 			"version": "Splash",
-			"abbr": "Splash (爽)"
+			"abbr": "Splash (爽)",
+			"releaseDate": "2020-09-17"
 		},
 		{
 			"version": "Splash PLUS",
-			"abbr": "Splash+ (煌)"
+			"abbr": "Splash+ (煌)",
+			"releaseDate": "2021-03-18"
 		},
 		{
 			"version": "UNiVERSE",
-			"abbr": "UNiVERSE (宙)"
+			"abbr": "UNiVERSE (宙)",
+			"releaseDate": "2021-09-16"
 		},
 		{
 			"version": "UNiVERSE PLUS",
-			"abbr": "UNiVERSE+ (星)"
+			"abbr": "UNiVERSE+ (星)",
+			"releaseDate": "2022-03-24"
 		},
 		{
 			"version": "FESTiVAL",
-			"abbr": "FESTiVAL (祭)"
+			"abbr": "FESTiVAL (祭)",
+			"releaseDate": "2022-09-15"
 		},
 		{
 			"version": "FESTiVAL PLUS",
-			"abbr": "FESTiVAL+ (祝)"
+			"abbr": "FESTiVAL+ (祝)",
+			"releaseDate": "2023-03-23"
 		},
 		{
 			"version": "BUDDiES",
-			"abbr": "BUDDiES (双)"
+			"abbr": "BUDDiES (双)",
+			"releaseDate": "2023-09-14"
 		},
 		{
 			"version": "BUDDiES PLUS",
-			"abbr": "BUDDiES+ (宴)"
+			"abbr": "BUDDiES+ (宴)",
+			"releaseDate": "2024-03-21"
 		},
 		{
 			"version": "PRiSM",
-			"abbr": "PRiSM (鏡)"
+			"abbr": "PRiSM (鏡)",
+			"releaseDate": "2024-09-12"
 		},
 		{
 			"version": "PRiSM PLUS",
-			"abbr": "PRiSM+"
+			"abbr": "PRiSM+",
+			"releaseDate": "2025-03-13"
 		}
 	],
 	"types": [
@@ -202513,5 +202538,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-06-28T19:25:34.667Z"
+	"updateTime": "2025-06-29T15:03:57.875Z"
 }
