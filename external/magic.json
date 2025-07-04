@@ -404,6 +404,7 @@
   {"debut":3,"genre":"maimai","name":"Danza zandA","dx":0,"lv":[5,7.8,10.8,13.4,13.7],"regionOverrides":{"intl":{"lv":[0,0,10.8,13.4,13.7]}},"ico":"94647b34168e743e"},
   {"debut":3,"genre":"ゲーム＆バラエティ","name":"Live & Learn","dx":0,"lv":[4,7.6,11.3,13.3],"regionOverrides":{"intl":{"lv":[0,0,11.3,13.3,0]}},"ico":"d56dc89f76dbba33"},
   {"debut":3,"genre":"東方Project","name":"Endless, Sleepless Night","dx":0,"lv":[4,8.3,10.8,13.3],"regionOverrides":{"intl":{"lv":[0,0,10.8,13.3,0]}},"ico":"fba94ed765e1c00b"},
+  {"debut":24,"genre":"東方Project","name":"Endless, Sleepless Night","dx":1,"lv":[3,6.5,10.7,13.3],"ico":"fba94ed765e1c00b"},
   {"debut":3,"genre":"ゲーム＆バラエティ","name":"Back 2 Back","dx":0,"lv":[6,7.8,10.8,13.7],"regionOverrides":{"intl":{"lv":[0,0,10.8,13.7,0]}},"ico":"a8fdea5dc529ecbd"},
   {"debut":3,"genre":"東方Project","name":"シアワセうさぎ","dx":0,"lv":[4,7.3,8.8,11],"regionOverrides":{"intl":{"lv":[0,0,0,11,0]}},"ico":"b4fc0cc12303d468"},
   {"debut":3,"genre":"niconico＆ボーカロイド","name":"むかしむかしのきょうのぼく","dx":0,"lv":[3,7.2,10.1,12.5],"regionOverrides":{"intl":{"lv":[0,0,10.1,12.5,0]}},"ico":"37a169cc1cb4aed1"},
@@ -1569,5 +1570,6 @@
   {"debut":24,"genre":"POPS＆アニメ","name":"BlackFlagBreaker!!","dx":1,"lv":[-4,8,11,13.8],"ico":"b63264a7cfe89264"},
   {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"JIGOKU STATION CENTRAL GATE","dx":1,"lv":[-4,7.8,11.4,13.8],"ico":"1803a7329d1d7290"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"㋰責任集合体","dx":1,"lv":[-3,7.5,9.8,13.5],"ico":"a53cf82eedd35750"},
-  {"debut":24,"genre":"niconico＆ボーカロイド","name":"三日月ステップ 2023","dx":1,"lv":[-3,7.7,10,13],"ico":"624953ea26b3f5c3"}
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"三日月ステップ 2023","dx":1,"lv":[-3,7.7,10,13],"ico":"624953ea26b3f5c3"},
+  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"Lover's Trick","dx":1,"lv":[-3,7,10.8,13.7],"ico":"a1e1854c51cf78ac"}
 ]
