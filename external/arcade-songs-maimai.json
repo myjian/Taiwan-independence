@@ -26265,47 +26265,6 @@
 			]
 		},
 		{
-			"songId": "[宴]人マニア",
-			"category": "宴会場",
-			"title": "[宴]人マニア",
-			"artist": "原口沙輔 feat.重音テト",
-			"bpm": null,
-			"imageName": "a12463905c6a1154f56d89c0acda045f7f3fc77ff063e35413ec616ce74b4585.png",
-			"version": "PRiSM",
-			"releaseDate": "2024-12-06",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "人（の初見姿観察推奨）マニア",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【X】",
-					"level": "14?",
-					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": false,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
 			"songId": "True Love Song",
 			"category": "maimai",
 			"title": "True Love Song",
@@ -192717,7 +192676,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -202769,5 +202728,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-07-04T12:13:25.642Z"
+	"updateTime": "2025-07-05T03:03:28.881Z"
 }
