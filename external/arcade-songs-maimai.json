@@ -202466,7 +202466,7 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 245,
 						"hold": 82,
@@ -202493,7 +202493,7 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.7",
 					"internalLevelValue": 13.7,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 520,
 						"hold": 88,
@@ -202728,5 +202728,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-07-05T03:03:28.881Z"
+	"updateTime": "2025-07-10T05:29:36.782Z"
 }
