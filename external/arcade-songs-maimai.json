@@ -53947,7 +53947,7 @@
 			"imageName": "75ec41ef5bc161710b96c982fb3b1feb99be6d38871dcd12c0ba3a223f1287c7.png",
 			"version": "GreeN PLUS",
 			"releaseDate": "2014-08-22",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -192717,7 +192717,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -192744,7 +192744,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -192771,7 +192771,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -192798,7 +192798,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -193213,7 +193213,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -193254,7 +193254,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -193281,7 +193281,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -193308,7 +193308,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -193335,7 +193335,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194853,7 +194853,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -194894,7 +194894,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -202401,7 +202401,7 @@
 			"imageName": "b34900d74e1ccfffa0c4b39fc546761d6dc6e0f9d95c7a04cd3e7671314e7780.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-04",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -202501,6 +202501,498 @@
 						"touch": 85,
 						"break": 18,
 						"total": 748
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "IMBRUED:FLUX",
+			"category": "maimai",
+			"title": "IMBRUED:FLUX",
+			"artist": "qfeileadh feat.のあ",
+			"bpm": null,
+			"imageName": "b7130ac980a8504595202603808b4c277b8d9f91e419eeb96dbbeb716a1d7ae1.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-11",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.1",
+					"internalLevelValue": 14.1,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "砂の函",
+			"category": "maimai",
+			"title": "砂の函",
+			"artist": "Nego_tiator",
+			"bpm": null,
+			"imageName": "9bb21016c0ce87ea4fa1e05a5f3b978d29b6e6cf2c148bb992834a610a7a7caf.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-11",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.0",
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Amereistr",
+			"category": "maimai",
+			"title": "Amereistr",
+			"artist": "rN",
+			"bpm": null,
+			"imageName": "4ad3acf63b3c4c2555c52d9cc2aa9d760a809db51148454b20b95b3ada10d07c.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-11",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "サウンドプレイヤー",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "サウンドプレイヤー",
+			"artist": "tilt-six feat.バル",
+			"bpm": null,
+			"imageName": "e6e72dc6fab73056dc0a246494bded6c9281a8361e0a03217d861f4360952fb2.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-11",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
 					},
 					"regions": {
 						"jp": true,
@@ -202728,5 +203220,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-07-10T05:29:36.782Z"
+	"updateTime": "2025-07-11T01:09:52.181Z"
 }
