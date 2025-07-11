@@ -1572,8 +1572,8 @@
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"㋰責任集合体","dx":1,"lv":[-3,7.5,9.8,13.5],"ico":"a53cf82eedd35750"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"三日月ステップ 2023","dx":1,"lv":[-3,7.7,10,13],"ico":"624953ea26b3f5c3"},
   {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"Lover's Trick","dx":1,"lv":[-3,7,10.8,13.7],"ico":"a1e1854c51cf78ac"},
-  {"debut":24,"genre":"maimai","name":"IMBRUED:FLUX","dx":1,"lv":[-4,-7.6,-11,14.1]},
-  {"debut":24,"genre":"maimai","name":"砂の函","dx":1,"lv":[-3,-6,-11,14]},
-  {"debut":24,"genre":"maimai","name":"Amereistr","dx":1,"lv":[-5,-8,-12,13.9]},
-  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"サウンドプレイヤー","dx":1,"lv":[-3,-7,-10,13.7]}
+  {"debut":24,"genre":"maimai","name":"IMBRUED:FLUX","dx":1,"lv":[-4,7.7,11,14.1],"ico":"51959395323a90a1"},
+  {"debut":24,"genre":"maimai","name":"砂の函","dx":1,"lv":[-3,6.2,11.2,14],"ico":"64591d22ccbf08c8"},
+  {"debut":24,"genre":"maimai","name":"Amereistr","dx":1,"lv":[-5,8,12.5,13.9],"ico":"bd5acd48e3191743"},
+  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"サウンドプレイヤー","dx":1,"lv":[-3,7,10,13.7],"ico":"9099bf55e3eb446a"}
 ]
