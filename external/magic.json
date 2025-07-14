@@ -1575,5 +1575,6 @@
   {"debut":24,"genre":"maimai","name":"IMBRUED:FLUX","dx":1,"lv":[-4,7.7,11,14.1],"ico":"51959395323a90a1"},
   {"debut":24,"genre":"maimai","name":"砂の函","dx":1,"lv":[-3,6.2,11.2,14],"ico":"64591d22ccbf08c8"},
   {"debut":24,"genre":"maimai","name":"Amereistr","dx":1,"lv":[-5,8,12.5,13.9],"ico":"bd5acd48e3191743"},
-  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"サウンドプレイヤー","dx":1,"lv":[-3,7,10,13.7],"ico":"9099bf55e3eb446a"}
+  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"サウンドプレイヤー","dx":1,"lv":[-3,7,10,13.7],"ico":"9099bf55e3eb446a"},
+  {"debut":24,"genre":"maimai","name":"World's end BLACKBOX","dx":1,"lv":[-7.6,-10,-13,-14.6]}
 ]

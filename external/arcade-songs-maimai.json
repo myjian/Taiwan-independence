@@ -202028,7 +202028,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "JIGOKU STATION CENTRAL GATE",
 			"artist": "鬱P feat.000",
-			"bpm": null,
+			"bpm": 160,
 			"imageName": "0e1d403a77ae281717e38a943763d5d770eec74b7152c0d7b58dcef7487257e7.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-27",
@@ -202097,7 +202097,7 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 447,
 						"hold": 59,
@@ -202151,7 +202151,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "㋰責任集合体",
 			"artist": "マサラダ",
-			"bpm": null,
+			"bpm": 135,
 			"imageName": "994f16b997988b4c0b22c39412646787f5192e99a0e56fe4915c6f759a6d13eb.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-27",
@@ -202220,7 +202220,7 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 389,
 						"hold": 78,
@@ -202274,7 +202274,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "三日月ステップ 2023",
 			"artist": "r-906",
-			"bpm": null,
+			"bpm": 167,
 			"imageName": "34a57b074052d8006f8c64a3eff87d09d330bfab810d7c20b09de62508c10e4d.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-06-27",
@@ -202343,7 +202343,7 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 428,
 						"hold": 39,
@@ -202397,7 +202397,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "Lover's Trick",
 			"artist": "litmus*",
-			"bpm": null,
+			"bpm": 130,
 			"imageName": "b34900d74e1ccfffa0c4b39fc546761d6dc6e0f9d95c7a04cd3e7671314e7780.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-04",
@@ -202520,7 +202520,7 @@
 			"category": "maimai",
 			"title": "IMBRUED:FLUX",
 			"artist": "qfeileadh feat.のあ",
-			"bpm": null,
+			"bpm": 176,
 			"imageName": "b7130ac980a8504595202603808b4c277b8d9f91e419eeb96dbbeb716a1d7ae1.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
@@ -202535,14 +202535,14 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 177,
+						"hold": 8,
+						"slide": 10,
+						"touch": 9,
+						"break": 4,
+						"total": 208
 					},
 					"regions": {
 						"jp": true,
@@ -202562,14 +202562,14 @@
 					"levelValue": 7.6,
 					"internalLevel": null,
 					"internalLevelValue": 7.6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 302,
+						"hold": 10,
+						"slide": 11,
+						"touch": 14,
+						"break": 4,
+						"total": 341
 					},
 					"regions": {
 						"jp": true,
@@ -202589,14 +202589,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 377,
+						"hold": 66,
+						"slide": 39,
+						"touch": 53,
+						"break": 43,
+						"total": 578
 					},
 					"regions": {
 						"jp": true,
@@ -202616,14 +202616,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.1",
 					"internalLevelValue": 14.1,
-					"noteDesigner": null,
+					"noteDesigner": "きょむりん vs Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 661,
+						"hold": 60,
+						"slide": 101,
+						"touch": 82,
+						"break": 39,
+						"total": 943
 					},
 					"regions": {
 						"jp": true,
@@ -202643,7 +202643,7 @@
 			"category": "maimai",
 			"title": "砂の函",
 			"artist": "Nego_tiator",
-			"bpm": null,
+			"bpm": 180,
 			"imageName": "9bb21016c0ce87ea4fa1e05a5f3b978d29b6e6cf2c148bb992834a610a7a7caf.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
@@ -202658,14 +202658,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 171,
+						"hold": 10,
+						"slide": 4,
+						"touch": 26,
+						"break": 2,
+						"total": 213
 					},
 					"regions": {
 						"jp": true,
@@ -202685,14 +202685,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 237,
+						"hold": 30,
+						"slide": 8,
+						"touch": 6,
+						"break": 2,
+						"total": 283
 					},
 					"regions": {
 						"jp": true,
@@ -202712,14 +202712,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 276,
+						"hold": 106,
+						"slide": 63,
+						"touch": 20,
+						"break": 40,
+						"total": 505
 					},
 					"regions": {
 						"jp": true,
@@ -202739,14 +202739,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.0",
 					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 512,
+						"hold": 56,
+						"slide": 75,
+						"touch": 60,
+						"break": 78,
+						"total": 781
 					},
 					"regions": {
 						"jp": true,
@@ -202766,7 +202766,7 @@
 			"category": "maimai",
 			"title": "Amereistr",
 			"artist": "rN",
-			"bpm": null,
+			"bpm": 147,
 			"imageName": "4ad3acf63b3c4c2555c52d9cc2aa9d760a809db51148454b20b95b3ada10d07c.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
@@ -202781,14 +202781,14 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 231,
+						"hold": 13,
+						"slide": 4,
+						"touch": 8,
+						"break": 5,
+						"total": 261
 					},
 					"regions": {
 						"jp": true,
@@ -202808,14 +202808,14 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 366,
+						"hold": 18,
+						"slide": 10,
+						"touch": 34,
+						"break": 8,
+						"total": 436
 					},
 					"regions": {
 						"jp": true,
@@ -202837,12 +202837,12 @@
 					"internalLevelValue": 12,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 122,
+						"hold": 53,
+						"slide": 12,
+						"touch": 31,
+						"break": 45,
+						"total": 263
 					},
 					"regions": {
 						"jp": true,
@@ -202862,14 +202862,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.9",
 					"internalLevelValue": 13.9,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 466,
+						"hold": 102,
+						"slide": 31,
+						"touch": 67,
+						"break": 72,
+						"total": 738
 					},
 					"regions": {
 						"jp": true,
@@ -202889,7 +202889,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "サウンドプレイヤー",
 			"artist": "tilt-six feat.バル",
-			"bpm": null,
+			"bpm": 143,
 			"imageName": "e6e72dc6fab73056dc0a246494bded6c9281a8361e0a03217d861f4360952fb2.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
@@ -202904,14 +202904,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 170,
+						"hold": 11,
+						"slide": 4,
+						"touch": 7,
+						"break": 6,
+						"total": 198
 					},
 					"regions": {
 						"jp": true,
@@ -202931,14 +202931,14 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 261,
+						"hold": 13,
+						"slide": 9,
+						"touch": 27,
+						"break": 4,
+						"total": 314
 					},
 					"regions": {
 						"jp": true,
@@ -202960,12 +202960,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 380,
+						"hold": 65,
+						"slide": 44,
+						"touch": 8,
+						"break": 22,
+						"total": 519
 					},
 					"regions": {
 						"jp": true,
@@ -202987,6 +202987,48 @@
 					"internalLevelValue": 13.7,
 					"noteDesigner": null,
 					"noteCounts": {
+						"tap": 551,
+						"hold": 73,
+						"slide": 73,
+						"touch": 107,
+						"break": 33,
+						"total": 837
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "World's end BLACKBOX",
+			"category": "maimai",
+			"title": "World's end BLACKBOX",
+			"artist": "打打だいず",
+			"bpm": 205,
+			"imageName": "40c242e209232ade9754eadb1bcbdc7a0315cb8dd6ba01a62915ece87bf4bff2.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-11",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
 						"tap": null,
 						"hold": null,
 						"slide": null,
@@ -203002,8 +203044,85 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false,
-					"version": "PRiSM PLUS"
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 671,
+						"hold": 34,
+						"slide": 54,
+						"touch": 70,
+						"break": 50,
+						"total": 897
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": "7sRef -DOVE-",
+					"noteCounts": {
+						"tap": 831,
+						"hold": 137,
+						"slide": 116,
+						"touch": 115,
+						"break": 123,
+						"total": 1322
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
 				}
 			]
 		}
@@ -203220,5 +203339,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-07-11T01:09:52.181Z"
+	"updateTime": "2025-07-14T12:37:56.791Z"
 }
