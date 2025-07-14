@@ -1499,11 +1499,11 @@
   {"debut":23,"genre":"niconico＆ボーカロイド","name":"右に曲ガール","dx":1,"lv":[3,6.5,9.8,12.8],"regionOverrides":{"intl":{"lv":[0,0,9.8,12.8,0]}},"ico":"f99ee802d1590feb"},
   {"debut":23,"genre":"niconico＆ボーカロイド","name":"ウルトラトレーラー","dx":1,"lv":[4,7.5,11,13.8],"regionOverrides":{"intl":{"lv":[0,7.5,11,13.8,0]}},"ico":"a9dee04030e6eedd"},
   {"debut":23,"genre":"niconico＆ボーカロイド","name":"バベル","dx":1,"lv":[4,7.7,10.5,13.7],"regionOverrides":{"intl":{"lv":[0,0,10.5,13.7,0]}},"ico":"6dc9f632ed4791fa"},
-  {"debut":23,"genre":"POPS＆アニメ","name":"On your mark (104期 Ver.)","dx":1,"lv":[3,6.7,9.5,12.9],"ico":"9257bd776ceabcfe"},
+  {"debut":23,"genre":"POPS＆アニメ","name":"On your mark (104期 Ver.)","dx":1,"lv":[3,6.7,9.5,12.9],"regionOverrides":{"intl":{"lv":[3,6.7,9.5,12.9,0]}},"ico":"9257bd776ceabcfe"},
   {"debut":23,"genre":"maimai","name":"地獄","dx":1,"lv":[4,7.9,10.7,13.6],"regionOverrides":{"intl":{"lv":[0,0,10.7,13.6,0]}},"ico":"d859c7c05f6b756a"},
   {"debut":23,"genre":"maimai","name":"シスターシスター","dx":1,"lv":[3,6.5,11,13.2],"regionOverrides":{"intl":{"lv":[0,0,11,13.2,0]}},"ico":"c93267acca762322"},
   {"debut":23,"genre":"maimai","name":"有明/Ariake","dx":1,"lv":[5,8.5,12.4,14.4],"regionOverrides":{"intl":{"debut":23,"lv":[0,0,12.4,14.4,0]}},"ico":"2e4769fb4445584c"},
-  {"debut":23,"genre":"ゲーム＆バラエティ","name":"はげしこの夜 -Psylent Crazy Night-","dx":1,"lv":[4,7.7,11.7,13.8],"ico":"daaa34a941775307"},
+  {"debut":23,"genre":"ゲーム＆バラエティ","name":"はげしこの夜 -Psylent Crazy Night-","dx":1,"lv":[4,7.7,11.7,13.8],"regionOverrides":{"intl":{"lv":[4,7.7,11.7,13.8,0]}},"ico":"daaa34a941775307"},
   {"debut":23,"genre":"ゲーム＆バラエティ","name":"Empire of Winter","dx":1,"lv":[4,7.7,10.9,13.7],"regionOverrides":{"intl":{"lv":[0,0,10.9,13.7,0]}},"ico":"770738c6708a2870"},
   {"debut":23,"genre":"ゲーム＆バラエティ","name":"迷える音色は恋の唄","dx":1,"lv":[3,6.7,10.8,13.7],"regionOverrides":{"intl":{"lv":[0,0,10.8,13.7,0]}},"ico":"55c9897b6d540f73"},
   {"debut":23,"genre":"ゲーム＆バラエティ","name":"Löschen","dx":1,"lv":[5,7.8,11.2,13.9],"regionOverrides":{"intl":{"lv":[0,0,11.2,13.9,0]}},"ico":"34026b1095d9e996"},
@@ -1576,5 +1576,5 @@
   {"debut":24,"genre":"maimai","name":"砂の函","dx":1,"lv":[-3,6.2,11.2,14],"ico":"64591d22ccbf08c8"},
   {"debut":24,"genre":"maimai","name":"Amereistr","dx":1,"lv":[-5,8,12.5,13.9],"ico":"bd5acd48e3191743"},
   {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"サウンドプレイヤー","dx":1,"lv":[-3,7,10,13.7],"ico":"9099bf55e3eb446a"},
-  {"debut":24,"genre":"maimai","name":"World's end BLACKBOX","dx":1,"lv":[-7.6,-10,-13,-14.6]}
+  {"debut":24,"genre":"maimai","name":"World's end BLACKBOX","dx":1,"lv":[-7.6,-10,-13,-14.6],"ico":"4f8dd5d9c721b249"}
 ]
