@@ -53960,12 +53960,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 157,
+						"hold": 9,
+						"slide": 4,
+						"touch": 8,
+						"break": 8,
+						"total": 186
 					},
 					"regions": {
 						"jp": true,
@@ -53987,12 +53987,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 227,
+						"hold": 17,
+						"slide": 6,
+						"touch": 27,
+						"break": 4,
+						"total": 281
 					},
 					"regions": {
 						"jp": true,
@@ -54012,14 +54012,14 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 333,
+						"hold": 35,
+						"slide": 37,
+						"touch": 20,
+						"break": 25,
+						"total": 450
 					},
 					"regions": {
 						"jp": true,
@@ -54039,14 +54039,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.3",
 					"internalLevelValue": 13.3,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 557,
+						"hold": 34,
+						"slide": 95,
+						"touch": 13,
+						"break": 33,
+						"total": 732
 					},
 					"regions": {
 						"jp": true,
@@ -202524,7 +202524,7 @@
 			"imageName": "b7130ac980a8504595202603808b4c277b8d9f91e419eeb96dbbeb716a1d7ae1.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -202647,7 +202647,7 @@
 			"imageName": "9bb21016c0ce87ea4fa1e05a5f3b978d29b6e6cf2c148bb992834a610a7a7caf.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -202770,7 +202770,7 @@
 			"imageName": "4ad3acf63b3c4c2555c52d9cc2aa9d760a809db51148454b20b95b3ada10d07c.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -202835,7 +202835,7 @@
 					"levelValue": 12,
 					"internalLevel": null,
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 122,
 						"hold": 53,
@@ -202893,7 +202893,7 @@
 			"imageName": "e6e72dc6fab73056dc0a246494bded6c9281a8361e0a03217d861f4360952fb2.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -202958,7 +202958,7 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 380,
 						"hold": 65,
@@ -202985,7 +202985,7 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.7",
 					"internalLevelValue": 13.7,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 551,
 						"hold": 73,
@@ -203016,7 +203016,7 @@
 			"imageName": "40c242e209232ade9754eadb1bcbdc7a0315cb8dd6ba01a62915ece87bf4bff2.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -203029,12 +203029,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 350,
+						"hold": 27,
+						"slide": 8,
+						"touch": 25,
+						"break": 6,
+						"total": 416
 					},
 					"regions": {
 						"jp": true,
@@ -203055,12 +203055,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 576,
+						"hold": 20,
+						"slide": 14,
+						"touch": 22,
+						"break": 8,
+						"total": 640
 					},
 					"regions": {
 						"jp": true,
@@ -203103,8 +203103,8 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
+					"internalLevel": "14.9",
+					"internalLevelValue": 14.9,
 					"noteDesigner": "7sRef -DOVE-",
 					"noteCounts": {
 						"tap": 831,
@@ -203123,6 +203123,375 @@
 						"intl": {}
 					},
 					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "crazy (about you)",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "crazy (about you)",
+			"artist": "kamome sano",
+			"bpm": null,
+			"imageName": "f8d6864f29345942bdecc58cfbf065647e9caf6292d9390881edbd437f288d86.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-16",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 147,
+						"hold": 14,
+						"slide": 3,
+						"touch": 8,
+						"break": 4,
+						"total": 176
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 225,
+						"hold": 10,
+						"slide": 10,
+						"touch": 26,
+						"break": 3,
+						"total": 274
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": 268,
+						"hold": 32,
+						"slide": 40,
+						"touch": 27,
+						"break": 42,
+						"total": 409
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": 494,
+						"hold": 75,
+						"slide": 52,
+						"touch": 89,
+						"break": 33,
+						"total": 743
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Drivessover",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "Drivessover",
+			"artist": "Taishi",
+			"bpm": null,
+			"imageName": "129cce4ccb097407424f08be82728743fab46fdbfd75359a1b1977023acbf24f.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-16",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 190,
+						"hold": 9,
+						"slide": 4,
+						"touch": 7,
+						"break": 6,
+						"total": 216
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 319,
+						"hold": 18,
+						"slide": 6,
+						"touch": 30,
+						"break": 3,
+						"total": 376
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": 402,
+						"hold": 64,
+						"slide": 55,
+						"touch": 28,
+						"break": 16,
+						"total": 565
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": 512,
+						"hold": 91,
+						"slide": 97,
+						"touch": 43,
+						"break": 43,
+						"total": 786
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Tidal Wave",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "Tidal Wave",
+			"artist": "D-Cee",
+			"bpm": null,
+			"imageName": "06de80a42ae3a27a7525bf765cd21715b0a76a1db6c99ccd0219a0dda0542a06.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-16",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 173,
+						"hold": 10,
+						"slide": 4,
+						"touch": 20,
+						"break": 5,
+						"total": 212
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 263,
+						"hold": 12,
+						"slide": 13,
+						"touch": 21,
+						"break": 6,
+						"total": 315
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": "鳩ホルダー",
+					"noteCounts": {
+						"tap": 342,
+						"hold": 44,
+						"slide": 34,
+						"touch": 17,
+						"break": 16,
+						"total": 453
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": "あまくちジンジャー",
+					"noteCounts": {
+						"tap": 426,
+						"hold": 30,
+						"slide": 111,
+						"touch": 25,
+						"break": 16,
+						"total": 608
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		}
@@ -203339,5 +203708,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-07-14T12:37:56.791Z"
+	"updateTime": "2025-07-18T01:13:09.613Z"
 }
