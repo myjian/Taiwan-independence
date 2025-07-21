@@ -180832,8 +180832,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.7",
-					"internalLevelValue": 13.7,
+					"internalLevel": "13.6",
+					"internalLevelValue": 13.6,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 596,
@@ -180955,8 +180955,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.5",
-					"internalLevelValue": 13.5,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 720,
@@ -181819,8 +181819,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.6",
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
 					"noteDesigner": "みぞれヤナギ&サファ太",
 					"noteCounts": {
 						"tap": 502,
@@ -182557,8 +182557,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.7",
-					"internalLevelValue": 13.7,
+					"internalLevel": "13.6",
+					"internalLevelValue": 13.6,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 896,
@@ -182926,8 +182926,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.7",
-					"internalLevelValue": 13.7,
+					"internalLevel": "13.6",
+					"internalLevelValue": 13.6,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 586,
@@ -183828,8 +183828,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.8",
-					"internalLevelValue": 13.8,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
 					"noteDesigner": "カマボコ君",
 					"noteCounts": {
 						"tap": 714,
@@ -184566,8 +184566,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.5",
-					"internalLevelValue": 13.5,
+					"internalLevel": "13.6",
+					"internalLevelValue": 13.6,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 644,
@@ -203708,5 +203708,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-07-21T03:36:11.270Z"
+	"updateTime": "2025-07-21T13:59:58.148Z"
 }
