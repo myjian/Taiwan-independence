@@ -203077,8 +203077,8 @@
 					"difficulty": "expert",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 671,
@@ -203225,8 +203225,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": 494,
@@ -203321,8 +203321,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": 402,
@@ -203348,7 +203348,7 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
+					"internalLevel": "13.6",
 					"internalLevelValue": 13.6,
 					"noteDesigner": null,
 					"noteCounts": {
@@ -203444,8 +203444,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.3",
+					"internalLevelValue": 12.3,
 					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 342,
@@ -203471,8 +203471,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": "あまくちジンジャー",
 					"noteCounts": {
 						"tap": 426,
@@ -203708,5 +203708,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-07-18T01:13:09.613Z"
+	"updateTime": "2025-07-21T03:36:11.270Z"
 }
