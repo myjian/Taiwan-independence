@@ -201981,7 +201981,7 @@
 						"slide": 49,
 						"touch": 41,
 						"break": 42,
-						"total": 589
+						"total": 588
 					},
 					"regions": {
 						"jp": true,
@@ -202254,7 +202254,7 @@
 						"slide": 113,
 						"touch": 57,
 						"break": 86,
-						"total": 978
+						"total": 979
 					},
 					"regions": {
 						"jp": true,
@@ -203086,7 +203086,7 @@
 						"slide": 54,
 						"touch": 70,
 						"break": 50,
-						"total": 897
+						"total": 879
 					},
 					"regions": {
 						"jp": true,
@@ -203131,7 +203131,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "crazy (about you)",
 			"artist": "kamome sano",
-			"bpm": null,
+			"bpm": 145,
 			"imageName": "f8d6864f29345942bdecc58cfbf065647e9caf6292d9390881edbd437f288d86.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-16",
@@ -203200,7 +203200,7 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 268,
 						"hold": 32,
@@ -203227,7 +203227,7 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 494,
 						"hold": 75,
@@ -203254,7 +203254,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "Drivessover",
 			"artist": "Taishi",
-			"bpm": null,
+			"bpm": 182,
 			"imageName": "129cce4ccb097407424f08be82728743fab46fdbfd75359a1b1977023acbf24f.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-16",
@@ -203323,7 +203323,7 @@
 					"levelValue": 12,
 					"internalLevel": "12.2",
 					"internalLevelValue": 12.2,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 402,
 						"hold": 64,
@@ -203350,7 +203350,7 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.6",
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
 						"tap": 512,
 						"hold": 91,
@@ -203377,7 +203377,7 @@
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "Tidal Wave",
 			"artist": "D-Cee",
-			"bpm": null,
+			"bpm": 175,
 			"imageName": "06de80a42ae3a27a7525bf765cd21715b0a76a1db6c99ccd0219a0dda0542a06.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-16",
@@ -203708,5 +203708,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-07-21T13:59:58.148Z"
+	"updateTime": "2025-07-23T03:30:43.625Z"
 }
