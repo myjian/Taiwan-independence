@@ -1540,7 +1540,7 @@
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"のだ","dx":1,"lv":[3,6.2,9.8,13.3],"ico":"4b1a0425008c5fc8"},
   {"debut":24,"genre":"東方Project","name":"Idoratrize World","dx":1,"lv":[3,6.8,10.5,13.3],"ico":"9361e3bf5d618acb"},
   {"debut":24,"genre":"ゲーム＆バラエティ","name":"Synthesis.","dx":1,"lv":[5,8.8,12.6,14.1],"ico":"27619d6525a81f92"},
-  {"debut":24,"genre":"maimai","name":"Åntinomiε","dx":1,"lv":[6,9.5,12.8,14.6],"ico":"b232e4ac452ac306"},
+  {"debut":24,"genre":"maimai","name":"Åntinomiε","dx":1,"lv":[6,9.5,12.8,14.6],"regionOverrides":{"intl":{"debut":24}},"ico":"b232e4ac452ac306"},
   {"debut":24,"genre":"POPS＆アニメ","name":"もういいよ","dx":1,"lv":[2,6,9.6,13.1],"ico":"ed7eb845cff3414e"},
   {"debut":24,"genre":"POPS＆アニメ","name":"モエチャッカファイア","dx":1,"lv":[3,6.7,10.5,13.8],"ico":"9eb45829c19ecb95"},
   {"debut":24,"genre":"POPS＆アニメ","name":"マヌルネコのうた","dx":1,"lv":[3,6,9.8,13],"ico":"2785e0ca30c916da"},

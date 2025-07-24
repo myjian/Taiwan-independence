@@ -26131,7 +26131,7 @@
 					},
 					"regions": {
 						"jp": false,
-						"intl": true,
+						"intl": false,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -26172,7 +26172,7 @@
 					},
 					"regions": {
 						"jp": false,
-						"intl": true,
+						"intl": false,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -26213,7 +26213,7 @@
 					},
 					"regions": {
 						"jp": false,
-						"intl": true,
+						"intl": false,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -26254,7 +26254,7 @@
 					},
 					"regions": {
 						"jp": false,
-						"intl": true,
+						"intl": false,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -29887,10 +29887,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "maimai"
@@ -33185,7 +33182,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -33212,7 +33209,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -33239,7 +33236,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -33266,7 +33263,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -35028,10 +35025,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13",
-							"levelValue": 13
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES PLUS"
@@ -35631,10 +35625,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "maimai PLUS"
@@ -37353,10 +37344,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "maimai PLUS"
@@ -38229,10 +38217,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "maimai PLUS"
@@ -38382,10 +38367,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13",
-							"levelValue": 13
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "maimai PLUS"
@@ -39408,10 +39390,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "GreeN"
@@ -45906,10 +45885,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "GreeN"
@@ -58911,10 +58887,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "ORANGE"
@@ -59772,10 +59745,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "ORANGE PLUS"
@@ -65082,10 +65052,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "PiNK"
@@ -68856,10 +68823,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "PiNK PLUS"
@@ -69228,10 +69192,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13",
-							"levelValue": 13
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "PiNK PLUS"
@@ -73083,10 +73044,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "UNiVERSE"
@@ -80523,10 +80481,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "MURASAKi PLUS"
@@ -80895,10 +80850,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13",
-							"levelValue": 13
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "MURASAKi PLUS"
@@ -92325,10 +92277,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13",
-							"levelValue": 13
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "MiLK PLUS"
@@ -98133,10 +98082,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13",
-							"levelValue": 13
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "FiNALE"
@@ -105483,10 +105429,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "maimaiでらっくす"
@@ -109884,10 +109827,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "maimaiでらっくす"
@@ -119070,10 +119010,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "maimaiでらっくす PLUS"
@@ -135776,10 +135713,7 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "UNiVERSE"
@@ -141047,10 +140981,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "UNiVERSE"
@@ -154214,10 +154145,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "FESTiVAL"
@@ -154832,10 +154760,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "FESTiVAL"
@@ -170635,10 +170560,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13",
-							"levelValue": 13
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES"
@@ -178021,10 +177943,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13",
-							"levelValue": 13
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES"
@@ -179043,10 +178962,7 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "12+",
-							"levelValue": 12.6
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES PLUS"
@@ -180972,10 +180888,7 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13",
-							"levelValue": 13
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES PLUS"
@@ -184583,10 +184496,7 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13",
-							"levelValue": 13
-						}
+						"intl": {}
 					},
 					"isSpecial": false,
 					"version": "BUDDiES PLUS"
@@ -191816,10 +191726,7 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"level": "13+?",
-							"levelValue": 13.6
-						}
+						"intl": {}
 					},
 					"isSpecial": true
 				}
@@ -195800,7 +195707,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -195827,7 +195734,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -195854,7 +195761,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -195881,7 +195788,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -195923,7 +195830,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -195950,7 +195857,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -195977,7 +195884,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196004,7 +195911,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196046,7 +195953,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196073,7 +195980,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196100,7 +196007,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196127,7 +196034,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196300,7 +196207,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196327,7 +196234,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196354,7 +196261,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196381,7 +196288,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196423,7 +196330,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196450,7 +196357,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196477,7 +196384,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196504,7 +196411,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196546,7 +196453,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196573,7 +196480,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196600,7 +196507,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196627,7 +196534,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196669,7 +196576,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196696,7 +196603,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196723,7 +196630,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196750,7 +196657,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196792,7 +196699,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196819,7 +196726,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196846,7 +196753,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196873,7 +196780,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196915,7 +196822,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196942,7 +196849,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196969,7 +196876,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -196996,7 +196903,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197023,7 +196930,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197065,7 +196972,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197092,7 +196999,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197119,7 +197026,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197146,7 +197053,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197173,7 +197080,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197215,7 +197122,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197242,7 +197149,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197269,7 +197176,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197296,7 +197203,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197338,7 +197245,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197365,7 +197272,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197392,7 +197299,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197419,7 +197326,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197446,7 +197353,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197488,7 +197395,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197515,7 +197422,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197542,7 +197449,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197569,7 +197476,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197611,7 +197518,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197638,7 +197545,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197665,7 +197572,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197692,7 +197599,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197734,7 +197641,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197761,7 +197668,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197788,7 +197695,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197815,7 +197722,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197857,7 +197764,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197884,7 +197791,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197911,7 +197818,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197938,7 +197845,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -197980,7 +197887,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -198021,7 +197928,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -198062,7 +197969,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -198103,7 +198010,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -198144,7 +198051,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -198185,11 +198092,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -198211,11 +198120,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -198237,11 +198148,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -198263,11 +198176,13 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				}
@@ -203403,7 +203318,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -203430,7 +203345,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -203457,7 +203372,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -203484,7 +203399,7 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
+						"intl": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -203708,5 +203623,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-07-23T03:30:43.625Z"
+	"updateTime": "2025-07-24T01:13:39.047Z"
 }
