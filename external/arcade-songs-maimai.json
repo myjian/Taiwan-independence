@@ -105081,6 +105081,110 @@
 			"comment": null,
 			"sheets": [
 				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 144,
+						"hold": 11,
+						"slide": 4,
+						"touch": 6,
+						"break": 3,
+						"total": 168
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 198,
+						"hold": 17,
+						"slide": 9,
+						"touch": 26,
+						"break": 4,
+						"total": 254
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": "Jack",
+					"noteCounts": {
+						"tap": 214,
+						"hold": 48,
+						"slide": 39,
+						"touch": 64,
+						"break": 21,
+						"total": 386
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
+					"noteDesigner": "チャン@DP皆伝",
+					"noteCounts": {
+						"tap": 259,
+						"hold": 25,
+						"slide": 116,
+						"touch": 93,
+						"break": 35,
+						"total": 528
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
 					"type": "std",
 					"difficulty": "basic",
 					"level": "4",
@@ -186785,129 +186889,6 @@
 			]
 		},
 		{
-			"songId": "プリズム△▽リズム",
-			"category": "maimai",
-			"title": "プリズム△▽リズム",
-			"artist": "Shoichiro Hirata feat.Sana",
-			"bpm": 155,
-			"imageName": "4a0a2d8dd700e942a21b79030c814a4d4e09f46c5478ae7701cc6b4531a1aad8.png",
-			"version": "PRiSM",
-			"releaseDate": "2024-09-12",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 165,
-						"hold": 13,
-						"slide": 8,
-						"touch": 8,
-						"break": 6,
-						"total": 200
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 263,
-						"hold": 18,
-						"slide": 12,
-						"touch": 18,
-						"break": 2,
-						"total": 313
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "10",
-					"levelValue": 10,
-					"internalLevel": null,
-					"internalLevelValue": 10,
-					"noteDesigner": "アマリリス",
-					"noteCounts": {
-						"tap": 338,
-						"hold": 45,
-						"slide": 49,
-						"touch": 6,
-						"break": 52,
-						"total": 490
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
-					"noteDesigner": "みそかつ侍",
-					"noteCounts": {
-						"tap": 450,
-						"hold": 47,
-						"slide": 121,
-						"touch": 81,
-						"break": 74,
-						"total": 773
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM"
-				}
-			]
-		},
-		{
 			"songId": "パラドクスイヴ",
 			"category": "maimai",
 			"title": "パラドクスイヴ",
@@ -203042,6 +203023,497 @@
 			]
 		},
 		{
+			"songId": "プリズム△▽リズム",
+			"category": "maimai",
+			"title": "プリズム△▽リズム",
+			"artist": "Shoichiro Hirata feat.Sana",
+			"bpm": 155,
+			"imageName": "4a0a2d8dd700e942a21b79030c814a4d4e09f46c5478ae7701cc6b4531a1aad8.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2024-09-12",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 165,
+						"hold": 13,
+						"slide": 8,
+						"touch": 8,
+						"break": 6,
+						"total": 200
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 263,
+						"hold": 18,
+						"slide": 12,
+						"touch": 18,
+						"break": 2,
+						"total": 313
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": "アマリリス",
+					"noteCounts": {
+						"tap": 338,
+						"hold": 45,
+						"slide": 49,
+						"touch": 6,
+						"break": 52,
+						"total": 490
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
+					"noteDesigner": "みそかつ侍",
+					"noteCounts": {
+						"tap": 450,
+						"hold": 47,
+						"slide": 121,
+						"touch": 81,
+						"break": 74,
+						"total": 773
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM"
+				},
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 187,
+						"hold": 18,
+						"slide": 7,
+						"touch": null,
+						"break": 1,
+						"total": 213
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 249,
+						"hold": 16,
+						"slide": 15,
+						"touch": null,
+						"break": 4,
+						"total": 284
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 349,
+						"hold": 30,
+						"slide": 30,
+						"touch": null,
+						"break": 10,
+						"total": 419
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
+					"noteDesigner": "譜面-100号",
+					"noteCounts": {
+						"tap": 498,
+						"hold": 57,
+						"slide": 113,
+						"touch": null,
+						"break": 13,
+						"total": 681
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "AFTER PANDORA",
+			"category": "maimai",
+			"title": "AFTER PANDORA",
+			"artist": "削除",
+			"bpm": 85,
+			"imageName": "9dacc0e909e896cf30d5037da8752ed5ec37ff04389c1f4122189f01ba6c6b89.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-13",
+			"isNew": false,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 165,
+						"hold": 6,
+						"slide": 8,
+						"touch": null,
+						"break": 4,
+						"total": 183
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 275,
+						"hold": 11,
+						"slide": 6,
+						"touch": null,
+						"break": 6,
+						"total": 298
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": "Jack",
+					"noteCounts": {
+						"tap": 255,
+						"hold": 44,
+						"slide": 29,
+						"touch": null,
+						"break": 5,
+						"total": 333
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.2",
+					"internalLevelValue": 14.2,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 429,
+						"hold": 21,
+						"slide": 102,
+						"touch": null,
+						"break": 25,
+						"total": 577
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Xaleid◆scopiX",
+			"category": "maimai",
+			"title": "Xaleid◆scopiX",
+			"artist": "xi",
+			"bpm": 180,
+			"imageName": "e84a9114bdc2482c819aa18ab8e1114ba007ee207a3c53405fd3f41a063faaef.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-13",
+			"isNew": false,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 517,
+						"hold": 26,
+						"slide": 12,
+						"touch": 36,
+						"break": 9,
+						"total": 600
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 865,
+						"hold": 51,
+						"slide": 20,
+						"touch": 60,
+						"break": 4,
+						"total": 1000
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 1017,
+						"hold": 103,
+						"slide": 90,
+						"touch": 75,
+						"break": 72,
+						"total": 1357
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": "14.9",
+					"internalLevelValue": 14.9,
+					"noteDesigner": "KALEIDXSCOPE",
+					"noteCounts": {
+						"tap": 1556,
+						"hold": 143,
+						"slide": 168,
+						"touch": 93,
+						"break": 221,
+						"total": 2181
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "15",
+					"levelValue": 15,
+					"internalLevel": "15.0",
+					"internalLevelValue": 15,
+					"noteDesigner": "Xaleid◆scopiX",
+					"noteCounts": {
+						"tap": 1590,
+						"hold": 173,
+						"slide": 103,
+						"touch": 134,
+						"break": 222,
+						"total": 2222
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
 			"songId": "crazy (about you)",
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "crazy (about you)",
@@ -203284,6 +203756,125 @@
 					},
 					"isSpecial": false,
 					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Ref:rain (for 7th Heaven)",
+			"category": "maimai",
+			"title": "Ref:rain (for 7th Heaven)",
+			"artist": "カモメサノエレクトリックオーケストラ include Limonène",
+			"bpm": 188,
+			"imageName": "abcf8d06013f6ff6a1d1ffb70ddf42eae1a223cd9117c245e2f1e74ceb254541.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-13",
+			"isNew": false,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 279,
+						"hold": 28,
+						"slide": 14,
+						"touch": 32,
+						"break": 3,
+						"total": 356
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 523,
+						"hold": 20,
+						"slide": 19,
+						"touch": 31,
+						"break": 28,
+						"total": 621
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": "きょむりん & Luxizhel",
+					"noteCounts": {
+						"tap": 712,
+						"hold": 58,
+						"slide": 69,
+						"touch": 96,
+						"break": 56,
+						"total": 991
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": "Jack + Soma",
+					"noteCounts": {
+						"tap": 777,
+						"hold": 107,
+						"slide": 147,
+						"touch": 147,
+						"break": 47,
+						"total": 1225
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
 				}
 			]
 		},
@@ -203623,5 +204214,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-07-25T01:18:05.032Z"
+	"updateTime": "2025-07-25T17:02:22.720Z"
 }
