@@ -330,6 +330,7 @@
   {"debut":2,"genre":"maimai","name":"JUMPIN' JUMPIN'","dx":0,"lv":[4,8.5,11.7,13.3],"regionOverrides":{"intl":{"lv":[4,8.5,11.7,13.1,0]}},"ico":"d3254db452d7bf2d"},
   {"debut":2,"genre":"maimai","name":"L'épilogue","dx":0,"lv":[5,8.2,11.7,13.7],"regionOverrides":{"intl":{"lv":[5,8.2,11.7,13.7,0]}},"ico":"55b095f9217865b2"},
   {"debut":2,"genre":"niconico＆ボーカロイド","name":"ローリンガール","dx":0,"lv":[4,7.4,9.8,13.2],"regionOverrides":{"intl":{"lv":[4,7.4,9.8,13.2,0]}},"ico":"35c7bf45db2cc050"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"ローリンガール","dx":1,"lv":[-4,-7.6,-10.6,-13],"ico":"35c7bf45db2cc050"},
   {"debut":2,"genre":"niconico＆ボーカロイド","name":"放課後ストライド","dx":0,"lv":[5,8.4,10.7,13.3],"regionOverrides":{"intl":{"lv":[5,8.4,10.7,13.3,0]}},"ico":"3fb5811ff9f8780a"},
   {"debut":2,"genre":"東方Project","name":"全人類ノ非想天則","dx":0,"lv":[4,7.9,10.6,13.2],"regionOverrides":{"intl":{"lv":[4,7.9,10.6,13.2,0]}},"ico":"c2c39366181de9d6"},
   {"debut":2,"genre":"東方Project","name":"しゅわスパ大作戦☆","dx":0,"lv":[5,7.5,9.9,12.7],"regionOverrides":{"intl":{"lv":[5,7.5,9.9,12.7,0]}},"ico":"cd787bcc1dc248f7"},
@@ -1584,5 +1585,7 @@
   {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"crazy (about you)","dx":1,"lv":[-3,7,10.8,13.8],"regionOverrides":{"intl":{"lv":[0,7,10.8,13.8,0]}},"ico":"099d921781514e64"},
   {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"Drivessover","dx":1,"lv":[-4,7.8,12.2,13.6],"regionOverrides":{"intl":{"lv":[0,7.8,12.2,13.6,0]}},"ico":"d9edba9ca1933abc"},
   {"debut":24,"genre":"maimai","name":"Ref:rain (for 7th Heaven)","dx":1,"lv":[4,8,13.7,14],"ico":"3012b0903feb6e15"},
-  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"Tidal Wave","dx":1,"lv":[-4,7.7,12.3,13.8],"regionOverrides":{"intl":{"lv":[0,7.7,12.3,13.8,0]}},"ico":"4de17653f977fcaa"}
+  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"Tidal Wave","dx":1,"lv":[-4,7.7,12.3,13.8],"regionOverrides":{"intl":{"lv":[0,7.7,12.3,13.8,0]}},"ico":"4de17653f977fcaa"},
+  {"debut":24,"genre":"ゲーム＆バラエティ","name":"∀","dx":1,"lv":[-6,-8,-11.6,-14]},
+  {"debut":24,"genre":"ゲーム＆バラエティ","name":"Pixel Galaxy","dx":1,"lv":[-3,-7,-9.6,-13]}
 ]
