@@ -44849,12 +44849,12 @@
 					"internalLevelValue": 13,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 463,
+						"hold": 49,
+						"slide": 109,
+						"touch": 32,
+						"break": 35,
+						"total": 688
 					},
 					"regions": {
 						"jp": true,
@@ -204114,7 +204114,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "∀",
 			"artist": "ああああ",
-			"bpm": null,
+			"bpm": 245,
 			"imageName": "bd1879bba2e422957f40d68435756e357a1d236e3ff08d87391f448c1f162290.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-08-01",
@@ -204131,12 +204131,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 195,
+						"hold": 17,
+						"slide": 4,
+						"touch": 8,
+						"break": 1,
+						"total": 225
 					},
 					"regions": {
 						"jp": true,
@@ -204158,12 +204158,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 335,
+						"hold": 8,
+						"slide": 9,
+						"touch": 9,
+						"break": 2,
+						"total": 363
 					},
 					"regions": {
 						"jp": true,
@@ -204183,14 +204183,14 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 378,
+						"hold": 42,
+						"slide": 30,
+						"touch": 9,
+						"break": 29,
+						"total": 488
 					},
 					"regions": {
 						"jp": true,
@@ -204208,16 +204208,16 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"internalLevel": "14.2",
+					"internalLevelValue": 14.2,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 474,
+						"hold": 61,
+						"slide": 56,
+						"touch": 49,
+						"break": 30,
+						"total": 670
 					},
 					"regions": {
 						"jp": true,
@@ -204237,7 +204237,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Pixel Galaxy",
 			"artist": "Snail's House",
-			"bpm": null,
+			"bpm": 150,
 			"imageName": "5885edffe017170cdeae1c4d24bf5855cb7a024199edc9455c6ff83c59f157e3.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-08-01",
@@ -204254,12 +204254,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 130,
+						"hold": 10,
+						"slide": 8,
+						"touch": 13,
+						"break": 6,
+						"total": 167
 					},
 					"regions": {
 						"jp": true,
@@ -204281,12 +204281,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 285,
+						"hold": 13,
+						"slide": 12,
+						"touch": 21,
+						"break": 3,
+						"total": 334
 					},
 					"regions": {
 						"jp": true,
@@ -204306,14 +204306,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "Snail's House",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 301,
+						"hold": 70,
+						"slide": 30,
+						"touch": 31,
+						"break": 59,
+						"total": 491
 					},
 					"regions": {
 						"jp": true,
@@ -204331,16 +204331,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 523,
+						"hold": 49,
+						"slide": 76,
+						"touch": 13,
+						"break": 60,
+						"total": 721
 					},
 					"regions": {
 						"jp": true,
@@ -204568,5 +204568,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-08-01T01:11:37.023Z"
+	"updateTime": "2025-08-03T12:12:26.562Z"
 }
