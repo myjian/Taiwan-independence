@@ -1587,5 +1587,9 @@
   {"debut":24,"genre":"maimai","name":"Ref:rain (for 7th Heaven)","dx":1,"lv":[-4,8,12.5,14],"ico":"3012b0903feb6e15"},
   {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"Tidal Wave","dx":1,"lv":[-4,7.7,12.3,13.8],"regionOverrides":{"intl":{"lv":[0,7.7,12.3,13.8,0]}},"ico":"4de17653f977fcaa"},
   {"debut":24,"genre":"ゲーム＆バラエティ","name":"∀","dx":1,"lv":[-6,8.2,11.9,14.2],"ico":"e01e7560acc1348d"},
-  {"debut":24,"genre":"ゲーム＆バラエティ","name":"Pixel Galaxy","dx":1,"lv":[-3,7.4,9.9,13],"ico":"efa1f420c755d481"}
+  {"debut":24,"genre":"ゲーム＆バラエティ","name":"Pixel Galaxy","dx":1,"lv":[-3,7.4,9.9,13],"ico":"efa1f420c755d481"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"MIRA","dx":1,"lv":[-2,-6,-9,-12.6],"ico":"35ca863f15d7624f"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"空回りライブラリ","dx":1,"lv":[-3,-6,-9.6,-12.6],"ico":"143a62b2d78eca40"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"お呪い","dx":1,"lv":[-2,-6,-10,-13],"ico":"25f700cd2c5eb52b"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"ありきたりな恋の歌","dx":1,"lv":[-4,-7,-10,-13.6],"ico":"d089a333ff0c746d"}
 ]
