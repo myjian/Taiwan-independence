@@ -815,7 +815,7 @@
   {"debut":12,"genre":"maimai","name":"the EmpErroR","dx":0,"lv":[-5,10.6,13.4,14.8,14.9],"regionOverrides":{"intl":{"lv":[0,10.6,13.4,14.8,14.9]}},"ico":"e5a64880bc872e8b"},
   {"debut":12,"genre":"maimai","name":"PANDORA PARADOXXX","dx":0,"lv":[7.7,11.5,13.9,14.9,15],"regionOverrides":{"intl":{"lv":[7.7,11.5,13.9,14.9,15]}},"ico":"35b2760a42a8eebe"},
   {"debut":12,"genre":"maimai","name":"Believe the Rainbow","dx":0,"lv":[-4,8.6,10.2,13.4],"regionOverrides":{"intl":{"lv":[0,8.6,10.2,13.4,0]}},"ico":"8cba62be80c4af2d"},
-  {"debut":12,"genre":"maimai","name":"Believe the Rainbow","dx":1,"lv":[2,6.2,9.9,13],"ico":"8cba62be80c4af2d"},
+  {"debut":24,"genre":"maimai","name":"Believe the Rainbow","dx":1,"lv":[2,6.2,9.9,13],"ico":"8cba62be80c4af2d"},
   {"debut":13,"genre":"maimai","name":"BLACK ROSE","dx":1,"lv":[-2,6.5,9.7,12.2],"regionOverrides":{"intl":{"lv":[0,6.5,9.7,12.2,0]}},"ico":"d780386f7cfd83ad"},
   {"debut":13,"genre":"maimai","name":"Secret Sleuth","dx":1,"lv":[-2,7,10.8,13.3,13.8],"regionOverrides":{"intl":{"lv":[0,7,10.8,13.3,13.8]}},"ico":"5ad3f5870e9aef1a"},
   {"debut":13,"genre":"maimai","name":"でらっくmaimai♪てんてこまい!","dx":1,"lv":[-4,7.7,10.3,12.7],"regionOverrides":{"intl":{"lv":[0,7.7,10.3,12.7,0]}},"ico":"461917094fed4012"},

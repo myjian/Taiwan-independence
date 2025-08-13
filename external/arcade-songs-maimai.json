@@ -44768,12 +44768,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 176,
+						"hold": 9,
+						"slide": 4,
+						"touch": 6,
+						"break": 4,
+						"total": 199
 					},
 					"regions": {
 						"jp": true,
@@ -44795,12 +44795,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 274,
+						"hold": 12,
+						"slide": 6,
+						"touch": 26,
+						"break": 4,
+						"total": 322
 					},
 					"regions": {
 						"jp": true,
@@ -44820,14 +44820,14 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 388,
+						"hold": 65,
+						"slide": 44,
+						"touch": 0,
+						"break": 23,
+						"total": 520
 					},
 					"regions": {
 						"jp": true,
@@ -44847,7 +44847,7 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 463,
 						"hold": 49,
@@ -105212,7 +105212,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -105238,7 +105239,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -105264,7 +105266,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -105290,7 +105293,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "std",
@@ -204368,7 +204372,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "MIRA",
 			"artist": "Kanaria",
-			"bpm": null,
+			"bpm": 148,
 			"imageName": "8af73ca81e2c0aaeafee1ab206d04d5dc1d60615e509035c08e0b02d7cc045e8.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-08-08",
@@ -204383,14 +204387,14 @@
 					"levelValue": 2,
 					"internalLevel": null,
 					"internalLevelValue": 2,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 118,
+						"hold": 10,
+						"slide": 4,
+						"touch": 18,
+						"break": 2,
+						"total": 152
 					},
 					"regions": {
 						"jp": true,
@@ -204410,14 +204414,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 248,
+						"hold": 12,
+						"slide": 8,
+						"touch": 11,
+						"break": 3,
+						"total": 282
 					},
 					"regions": {
 						"jp": true,
@@ -204437,14 +204441,14 @@
 					"levelValue": 9,
 					"internalLevel": null,
 					"internalLevelValue": 9,
-					"noteDesigner": null,
+					"noteDesigner": "カマボコ君",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 236,
+						"hold": 43,
+						"slide": 39,
+						"touch": 8,
+						"break": 8,
+						"total": 334
 					},
 					"regions": {
 						"jp": true,
@@ -204464,14 +204468,14 @@
 					"levelValue": 12.6,
 					"internalLevel": null,
 					"internalLevelValue": 12.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 311,
+						"hold": 40,
+						"slide": 49,
+						"touch": 87,
+						"break": 53,
+						"total": 540
 					},
 					"regions": {
 						"jp": true,
@@ -204491,7 +204495,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "空回りライブラリ",
 			"artist": "雪乃イト",
-			"bpm": null,
+			"bpm": 130,
 			"imageName": "33dd097d3acda0d089da1daf4744a0c8f0b52f9696b2f292a57c8bf7ab1d2ce1.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-08-08",
@@ -204506,14 +204510,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 152,
+						"hold": 9,
+						"slide": 4,
+						"touch": 9,
+						"break": 6,
+						"total": 180
 					},
 					"regions": {
 						"jp": true,
@@ -204533,14 +204537,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 267,
+						"hold": 16,
+						"slide": 4,
+						"touch": 11,
+						"break": 4,
+						"total": 302
 					},
 					"regions": {
 						"jp": true,
@@ -204560,14 +204564,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 297,
+						"hold": 32,
+						"slide": 37,
+						"touch": 13,
+						"break": 39,
+						"total": 418
 					},
 					"regions": {
 						"jp": true,
@@ -204587,14 +204591,14 @@
 					"levelValue": 12.6,
 					"internalLevel": null,
 					"internalLevelValue": 12.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 484,
+						"hold": 55,
+						"slide": 87,
+						"touch": 17,
+						"break": 24,
+						"total": 667
 					},
 					"regions": {
 						"jp": true,
@@ -204614,7 +204618,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "お呪い",
 			"artist": "なきそ",
-			"bpm": null,
+			"bpm": 115,
 			"imageName": "143a2361541b73c6a3a47e062e14ab97e6e18131960e5736368752094d0592b3.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-08-08",
@@ -204629,14 +204633,14 @@
 					"levelValue": 2,
 					"internalLevel": null,
 					"internalLevelValue": 2,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 92,
+						"hold": 7,
+						"slide": 6,
+						"touch": 8,
+						"break": 5,
+						"total": 118
 					},
 					"regions": {
 						"jp": true,
@@ -204656,14 +204660,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 205,
+						"hold": 8,
+						"slide": 6,
+						"touch": 6,
+						"break": 3,
+						"total": 228
 					},
 					"regions": {
 						"jp": true,
@@ -204683,14 +204687,14 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "きょむりん",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 210,
+						"hold": 78,
+						"slide": 10,
+						"touch": 18,
+						"break": 21,
+						"total": 337
 					},
 					"regions": {
 						"jp": true,
@@ -204710,14 +204714,14 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 382,
+						"hold": 16,
+						"slide": 73,
+						"touch": 39,
+						"break": 39,
+						"total": 549
 					},
 					"regions": {
 						"jp": true,
@@ -204737,7 +204741,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "ありきたりな恋の歌",
 			"artist": "GYARI",
-			"bpm": null,
+			"bpm": 180,
 			"imageName": "801629d887b1578e07a3cb0688bbbe92d50945e7fab1bb4580d852d14c314b1c.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-08-08",
@@ -204752,14 +204756,14 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 208,
+						"hold": 8,
+						"slide": 4,
+						"touch": 18,
+						"break": 6,
+						"total": 244
 					},
 					"regions": {
 						"jp": true,
@@ -204779,14 +204783,14 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 343,
+						"hold": 19,
+						"slide": 9,
+						"touch": 12,
+						"break": 4,
+						"total": 387
 					},
 					"regions": {
 						"jp": true,
@@ -204806,14 +204810,14 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 411,
+						"hold": 89,
+						"slide": 25,
+						"touch": 28,
+						"break": 24,
+						"total": 577
 					},
 					"regions": {
 						"jp": true,
@@ -204833,14 +204837,14 @@
 					"levelValue": 13.6,
 					"internalLevel": null,
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 503,
+						"hold": 53,
+						"slide": 122,
+						"touch": 136,
+						"break": 117,
+						"total": 931
 					},
 					"regions": {
 						"jp": true,
@@ -205068,5 +205072,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-08-08T01:11:10.198Z"
+	"updateTime": "2025-08-13T14:23:47.202Z"
 }
