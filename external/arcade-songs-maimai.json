@@ -44845,8 +44845,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 463,
@@ -204466,8 +204466,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 311,
@@ -204589,8 +204589,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 484,
@@ -204712,7 +204712,7 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": "アマリリス",
 					"noteCounts": {
@@ -204835,8 +204835,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 503,
@@ -205072,5 +205072,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-08-13T14:23:47.202Z"
+	"updateTime": "2025-08-15T01:09:56.569Z"
 }
