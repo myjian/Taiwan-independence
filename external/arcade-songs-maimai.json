@@ -37410,7 +37410,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -37437,7 +37437,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -37464,7 +37464,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -37491,7 +37491,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180897,7 +180897,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180924,7 +180924,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180951,7 +180951,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -180978,7 +180978,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181020,7 +181020,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181047,7 +181047,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181074,7 +181074,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181101,7 +181101,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181266,7 +181266,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181293,7 +181293,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181320,7 +181320,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181347,7 +181347,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181389,7 +181389,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181416,7 +181416,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181443,7 +181443,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181470,7 +181470,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181512,7 +181512,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181539,7 +181539,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181566,7 +181566,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -181593,7 +181593,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -184997,7 +184997,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185024,7 +185024,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185051,7 +185051,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185078,7 +185078,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185351,7 +185351,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185378,7 +185378,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185405,7 +185405,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185432,7 +185432,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185474,7 +185474,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185501,7 +185501,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185528,7 +185528,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185555,7 +185555,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185597,7 +185597,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185624,7 +185624,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185651,7 +185651,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -185678,7 +185678,7 @@
 					"regions": {
 						"jp": true,
 						"intl": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -198189,9 +198189,7 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
 					"isSpecial": false
 				},
@@ -198217,9 +198215,7 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
 					"isSpecial": false
 				},
@@ -198245,9 +198241,7 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
 					"isSpecial": false
 				},
@@ -198273,9 +198267,7 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
 					"isSpecial": false
 				}
@@ -204343,8 +204335,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
 					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
 						"tap": 523,
@@ -205072,5 +205064,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-08-15T01:09:56.569Z"
+	"updateTime": "2025-08-21T13:56:24.742Z"
 }
