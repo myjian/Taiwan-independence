@@ -1592,7 +1592,7 @@
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"空回りライブラリ","dx":1,"lv":[-3,6.5,9.7,12.8],"ico":"143a62b2d78eca40"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"お呪い","dx":1,"lv":[-2,6.2,10.2,13],"ico":"25f700cd2c5eb52b"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"ありきたりな恋の歌","dx":1,"lv":[-4,7.5,10.5,13.8],"ico":"d089a333ff0c746d"},
-  {"debut":24,"genre":"niconico＆ボーカロイド","name":"少女レイ","dx":1,"lv":[-2,-6,-9.6,12.9],"ico":"eda5cd3954117b53"},
-  {"debut":24,"genre":"niconico＆ボーカロイド","name":"少女A","dx":1,"lv":[-2,-6,-9.6,13.3],"ico":"4ef4e7537385b42b"},
-  {"debut":24,"genre":"niconico＆ボーカロイド","name":"帝国少女","dx":1,"lv":[-2,-6,-9,13.3],"ico":"edede17463c2cb20"}
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"少女レイ","dx":1,"lv":[-2,6.5,9.9,12.9],"ico":"eda5cd3954117b53"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"少女A","dx":1,"lv":[-2,6.2,9.9,13.3],"ico":"4ef4e7537385b42b"},
+  {"debut":24,"genre":"niconico＆ボーカロイド","name":"帝国少女","dx":1,"lv":[-2,6,9.2,13.3],"ico":"edede17463c2cb20"}
 ]
