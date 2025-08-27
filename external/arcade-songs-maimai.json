@@ -204979,7 +204979,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "少女レイ",
 			"artist": "みきとP",
-			"bpm": null,
+			"bpm": 150,
 			"imageName": "7b2cecac0681a0c1e3747e5318e6bbb5acd8a1309782e6deeacc8092ba539051.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-08-22",
@@ -204996,12 +204996,12 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 163,
+						"hold": 11,
+						"slide": 4,
+						"touch": 15,
+						"break": 6,
+						"total": 199
 					},
 					"regions": {
 						"jp": true,
@@ -205023,12 +205023,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 296,
+						"hold": 12,
+						"slide": 7,
+						"touch": 27,
+						"break": 4,
+						"total": 346
 					},
 					"regions": {
 						"jp": true,
@@ -205048,14 +205048,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 324,
+						"hold": 23,
+						"slide": 62,
+						"touch": 13,
+						"break": 11,
+						"total": 443
 					},
 					"regions": {
 						"jp": true,
@@ -205075,14 +205075,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 417,
+						"hold": 47,
+						"slide": 104,
+						"touch": 23,
+						"break": 31,
+						"total": 622
 					},
 					"regions": {
 						"jp": true,
@@ -205102,7 +205102,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "少女A",
 			"artist": "椎名もた",
-			"bpm": null,
+			"bpm": 130,
 			"imageName": "92d2d7c1ae4ea9e7a9786b2a32bdcd0375d47604de209ce99d9ebb2b782ce6ef.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-08-22",
@@ -205119,12 +205119,12 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 126,
+						"hold": 9,
+						"slide": 4,
+						"touch": 14,
+						"break": 6,
+						"total": 159
 					},
 					"regions": {
 						"jp": true,
@@ -205146,12 +205146,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 238,
+						"hold": 12,
+						"slide": 12,
+						"touch": 14,
+						"break": 4,
+						"total": 280
 					},
 					"regions": {
 						"jp": true,
@@ -205171,14 +205171,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 287,
+						"hold": 120,
+						"slide": 39,
+						"touch": 8,
+						"break": 12,
+						"total": 466
 					},
 					"regions": {
 						"jp": true,
@@ -205198,14 +205198,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.3",
 					"internalLevelValue": 13.3,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 686,
+						"hold": 29,
+						"slide": 91,
+						"touch": 15,
+						"break": 21,
+						"total": 842
 					},
 					"regions": {
 						"jp": true,
@@ -205225,7 +205225,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "帝国少女",
 			"artist": "R Sound Design",
-			"bpm": null,
+			"bpm": 118,
 			"imageName": "d52ae514f768b7c210dc50ebde5c05d26a3d6fbada7fa1b8be766740c842f223.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-08-22",
@@ -205242,12 +205242,12 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 114,
+						"hold": 10,
+						"slide": 4,
+						"touch": 9,
+						"break": 4,
+						"total": 141
 					},
 					"regions": {
 						"jp": true,
@@ -205269,12 +205269,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 195,
+						"hold": 15,
+						"slide": 8,
+						"touch": 27,
+						"break": 6,
+						"total": 251
 					},
 					"regions": {
 						"jp": true,
@@ -205294,14 +205294,14 @@
 					"levelValue": 9,
 					"internalLevel": null,
 					"internalLevelValue": 9,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 283,
+						"hold": 63,
+						"slide": 26,
+						"touch": 14,
+						"break": 3,
+						"total": 389
 					},
 					"regions": {
 						"jp": true,
@@ -205321,14 +205321,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.3",
 					"internalLevelValue": 13.3,
-					"noteDesigner": null,
+					"noteDesigner": "カマボコホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 506,
+						"hold": 28,
+						"slide": 93,
+						"touch": 49,
+						"break": 21,
+						"total": 697
 					},
 					"regions": {
 						"jp": true,
@@ -205556,5 +205556,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-08-22T02:23:49.659Z"
+	"updateTime": "2025-08-27T05:31:05.160Z"
 }
