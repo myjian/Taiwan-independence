@@ -203431,8 +203431,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 255,
@@ -203941,8 +203941,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "きょむりん & Luxizhel",
 					"noteCounts": {
 						"tap": 712,
@@ -203967,7 +203967,7 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
+					"internalLevel": "14.0",
 					"internalLevelValue": 14,
 					"noteDesigner": "Jack + Soma",
 					"noteCounts": {
@@ -205556,5 +205556,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-08-29T01:22:55.791Z"
+	"updateTime": "2025-09-04T01:04:41.427Z"
 }
