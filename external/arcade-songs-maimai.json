@@ -205225,7 +205225,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Luminescence",
 			"artist": "米虾Fomiki & 初云CLoudie",
-			"bpm": null,
+			"bpm": 184,
 			"imageName": "52edbb1dba0fa4cfac98729301400f25821c1c9c77833a6a7396a87a92a4ffaa.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-09-05",
@@ -205242,12 +205242,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 203,
+						"hold": 22,
+						"slide": 4,
+						"touch": 7,
+						"break": 5,
+						"total": 241
 					},
 					"regions": {
 						"jp": true,
@@ -205274,7 +205274,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 380
 					},
 					"regions": {
 						"jp": true,
@@ -205294,14 +205294,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 332,
+						"hold": 78,
+						"slide": 61,
+						"touch": 46,
+						"break": 61,
+						"total": 578
 					},
 					"regions": {
 						"jp": true,
@@ -205321,14 +205321,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 599,
+						"hold": 40,
+						"slide": 72,
+						"touch": 129,
+						"break": 42,
+						"total": 882
 					},
 					"regions": {
 						"jp": true,
@@ -205471,7 +205471,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "NO ONE YES MAN",
 			"artist": "MYUKKE.",
-			"bpm": null,
+			"bpm": 170,
 			"imageName": "d4ca0dffc2dd08e0c8c836bd003b1515e8d281c1c2bb1bc1852d4db2af38d888.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-09-05",
@@ -205493,7 +205493,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 180
 					},
 					"regions": {
 						"jp": true,
@@ -205515,12 +205515,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 260,
+						"hold": 14,
+						"slide": 7,
+						"touch": 28,
+						"break": 1,
+						"total": 310
 					},
 					"regions": {
 						"jp": true,
@@ -205540,14 +205540,14 @@
 					"levelValue": 12,
 					"internalLevel": "12.0",
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 365,
+						"hold": 45,
+						"slide": 60,
+						"touch": 11,
+						"break": 40,
+						"total": 521
 					},
 					"regions": {
 						"jp": true,
@@ -205567,14 +205567,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.9",
 					"internalLevelValue": 13.9,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー＆Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 515,
+						"hold": 73,
+						"slide": 81,
+						"touch": 92,
+						"break": 66,
+						"total": 827
 					},
 					"regions": {
 						"jp": true,
@@ -205594,7 +205594,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Leave All Behind",
 			"artist": "rider",
-			"bpm": null,
+			"bpm": 150,
 			"imageName": "a38fb01e205e28b1f6fafd0e03bbe631370fc8001d8d88135eca8b1697275c2f.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-09-05",
@@ -205616,7 +205616,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 160
 					},
 					"regions": {
 						"jp": true,
@@ -205643,7 +205643,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 269
 					},
 					"regions": {
 						"jp": true,
@@ -205663,14 +205663,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 285,
+						"hold": 46,
+						"slide": 38,
+						"touch": 26,
+						"break": 38,
+						"total": 433
 					},
 					"regions": {
 						"jp": true,
@@ -205690,14 +205690,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 501,
+						"hold": 39,
+						"slide": 48,
+						"touch": 60,
+						"break": 36,
+						"total": 684
 					},
 					"regions": {
 						"jp": true,
@@ -205717,7 +205717,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Retribution ～ Cycle of Redemption ～",
 			"artist": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
-			"bpm": null,
+			"bpm": 112,
 			"imageName": "c4e123cc5c9b91846170a9a9827aaed3ca1b7789a75d23301a0dec22a6b5ac9a.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-09-05",
@@ -205739,7 +205739,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 372
 					},
 					"regions": {
 						"jp": true,
@@ -205766,7 +205766,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 429
 					},
 					"regions": {
 						"jp": true,
@@ -205784,16 +205784,16 @@
 					"difficulty": "expert",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 640,
+						"hold": 57,
+						"slide": 36,
+						"touch": 40,
+						"break": 29,
+						"total": 802
 					},
 					"regions": {
 						"jp": true,
@@ -205811,16 +205811,16 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"internalLevel": "14.4",
+					"internalLevelValue": 14.4,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 726,
+						"hold": 100,
+						"slide": 93,
+						"touch": 64,
+						"break": 105,
+						"total": 1088
 					},
 					"regions": {
 						"jp": true,
@@ -206048,5 +206048,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-09-05T01:20:26.846Z"
+	"updateTime": "2025-09-05T15:44:35.213Z"
 }
