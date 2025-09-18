@@ -26634,6 +26634,129 @@
 			]
 		},
 		{
+			"songId": "[蔵]In Chaos",
+			"category": "宴会場",
+			"title": "[蔵]In Chaos",
+			"artist": "Hiro「Crackin’DJ」",
+			"bpm": null,
+			"imageName": "704d8f68917a041a526b8055b669145d7a28289a84da0b2ad03b4543fd83d7b8.png",
+			"version": "BUDDiES",
+			"releaseDate": "2023-12-25",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "チャンさんは今日もアクセル全開",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【蔵】",
+					"level": "14+?",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[右]The wheel to the right",
+			"category": "宴会場",
+			"title": "[右]The wheel to the right",
+			"artist": "Sampling Masters MEGA",
+			"bpm": null,
+			"imageName": "c9e62a59fdba62e3da399823c1a62812b974e234e1c9fdac39657ca326961c6d.png",
+			"version": "BUDDiES",
+			"releaseDate": "2024-02-29",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "インド人含め右に",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【右】",
+					"level": "14+?",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[逆]KING is BACK!!",
+			"category": "宴会場",
+			"title": "[逆]KING is BACK!!",
+			"artist": "A-One",
+			"bpm": null,
+			"imageName": "0f087e8a12b2b86936761f54c7175018f915854aeb0c50365aa578a1f19e1db6.png",
+			"version": "BUDDiES",
+			"releaseDate": "2024-02-29",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "お前がBACKするんかーーーい!!",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【逆】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
 			"songId": "True Love Song",
 			"category": "maimai",
 			"title": "True Love Song",
@@ -39652,10 +39775,118 @@
 			"imageName": "d76db1f6abc2d604ebb0139eda2e78582c59eb30de85eac0295b29fdaf8def9f.png",
 			"version": "GreeN",
 			"releaseDate": "2013-07-11",
-			"isNew": false,
+			"isNew": true,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
 				{
 					"type": "std",
 					"difficulty": "basic",
@@ -174605,47 +174836,6 @@
 			]
 		},
 		{
-			"songId": "[蔵]In Chaos",
-			"category": "宴会場",
-			"title": "[蔵]In Chaos",
-			"artist": "Hiro「Crackin’DJ」",
-			"bpm": null,
-			"imageName": "704d8f68917a041a526b8055b669145d7a28289a84da0b2ad03b4543fd83d7b8.png",
-			"version": "BUDDiES",
-			"releaseDate": "2023-12-25",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "チャンさんは今日もアクセル全開",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【蔵】",
-					"level": "14+?",
-					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
 			"songId": "[蛸]チルノのパーフェクトさんすう教室",
 			"category": "宴会場",
 			"title": "[蛸]チルノのパーフェクトさんすう教室",
@@ -177653,88 +177843,6 @@
 					"levelValue": 14.6,
 					"internalLevel": null,
 					"internalLevelValue": 14.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[右]The wheel to the right",
-			"category": "宴会場",
-			"title": "[右]The wheel to the right",
-			"artist": "Sampling Masters MEGA",
-			"bpm": null,
-			"imageName": "c9e62a59fdba62e3da399823c1a62812b974e234e1c9fdac39657ca326961c6d.png",
-			"version": "BUDDiES",
-			"releaseDate": "2024-02-29",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "インド人含め右に",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【右】",
-					"level": "14+?",
-					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[逆]KING is BACK!!",
-			"category": "宴会場",
-			"title": "[逆]KING is BACK!!",
-			"artist": "A-One",
-			"bpm": null,
-			"imageName": "0f087e8a12b2b86936761f54c7175018f915854aeb0c50365aa578a1f19e1db6.png",
-			"version": "BUDDiES",
-			"releaseDate": "2024-02-29",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "お前がBACKするんかーーーい!!",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【逆】",
-					"level": "13+?",
-					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -187010,7 +187118,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2024-09-12",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -187133,7 +187241,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2024-09-12",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -187256,7 +187364,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2024-09-12",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -190129,7 +190237,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2024-10-25",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -190252,7 +190360,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2024-10-25",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -190375,7 +190483,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2024-10-25",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -195283,7 +195391,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2025-02-27",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -195406,7 +195514,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2025-02-27",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -195529,7 +195637,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2025-02-27",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -198189,7 +198297,9 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -198215,7 +198325,9 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -198241,7 +198353,9 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -198267,7 +198381,9 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				}
@@ -198816,7 +198932,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-04-11",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -198841,11 +198957,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -198869,11 +198984,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -198897,11 +199011,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -198925,11 +199038,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		},
@@ -201185,88 +201297,6 @@
 			]
 		},
 		{
-			"songId": "[覚]Hainuwele",
-			"category": "宴会場",
-			"title": "[覚]Hainuwele",
-			"artist": "ETIA.",
-			"bpm": null,
-			"imageName": "0e482d3fe98d45755363a909270688f5e2ebd96ae780fd2861531958fb42d6ed.png",
-			"version": "PRiSM PLUS",
-			"releaseDate": "2025-06-20",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "maimai でらっくす版覚譜面もほしかった",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【覚】",
-					"level": "13+?",
-					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[逆]WE'RE BACK!!",
-			"category": "宴会場",
-			"title": "[逆]WE'RE BACK!!",
-			"artist": "Zekk",
-			"bpm": null,
-			"imageName": "3d0fc531eaad9db6f8d8f5977a3ec2b0119b9f41297ca764363a5976b52595fa.png",
-			"version": "PRiSM PLUS",
-			"releaseDate": "2025-06-20",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "SLIDE BACK!!",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【逆】",
-					"level": "12+?",
-					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
 			"songId": "抜錨",
 			"category": "niconico＆ボーカロイド",
 			"title": "抜錨",
@@ -201386,6 +201416,88 @@
 					},
 					"isSpecial": false,
 					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "[覚]Hainuwele",
+			"category": "宴会場",
+			"title": "[覚]Hainuwele",
+			"artist": "ETIA.",
+			"bpm": null,
+			"imageName": "0e482d3fe98d45755363a909270688f5e2ebd96ae780fd2861531958fb42d6ed.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-20",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "maimai でらっくす版覚譜面もほしかった",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【覚】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[逆]WE'RE BACK!!",
+			"category": "宴会場",
+			"title": "[逆]WE'RE BACK!!",
+			"artist": "Zekk",
+			"bpm": null,
+			"imageName": "3d0fc531eaad9db6f8d8f5977a3ec2b0119b9f41297ca764363a5976b52595fa.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-06-20",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "SLIDE BACK!!",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【逆】",
+					"level": "12+?",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		},
@@ -203626,6 +203738,125 @@
 			]
 		},
 		{
+			"songId": "Ref:rain (for 7th Heaven)",
+			"category": "maimai",
+			"title": "Ref:rain (for 7th Heaven)",
+			"artist": "カモメサノエレクトリックオーケストラ include Limonène",
+			"bpm": 188,
+			"imageName": "abcf8d06013f6ff6a1d1ffb70ddf42eae1a223cd9117c245e2f1e74ceb254541.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-07-13",
+			"isNew": false,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 279,
+						"hold": 28,
+						"slide": 14,
+						"touch": 32,
+						"break": 3,
+						"total": 356
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 523,
+						"hold": 20,
+						"slide": 19,
+						"touch": 31,
+						"break": 28,
+						"total": 621
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
+					"noteDesigner": "きょむりん & Luxizhel",
+					"noteCounts": {
+						"tap": 712,
+						"hold": 58,
+						"slide": 69,
+						"touch": 96,
+						"break": 56,
+						"total": 991
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.0",
+					"internalLevelValue": 14,
+					"noteDesigner": "Jack + Soma",
+					"noteCounts": {
+						"tap": 777,
+						"hold": 107,
+						"slide": 147,
+						"touch": 147,
+						"break": 47,
+						"total": 1225
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
 			"songId": "crazy (about you)",
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "crazy (about you)",
@@ -203758,7 +203989,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-16",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -203872,125 +204103,6 @@
 			]
 		},
 		{
-			"songId": "Ref:rain (for 7th Heaven)",
-			"category": "maimai",
-			"title": "Ref:rain (for 7th Heaven)",
-			"artist": "カモメサノエレクトリックオーケストラ include Limonène",
-			"bpm": 188,
-			"imageName": "abcf8d06013f6ff6a1d1ffb70ddf42eae1a223cd9117c245e2f1e74ceb254541.png",
-			"version": "PRiSM PLUS",
-			"releaseDate": "2025-07-13",
-			"isNew": false,
-			"isLocked": true,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "4",
-					"levelValue": 4,
-					"internalLevel": null,
-					"internalLevelValue": 4,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 279,
-						"hold": 28,
-						"slide": 14,
-						"touch": 32,
-						"break": 3,
-						"total": 356
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "8",
-					"levelValue": 8,
-					"internalLevel": null,
-					"internalLevelValue": 8,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 523,
-						"hold": 20,
-						"slide": 19,
-						"touch": 31,
-						"break": 28,
-						"total": 621
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
-					"noteDesigner": "きょむりん & Luxizhel",
-					"noteCounts": {
-						"tap": 712,
-						"hold": 58,
-						"slide": 69,
-						"touch": 96,
-						"break": 56,
-						"total": 991
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "14",
-					"levelValue": 14,
-					"internalLevel": "14.0",
-					"internalLevelValue": 14,
-					"noteDesigner": "Jack + Soma",
-					"noteCounts": {
-						"tap": 777,
-						"hold": 107,
-						"slide": 147,
-						"touch": 147,
-						"break": 47,
-						"total": 1225
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
 			"songId": "Tidal Wave",
 			"category": "オンゲキ＆CHUNITHM",
 			"title": "Tidal Wave",
@@ -204000,7 +204112,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-16",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -204367,7 +204479,7 @@
 			"bpm": 148,
 			"imageName": "8af73ca81e2c0aaeafee1ab206d04d5dc1d60615e509035c08e0b02d7cc045e8.png",
 			"version": "PRiSM PLUS",
-			"releaseDate": "2025-08-08",
+			"releaseDate": null,
 			"isNew": false,
 			"isLocked": false,
 			"comment": null,
@@ -204729,129 +204841,6 @@
 			]
 		},
 		{
-			"songId": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
-			"category": "宴会場",
-			"title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
-			"artist": "GYARI",
-			"bpm": null,
-			"imageName": "99a40805904616f17fcd478ca8b0195af5629229c54b01bc8617d344e7dbde29.png",
-			"version": "PRiSM PLUS",
-			"releaseDate": "2025-08-22",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "【🤝バディ】さらに言うことを聞いてくれるアカネチャン",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【協】",
-					"level": "13?",
-					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
-			"category": "宴会場",
-			"title": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
-			"artist": "南ノ南",
-			"bpm": null,
-			"imageName": "9538d6320c853768cbd14eb03f9850f949d44bfcca15037fecf67c340aaf13f5.png",
-			"version": "PRiSM PLUS",
-			"releaseDate": "2025-08-22",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "せかせかせかせかせかせかせかせかせかせか",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【耐】",
-					"level": "14?",
-					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[騒]ありきたりな恋の歌",
-			"category": "宴会場",
-			"title": "[騒]ありきたりな恋の歌",
-			"artist": "GYARI",
-			"bpm": null,
-			"imageName": "801629d887b1578e07a3cb0688bbbe92d50945e7fab1bb4580d852d14c314b1c.png",
-			"version": "PRiSM PLUS",
-			"releaseDate": "2025-08-22",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "【🤝バディ】花隈の歌は可愛いし小春六花はマジでうるさい",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【騒】",
-					"level": "13+?",
-					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
 			"songId": "ありきたりな恋の歌",
 			"category": "niconico＆ボーカロイド",
 			"title": "ありきたりな恋の歌",
@@ -204971,6 +204960,129 @@
 					},
 					"isSpecial": false,
 					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+			"category": "宴会場",
+			"title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+			"artist": "GYARI",
+			"bpm": null,
+			"imageName": "99a40805904616f17fcd478ca8b0195af5629229c54b01bc8617d344e7dbde29.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-08-22",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】さらに言うことを聞いてくれるアカネチャン",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【協】",
+					"level": "13?",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
+			"category": "宴会場",
+			"title": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
+			"artist": "南ノ南",
+			"bpm": null,
+			"imageName": "9538d6320c853768cbd14eb03f9850f949d44bfcca15037fecf67c340aaf13f5.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-08-22",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "せかせかせかせかせかせかせかせかせかせか",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【耐】",
+					"level": "14?",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[騒]ありきたりな恋の歌",
+			"category": "宴会場",
+			"title": "[騒]ありきたりな恋の歌",
+			"artist": "GYARI",
+			"bpm": null,
+			"imageName": "801629d887b1578e07a3cb0688bbbe92d50945e7fab1bb4580d852d14c314b1c.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-08-22",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】花隈の歌は可愛いし小春六花はマジでうるさい",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【騒】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		},
@@ -205221,129 +205333,6 @@
 			]
 		},
 		{
-			"songId": "Luminescence",
-			"category": "ゲーム＆バラエティ",
-			"title": "Luminescence",
-			"artist": "米虾Fomiki & 初云CLoudie",
-			"bpm": 184,
-			"imageName": "52edbb1dba0fa4cfac98729301400f25821c1c9c77833a6a7396a87a92a4ffaa.png",
-			"version": "PRiSM PLUS",
-			"releaseDate": "2025-09-05",
-			"isNew": true,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "4",
-					"levelValue": 4,
-					"internalLevel": null,
-					"internalLevelValue": 4,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 203,
-						"hold": 22,
-						"slide": 4,
-						"touch": 7,
-						"break": 5,
-						"total": 241
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "7+",
-					"levelValue": 7.6,
-					"internalLevel": null,
-					"internalLevelValue": 7.6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 316,
-						"hold": 20,
-						"slide": 16,
-						"touch": 26,
-						"break": 2,
-						"total": 380
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "11",
-					"levelValue": 11,
-					"internalLevel": null,
-					"internalLevelValue": 11,
-					"noteDesigner": "サファ太",
-					"noteCounts": {
-						"tap": 332,
-						"hold": 78,
-						"slide": 61,
-						"touch": 46,
-						"break": 61,
-						"total": 578
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM PLUS"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "13+",
-					"levelValue": 13.6,
-					"internalLevel": "13.8",
-					"internalLevelValue": 13.8,
-					"noteDesigner": "Jack",
-					"noteCounts": {
-						"tap": 599,
-						"hold": 40,
-						"slide": 72,
-						"touch": 129,
-						"break": 42,
-						"total": 882
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "PRiSM PLUS"
-				}
-			]
-		},
-		{
 			"songId": "帝国少女",
 			"category": "niconico＆ボーカロイド",
 			"title": "帝国少女",
@@ -205475,7 +205464,7 @@
 			"imageName": "d4ca0dffc2dd08e0c8c836bd003b1515e8d281c1c2bb1bc1852d4db2af38d888.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-09-05",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -205598,7 +205587,7 @@
 			"imageName": "a38fb01e205e28b1f6fafd0e03bbe631370fc8001d8d88135eca8b1697275c2f.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-09-05",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -205721,7 +205710,7 @@
 			"imageName": "c4e123cc5c9b91846170a9a9827aaed3ca1b7789a75d23301a0dec22a6b5ac9a.png",
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-09-05",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -205832,6 +205821,2629 @@
 					},
 					"isSpecial": false,
 					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Luminescence",
+			"category": "ゲーム＆バラエティ",
+			"title": "Luminescence",
+			"artist": "米虾Fomiki & 初云CLoudie",
+			"bpm": 184,
+			"imageName": "52edbb1dba0fa4cfac98729301400f25821c1c9c77833a6a7396a87a92a4ffaa.png",
+			"version": "PRiSM PLUS",
+			"releaseDate": "2025-09-05",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 203,
+						"hold": 22,
+						"slide": 4,
+						"touch": 7,
+						"break": 5,
+						"total": 241
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 316,
+						"hold": 20,
+						"slide": 16,
+						"touch": 26,
+						"break": 2,
+						"total": 380
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 332,
+						"hold": 78,
+						"slide": 61,
+						"touch": 46,
+						"break": 61,
+						"total": 578
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "Jack",
+					"noteCounts": {
+						"tap": 599,
+						"hold": 40,
+						"slide": 72,
+						"touch": 129,
+						"break": 42,
+						"total": 882
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
+				}
+			]
+		},
+		{
+			"songId": "CiRCLE CAMPAiGN",
+			"category": "maimai",
+			"title": "CiRCLE CAMPAiGN",
+			"artist": "サツキ feat.天音かなた",
+			"bpm": null,
+			"imageName": "85f67b84beb77324942974947eb8046bcda4565358e8f3fc4feb0fc8f4ab2230.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Magical Paradox",
+			"category": "maimai",
+			"title": "Magical Paradox",
+			"artist": "Mr.Asyu",
+			"bpm": null,
+			"imageName": "fba5dfc95e8f5b68fcaa28fa4a06feef00dd69af56dc132559c600bbc56cac5b.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "殿ッ！？ご乱心！？",
+			"category": "maimai",
+			"title": "殿ッ！？ご乱心！？",
+			"artist": "Shu feat. 天羽しろっぷ",
+			"bpm": null,
+			"imageName": "bbf90ce8b107ff06f415e7777acf4252defb8ba9acfda83e323ee44c0ccba27d.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "イーヴィルガール",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "イーヴィルガール",
+			"artist": "Fushi feat.吉乃",
+			"bpm": 180,
+			"imageName": "5e26a1a82894dc68e5760604cf07219fe1fdd79ece2d2c80d3b084cc9938a615.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Dazzle hop",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "Dazzle hop",
+			"artist": "Sampling Masters MEGA",
+			"bpm": 220,
+			"imageName": "33e39db8ab16b3a9ce78b2de5bcbebe1ddbfffaa0b3a618cb06313a78d624d3c.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Unwelcome School",
+			"category": "ゲーム＆バラエティ",
+			"title": "Unwelcome School",
+			"artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+			"bpm": null,
+			"imageName": "23ab67b13ca0aa29ec167dda513c02b0cf98de21cd8c8776f9acdda3dec89c01.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "彩りキャンバス",
+			"category": "ゲーム＆バラエティ",
+			"title": "彩りキャンバス",
+			"artist": "SUGAR RUSH「ブルーアーカイブ -Blue Archive-」",
+			"bpm": null,
+			"imageName": "0f4c6d4515f0c1cb06334701d18aad30451d6e5cede2066461eaad1b5febc044.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "死ぬな！",
+			"category": "POPS＆アニメ",
+			"title": "死ぬな！",
+			"artist": "こっちのけんと",
+			"bpm": null,
+			"imageName": "89c65b1e906650b2cc902e7926098440cd6e0139ba691901deaf530073069487.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "どんぐりGAME",
+			"category": "POPS＆アニメ",
+			"title": "どんぐりGAME",
+			"artist": "こっちのけんと",
+			"bpm": null,
+			"imageName": "179913407b1db857cce906358ede88589c2f95da5c3d10fdc9ac24c516fd424b.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "君だったから",
+			"category": "POPS＆アニメ",
+			"title": "君だったから",
+			"artist": "中野家の五つ子",
+			"bpm": null,
+			"imageName": "345c5490bec6a3f614ca6c6eded0492a317acf720f89fc86fda0a6f9c1d3c98a.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Overdose",
+			"category": "POPS＆アニメ",
+			"title": "Overdose",
+			"artist": "なとり",
+			"bpm": null,
+			"imageName": "50ce0572b198290311ffecdcc6556f08b4ada72d2a4df3f9884bde65f38b64c4.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "1",
+					"levelValue": 1,
+					"internalLevel": null,
+					"internalLevelValue": 1,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Bring it on",
+			"category": "POPS＆アニメ",
+			"title": "Bring it on",
+			"artist": "ROF-MAO",
+			"bpm": null,
+			"imageName": "c9fb3cad5e5b66d617fe7bc382cc0f8c9445ed8d329c3401d52e34ad3e0751d1.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "モニタリング",
+			"category": "niconico＆ボーカロイド",
+			"title": "モニタリング",
+			"artist": "DECO*27",
+			"bpm": null,
+			"imageName": "ea7e0de192e20fbb4a9207884a97e046c9ebace52df9697c885661c89fc36616.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "テトリス",
+			"category": "niconico＆ボーカロイド",
+			"title": "テトリス",
+			"artist": "柊マグネタイト",
+			"bpm": null,
+			"imageName": "c9d69620376431713e871dc5f95ec50b6789ae3cc13477fec791b1687eb290fb.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "有頂天ドリーマーズ",
+			"category": "東方Project",
+			"title": "有頂天ドリーマーズ",
+			"artist": "森羅万象",
+			"bpm": null,
+			"imageName": "cf0caeae364d3bd62e0671b6de6b20f740c4fdd1815122fcf998c3edcbef3950.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Eureka",
+			"category": "ゲーム＆バラエティ",
+			"title": "Eureka",
+			"artist": "sasakure.UK × ArmyTom (w/z Bitplane)",
+			"bpm": null,
+			"imageName": "33832437003a23ab5716fc195a83e37b9ab92ca678681efefa7850d13a4e8207.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "ニルヴの心臓",
+			"category": "ゲーム＆バラエティ",
+			"title": "ニルヴの心臓",
+			"artist": "TJ.hangneil + Atomic Sphere feat.Annabel",
+			"bpm": null,
+			"imageName": "eadb93dc8c53a902eb02e10e83c581b38407cc85e29b872089bdabffbf729468.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "サイエンス",
+			"category": "niconico＆ボーカロイド",
+			"title": "サイエンス",
+			"artist": "MIMI",
+			"bpm": null,
+			"imageName": "514e56928b99bb14e29cb096e006d75982d6d4aa9e39486feaf2593a7deb03b7.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "[蛸]時空を超えて久しぶり！",
+			"category": "宴会場",
+			"title": "[蛸]時空を超えて久しぶり！",
+			"artist": "アルル(CV 園崎未恵)「ぷよぷよ」",
+			"bpm": null,
+			"imageName": "c33c06b1a4364ba020541962dce358aae3036d8b865aeb40c9ec1b18e849112c.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "つなげたりして消すぷよ（令和最新版）",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【蛸】",
+					"level": "12+?",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[餡]隠密あんみつDX",
+			"category": "宴会場",
+			"title": "[餡]隠密あんみつDX",
+			"artist": "カルロス袴田 feat. 日南めい, 古川由彩",
+			"bpm": null,
+			"imageName": "85590470f648d76ecb10b687903fb0f2c8d270717bd9876e15cdff5cf555a3ad.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "いい感じに同時押しするといい感じになる！",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【餡】",
+					"level": "12+?",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[奏]のじゃロリック",
+			"category": "宴会場",
+			"title": "[奏]のじゃロリック",
+			"artist": "なみぐる feat.ちょこ 桃寝ちのい",
+			"bpm": null,
+			"imageName": "65470e7943ecd88fc0f4e12171cce476c85fcdb75614944b594c7c96bc4180ad.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】のじゃロリックがはじまるぞ",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【奏】",
+					"level": "13?",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[音]ラビットホール",
+			"category": "宴会場",
+			"title": "[音]ラビットホール",
+			"artist": "DECO*27",
+			"bpm": null,
+			"imageName": "7e6dbae884fa635981f6ff548378aeaf6286fb1ac2efee1582fce7a0f1fadcf2.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "～音取りほぼMAXバージョン～",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【音】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[耐]死ぬな！",
+			"category": "宴会場",
+			"title": "[耐]死ぬな！",
+			"artist": "こっちのけんと",
+			"bpm": null,
+			"imageName": "89c65b1e906650b2cc902e7926098440cd6e0139ba691901deaf530073069487.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-18",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "命はひとつ",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【耐】",
+					"level": "13?",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		}
@@ -205982,8 +208594,13 @@
 		},
 		{
 			"version": "PRiSM PLUS",
-			"abbr": "PRiSM+",
+			"abbr": "PRiSM+ (彩)",
 			"releaseDate": "2025-03-13"
+		},
+		{
+			"version": "CiRCLE",
+			"abbr": "CiRCLE",
+			"releaseDate": "2025-09-18"
 		}
 	],
 	"types": [
@@ -206048,5 +208665,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-09-17T01:55:30.402Z"
+	"updateTime": "2025-09-18T01:26:02.950Z"
 }
