@@ -211145,7 +211145,7 @@
 			"bpm": 148,
 			"imageName": "8af73ca81e2c0aaeafee1ab206d04d5dc1d60615e509035c08e0b02d7cc045e8.png",
 			"version": "PRiSM PLUS",
-			"releaseDate": null,
+			"releaseDate": "2025-08-08",
 			"isNew": false,
 			"isLocked": false,
 			"comment": null,
@@ -212891,7 +212891,7 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -214499,7 +214499,7 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.7",
 					"internalLevelValue": 13.7,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 618,
 						"hold": 38,
@@ -215462,5 +215462,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-09-19T13:28:28.470Z"
+	"updateTime": "2025-09-19T15:33:57.565Z"
 }
