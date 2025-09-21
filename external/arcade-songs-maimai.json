@@ -178623,8 +178623,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.5",
-					"internalLevelValue": 13.5,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
 					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 469,
@@ -211850,7 +211850,7 @@
 					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
 						"tap": 324,
-						"hold": 23,
+						"hold": 33,
 						"slide": 62,
 						"touch": 13,
 						"break": 11,
@@ -212792,7 +212792,7 @@
 			"category": "maimai",
 			"title": "Magical Paradox",
 			"artist": "Mr.Asyu",
-			"bpm": null,
+			"bpm": 192,
 			"imageName": "fba5dfc95e8f5b68fcaa28fa4a06feef00dd69af56dc132559c600bbc56cac5b.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
@@ -213604,7 +213604,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 189
 					},
 					"regions": {
 						"jp": true,
@@ -213632,7 +213632,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 331
 					},
 					"regions": {
 						"jp": true,
@@ -213655,12 +213655,12 @@
 					"internalLevelValue": 9.6,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 269,
+						"hold": 48,
+						"slide": 43,
+						"touch": 0,
+						"break": 15,
+						"total": 375
 					},
 					"regions": {
 						"jp": true,
@@ -213683,12 +213683,12 @@
 					"internalLevelValue": 13.3,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 457,
+						"hold": 32,
+						"slide": 64,
+						"touch": 58,
+						"break": 30,
+						"total": 641
 					},
 					"regions": {
 						"jp": true,
@@ -213731,7 +213731,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 166
 					},
 					"regions": {
 						"jp": true,
@@ -213759,7 +213759,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 275
 					},
 					"regions": {
 						"jp": true,
@@ -213782,12 +213782,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 137,
+						"hold": 91,
+						"slide": 33,
+						"touch": 39,
+						"break": 20,
+						"total": 420
 					},
 					"regions": {
 						"jp": true,
@@ -213810,12 +213810,12 @@
 					"internalLevelValue": 13.6,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 326,
+						"hold": 13,
+						"slide": 189,
+						"touch": 57,
+						"break": 23,
+						"total": 608
 					},
 					"regions": {
 						"jp": true,
@@ -213858,7 +213858,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 157
 					},
 					"regions": {
 						"jp": true,
@@ -213886,7 +213886,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 267
 					},
 					"regions": {
 						"jp": true,
@@ -213914,7 +213914,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 414
 					},
 					"regions": {
 						"jp": true,
@@ -213937,12 +213937,12 @@
 					"internalLevelValue": 12.8,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 316,
+						"hold": 34,
+						"slide": 76,
+						"touch": 40,
+						"break": 67,
+						"total": 533
 					},
 					"regions": {
 						"jp": true,
@@ -213963,7 +213963,7 @@
 			"category": "POPS＆アニメ",
 			"title": "Overdose",
 			"artist": "なとり",
-			"bpm": null,
+			"bpm": 118,
 			"imageName": "50ce0572b198290311ffecdcc6556f08b4ada72d2a4df3f9884bde65f38b64c4.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
@@ -213985,7 +213985,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 103
 					},
 					"regions": {
 						"jp": true,
@@ -214013,7 +214013,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 209
 					},
 					"regions": {
 						"jp": true,
@@ -214041,7 +214041,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 284
 					},
 					"regions": {
 						"jp": true,
@@ -214064,12 +214064,12 @@
 					"internalLevelValue": 13,
 					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 336,
+						"hold": 23,
+						"slide": 88,
+						"touch": 6,
+						"break": 15,
+						"total": 468
 					},
 					"regions": {
 						"jp": true,
@@ -214090,7 +214090,7 @@
 			"category": "POPS＆アニメ",
 			"title": "Bring it on",
 			"artist": "ROF-MAO",
-			"bpm": null,
+			"bpm": 143,
 			"imageName": "c9fb3cad5e5b66d617fe7bc382cc0f8c9445ed8d329c3401d52e34ad3e0751d1.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
@@ -214112,7 +214112,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 174
 					},
 					"regions": {
 						"jp": true,
@@ -214140,7 +214140,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 287
 					},
 					"regions": {
 						"jp": true,
@@ -214168,7 +214168,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 437
 					},
 					"regions": {
 						"jp": true,
@@ -214191,12 +214191,12 @@
 					"internalLevelValue": 13.4,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 572,
+						"hold": 84,
+						"slide": 87,
+						"touch": 59,
+						"break": 22,
+						"total": 824
 					},
 					"regions": {
 						"jp": true,
@@ -214471,7 +214471,7 @@
 					"levelValue": 12,
 					"internalLevel": "12.0",
 					"internalLevelValue": 12,
-					"noteDesigner": "緑風犬三郎】",
+					"noteDesigner": "緑風犬三郎",
 					"noteCounts": {
 						"tap": 545,
 						"hold": 20,
@@ -215462,5 +215462,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-09-19T15:33:57.565Z"
+	"updateTime": "2025-09-21T10:27:22.144Z"
 }
