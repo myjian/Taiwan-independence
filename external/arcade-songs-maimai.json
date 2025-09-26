@@ -215357,7 +215357,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "エンジェル ドリーム",
 			"artist": "「太鼓の達人」より",
-			"bpm": null,
+			"bpm": 180,
 			"imageName": "41c17afa35c90a7717a16b30e34f7c56bb33ea882e4544047c38477eb62a30bf.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-26",
@@ -215372,14 +215372,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 218
 					},
 					"regions": {
 						"jp": true,
@@ -215400,14 +215400,14 @@
 					"levelValue": 7.6,
 					"internalLevel": null,
 					"internalLevelValue": 7.6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 355
 					},
 					"regions": {
 						"jp": true,
@@ -215430,12 +215430,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 401,
+						"hold": 44,
+						"slide": 48,
+						"touch": 21,
+						"break": 19,
+						"total": 539
 					},
 					"regions": {
 						"jp": true,
@@ -215456,14 +215456,14 @@
 					"levelValue": 13.6,
 					"internalLevel": null,
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 592,
+						"hold": 56,
+						"slide": 101,
+						"touch": 24,
+						"break": 61,
+						"total": 834
 					},
 					"regions": {
 						"jp": true,
@@ -215484,7 +215484,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Hurtling Boys",
 			"artist": "さだきち イシカダス「太鼓の達人」より",
-			"bpm": null,
+			"bpm": 195,
 			"imageName": "0d1a286ec9890decfb0e293c4accf0ab1b38f95cf651b8aeac91259126ae94ec.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-26",
@@ -215499,14 +215499,14 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 233
 					},
 					"regions": {
 						"jp": true,
@@ -215527,14 +215527,14 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 360
 					},
 					"regions": {
 						"jp": true,
@@ -215557,12 +215557,12 @@
 					"internalLevelValue": 12.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 376,
+						"hold": 92,
+						"slide": 79,
+						"touch": 3,
+						"break": 59,
+						"total": 609
 					},
 					"regions": {
 						"jp": true,
@@ -215583,14 +215583,14 @@
 					"levelValue": 14,
 					"internalLevel": null,
 					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"noteDesigner": "鳩ホルダー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 694,
+						"hold": 76,
+						"slide": 92,
+						"touch": 38,
+						"break": 31,
+						"total": 931
 					},
 					"regions": {
 						"jp": true,
@@ -215828,5 +215828,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-09-26T01:23:51.907Z"
+	"updateTime": "2025-09-26T13:33:18.899Z"
 }
