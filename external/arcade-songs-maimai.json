@@ -41071,7 +41071,7 @@
 			"imageName": "d76db1f6abc2d604ebb0139eda2e78582c59eb30de85eac0295b29fdaf8def9f.png",
 			"version": "GreeN",
 			"releaseDate": "2013-07-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -41089,7 +41089,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 168
 					},
 					"regions": {
 						"jp": true,
@@ -41117,7 +41117,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 295
 					},
 					"regions": {
 						"jp": true,
@@ -41138,14 +41138,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 362
 					},
 					"regions": {
 						"jp": true,
@@ -41166,14 +41166,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "まぐランド",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 457,
+						"hold": 43,
+						"slide": 107,
+						"touch": 49,
+						"break": 37,
+						"total": 693
 					},
 					"regions": {
 						"jp": true,
@@ -61066,8 +61066,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -61094,8 +61094,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -61122,8 +61122,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -61150,8 +61150,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -89328,10 +89328,122 @@
 			"imageName": "77d031de5abea739be889a395a75d56d2ed0b8d53d089eb72e7852a8d44c2eb3.png",
 			"version": "MiLK",
 			"releaseDate": "2017-12-14",
-			"isNew": false,
+			"isNew": true,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
 				{
 					"type": "std",
 					"difficulty": "basic",
@@ -206202,8 +206314,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206230,8 +206342,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206258,8 +206370,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206286,8 +206398,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206329,8 +206441,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206357,8 +206469,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206385,8 +206497,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206413,8 +206525,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206456,8 +206568,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206484,8 +206596,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206512,8 +206624,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206540,8 +206652,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206583,8 +206695,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206611,8 +206723,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206639,8 +206751,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206667,8 +206779,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206710,8 +206822,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206752,8 +206864,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206794,8 +206906,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206836,8 +206948,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206878,8 +206990,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -206920,8 +207032,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -212669,7 +212781,7 @@
 			"imageName": "85f67b84beb77324942974947eb8046bcda4565358e8f3fc4feb0fc8f4ab2230.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -212682,12 +212794,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 223,
+						"hold": 9,
+						"slide": 8,
+						"touch": 6,
+						"break": 8,
+						"total": 254
 					},
 					"regions": {
 						"jp": true,
@@ -212710,12 +212822,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 337,
+						"hold": 18,
+						"slide": 15,
+						"touch": 28,
+						"break": 7,
+						"total": 405
 					},
 					"regions": {
 						"jp": true,
@@ -212796,7 +212908,7 @@
 			"imageName": "fba5dfc95e8f5b68fcaa28fa4a06feef00dd69af56dc132559c600bbc56cac5b.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -212809,12 +212921,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 227,
+						"hold": 30,
+						"slide": 4,
+						"touch": 15,
+						"break": 3,
+						"total": 279
 					},
 					"regions": {
 						"jp": true,
@@ -212837,12 +212949,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 319,
+						"hold": 16,
+						"slide": 13,
+						"touch": 46,
+						"break": 6,
+						"total": 400
 					},
 					"regions": {
 						"jp": true,
@@ -212863,14 +212975,14 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 365,
+						"hold": 84,
+						"slide": 68,
+						"touch": 47,
+						"break": 22,
+						"total": 586
 					},
 					"regions": {
 						"jp": true,
@@ -212893,12 +213005,12 @@
 					"internalLevelValue": 13.8,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 737,
+						"hold": 82,
+						"slide": 102,
+						"touch": 45,
+						"break": 76,
+						"total": 1052
 					},
 					"regions": {
 						"jp": true,
@@ -212923,7 +213035,7 @@
 			"imageName": "bbf90ce8b107ff06f415e7777acf4252defb8ba9acfda83e323ee44c0ccba27d.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -212936,12 +213048,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 258,
+						"hold": 14,
+						"slide": 6,
+						"touch": 13,
+						"break": 12,
+						"total": 303
 					},
 					"regions": {
 						"jp": true,
@@ -212964,12 +213076,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 264,
+						"hold": 25,
+						"slide": 12,
+						"touch": 30,
+						"break": 14,
+						"total": 345
 					},
 					"regions": {
 						"jp": true,
@@ -212990,14 +213102,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.7",
 					"internalLevelValue": 12.7,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 434,
+						"hold": 62,
+						"slide": 53,
+						"touch": 15,
+						"break": 69,
+						"total": 633
 					},
 					"regions": {
 						"jp": true,
@@ -213050,7 +213162,7 @@
 			"imageName": "5e26a1a82894dc68e5760604cf07219fe1fdd79ece2d2c80d3b084cc9938a615.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -213177,7 +213289,7 @@
 			"imageName": "33e39db8ab16b3a9ce78b2de5bcbebe1ddbfffaa0b3a618cb06313a78d624d3c.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -213190,12 +213302,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 229,
+						"hold": 5,
+						"slide": 11,
+						"touch": 14,
+						"break": 14,
+						"total": 273
 					},
 					"regions": {
 						"jp": true,
@@ -213218,12 +213330,12 @@
 					"internalLevelValue": 9,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 389,
+						"hold": 12,
+						"slide": 19,
+						"touch": 24,
+						"break": 6,
+						"total": 450
 					},
 					"regions": {
 						"jp": true,
@@ -213244,14 +213356,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.8",
 					"internalLevelValue": 12.8,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 470,
+						"hold": 98,
+						"slide": 79,
+						"touch": 12,
+						"break": 75,
+						"total": 734
 					},
 					"regions": {
 						"jp": true,
@@ -213272,14 +213384,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.2",
 					"internalLevelValue": 14.2,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 593,
+						"hold": 58,
+						"slide": 111,
+						"touch": 78,
+						"break": 13,
+						"total": 853
 					},
 					"regions": {
 						"jp": true,
@@ -213304,7 +213416,7 @@
 			"imageName": "23ab67b13ca0aa29ec167dda513c02b0cf98de21cd8c8776f9acdda3dec89c01.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -213317,12 +213429,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 172,
+						"hold": 9,
+						"slide": 4,
+						"touch": 10,
+						"break": 9,
+						"total": 204
 					},
 					"regions": {
 						"jp": true,
@@ -213345,12 +213457,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 258,
+						"hold": 12,
+						"slide": 6,
+						"touch": 28,
+						"break": 7,
+						"total": 311
 					},
 					"regions": {
 						"jp": true,
@@ -213373,12 +213485,12 @@
 					"internalLevelValue": 10.6,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 326,
+						"hold": 76,
+						"slide": 48,
+						"touch": 16,
+						"break": 13,
+						"total": 479
 					},
 					"regions": {
 						"jp": true,
@@ -213459,7 +213571,7 @@
 			"imageName": "0f4c6d4515f0c1cb06334701d18aad30451d6e5cede2066461eaad1b5febc044.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -213472,12 +213584,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 88,
+						"hold": 13,
+						"slide": 2,
+						"touch": 6,
+						"break": 3,
+						"total": 112
 					},
 					"regions": {
 						"jp": true,
@@ -213500,12 +213612,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 169,
+						"hold": 16,
+						"slide": 8,
+						"touch": 11,
+						"break": 4,
+						"total": 208
 					},
 					"regions": {
 						"jp": true,
@@ -213528,12 +213640,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 235,
+						"hold": 28,
+						"slide": 30,
+						"touch": 20,
+						"break": 15,
+						"total": 328
 					},
 					"regions": {
 						"jp": true,
@@ -213586,7 +213698,7 @@
 			"imageName": "89c65b1e906650b2cc902e7926098440cd6e0139ba691901deaf530073069487.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -213599,11 +213711,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 141,
+						"hold": 19,
+						"slide": 4,
+						"touch": 19,
+						"break": 6,
 						"total": 189
 					},
 					"regions": {
@@ -213627,11 +213739,11 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 296,
+						"hold": 11,
+						"slide": 7,
+						"touch": 13,
+						"break": 4,
 						"total": 331
 					},
 					"regions": {
@@ -213713,7 +213825,7 @@
 			"imageName": "179913407b1db857cce906358ede88589c2f95da5c3d10fdc9ac24c516fd424b.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -213726,11 +213838,11 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 134,
+						"hold": 13,
+						"slide": 4,
+						"touch": 10,
+						"break": 5,
 						"total": 166
 					},
 					"regions": {
@@ -213754,11 +213866,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 207,
+						"hold": 19,
+						"slide": 7,
+						"touch": 28,
+						"break": 14,
 						"total": 275
 					},
 					"regions": {
@@ -213840,7 +213952,7 @@
 			"imageName": "345c5490bec6a3f614ca6c6eded0492a317acf720f89fc86fda0a6f9c1d3c98a.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -213853,11 +213965,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 132,
+						"hold": 8,
+						"slide": 5,
+						"touch": 8,
+						"break": 4,
 						"total": 157
 					},
 					"regions": {
@@ -213881,11 +213993,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 219,
+						"hold": 8,
+						"slide": 8,
+						"touch": 28,
+						"break": 4,
 						"total": 267
 					},
 					"regions": {
@@ -213909,11 +214021,11 @@
 					"internalLevelValue": 9.6,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 300,
+						"hold": 43,
+						"slide": 27,
+						"touch": 19,
+						"break": 25,
 						"total": 414
 					},
 					"regions": {
@@ -213967,7 +214079,7 @@
 			"imageName": "50ce0572b198290311ffecdcc6556f08b4ada72d2a4df3f9884bde65f38b64c4.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -213980,11 +214092,11 @@
 					"internalLevelValue": 1,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 84,
+						"hold": 10,
+						"slide": 3,
+						"touch": 4,
+						"break": 2,
 						"total": 103
 					},
 					"regions": {
@@ -214008,11 +214120,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 181,
+						"hold": 8,
+						"slide": 4,
+						"touch": 11,
+						"break": 5,
 						"total": 209
 					},
 					"regions": {
@@ -214036,11 +214148,11 @@
 					"internalLevelValue": 9.6,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 214,
+						"hold": 12,
+						"slide": 32,
+						"touch": 12,
+						"break": 14,
 						"total": 284
 					},
 					"regions": {
@@ -214094,7 +214206,7 @@
 			"imageName": "c9fb3cad5e5b66d617fe7bc382cc0f8c9445ed8d329c3401d52e34ad3e0751d1.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -214107,11 +214219,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 141,
+						"hold": 10,
+						"slide": 6,
+						"touch": 10,
+						"break": 7,
 						"total": 174
 					},
 					"regions": {
@@ -214135,11 +214247,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 233,
+						"hold": 10,
+						"slide": 10,
+						"touch": 28,
+						"break": 6,
 						"total": 287
 					},
 					"regions": {
@@ -214163,11 +214275,11 @@
 					"internalLevelValue": 10,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 281,
+						"hold": 31,
+						"slide": 40,
+						"touch": 29,
+						"break": 56,
 						"total": 437
 					},
 					"regions": {
@@ -214221,7 +214333,7 @@
 			"imageName": "ea7e0de192e20fbb4a9207884a97e046c9ebace52df9697c885661c89fc36616.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -214234,12 +214346,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 123,
+						"hold": 11,
+						"slide": 4,
+						"touch": 8,
+						"break": 7,
+						"total": 153
 					},
 					"regions": {
 						"jp": true,
@@ -214262,12 +214374,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 202,
+						"hold": 8,
+						"slide": 9,
+						"touch": 26,
+						"break": 3,
+						"total": 248
 					},
 					"regions": {
 						"jp": true,
@@ -214290,12 +214402,12 @@
 					"internalLevelValue": 10.6,
 					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 330,
+						"hold": 49,
+						"slide": 60,
+						"touch": 17,
+						"break": 17,
+						"total": 473
 					},
 					"regions": {
 						"jp": true,
@@ -214316,7 +214428,7 @@
 					"levelValue": 11.6,
 					"internalLevel": "11.8",
 					"internalLevelValue": 11.8,
-					"noteDesigner": "緑風犬三郎",
+					"noteDesigner": "緑風 犬三郎",
 					"noteCounts": {
 						"tap": 344,
 						"hold": 26,
@@ -214344,7 +214456,7 @@
 					"levelValue": 13,
 					"internalLevel": "13.4",
 					"internalLevelValue": 13.4,
-					"noteDesigner": null,
+					"noteDesigner": "カマボコ君",
 					"noteCounts": {
 						"tap": 439,
 						"hold": 43,
@@ -214376,7 +214488,7 @@
 			"imageName": "c9d69620376431713e871dc5f95ec50b6789ae3cc13477fec791b1687eb290fb.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -214389,12 +214501,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 218,
+						"hold": 7,
+						"slide": 4,
+						"touch": 9,
+						"break": 8,
+						"total": 246
 					},
 					"regions": {
 						"jp": true,
@@ -214417,12 +214529,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 320,
+						"hold": 19,
+						"slide": 8,
+						"touch": 24,
+						"break": 8,
+						"total": 379
 					},
 					"regions": {
 						"jp": true,
@@ -214445,12 +214557,12 @@
 					"internalLevelValue": 10.6,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 346,
+						"hold": 65,
+						"slide": 60,
+						"touch": 26,
+						"break": 64,
+						"total": 561
 					},
 					"regions": {
 						"jp": true,
@@ -214471,7 +214583,7 @@
 					"levelValue": 12,
 					"internalLevel": "12.0",
 					"internalLevelValue": 12,
-					"noteDesigner": "緑風犬三郎",
+					"noteDesigner": "緑風 犬三郎",
 					"noteCounts": {
 						"tap": 545,
 						"hold": 20,
@@ -214531,7 +214643,7 @@
 			"imageName": "cf0caeae364d3bd62e0671b6de6b20f740c4fdd1815122fcf998c3edcbef3950.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -214544,12 +214656,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 135,
+						"hold": 13,
+						"slide": 4,
+						"touch": 7,
+						"break": 4,
+						"total": 163
 					},
 					"regions": {
 						"jp": true,
@@ -214572,12 +214684,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 262,
+						"hold": 14,
+						"slide": 7,
+						"touch": 13,
+						"break": 6,
+						"total": 302
 					},
 					"regions": {
 						"jp": true,
@@ -214600,12 +214712,12 @@
 					"internalLevelValue": 10.6,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 330,
+						"hold": 56,
+						"slide": 21,
+						"touch": 17,
+						"break": 22,
+						"total": 446
 					},
 					"regions": {
 						"jp": true,
@@ -214628,12 +214740,12 @@
 					"internalLevelValue": 13.1,
 					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 481,
+						"hold": 37,
+						"slide": 74,
+						"touch": 18,
+						"break": 35,
+						"total": 645
 					},
 					"regions": {
 						"jp": true,
@@ -214658,7 +214770,7 @@
 			"imageName": "33832437003a23ab5716fc195a83e37b9ab92ca678681efefa7850d13a4e8207.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -214671,12 +214783,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 172,
+						"hold": 10,
+						"slide": 5,
+						"touch": 6,
+						"break": 4,
+						"total": 197
 					},
 					"regions": {
 						"jp": true,
@@ -214699,12 +214811,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 262,
+						"hold": 28,
+						"slide": 8,
+						"touch": 24,
+						"break": 6,
+						"total": 328
 					},
 					"regions": {
 						"jp": true,
@@ -214727,12 +214839,12 @@
 					"internalLevelValue": 11.6,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 294,
+						"hold": 88,
+						"slide": 46,
+						"touch": 23,
+						"break": 24,
+						"total": 475
 					},
 					"regions": {
 						"jp": true,
@@ -214755,12 +214867,12 @@
 					"internalLevelValue": 14.1,
 					"noteDesigner": "Luxizhel vs サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 629,
+						"hold": 112,
+						"slide": 72,
+						"touch": 60,
+						"break": 34,
+						"total": 907
 					},
 					"regions": {
 						"jp": true,
@@ -214785,7 +214897,7 @@
 			"imageName": "eadb93dc8c53a902eb02e10e83c581b38407cc85e29b872089bdabffbf729468.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -214798,12 +214910,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 278,
+						"hold": 8,
+						"slide": 12,
+						"touch": 9,
+						"break": 4,
+						"total": 311
 					},
 					"regions": {
 						"jp": true,
@@ -214826,12 +214938,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 340,
+						"hold": 15,
+						"slide": 8,
+						"touch": 28,
+						"break": 3,
+						"total": 394
 					},
 					"regions": {
 						"jp": true,
@@ -214882,12 +214994,12 @@
 					"internalLevelValue": 14.3,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 585,
+						"hold": 111,
+						"slide": 72,
+						"touch": 33,
+						"break": 79,
+						"total": 880
 					},
 					"regions": {
 						"jp": true,
@@ -214912,7 +215024,7 @@
 			"imageName": "514e56928b99bb14e29cb096e006d75982d6d4aa9e39486feaf2593a7deb03b7.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-09-18",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -214925,12 +215037,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 162,
+						"hold": 13,
+						"slide": 8,
+						"touch": 8,
+						"break": 4,
+						"total": 195
 					},
 					"regions": {
 						"jp": true,
@@ -214953,12 +215065,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 356,
+						"hold": 12,
+						"slide": 6,
+						"touch": 26,
+						"break": 4,
+						"total": 404
 					},
 					"regions": {
 						"jp": true,
@@ -214981,12 +215093,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 359,
+						"hold": 72,
+						"slide": 47,
+						"touch": 42,
+						"break": 12,
+						"total": 532
 					},
 					"regions": {
 						"jp": true,
@@ -215239,6 +215351,260 @@
 					"isSpecial": true
 				}
 			]
+		},
+		{
+			"songId": "エンジェル ドリーム",
+			"category": "ゲーム＆バラエティ",
+			"title": "エンジェル ドリーム",
+			"artist": "「太鼓の達人」より",
+			"bpm": null,
+			"imageName": "41c17afa35c90a7717a16b30e34f7c56bb33ea882e4544047c38477eb62a30bf.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-26",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Hurtling Boys",
+			"category": "ゲーム＆バラエティ",
+			"title": "Hurtling Boys",
+			"artist": "さだきち イシカダス「太鼓の達人」より",
+			"bpm": null,
+			"imageName": "0d1a286ec9890decfb0e293c4accf0ab1b38f95cf651b8aeac91259126ae94ec.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-09-26",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
 		}
 	],
 	"categories": [
@@ -215462,5 +215828,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-09-21T10:27:22.144Z"
+	"updateTime": "2025-09-26T01:23:51.907Z"
 }
