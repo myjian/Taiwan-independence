@@ -207074,12 +207074,14 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -207101,12 +207103,14 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -207128,12 +207132,14 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -207155,12 +207161,14 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				}
@@ -215611,7 +215619,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "しゅ～しん？変身☆ハカイシンzzZ",
 			"artist": "YOFUKASHi Sound Team feat.編井うも",
-			"bpm": null,
+			"bpm": 180,
 			"imageName": "f9dbd4b8f4509aadbbf0a645840186b284fd56fed211d1b6943636a547998e01.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-03",
@@ -215628,11 +215636,11 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 180,
+						"hold": 14,
+						"slide": 4,
+						"touch": 16,
+						"break": 7,
 						"total": 221
 					},
 					"regions": {
@@ -215656,11 +215664,11 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 305,
+						"hold": 26,
+						"slide": 12,
+						"touch": 18,
+						"break": 4,
 						"total": 365
 					},
 					"regions": {
@@ -215682,13 +215690,13 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 366,
+						"hold": 87,
+						"slide": 46,
+						"touch": 38,
+						"break": 71,
 						"total": 608
 					},
 					"regions": {
@@ -215710,13 +215718,13 @@
 					"levelValue": 13.6,
 					"internalLevel": null,
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 524,
+						"hold": 56,
+						"slide": 92,
+						"touch": 105,
+						"break": 126,
 						"total": 903
 					},
 					"regions": {
@@ -215738,7 +215746,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "命テステス",
 			"artist": "ぱりぱりさらうどん",
-			"bpm": null,
+			"bpm": 240,
 			"imageName": "a27b6ce6a58a0c33c18aefa5d1053ebedf7fa38d8bede82521daad0f2303fdc0.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-03",
@@ -215755,11 +215763,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 138,
+						"hold": 13,
+						"slide": 4,
+						"touch": 12,
+						"break": 2,
 						"total": 169
 					},
 					"regions": {
@@ -215783,11 +215791,11 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 284,
+						"hold": 10,
+						"slide": 12,
+						"touch": 16,
+						"break": 2,
 						"total": 324
 					},
 					"regions": {
@@ -215809,13 +215817,13 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 242,
+						"hold": 89,
+						"slide": 46,
+						"touch": 19,
+						"break": 17,
 						"total": 413
 					},
 					"regions": {
@@ -215837,13 +215845,13 @@
 					"levelValue": 13.6,
 					"internalLevel": null,
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 289,
+						"hold": 33,
+						"slide": 108,
+						"touch": 71,
+						"break": 8,
 						"total": 509
 					},
 					"regions": {
@@ -215865,7 +215873,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "拝啓、最高の思い出たち",
 			"artist": "ヤレギノ",
-			"bpm": null,
+			"bpm": 124,
 			"imageName": "abc465389781c16b68adcd3bac4fedc8b3654d976d2ab84da521bb64a8bc07f3.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-03",
@@ -215882,11 +215890,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 137,
+						"hold": 111,
+						"slide": 6,
+						"touch": 12,
+						"break": 4,
 						"total": 170
 					},
 					"regions": {
@@ -215910,11 +215918,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 195,
+						"hold": 10,
+						"slide": 6,
+						"touch": 26,
+						"break": 7,
 						"total": 244
 					},
 					"regions": {
@@ -215936,13 +215944,13 @@
 					"levelValue": 9,
 					"internalLevel": null,
 					"internalLevelValue": 9,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 278,
+						"hold": 46,
+						"slide": 16,
+						"touch": 18,
+						"break": 19,
 						"total": 377
 					},
 					"regions": {
@@ -215964,13 +215972,13 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 528,
+						"hold": 48,
+						"slide": 75,
+						"touch": 38,
+						"break": 28,
 						"total": 717
 					},
 					"regions": {
@@ -215992,7 +216000,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "おべんきょうたいむ",
 			"artist": "litmus*",
-			"bpm": null,
+			"bpm": 165,
 			"imageName": "41da9bd03d97c80d29187ece38ed8df20cc67b4ea2800a684390e508214530d5.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-03",
@@ -216009,11 +216017,11 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 211,
+						"hold": 13,
+						"slide": 7,
+						"touch": 13,
+						"break": 8,
 						"total": 252
 					},
 					"regions": {
@@ -216037,11 +216045,11 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 312,
+						"hold": 16,
+						"slide": 6,
+						"touch": 26,
+						"break": 8,
 						"total": 368
 					},
 					"regions": {
@@ -216063,13 +216071,13 @@
 					"levelValue": 12,
 					"internalLevel": null,
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 410,
+						"hold": 103,
+						"slide": 56,
+						"touch": 19,
+						"break": 65,
 						"total": 653
 					},
 					"regions": {
@@ -216091,13 +216099,13 @@
 					"levelValue": 14,
 					"internalLevel": null,
 					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 626,
+						"hold": 96,
+						"slide": 127,
+						"touch": 65,
+						"break": 91,
 						"total": 1006
 					},
 					"regions": {
@@ -216119,7 +216127,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "るろうらんる",
 			"artist": "ちから",
-			"bpm": null,
+			"bpm": 156,
 			"imageName": "4e7586c6a57269e20e92176da21c203dafc923fc8a4598b8b830538e9ba3c0ba.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-03",
@@ -216190,13 +216198,13 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 476,
+						"hold": 49,
+						"slide": 31,
+						"touch": 16,
+						"break": 15,
 						"total": 593
 					},
 					"regions": {
@@ -216218,13 +216226,13 @@
 					"levelValue": 14,
 					"internalLevel": null,
 					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"noteDesigner": "るしえる",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 699,
+						"hold": 114,
+						"slide": 60,
+						"touch": 45,
+						"break": 30,
 						"total": 948
 					},
 					"regions": {
@@ -216463,5 +216471,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-10-03T01:20:56.374Z"
+	"updateTime": "2025-10-05T16:29:10.872Z"
 }
