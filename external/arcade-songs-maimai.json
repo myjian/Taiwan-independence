@@ -215561,8 +215561,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 376,
@@ -215716,8 +215716,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 524,
@@ -215843,7 +215843,7 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
+					"internalLevel": "13.6",
 					"internalLevelValue": 13.6,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
@@ -215891,7 +215891,7 @@
 					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": 137,
-						"hold": 111,
+						"hold": 11,
 						"slide": 6,
 						"touch": 12,
 						"break": 4,
@@ -215970,7 +215970,7 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": "Jack",
 					"noteCounts": {
@@ -216069,8 +216069,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.4",
+					"internalLevelValue": 12.4,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 410,
@@ -216097,14 +216097,14 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
+					"internalLevel": "14.1",
+					"internalLevelValue": 14.1,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 626,
 						"hold": 96,
 						"slide": 127,
-						"touch": 65,
+						"touch": 66,
 						"break": 91,
 						"total": 1006
 					},
@@ -216202,9 +216202,9 @@
 					"noteCounts": {
 						"tap": 476,
 						"hold": 49,
-						"slide": 31,
+						"slide": 35,
 						"touch": 16,
-						"break": 15,
+						"break": 17,
 						"total": 593
 					},
 					"regions": {
@@ -216224,8 +216224,8 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
+					"internalLevel": "14.3",
+					"internalLevelValue": 14.3,
 					"noteDesigner": "るしえる",
 					"noteCounts": {
 						"tap": 699,
@@ -216471,5 +216471,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-10-05T16:29:10.872Z"
+	"updateTime": "2025-10-07T04:13:15.709Z"
 }
