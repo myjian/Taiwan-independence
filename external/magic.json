@@ -1532,7 +1532,7 @@
   {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"Supersonic Generation","dx":1,"lv":[-4,8,11.7,13.9],"regionOverrides":{"intl":{"debut":23,"lv":[0,8,11.7,13.9,0]}},"ico":"fa5e0d329a6c6726"},
   {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"Zitronectar","dx":1,"lv":[-5,8.7,12,14.3],"regionOverrides":{"intl":{"lv":[0,8.7,12,14.3,0]}},"ico":"2b7c6e8b13676f2e"},
   {"debut":24,"genre":"POPS＆アニメ","name":"きゅびずむ","dx":1,"lv":[-3,7,10,12.9],"regionOverrides":{"intl":{"lv":[0,7,10,12.9,0]}},"ico":"d4f287d89b9d0f60"},
-  {"debut":24,"genre":"POPS＆アニメ","name":"きゅびびびびずむ","dx":1,"lv":[-5,8,12,13.8],"ico":"ce4c219f98b929ed"},
+  {"debut":24,"genre":"POPS＆アニメ","name":"きゅびびびびずむ","dx":1,"lv":[-5,8,12,13.8],"regionOverrides":{"intl":{"lv":[0,8,12,13.8,0]}},"ico":"ce4c219f98b929ed"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"ゆりかご","dx":1,"lv":[-2,6,9,13],"regionOverrides":{"intl":{"lv":[0,6,9,13,0]}},"ico":"3e37cf333cc6d5cc"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"月光","dx":1,"lv":[-4,8,11.2,13.7],"regionOverrides":{"intl":{"lv":[0,8,11.2,13.7,0]}},"ico":"06ae6978bd93cd5b"},
   {"debut":24,"genre":"POPS＆アニメ","name":"はいよろこんで","dx":1,"lv":[-3,6.5,9.8,11.6,13.2],"regionOverrides":{"intl":{"lv":[0,6.5,9.8,11.6,13.2]}},"ico":"64786ca51d37629b"},
