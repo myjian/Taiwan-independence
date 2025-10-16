@@ -32540,7 +32540,7 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -32568,14 +32568,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.2",
 					"internalLevelValue": 13.2,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 430,
+						"hold": 67,
+						"slide": 85,
+						"touch": 33,
+						"break": 39,
+						"total": 647
 					},
 					"regions": {
 						"jp": true,
@@ -216366,7 +216366,7 @@
 			"category": "maimai",
 			"title": "廃墟にいますキャンペーン",
 			"artist": "吉田夜世 feat.ちっく。",
-			"bpm": null,
+			"bpm": 215,
 			"imageName": "73b0669cbc9f19f070567cf5c7e82a000dd1740e016389b02d450da364ed0672.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-16",
@@ -216383,12 +216383,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 235,
+						"hold": 18,
+						"slide": 3,
+						"touch": 8,
+						"break": 6,
+						"total": 270
 					},
 					"regions": {
 						"jp": true,
@@ -216410,12 +216410,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 326,
+						"hold": 19,
+						"slide": 8,
+						"touch": 46,
+						"break": 8,
+						"total": 407
 					},
 					"regions": {
 						"jp": true,
@@ -216435,14 +216435,14 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 415,
+						"hold": 51,
+						"slide": 52,
+						"touch": 35,
+						"break": 30,
+						"total": 583
 					},
 					"regions": {
 						"jp": true,
@@ -216460,16 +216460,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 606,
+						"hold": 53,
+						"slide": 153,
+						"touch": 34,
+						"break": 33,
+						"total": 879
 					},
 					"regions": {
 						"jp": true,
@@ -216556,7 +216556,7 @@
 					"difficulty": "expert",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": null,
 					"noteCounts": {
@@ -216583,8 +216583,8 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
+					"internalLevel": "14.8",
+					"internalLevelValue": 14.8,
 					"noteDesigner": "サファ太 vs じゃこレモン",
 					"noteCounts": {
 						"tap": 758,
@@ -216612,7 +216612,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "はじまりの未来",
 			"artist": "40mP × sasakure.UK / 初音ミク「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」",
-			"bpm": null,
+			"bpm": 156,
 			"imageName": "2fa76cbe8ff01b6ef36592a8832d959bfcd5785e9865ce13b0375bfcfbb227bb.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-16",
@@ -216629,12 +216629,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 102,
+						"hold": 17,
+						"slide": 5,
+						"touch": 7,
+						"break": 3,
+						"total": 134
 					},
 					"regions": {
 						"jp": true,
@@ -216657,12 +216657,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 224,
+						"hold": 18,
+						"slide": 8,
+						"touch": 26,
+						"break": 4,
+						"total": 280
 					},
 					"regions": {
 						"jp": true,
@@ -216683,14 +216683,14 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 332,
+						"hold": 39,
+						"slide": 27,
+						"touch": 8,
+						"break": 27,
+						"total": 433
 					},
 					"regions": {
 						"jp": true,
@@ -216711,14 +216711,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "ぴちネコ",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 335,
+						"hold": 50,
+						"slide": 62,
+						"touch": 121,
+						"break": 55,
+						"total": 623
 					},
 					"regions": {
 						"jp": true,
@@ -216739,7 +216739,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "Worlders",
 			"artist": "じん / バーチャル・シンガー、Leo/need、MORE MORE JUMP！、Vivid BAD SQUAD、ワンダーランズ×ショウタイム、25時、ナイトコードで。「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」",
-			"bpm": null,
+			"bpm": 137,
 			"imageName": "fb8006c007625f79cd07f74b31891b1405113a47dd3f3875f39e7b2c75ab7c67.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-16",
@@ -216761,7 +216761,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 140
 					},
 					"regions": {
 						"jp": true,
@@ -216789,7 +216789,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 240
 					},
 					"regions": {
 						"jp": true,
@@ -216810,14 +216810,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 285,
+						"hold": 34,
+						"slide": 35,
+						"touch": 5,
+						"break": 25,
+						"total": 384
 					},
 					"regions": {
 						"jp": true,
@@ -216838,14 +216838,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.8",
 					"internalLevelValue": 12.8,
-					"noteDesigner": null,
+					"noteDesigner": "カマボコ君",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 382,
+						"hold": 17,
+						"slide": 74,
+						"touch": 3,
+						"break": 56,
+						"total": 532
 					},
 					"regions": {
 						"jp": true,
@@ -217167,5 +217167,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-10-16T01:33:49.806Z"
+	"updateTime": "2025-10-16T12:08:07.733Z"
 }
