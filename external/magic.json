@@ -226,7 +226,7 @@
   {"debut":0,"genre":"niconico＆ボーカロイド","name":"メグメグ☆ファイアーエンドレスナイト","dx":0,"lv":[-7,7.8,8.8,11.7],"regionOverrides":{"intl":{"lv":[0,7.8,8.8,11.7,0]}},"ico":"c5b4e1db83ded58b"},
   {"debut":0,"genre":"ゲーム＆バラエティ","name":"きみのためなら死ねる","dx":0,"lv":[-4,7,10,12.5],"regionOverrides":{"intl":{"lv":[0,7,10,12.5,0]}},"ico":"2e40a6e7ff485668"},
   {"debut":0,"genre":"ゲーム＆バラエティ","name":"怪盗Rのテーマ","dx":0,"lv":[-5,7.8,10.6,12.7],"regionOverrides":{"intl":{"lv":[0,7.8,10.6,12.7,0]}},"ico":"7164862f8378206f"},
-  {"debut":25,"genre":"ゲーム＆バラエティ","name":"怪盗Rのテーマ","dx":1,"lv":[-3,-6,-10,13.2],"ico":"7164862f8378206f"},
+  {"debut":25,"genre":"ゲーム＆バラエティ","name":"怪盗Rのテーマ","dx":1,"lv":[3,6.2,10.5,13.2],"ico":"7164862f8378206f"},
   {"debut":0,"genre":"ゲーム＆バラエティ","name":"マリアをはげませ","dx":0,"lv":[-5,7,8.7,11.9],"regionOverrides":{"intl":{"lv":[0,7,8.7,11.9,0]}},"ico":"3cdf01424c744832"},
   {"debut":0,"genre":"ゲーム＆バラエティ","name":"SHOW TIME","dx":0,"lv":[-5,6.6,8.9,12.5],"regionOverrides":{"intl":{"lv":[0,6.6,8.9,12.5,0]}},"ico":"fc99cd2f2ca000cb"},
   {"debut":0,"genre":"ゲーム＆バラエティ","name":"JACKY [Remix]","dx":0,"lv":[-4,7.5,11.1,13.7,14],"regionOverrides":{"intl":{"lv":[0,7.5,11.1,13.7,14]}},"ico":"0f69f3123db19f49"},
@@ -1629,6 +1629,6 @@
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"るろうらんる","dx":1,"lv":[-4,7.8,11.8,14.3],"ico":"393de382185611be"},
   {"debut":25,"genre":"maimai","name":"廃墟にいますキャンペーン","dx":1,"lv":[-5,-8,-10.6,-13.6],"ico":"9de69d869392cae6"},
   {"debut":25,"genre":"maimai","name":"Customized Justice","dx":1,"lv":[-6,-8.6,-13,-14.6],"ico":"9354ec1583e9ffbb"},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"はじまりの未来","dx":1,"lv":[-3,-6,-10,13],"ico":"0f8294359ea35f03"},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"Worlders","dx":1,"lv":[-2,-6,-9.6,12.8],"ico":"c76c2dfb5e5ba4e5"}
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"はじまりの未来","dx":1,"lv":[-3,6.5,10.2,13],"ico":"0f8294359ea35f03"},
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"Worlders","dx":1,"lv":[-2,6.5,9.8,12.8],"ico":"c76c2dfb5e5ba4e5"}
 ]
