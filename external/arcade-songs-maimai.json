@@ -32486,12 +32486,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 136,
+						"hold": 11,
+						"slide": 4,
+						"touch": 13,
+						"break": 5,
+						"total": 169
 					},
 					"regions": {
 						"jp": true,
@@ -32514,12 +32514,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 226,
+						"hold": 12,
+						"slide": 8,
+						"touch": 26,
+						"break": 6,
+						"total": 278
 					},
 					"regions": {
 						"jp": true,
@@ -32542,12 +32542,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 281,
+						"hold": 65,
+						"slide": 46,
+						"touch": 9,
+						"break": 40,
+						"total": 441
 					},
 					"regions": {
 						"jp": true,
@@ -32570,7 +32570,7 @@
 					"internalLevelValue": 13.2,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": 430,
+						"tap": 423,
 						"hold": 67,
 						"slide": 85,
 						"touch": 33,
@@ -216756,11 +216756,11 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 106,
+						"hold": 9,
+						"slide": 4,
+						"touch": 17,
+						"break": 4,
 						"total": 140
 					},
 					"regions": {
@@ -216784,11 +216784,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 181,
+						"hold": 16,
+						"slide": 6,
+						"touch": 32,
+						"break": 5,
 						"total": 240
 					},
 					"regions": {
@@ -217167,5 +217167,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-10-17T01:40:09.344Z"
+	"updateTime": "2025-10-23T01:16:21.295Z"
 }
