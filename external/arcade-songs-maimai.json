@@ -216506,12 +216506,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 266,
+						"hold": 18,
+						"slide": 6,
+						"touch": 11,
+						"break": 7,
+						"total": 308
 					},
 					"regions": {
 						"jp": true,
@@ -216533,12 +216533,12 @@
 					"internalLevelValue": 8.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 352,
+						"hold": 13,
+						"slide": 16,
+						"touch": 32,
+						"break": 8,
+						"total": 421
 					},
 					"regions": {
 						"jp": true,
@@ -216558,14 +216558,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 562,
+						"hold": 51,
+						"slide": 33,
+						"touch": 28,
+						"break": 25,
+						"total": 703
 					},
 					"regions": {
 						"jp": true,
@@ -217167,5 +217167,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-10-23T01:16:21.295Z"
+	"updateTime": "2025-10-24T03:55:26.030Z"
 }
