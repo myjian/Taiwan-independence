@@ -1567,15 +1567,15 @@
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"クーネル・エンゲイザー","dx":1,"lv":[3,7,9.7,12.8],"regionOverrides":{"intl":{"lv":[0,7,9.7,12.8,0]}},"ico":"dc086a7d603b1832"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"ゼロトーキング","dx":1,"lv":[2,6,9.8,13.2],"regionOverrides":{"intl":{"lv":[0,6,9.8,13.2,0]}},"ico":"d5b7dac7c24b8df6"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"抜錨","dx":1,"lv":[3,6.7,10.7,13],"regionOverrides":{"intl":{"lv":[0,6.7,10.7,13,0]}},"ico":"e2995fcfaec824da"},
-  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"なんかノイズにきこえる","dx":1,"lv":[3,7.5,9.7,13.7],"ico":"8bd4abae1de74251"},
+  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"なんかノイズにきこえる","dx":1,"lv":[3,7.5,9.7,13.7],"regionOverrides":{"intl":{"lv":[3,7.5,9.7,13.7,0]}},"ico":"8bd4abae1de74251"},
   {"debut":24,"genre":"POPS＆アニメ","name":"うぇいびー","dx":1,"lv":[3,7.8,10.5,13,13.7],"ico":"4516b8b8e6cb4d7c"},
   {"debut":24,"genre":"POPS＆アニメ","name":"RED","dx":1,"lv":[3,6.5,9.7,13.3],"ico":"9bfa0e4eab3c770c"},
   {"debut":24,"genre":"POPS＆アニメ","name":"ホラフキパペット","dx":1,"lv":[4,7.7,10.8,13.6],"ico":"044c69ffe7a5d66a"},
   {"debut":24,"genre":"POPS＆アニメ","name":"BlackFlagBreaker!!","dx":1,"lv":[4,8,11,13.8],"ico":"b63264a7cfe89264"},
-  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"JIGOKU STATION CENTRAL GATE","dx":1,"lv":[4,7.8,11.4,13.8],"ico":"1803a7329d1d7290"},
+  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"JIGOKU STATION CENTRAL GATE","dx":1,"lv":[4,7.8,11.4,13.8],"regionOverrides":{"intl":{"lv":[4,7.8,11.4,13.8,0]}},"ico":"1803a7329d1d7290"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"㋰責任集合体","dx":1,"lv":[3,7.5,9.8,13.5],"ico":"a53cf82eedd35750"},
   {"debut":24,"genre":"niconico＆ボーカロイド","name":"三日月ステップ 2023","dx":1,"lv":[3,7.7,10,13],"ico":"624953ea26b3f5c3"},
-  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"Lover's Trick","dx":1,"lv":[3,7,10.8,13.7],"ico":"a1e1854c51cf78ac"},
+  {"debut":24,"genre":"オンゲキ＆CHUNITHM","name":"Lover's Trick","dx":1,"lv":[3,7,10.8,13.7],"regionOverrides":{"intl":{"lv":[3,7,10.8,13.7,0]}},"ico":"a1e1854c51cf78ac"},
   {"debut":24,"genre":"maimai","name":"IMBRUED:FLUX","dx":1,"lv":[4,7.7,11,14.1],"ico":"51959395323a90a1"},
   {"debut":24,"genre":"maimai","name":"砂の函","dx":1,"lv":[3,6.2,11.2,14],"ico":"64591d22ccbf08c8"},
   {"debut":24,"genre":"maimai","name":"Amereistr","dx":1,"lv":[5,8,12.5,13.9],"ico":"bd5acd48e3191743"},
@@ -1631,6 +1631,6 @@
   {"debut":25,"genre":"maimai","name":"Customized Justice","dx":1,"lv":[6,8.8,13,14.8],"ico":"9354ec1583e9ffbb"},
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"はじまりの未来","dx":1,"lv":[3,6.5,10.2,13],"ico":"0f8294359ea35f03"},
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"Worlders","dx":1,"lv":[2,6.5,9.8,12.8],"ico":"c76c2dfb5e5ba4e5"},
-  {"debut":25,"genre":"maimai","name":"False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)","dx":1,"lv":[-6,-9,13.2,14.8],"regionOverrides":{"intl":{"debut":24}}},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ヒアソビ","dx":1,"lv":[-3,-7,-10,13.7]}
+  {"debut":25,"genre":"maimai","name":"False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)","dx":1,"lv":[6,9,13.2,14.8],"regionOverrides":{"intl":{"debut":24,"lv":[6,9,13.2,14.8,0]}},"ico":"5745f4aa35faeedd"},
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ヒアソビ","dx":1,"lv":[3,7.5,10.5,13.7],"ico":"5dd0b04bc3c1a8d4"}
 ]
