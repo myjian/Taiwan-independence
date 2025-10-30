@@ -217023,8 +217023,8 @@
 					"difficulty": "expert",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
 						"tap": null,
@@ -217053,8 +217053,8 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
+					"internalLevel": "14.8",
+					"internalLevelValue": 14.8,
 					"noteDesigner": "Safari",
 					"noteCounts": {
 						"tap": 823,
@@ -217182,8 +217182,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 605,
@@ -217429,5 +217429,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-10-30T01:36:29.951Z"
+	"updateTime": "2025-10-30T12:13:43.668Z"
 }

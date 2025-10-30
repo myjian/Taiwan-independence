@@ -1631,6 +1631,6 @@
   {"debut":25,"genre":"maimai","name":"Customized Justice","dx":1,"lv":[6,8.8,13,14.8],"ico":"9354ec1583e9ffbb"},
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"はじまりの未来","dx":1,"lv":[3,6.5,10.2,13],"ico":"0f8294359ea35f03"},
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"Worlders","dx":1,"lv":[2,6.5,9.8,12.8],"ico":"c76c2dfb5e5ba4e5"},
-  {"debut":25,"genre":"maimai","name":"False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)","dx":1,"lv":[-6,-9,-13,-14.6],"regionOverrides":{"intl":{"debut":24}}},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ヒアソビ","dx":1,"lv":[-3,-7,-10,-13.6]}
+  {"debut":25,"genre":"maimai","name":"False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)","dx":1,"lv":[-6,-9,13.2,14.8],"regionOverrides":{"intl":{"debut":24}}},
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ヒアソビ","dx":1,"lv":[-3,-7,-10,13.7]}
 ]
