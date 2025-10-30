@@ -32473,7 +32473,7 @@
 			"imageName": "7408bb9187adab91641af8200bc56f409efa311c1c177acb5073c2e9f7d4a94c.png",
 			"version": "maimai",
 			"releaseDate": "2012-09-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -208459,8 +208459,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208487,8 +208487,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208515,8 +208515,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208543,8 +208543,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208571,8 +208571,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208614,8 +208614,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208642,8 +208642,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208670,8 +208670,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208698,8 +208698,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208741,8 +208741,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208769,8 +208769,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208797,8 +208797,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208825,8 +208825,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208868,8 +208868,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208896,8 +208896,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208924,8 +208924,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -208952,8 +208952,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -216370,7 +216370,7 @@
 			"imageName": "73b0669cbc9f19f070567cf5c7e82a000dd1740e016389b02d450da364ed0672.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-16",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -216493,7 +216493,7 @@
 			"imageName": "55cf02e1f0d8ec2e9ace372ec4393e7bf171409850717c57c4d9bfa253732ca3.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-16",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -216560,10 +216560,10 @@
 					"internalLevelValue": 13,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": 562,
-						"hold": 51,
+						"tap": 571,
+						"hold": 52,
 						"slide": 33,
-						"touch": 28,
+						"touch": 22,
 						"break": 25,
 						"total": 703
 					},
@@ -216616,7 +216616,7 @@
 			"imageName": "2fa76cbe8ff01b6ef36592a8832d959bfcd5785e9865ce13b0375bfcfbb227bb.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-16",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -216743,7 +216743,7 @@
 			"imageName": "fb8006c007625f79cd07f74b31891b1405113a47dd3f3875f39e7b2c75ab7c67.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-16",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -216942,6 +216942,268 @@
 						"intl": {}
 					},
 					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+			"category": "maimai",
+			"title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+			"artist": "かめりあ",
+			"bpm": 132,
+			"imageName": "1ead33086c0eff4af90de97530951984666c5224a91c0289857b982dc24a0e49.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-10-30",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 215
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 428
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": "ロシェ@ペンギン",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": 27,
+						"total": 808
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": "Safari",
+					"noteCounts": {
+						"tap": 823,
+						"hold": 72,
+						"slide": 37,
+						"touch": 110,
+						"break": 150,
+						"total": 1192
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "ヒアソビ",
+			"category": "niconico＆ボーカロイド",
+			"title": "ヒアソビ",
+			"artist": "かめりあ",
+			"bpm": null,
+			"imageName": "47f1e7f5a4eb2f52d0c721c4b7167a08e2e6be1a68573580025da41ea0e51986.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-10-30",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 218
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 324
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 519
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": "Jack",
+					"noteCounts": {
+						"tap": 605,
+						"hold": 85,
+						"slide": 99,
+						"touch": 29,
+						"break": 106,
+						"total": 924
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
 				}
 			]
 		}
@@ -217167,5 +217429,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-10-24T03:55:26.030Z"
+	"updateTime": "2025-10-30T01:36:29.951Z"
 }
