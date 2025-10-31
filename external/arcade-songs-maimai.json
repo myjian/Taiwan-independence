@@ -217027,10 +217027,10 @@
 					"internalLevelValue": 13.2,
 					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
+						"tap": 655,
+						"hold": 70,
+						"slide": 22,
+						"touch": 34,
 						"break": 27,
 						"total": 808
 					},
@@ -217085,7 +217085,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "ヒアソビ",
 			"artist": "かめりあ",
-			"bpm": null,
+			"bpm": 134,
 			"imageName": "47f1e7f5a4eb2f52d0c721c4b7167a08e2e6be1a68573580025da41ea0e51986.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-30",
@@ -217130,11 +217130,11 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 273,
+						"hold": 14,
+						"slide": 8,
+						"touch": 24,
+						"break": 5,
 						"total": 324
 					},
 					"regions": {
@@ -217156,13 +217156,13 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 332,
+						"hold": 101,
+						"slide": 35,
+						"touch": 26,
+						"break": 25,
 						"total": 519
 					},
 					"regions": {
@@ -217429,5 +217429,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-10-30T12:13:43.668Z"
+	"updateTime": "2025-10-31T03:01:19.152Z"
 }
