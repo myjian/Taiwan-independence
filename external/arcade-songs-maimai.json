@@ -49775,7 +49775,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -49803,7 +49803,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -49831,7 +49831,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -49859,7 +49859,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -190738,7 +190738,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -190766,7 +190766,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -190794,7 +190794,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -190822,7 +190822,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -190865,7 +190865,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -190893,7 +190893,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -190921,7 +190921,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -190949,7 +190949,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -190992,7 +190992,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191020,7 +191020,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191048,7 +191048,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191076,7 +191076,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191119,7 +191119,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191147,7 +191147,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191175,7 +191175,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191203,7 +191203,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191246,7 +191246,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191274,7 +191274,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191302,7 +191302,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -191330,7 +191330,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192120,7 +192120,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192148,7 +192148,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192176,7 +192176,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192204,7 +192204,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192247,7 +192247,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192275,7 +192275,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192303,7 +192303,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192331,7 +192331,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192374,7 +192374,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192402,7 +192402,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192430,7 +192430,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192458,7 +192458,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192501,7 +192501,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192529,7 +192529,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192557,7 +192557,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192585,7 +192585,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192966,7 +192966,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -192994,7 +192994,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193022,7 +193022,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193050,7 +193050,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193093,7 +193093,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193121,7 +193121,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193149,7 +193149,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193177,7 +193177,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193220,7 +193220,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193248,7 +193248,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193276,7 +193276,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193304,7 +193304,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193347,7 +193347,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193375,7 +193375,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193403,7 +193403,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193431,7 +193431,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197205,7 +197205,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {
@@ -197235,7 +197235,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {
@@ -197265,7 +197265,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {
@@ -197295,7 +197295,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {
@@ -212521,7 +212521,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-09-05",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -212648,7 +212648,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-09-05",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -216954,7 +216954,7 @@
 			"imageName": "1ead33086c0eff4af90de97530951984666c5224a91c0289857b982dc24a0e49.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-30",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -216967,11 +216967,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 180,
+						"hold": 16,
+						"slide": 10,
+						"touch": 6,
+						"break": 3,
 						"total": 215
 					},
 					"regions": {
@@ -216997,11 +216997,11 @@
 					"internalLevelValue": 9,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 392,
+						"hold": 12,
+						"slide": 10,
+						"touch": 12,
+						"break": 2,
 						"total": 428
 					},
 					"regions": {
@@ -217089,7 +217089,7 @@
 			"imageName": "47f1e7f5a4eb2f52d0c721c4b7167a08e2e6be1a68573580025da41ea0e51986.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-30",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -217102,11 +217102,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 176,
+						"hold": 10,
+						"slide": 5,
+						"touch": 23,
+						"break": 4,
 						"total": 218
 					},
 					"regions": {
@@ -217192,6 +217192,514 @@
 						"touch": 29,
 						"break": 106,
 						"total": 924
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "真空都市",
+			"category": "maimai",
+			"title": "真空都市",
+			"artist": "ナナツカゼ",
+			"bpm": null,
+			"imageName": "383fcfe5a2d387135f685d2023294fb7eee5db810a32f58329919f3ea8700409.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-11-07",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Eternal Return",
+			"category": "maimai",
+			"title": "Eternal Return",
+			"artist": "Tatsunoshin & Aira Arere",
+			"bpm": null,
+			"imageName": "ec13b44bc2babef86c8764a6cf9c772b7ccc273cd8b331bd42ebfc4356aef808.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-11-07",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "ぱぱぱらビーチ",
+			"category": "maimai",
+			"title": "ぱぱぱらビーチ",
+			"artist": "ぱぱぱらビーチ",
+			"bpm": null,
+			"imageName": "0ce5d5a84b6a42e9264fdb39192a8a93102004a95acfeb203fc1b9d37163c6b0.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-11-07",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Get U ♭ack",
+			"category": "maimai",
+			"title": "Get U ♭ack",
+			"artist": "Ryo Fukuda",
+			"bpm": null,
+			"imageName": "58089e92c4abfc669ecdcde85bb1fb23f1471016fd96ff0130e1f87357c99ec4.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-11-07",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8+",
+					"levelValue": 8.6,
+					"internalLevel": null,
+					"internalLevelValue": 8.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
 					},
 					"regions": {
 						"jp": true,
@@ -217429,5 +217937,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-11-01T14:34:19.507Z"
+	"updateTime": "2025-11-07T01:15:45.200Z"
 }
