@@ -217212,7 +217212,7 @@
 			"category": "maimai",
 			"title": "真空都市",
 			"artist": "ナナツカゼ",
-			"bpm": null,
+			"bpm": 185,
 			"imageName": "383fcfe5a2d387135f685d2023294fb7eee5db810a32f58329919f3ea8700409.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-07",
@@ -217229,12 +217229,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 223,
+						"hold": 12,
+						"slide": 5,
+						"touch": 7,
+						"break": 3,
+						"total": 250
 					},
 					"regions": {
 						"jp": true,
@@ -217257,12 +217257,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 335,
+						"hold": 16,
+						"slide": 11,
+						"touch": 48,
+						"break": 7,
+						"total": 417
 					},
 					"regions": {
 						"jp": true,
@@ -217283,14 +217283,14 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 392,
+						"hold": 77,
+						"slide": 35,
+						"touch": 36,
+						"break": 14,
+						"total": 554
 					},
 					"regions": {
 						"jp": true,
@@ -217309,16 +217309,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 592,
+						"hold": 27,
+						"slide": 66,
+						"touch": 38,
+						"break": 29,
+						"total": 752
 					},
 					"regions": {
 						"jp": true,
@@ -217339,7 +217339,7 @@
 			"category": "maimai",
 			"title": "Eternal Return",
 			"artist": "Tatsunoshin & Aira Arere",
-			"bpm": null,
+			"bpm": 180,
 			"imageName": "ec13b44bc2babef86c8764a6cf9c772b7ccc273cd8b331bd42ebfc4356aef808.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-07",
@@ -217356,12 +217356,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 197,
+						"hold": 17,
+						"slide": 4,
+						"touch": 6,
+						"break": 6,
+						"total": 230
 					},
 					"regions": {
 						"jp": true,
@@ -217384,12 +217384,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 289,
+						"hold": 16,
+						"slide": 12,
+						"touch": 24,
+						"break": 4,
+						"total": 345
 					},
 					"regions": {
 						"jp": true,
@@ -217410,14 +217410,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 363,
+						"hold": 103,
+						"slide": 43,
+						"touch": 44,
+						"break": 8,
+						"total": 561
 					},
 					"regions": {
 						"jp": true,
@@ -217436,16 +217436,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "カマボコ君",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 624,
+						"hold": 56,
+						"slide": 112,
+						"touch": 77,
+						"break": 28,
+						"total": 897
 					},
 					"regions": {
 						"jp": true,
@@ -217466,7 +217466,7 @@
 			"category": "maimai",
 			"title": "ぱぱぱらビーチ",
 			"artist": "ぱぱぱらビーチ",
-			"bpm": null,
+			"bpm": 160,
 			"imageName": "0ce5d5a84b6a42e9264fdb39192a8a93102004a95acfeb203fc1b9d37163c6b0.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-07",
@@ -217483,12 +217483,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 205,
+						"hold": 10,
+						"slide": 4,
+						"touch": 11,
+						"break": 5,
+						"total": 235
 					},
 					"regions": {
 						"jp": true,
@@ -217511,12 +217511,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 311,
+						"hold": 14,
+						"slide": 8,
+						"touch": 11,
+						"break": 6,
+						"total": 350
 					},
 					"regions": {
 						"jp": true,
@@ -217537,14 +217537,14 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 394,
+						"hold": 37,
+						"slide": 62,
+						"touch": 11,
+						"break": 49,
+						"total": 553
 					},
 					"regions": {
 						"jp": true,
@@ -217563,16 +217563,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
+					"internalLevel": "13.6",
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 626,
+						"hold": 21,
+						"slide": 87,
+						"touch": 41,
+						"break": 56,
+						"total": 831
 					},
 					"regions": {
 						"jp": true,
@@ -217593,7 +217593,7 @@
 			"category": "maimai",
 			"title": "Get U ♭ack",
 			"artist": "Ryo Fukuda",
-			"bpm": null,
+			"bpm": 205,
 			"imageName": "58089e92c4abfc669ecdcde85bb1fb23f1471016fd96ff0130e1f87357c99ec4.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-07",
@@ -217615,7 +217615,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 245
 					},
 					"regions": {
 						"jp": true,
@@ -217643,7 +217643,7 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 392
 					},
 					"regions": {
 						"jp": true,
@@ -217662,16 +217662,16 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
-					"noteDesigner": null,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
+					"noteDesigner": "きょむりん",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 588
 					},
 					"regions": {
 						"jp": true,
@@ -217690,16 +217690,16 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"internalLevel": "14.5",
+					"internalLevelValue": 14.5,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 999
 					},
 					"regions": {
 						"jp": true,
@@ -217937,5 +217937,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-11-07T01:15:45.200Z"
+	"updateTime": "2025-11-08T16:35:57.899Z"
 }
