@@ -217666,11 +217666,11 @@
 					"internalLevelValue": 12.9,
 					"noteDesigner": "きょむりん",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 402,
+						"hold": 60,
+						"slide": 56,
+						"touch": 15,
+						"break": 55,
 						"total": 588
 					},
 					"regions": {
@@ -217694,11 +217694,11 @@
 					"internalLevelValue": 14.5,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 693,
+						"hold": 74,
+						"slide": 83,
+						"touch": 62,
+						"break": 87,
 						"total": 999
 					},
 					"regions": {
@@ -217937,5 +217937,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-11-08T16:35:57.899Z"
+	"updateTime": "2025-11-13T01:29:42.368Z"
 }
