@@ -210011,12 +210011,14 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -210038,12 +210040,14 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -210065,12 +210069,14 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				},
@@ -210092,12 +210098,14 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"version": "PRiSM PLUS"
+						}
 					},
 					"isSpecial": false
 				}
@@ -217610,11 +217618,11 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 198,
+						"hold": 13,
+						"slide": 8,
+						"touch": 16,
+						"break": 10,
 						"total": 245
 					},
 					"regions": {
@@ -217638,11 +217646,11 @@
 					"internalLevelValue": 8.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 339,
+						"hold": 11,
+						"slide": 6,
+						"touch": 30,
+						"break": 6,
 						"total": 392
 					},
 					"regions": {
@@ -217937,5 +217945,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-11-14T01:21:24.492Z"
+	"updateTime": "2025-11-16T16:01:47.281Z"
 }
