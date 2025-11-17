@@ -6,10 +6,14 @@
     "AP": "彩神",
     "FSD": "彩舞舞"
   },
-  "std_songs": [],
+  "std_songs": [
+    "AFTER PANDORA",
+    "プリズム△▽リズム"
+  ],
   "dx_songs": [
     "ATLAS RUSH",
     "Amereistr",
+    "Believe the Rainbow",
     "BlackFlagBreaker!!",
     "DATAERR0R",
     "Dragoon",
@@ -26,10 +30,12 @@
     "M@GICAL☆CURE! LOVE ♥ SHOT!",
     "Overjoy ★ OVERDOSE!!",
     "RED",
+    "Ref:rain (for 7th Heaven)",
     "Synthesis.",
     "Tidal Wave",
     "Unfinished Epic",
     "World's end BLACKBOX",
+    "Xaleid◆scopiX",
     "Zitronectar",
     "crazy (about you)",
     "Åntinomiε",
