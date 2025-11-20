@@ -37825,14 +37825,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.4",
 					"internalLevelValue": 14.4,
-					"noteDesigner": null,
+					"noteDesigner": "Safata.Hz",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
+						"tap": 502,
+						"hold": 48,
+						"slide": 54,
 						"touch": null,
-						"break": null,
-						"total": null
+						"break": 52,
+						"total": 666
 					},
 					"regions": {
 						"jp": true,
@@ -126844,14 +126844,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.1",
 					"internalLevelValue": 14.1,
-					"noteDesigner": null,
+					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 517,
+						"hold": 54,
+						"slide": 96,
+						"touch": 17,
+						"break": 40,
+						"total": 824
 					},
 					"regions": {
 						"jp": true,
@@ -132413,14 +132413,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.7",
 					"internalLevelValue": 13.7,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 506,
+						"hold": 68,
+						"slide": 70,
+						"touch": 69,
+						"break": 74,
+						"total": 787
 					},
 					"regions": {
 						"jp": true,
@@ -142269,14 +142269,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.7",
 					"internalLevelValue": 13.7,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 676,
+						"hold": 47,
+						"slide": 184,
+						"touch": 14,
+						"break": 35,
+						"total": 956
 					},
 					"regions": {
 						"jp": true,
@@ -218726,5 +218726,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-11-20T01:11:11.952Z"
+	"updateTime": "2025-11-20T05:19:04.153Z"
 }
