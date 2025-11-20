@@ -1637,9 +1637,9 @@
   {"debut":25,"genre":"maimai","name":"Eternal Return","dx":1,"lv":[4,7.8,11,13.8],"ico":"57d2dacfaffc601f"},
   {"debut":25,"genre":"maimai","name":"ぱぱぱらビーチ","dx":1,"lv":[4,7.5,10.7,13.6],"ico":"bb698510f3d02bac"},
   {"debut":25,"genre":"maimai","name":"Get U ♭ack","dx":1,"lv":[5,8.7,12.9,14.5],"ico":"6420ff4f7a622cd6"},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"電光刹歌","dx":1,"lv":[-4,-7.6,-11.6,13.8]},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ウィーアーピコピコハンマーズ!!!!","dx":1,"lv":[-5,-8,-10.6,13.9]},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ジェットブラック","dx":1,"lv":[-4,-7,-10,13.2]},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"トレジャーガーデン","dx":1,"lv":[-4,-7.6,-11.6,13.8]},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"最愛人生ランナー","dx":1,"lv":[-4,-7.6,-11,13.7]}
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"電光刹歌","dx":1,"lv":[4,7.7,11.7,13.8],"ico":"f599316cb38957bd"},
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ウィーアーピコピコハンマーズ!!!!","dx":1,"lv":[5,8.5,10.8,13.9],"ico":"1485239e3d0e6582"},
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ジェットブラック","dx":1,"lv":[4,7.5,10.2,13.2],"ico":"379487e70854a466"},
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"トレジャーガーデン","dx":1,"lv":[4,7.7,11.7,13.8],"ico":"18b626c9831f71dc"},
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"最愛人生ランナー","dx":1,"lv":[4,7.8,11,13.7],"ico":"c0d254699da52834"}
 ]
