@@ -37817,6 +37817,34 @@
 					},
 					"isSpecial": false,
 					"version": "maimai PLUS"
+				},
+				{
+					"type": "std",
+					"difficulty": "remaster",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.4",
+					"internalLevelValue": 14.4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "maimai PLUS"
 				}
 			]
 		},
@@ -126808,6 +126836,34 @@
 					},
 					"isSpecial": false,
 					"version": "Splash"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.1",
+					"internalLevelValue": 14.1,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "Splash"
 				}
 			]
 		},
@@ -132343,6 +132399,34 @@
 						"intl": true,
 						"usa": true,
 						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "Splash PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -142171,6 +142255,34 @@
 						"intl": true,
 						"usa": true,
 						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "UNiVERSE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -210259,11 +210371,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "std",
@@ -210288,11 +210399,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "std",
@@ -210317,11 +210427,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "std",
@@ -210346,11 +210455,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		},
@@ -216413,7 +216521,7 @@
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-16",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -216441,7 +216549,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				},
 				{
 					"type": "dx",
@@ -216468,7 +216577,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				},
 				{
 					"type": "dx",
@@ -216495,7 +216605,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				},
 				{
 					"type": "dx",
@@ -216522,7 +216633,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				}
 			]
 		},
@@ -217258,7 +217370,7 @@
 			"imageName": "383fcfe5a2d387135f685d2023294fb7eee5db810a32f58329919f3ea8700409.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-07",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -217385,7 +217497,7 @@
 			"imageName": "ec13b44bc2babef86c8764a6cf9c772b7ccc273cd8b331bd42ebfc4356aef808.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-07",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -217512,7 +217624,7 @@
 			"imageName": "0ce5d5a84b6a42e9264fdb39192a8a93102004a95acfeb203fc1b9d37163c6b0.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-07",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -217639,7 +217751,7 @@
 			"imageName": "58089e92c4abfc669ecdcde85bb1fb23f1471016fd96ff0130e1f87357c99ec4.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-07",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -217742,6 +217854,641 @@
 						"touch": 62,
 						"break": 87,
 						"total": 999
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "電光刹歌",
+			"category": "niconico＆ボーカロイド",
+			"title": "電光刹歌",
+			"artist": "かめりあ",
+			"bpm": null,
+			"imageName": "912549a9b627974e41863249dab38011de5afbdd1bd70cd649f59fe17e8bfdec.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-11-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "ウィーアーピコピコハンマーズ!!!!",
+			"category": "niconico＆ボーカロイド",
+			"title": "ウィーアーピコピコハンマーズ!!!!",
+			"artist": "cosMo＠暴走P",
+			"bpm": null,
+			"imageName": "0b176ef055a3418dbf47c75f6aed9796cb91c5324b6dd473b4ff545251c3ac50.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-11-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "ジェットブラック",
+			"category": "niconico＆ボーカロイド",
+			"title": "ジェットブラック",
+			"artist": "雄之助",
+			"bpm": null,
+			"imageName": "3cd4ae51b9ef370c7fa990d51953b431c4b7d2875a798152dd93f5e05e476cb5.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-11-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "トレジャーガーデン",
+			"category": "niconico＆ボーカロイド",
+			"title": "トレジャーガーデン",
+			"artist": "Ponchi♪",
+			"bpm": null,
+			"imageName": "16b803eb28f734d1492ec9ca807b280c5b0a03bb0b37a93d5f731699e2e01255.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-11-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "最愛人生ランナー",
+			"category": "niconico＆ボーカロイド",
+			"title": "最愛人生ランナー",
+			"artist": "かいりきベア",
+			"bpm": null,
+			"imageName": "8f850f13e23678e08f5e0d4011f25bce8094bb5968c4749bac8756404036b518.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-11-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
 					},
 					"regions": {
 						"jp": true,
@@ -217979,5 +218726,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-11-17T05:40:26.538Z"
+	"updateTime": "2025-11-20T01:11:11.952Z"
 }
