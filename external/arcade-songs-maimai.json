@@ -217874,7 +217874,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "電光刹歌",
 			"artist": "かめりあ",
-			"bpm": null,
+			"bpm": 207,
 			"imageName": "912549a9b627974e41863249dab38011de5afbdd1bd70cd649f59fe17e8bfdec.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-20",
@@ -217891,12 +217891,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 174,
+						"hold": 15,
+						"slide": 10,
+						"touch": 6,
+						"break": 2,
+						"total": 207
 					},
 					"regions": {
 						"jp": true,
@@ -217919,12 +217919,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 317,
+						"hold": 19,
+						"slide": 8,
+						"touch": 12,
+						"break": 5,
+						"total": 361
 					},
 					"regions": {
 						"jp": true,
@@ -217945,14 +217945,14 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 451,
+						"hold": 48,
+						"slide": 26,
+						"touch": 35,
+						"break": 47,
+						"total": 607
 					},
 					"regions": {
 						"jp": true,
@@ -217973,14 +217973,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 602,
+						"hold": 16,
+						"slide": 132,
+						"touch": 25,
+						"break": 53,
+						"total": 828
 					},
 					"regions": {
 						"jp": true,
@@ -218001,7 +218001,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "ウィーアーピコピコハンマーズ!!!!",
 			"artist": "cosMo＠暴走P",
-			"bpm": null,
+			"bpm": 202,
 			"imageName": "0b176ef055a3418dbf47c75f6aed9796cb91c5324b6dd473b4ff545251c3ac50.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-20",
@@ -218018,12 +218018,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 231,
+						"hold": 14,
+						"slide": 6,
+						"touch": 8,
+						"break": 12,
+						"total": 271
 					},
 					"regions": {
 						"jp": true,
@@ -218046,12 +218046,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 368,
+						"hold": 21,
+						"slide": 4,
+						"touch": 25,
+						"break": 11,
+						"total": 429
 					},
 					"regions": {
 						"jp": true,
@@ -218072,14 +218072,14 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 444,
+						"hold": 34,
+						"slide": 24,
+						"touch": 34,
+						"break": 44,
+						"total": 580
 					},
 					"regions": {
 						"jp": true,
@@ -218100,14 +218100,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.9",
 					"internalLevelValue": 13.9,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 692,
+						"hold": 76,
+						"slide": 119,
+						"touch": 22,
+						"break": 129,
+						"total": 1038
 					},
 					"regions": {
 						"jp": true,
@@ -218128,7 +218128,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "ジェットブラック",
 			"artist": "雄之助",
-			"bpm": null,
+			"bpm": 170,
 			"imageName": "3cd4ae51b9ef370c7fa990d51953b431c4b7d2875a798152dd93f5e05e476cb5.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-20",
@@ -218145,12 +218145,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 180,
+						"hold": 12,
+						"slide": 10,
+						"touch": 6,
+						"break": 4,
+						"total": 212
 					},
 					"regions": {
 						"jp": true,
@@ -218173,12 +218173,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 323,
+						"hold": 18,
+						"slide": 6,
+						"touch": 26,
+						"break": 6,
+						"total": 379
 					},
 					"regions": {
 						"jp": true,
@@ -218199,14 +218199,14 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 417,
+						"hold": 56,
+						"slide": 40,
+						"touch": 21,
+						"break": 7,
+						"total": 541
 					},
 					"regions": {
 						"jp": true,
@@ -218227,14 +218227,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.2",
 					"internalLevelValue": 13.2,
-					"noteDesigner": null,
+					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 548,
+						"hold": 65,
+						"slide": 113,
+						"touch": 30,
+						"break": 52,
+						"total": 808
 					},
 					"regions": {
 						"jp": true,
@@ -218255,7 +218255,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "トレジャーガーデン",
 			"artist": "Ponchi♪",
-			"bpm": null,
+			"bpm": 268,
 			"imageName": "16b803eb28f734d1492ec9ca807b280c5b0a03bb0b37a93d5f731699e2e01255.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-20",
@@ -218272,12 +218272,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 237,
+						"hold": 18,
+						"slide": 7,
+						"touch": 13,
+						"break": 6,
+						"total": 281
 					},
 					"regions": {
 						"jp": true,
@@ -218300,12 +218300,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 373,
+						"hold": 29,
+						"slide": 8,
+						"touch": 26,
+						"break": 8,
+						"total": 444
 					},
 					"regions": {
 						"jp": true,
@@ -218326,14 +218326,14 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 434,
+						"hold": 52,
+						"slide": 42,
+						"touch": 30,
+						"break": 34,
+						"total": 592
 					},
 					"regions": {
 						"jp": true,
@@ -218354,14 +218354,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 697,
+						"hold": 80,
+						"slide": 113,
+						"touch": 53,
+						"break": 108,
+						"total": 1051
 					},
 					"regions": {
 						"jp": true,
@@ -218382,7 +218382,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "最愛人生ランナー",
 			"artist": "かいりきベア",
-			"bpm": null,
+			"bpm": 180,
 			"imageName": "8f850f13e23678e08f5e0d4011f25bce8094bb5968c4749bac8756404036b518.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-11-20",
@@ -218399,12 +218399,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 216,
+						"hold": 22,
+						"slide": 5,
+						"touch": 8,
+						"break": 7,
+						"total": 258
 					},
 					"regions": {
 						"jp": true,
@@ -218427,12 +218427,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 338,
+						"hold": 26,
+						"slide": 8,
+						"touch": 22,
+						"break": 8,
+						"total": 402
 					},
 					"regions": {
 						"jp": true,
@@ -218453,14 +218453,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 496,
+						"hold": 99,
+						"slide": 62,
+						"touch": 9,
+						"break": 70,
+						"total": 736
 					},
 					"regions": {
 						"jp": true,
@@ -218481,14 +218481,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.7",
 					"internalLevelValue": 13.7,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 735,
+						"hold": 61,
+						"slide": 151,
+						"touch": 44,
+						"break": 63,
+						"total": 1054
 					},
 					"regions": {
 						"jp": true,
@@ -218726,5 +218726,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-11-21T01:28:52.154Z"
+	"updateTime": "2025-11-23T17:35:41.132Z"
 }
