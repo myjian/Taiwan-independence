@@ -34260,7 +34260,7 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 262,
 						"hold": 45,
@@ -34288,7 +34288,7 @@
 					"levelValue": 13,
 					"internalLevel": "13.5",
 					"internalLevelValue": 13.5,
-					"noteDesigner": null,
+					"noteDesigner": "メロンポップ",
 					"noteCounts": {
 						"tap": 411,
 						"hold": 45,
@@ -219114,7 +219114,7 @@
 			"category": "maimai",
 			"title": "ミクマリ",
 			"artist": "テヅカ",
-			"bpm": null,
+			"bpm": 174,
 			"imageName": "49a0f6c6bc20c9565051e90d023452c03a0ec4f517dd0cad63096b173f8792d9.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-12-12",
@@ -219129,14 +219129,14 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 171,
+						"hold": 11,
+						"slide": 9,
+						"touch": 8,
+						"break": 9,
+						"total": 208
 					},
 					"regions": {
 						"jp": true,
@@ -219157,14 +219157,14 @@
 					"levelValue": 7.6,
 					"internalLevel": null,
 					"internalLevelValue": 7.6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 315,
+						"hold": 16,
+						"slide": 12,
+						"touch": 24,
+						"break": 4,
+						"total": 371
 					},
 					"regions": {
 						"jp": true,
@@ -219185,14 +219185,14 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 290,
+						"hold": 74,
+						"slide": 53,
+						"touch": 31,
+						"break": 16,
+						"total": 464
 					},
 					"regions": {
 						"jp": true,
@@ -219213,14 +219213,14 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 549,
+						"hold": 59,
+						"slide": 67,
+						"touch": 73,
+						"break": 29,
+						"total": 777
 					},
 					"regions": {
 						"jp": true,
@@ -219241,7 +219241,7 @@
 			"category": "maimai",
 			"title": "雲外蒼電 -Dreaming Voltage-",
 			"artist": "adaptor vs DRIVE.",
-			"bpm": null,
+			"bpm": 160,
 			"imageName": "b1fb06f9dff35eaeb7896c98afa607cdab20050d36a78e2cb38f3dea21f767e7.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-12-12",
@@ -219256,14 +219256,14 @@
 					"levelValue": 4,
 					"internalLevel": null,
 					"internalLevelValue": 4,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 184,
+						"hold": 13,
+						"slide": 5,
+						"touch": 14,
+						"break": 7,
+						"total": 223
 					},
 					"regions": {
 						"jp": true,
@@ -219284,14 +219284,14 @@
 					"levelValue": 7.6,
 					"internalLevel": null,
 					"internalLevelValue": 7.6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 275,
+						"hold": 14,
+						"slide": 9,
+						"touch": 27,
+						"break": 6,
+						"total": 331
 					},
 					"regions": {
 						"jp": true,
@@ -219312,14 +219312,14 @@
 					"levelValue": 12,
 					"internalLevel": null,
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 392,
+						"hold": 46,
+						"slide": 56,
+						"touch": 16,
+						"break": 87,
+						"total": 597
 					},
 					"regions": {
 						"jp": true,
@@ -219340,14 +219340,14 @@
 					"levelValue": 13.6,
 					"internalLevel": null,
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 584,
+						"hold": 53,
+						"slide": 96,
+						"touch": 72,
+						"break": 71,
+						"total": 876
 					},
 					"regions": {
 						"jp": true,
@@ -219368,7 +219368,7 @@
 			"category": "maimai",
 			"title": "鬼女紅妖",
 			"artist": "Earliri",
-			"bpm": null,
+			"bpm": 165,
 			"imageName": "ad9737d3fd62b76ebdae69b93e3ce6bc5798c3562d98abb6eafd409f62410b0b.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-12-12",
@@ -219383,14 +219383,14 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 209,
+						"hold": 13,
+						"slide": 4,
+						"touch": 9,
+						"break": 6,
+						"total": 241
 					},
 					"regions": {
 						"jp": true,
@@ -219411,14 +219411,14 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 282,
+						"hold": 14,
+						"slide": 12,
+						"touch": 26,
+						"break": 4,
+						"total": 338
 					},
 					"regions": {
 						"jp": true,
@@ -219439,14 +219439,14 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 378,
+						"hold": 95,
+						"slide": 33,
+						"touch": 9,
+						"break": 16,
+						"total": 531
 					},
 					"regions": {
 						"jp": true,
@@ -219467,14 +219467,14 @@
 					"levelValue": 14,
 					"internalLevel": null,
 					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 690,
+						"hold": 53,
+						"slide": 73,
+						"touch": 15,
+						"break": 103,
+						"total": 934
 					},
 					"regions": {
 						"jp": true,
@@ -219495,7 +219495,7 @@
 			"category": "maimai",
 			"title": "華天月兎",
 			"artist": "satella feat.Risa Yuzuki",
-			"bpm": null,
+			"bpm": 184,
 			"imageName": "b59a36fc60cb860b193bffd6a3f6d9de3ca7db8d10ed463a75a36a92c568c0ee.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-12-12",
@@ -219510,14 +219510,14 @@
 					"levelValue": 5,
 					"internalLevel": null,
 					"internalLevelValue": 5,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 193,
+						"hold": 10,
+						"slide": 9,
+						"touch": 27,
+						"break": 10,
+						"total": 249
 					},
 					"regions": {
 						"jp": true,
@@ -219538,14 +219538,14 @@
 					"levelValue": 8,
 					"internalLevel": null,
 					"internalLevelValue": 8,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 320,
+						"hold": 10,
+						"slide": 13,
+						"touch": 41,
+						"break": 6,
+						"total": 390
 					},
 					"regions": {
 						"jp": true,
@@ -219566,14 +219566,14 @@
 					"levelValue": 12,
 					"internalLevel": null,
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 366,
+						"hold": 35,
+						"slide": 54,
+						"touch": 78,
+						"break": 14,
+						"total": 547
 					},
 					"regions": {
 						"jp": true,
@@ -219594,14 +219594,14 @@
 					"levelValue": 14,
 					"internalLevel": null,
 					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 593,
+						"hold": 55,
+						"slide": 100,
+						"touch": 126,
+						"break": 14,
+						"total": 888
 					},
 					"regions": {
 						"jp": true,
@@ -219839,5 +219839,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-12-12T01:28:04.716Z"
+	"updateTime": "2025-12-12T14:37:44.757Z"
 }
