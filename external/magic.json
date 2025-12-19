@@ -846,7 +846,7 @@
   {"debut":13,"genre":"maimai","name":"魔ジョ狩リ","dx":1,"lv":[5,8.5,11.1,13.7],"regionOverrides":{"intl":{"lv":[0,8.5,11.1,13.7,0]}},"ico":"571080deee3ca1df"},
   {"debut":13,"genre":"maimai","name":"TwisteD! XD","dx":1,"lv":[4,8.7,11.2,13.7],"regionOverrides":{"intl":{"lv":[0,8.7,11.2,13.7,0]}},"ico":"ff21a1154316f6e7"},
   {"debut":13,"genre":"maimai","name":"Blows Up Everything","dx":1,"lv":[5,9,11.9,13.8,14.3],"regionOverrides":{"intl":{"lv":[0,9,11.9,13.8,14.3]}},"ico":"6791fcbbde5a1056"},
-  {"debut":13,"genre":"niconico＆ボーカロイド","name":"METEOR","dx":1,"lv":[3,7,9.5,12.4],"regionOverrides":{"intl":{"lv":[0,7,9.5,12.4,0]}},"ico":"9ddf0c60aef5895b"},
+  {"debut":13,"genre":"niconico＆ボーカロイド","name":"METEOR","dx":1,"lv":[3,7,9.5,12.5],"regionOverrides":{"intl":{"lv":[0,7,9.5,12.4,0]}},"ico":"9ddf0c60aef5895b"},
   {"debut":13,"genre":"niconico＆ボーカロイド","name":"グリーンライツ・セレナーデ","dx":1,"lv":[3,7.5,10.3,12.7],"regionOverrides":{"intl":{"lv":[0,7.5,10.3,12.7,0]}},"ico":"95af1c4fc14eae36"},
   {"debut":13,"genre":"niconico＆ボーカロイド","name":"だれかの心臓になれたなら","dx":1,"lv":[3,6.5,9.2,11.9],"regionOverrides":{"intl":{"lv":[0,6.5,9.2,11.9,0]}},"ico":"274b280ee4f3f54d"},
   {"debut":13,"genre":"niconico＆ボーカロイド","name":"39みゅーじっく！","dx":1,"lv":[3,6.2,9.3,11.8],"regionOverrides":{"intl":{"lv":[0,6.2,9.3,11.8,0]}},"ico":"6c4f705831befadd"},
