@@ -137913,8 +137913,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": "12.4",
-					"internalLevelValue": 12.4,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 354,
@@ -209897,8 +209897,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 122,
@@ -219118,7 +219118,7 @@
 			"imageName": "49a0f6c6bc20c9565051e90d023452c03a0ec4f517dd0cad63096b173f8792d9.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-12-12",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -219245,7 +219245,7 @@
 			"imageName": "b1fb06f9dff35eaeb7896c98afa607cdab20050d36a78e2cb38f3dea21f767e7.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-12-12",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -219372,7 +219372,7 @@
 			"imageName": "ad9737d3fd62b76ebdae69b93e3ce6bc5798c3562d98abb6eafd409f62410b0b.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-12-12",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -219499,7 +219499,7 @@
 			"imageName": "b59a36fc60cb860b193bffd6a3f6d9de3ca7db8d10ed463a75a36a92c568c0ee.png",
 			"version": "CiRCLE",
 			"releaseDate": "2025-12-12",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -219564,8 +219564,8 @@
 					"difficulty": "expert",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 366,
@@ -219614,6 +219614,467 @@
 					},
 					"isSpecial": false,
 					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "スノーマン (Rerec)",
+			"category": "niconico＆ボーカロイド",
+			"title": "スノーマン (Rerec)",
+			"artist": "halyosy",
+			"bpm": 127,
+			"imageName": "af350450b1d30c36e70ffc324a7f36da8cac5e5a2c2e81087688e92a55b1c3ec.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-12-24",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 144,
+						"hold": 10,
+						"slide": 4,
+						"touch": 8,
+						"break": 10,
+						"total": 176
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 200,
+						"hold": 18,
+						"slide": 7,
+						"touch": 30,
+						"break": 10,
+						"total": 265
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 353,
+						"hold": 59,
+						"slide": 24,
+						"touch": 17,
+						"break": 27,
+						"total": 480
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": "Jack",
+					"noteCounts": {
+						"tap": 504,
+						"hold": 86,
+						"slide": 69,
+						"touch": 36,
+						"break": 31,
+						"total": 725
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "JINGLE DEATH",
+			"category": "ゲーム＆バラエティ",
+			"title": "JINGLE DEATH",
+			"artist": "DJ Myosuke & Gram",
+			"bpm": 222,
+			"imageName": "5ce83f4f6d8d73983036fd9e40cacd44c31815bdd19b6c05de03d8e767aef6c3.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-12-24",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 172,
+						"hold": 12,
+						"slide": 8,
+						"touch": 12,
+						"break": 4,
+						"total": 208
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 372,
+						"hold": 18,
+						"slide": 7,
+						"touch": 13,
+						"break": 8,
+						"total": 418
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 402,
+						"hold": 52,
+						"slide": 47,
+						"touch": 21,
+						"break": 26,
+						"total": 548
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": "ロシェ@ペンギン",
+					"noteCounts": {
+						"tap": 563,
+						"hold": 46,
+						"slide": 103,
+						"touch": 92,
+						"break": 55,
+						"total": 859
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "ヤミナベ!!!!",
+			"category": "niconico＆ボーカロイド",
+			"title": "ヤミナベ!!!!",
+			"artist": "cosMo＠暴走P",
+			"bpm": 264,
+			"imageName": "881a04259aeff8e0d6efcbfd50e75eee365140a225f2bc22d306258fe16986f5.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-12-24",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 253,
+						"hold": 15,
+						"slide": 4,
+						"touch": 13,
+						"break": 14,
+						"total": 299
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 322,
+						"hold": 10,
+						"slide": 12,
+						"touch": 20,
+						"break": 8,
+						"total": 372
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 542,
+						"hold": 39,
+						"slide": 36,
+						"touch": 25,
+						"break": 10,
+						"total": 652
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 661,
+						"hold": 121,
+						"slide": 80,
+						"touch": 40,
+						"break": 100,
+						"total": 1006
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "[一]もうみんなしねばいいのに",
+			"category": "宴会場",
+			"title": "[一]もうみんなしねばいいのに",
+			"artist": "谷屋楽",
+			"bpm": null,
+			"imageName": "d4bfa83449c0580240e3bc4bd59b7c31b086a4665d4171dc005b98200c822fa8.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-12-24",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "どいつもこいつもリア充しやがって！",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【一】",
+					"level": "14+?",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[充]エンジェル ドリーム",
+			"category": "宴会場",
+			"title": "[充]エンジェル ドリーム",
+			"artist": "「太鼓の達人」より",
+			"bpm": null,
+			"imageName": "41c17afa35c90a7717a16b30e34f7c56bb33ea882e4544047c38477eb62a30bf.png",
+			"version": "CiRCLE",
+			"releaseDate": "2025-12-24",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】目と目を合わせて舞を分け合おう",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【充】",
+					"level": "11?",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		}
@@ -219839,5 +220300,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2025-12-19T14:12:57.347Z"
+	"updateTime": "2025-12-25T11:58:37.751Z"
 }

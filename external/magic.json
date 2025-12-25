@@ -1039,7 +1039,7 @@
   {"debut":16,"genre":"maimai","name":"Last Samurai","dx":1,"lv":[4,8,12,13.9],"regionOverrides":{"intl":{"lv":[0,8,12,13.9,0]}},"ico":"b7884713b914d359"},
   {"debut":16,"genre":"maimai","name":"蒼穹舞楽","dx":1,"lv":[5,8.5,12.8,13.9],"regionOverrides":{"intl":{"lv":[0,8.5,12.8,13.9,0]}},"ico":"7cc92964b5148cca"},
   {"debut":16,"genre":"maimai","name":"AMABIE","dx":1,"lv":[5,8.8,12.4,14.6],"regionOverrides":{"intl":{"lv":[0,8.8,12.4,14.6,0]}},"ico":"761e10bd436f83cf"},
-  {"debut":16,"genre":"niconico＆ボーカロイド","name":"電話革命ナイセン","dx":1,"lv":[2,6.5,8.2,12.4],"regionOverrides":{"intl":{"lv":[0,6.5,8.2,12.5,0]}},"ico":"28cccd5cc7276eb3"},
+  {"debut":16,"genre":"niconico＆ボーカロイド","name":"電話革命ナイセン","dx":1,"lv":[2,6.5,8.2,12.5],"regionOverrides":{"intl":{"lv":[0,6.5,8.2,12.5,0]}},"ico":"28cccd5cc7276eb3"},
   {"debut":16,"genre":"niconico＆ボーカロイド","name":"Alice in 冷凍庫","dx":1,"lv":[3,6.5,9.8,12.8],"regionOverrides":{"intl":{"lv":[0,6.5,9.8,12.8,0]}},"ico":"69466546da86df9f"},
   {"debut":16,"genre":"ゲーム＆バラエティ","name":"キラメキ居残り大戦争","dx":1,"lv":[4,7.5,10.8,13.2],"regionOverrides":{"intl":{"lv":[0,7.5,10.8,13.2,0]}},"ico":"0017d1b140e0da0a"},
   {"debut":16,"genre":"maimai","name":"Never Give Up!","dx":1,"lv":[4,7.8,10.8,13.8,13.7],"regionOverrides":{"intl":{"lv":[0,7.8,10.8,13.8,13.7]}},"ico":"fd5895f21f0da045"},
@@ -1650,5 +1650,8 @@
   {"debut":25,"genre":"maimai","name":"ミクマリ","dx":1,"lv":[4,7.8,10.6,13.5],"ico":"a9ef3210029d3530"},
   {"debut":25,"genre":"maimai","name":"雲外蒼電 -Dreaming Voltage-","dx":1,"lv":[4,7.7,12.2,13.9],"ico":"02dd6a5eb800fbbf"},
   {"debut":25,"genre":"maimai","name":"鬼女紅妖","dx":1,"lv":[5,8,11.7,14.1],"ico":"12e822396bbf7ca1"},
-  {"debut":25,"genre":"maimai","name":"華天月兎","dx":1,"lv":[5,8.2,12.5,14.4],"ico":"03e15327e6423545"}
+  {"debut":25,"genre":"maimai","name":"華天月兎","dx":1,"lv":[5,8.2,12.5,14.4],"ico":"03e15327e6423545"},
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"スノーマン (Rerec)","dx":1,"lv":[2,6.2,9.8,13.1],"ico":"67a6e0f8822e2d7a"},
+  {"debut":25,"genre":"ゲーム＆バラエティ","name":"JINGLE DEATH","dx":1,"lv":[5,8.2,12.4,14.1],"ico":"c467dedfe621ce57"},
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ヤミナベ!!!!","dx":1,"lv":[6,8.5,12.6,14.5],"ico":"48b784c73d0cba6b"}
 ]
