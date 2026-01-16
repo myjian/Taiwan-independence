@@ -220087,7 +220087,7 @@
 			"imageName": "9ed4cf307b6b51287ea3e8f2f1a39611a099b02e568612358ff5b8e83b7ab67f.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-09",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -220214,7 +220214,7 @@
 			"imageName": "806f1365a1545d43dea49cc0b71f71f152f1ab2178a0e14ddb45b916bb9733a8.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-09",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -220341,7 +220341,7 @@
 			"imageName": "315c2f4ef69b30f79f3e94276eea18f4f9dcb600bf1918a4c8d623a6d3069889.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-09",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -220468,7 +220468,7 @@
 			"imageName": "8f646c2dae16dfa1f2ce797ccafce3b0d151b4ce0293dc874e66aedf61a6f7bc.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-09",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -220595,7 +220595,7 @@
 			"imageName": "7f1e94161551e3863a590428813241950678cf838e9aac8be0fa6005d0fc8967.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-09",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -220710,6 +220710,217 @@
 					},
 					"isSpecial": false,
 					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+			"category": "POPS＆アニメ",
+			"title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+			"artist": "3markets[ ]",
+			"bpm": 150,
+			"imageName": "f13031c7d0390a23079c0b0344a272caa9dbb965d74a4d7edddcc9ae9bfee985.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-01-16",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "[鏡]MIRROR of MAGIC",
+			"category": "宴会場",
+			"title": "[鏡]MIRROR of MAGIC",
+			"artist": "Shoichiro Hirata feat.SUIMI",
+			"bpm": null,
+			"imageName": "0500229a1fba056cab4d4a872b4ac8f734812e3ebc2b3c5a978c9502dff579d6.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-01-16",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "MIRROR of ADVANCED(↻)",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【鏡】",
+					"level": "12?",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[邪]アマノジャクリバース feat. ｙｔｒ",
+			"category": "宴会場",
+			"title": "[邪]アマノジャクリバース feat. ｙｔｒ",
+			"artist": "魂音泉",
+			"bpm": null,
+			"imageName": "45df78b7be097196fb6dbb1c1d44b0af8ef95b2c029efd63df27ac1dafc82018.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-01-16",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "ぜたっ作を面譜なルワジイ",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【邪】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		}
@@ -220935,5 +221146,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-01-14T03:56:07.760Z"
+	"updateTime": "2026-01-16T01:08:38.434Z"
 }

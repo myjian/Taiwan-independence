@@ -1658,5 +1658,6 @@
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"化けの花","dx":1,"lv":[4,7.2,11,13.4],"ico":"67c30af72f7293e4"},
   {"debut":25,"genre":"POPS＆アニメ","name":"うい麦畑でつかまえて","dx":1,"lv":[3,7,10.8,13.2],"ico":"299dad20075dc4c4"},
   {"debut":25,"genre":"POPS＆アニメ","name":"勝手に生きましょ","dx":1,"lv":[3,7.5,10.4,13],"ico":"ce26768f1271c875"},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"アイアイ傘","dx":1,"lv":[2,6,9.7,12.9],"ico":"fff8332aea8283cd"}
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"アイアイ傘","dx":1,"lv":[2,6,9.7,12.9],"ico":"fff8332aea8283cd"},
+  {"debut":25,"genre":"POPS＆アニメ","name":"INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP","dx":1,"lv":[-3,-6,-9.6,-13]}
 ]
