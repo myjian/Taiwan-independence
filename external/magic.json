@@ -944,7 +944,6 @@
   {"debut":15,"genre":"niconico＆ボーカロイド","name":"アンクローズ・ヒューマン","dx":1,"lv":[3,7.2,9.8,13.2],"regionOverrides":{"intl":{"lv":[3,7.2,9.8,13.2,0]}},"ico":"0641b4abd73b15ea"},
   {"debut":15,"genre":"niconico＆ボーカロイド","name":"乙女解剖","dx":1,"lv":[2,6.5,8.8,12.5],"regionOverrides":{"intl":{"lv":[2,6.5,8.8,12.5,0]}},"ico":"cb3762ad24071bdc"},
   {"debut":15,"genre":"東方Project","name":"悪戯センセーション","dx":1,"lv":[4,7.7,9.8,12.7],"regionOverrides":{"intl":{"lv":[4,7.7,9.8,12.7,0]}},"ico":"5c5ae698a3ca6825"},
-  {"debut":15,"genre":"東方Project","name":"Paranoia","dx":1,"lv":[4,7,9.5,13],"regionOverrides":{"intl":{"lv":[4,7,9.5,13,0]}},"ico":"2bb6a69fa0e66cc6"},
   {"debut":15,"genre":"ゲーム＆バラエティ","name":"BATTLE NO.1","dx":1,"lv":[6,8.5,12.2,14.5],"regionOverrides":{"intl":{"lv":[6,8.5,12.2,14.5,0]}},"ico":"7aa3724d12b8a82d"},
   {"debut":15,"genre":"maimai","name":"Jörqer","dx":1,"lv":[3,7,11.8,13.6],"regionOverrides":{"intl":{"lv":[3,7,11.8,13.6,0]}},"ico":"6371b8c7d2c59e7f"},
   {"debut":15,"genre":"maimai","name":"Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)","dx":1,"lv":[5,8,12.2,14.5],"regionOverrides":{"intl":{"lv":[5,8,12.2,14.5,0]}},"ico":"fcb1d9c95bb8205d"},
@@ -1659,5 +1658,10 @@
   {"debut":25,"genre":"POPS＆アニメ","name":"うい麦畑でつかまえて","dx":1,"lv":[3,7,10.8,13.2],"ico":"299dad20075dc4c4"},
   {"debut":25,"genre":"POPS＆アニメ","name":"勝手に生きましょ","dx":1,"lv":[3,7.5,10.4,13],"ico":"ce26768f1271c875"},
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"アイアイ傘","dx":1,"lv":[2,6,9.7,12.9],"ico":"fff8332aea8283cd"},
-  {"debut":25,"genre":"POPS＆アニメ","name":"INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP","dx":1,"lv":[3,6.5,9.9,13.3],"ico":"8e5cbe0e7b8a325b"}
+  {"debut":25,"genre":"POPS＆アニメ","name":"INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP","dx":1,"lv":[3,6.5,9.9,13.3],"ico":"8e5cbe0e7b8a325b"},
+  {"debut":25,"genre":"東方Project","name":"Paranoia","dx":0,"lv":[-3,-7,-10,-13.6],"ico":"2bb6a69fa0e66cc6"},
+  {"debut":15,"genre":"東方Project","name":"Paranoia","dx":1,"lv":[4,7,9.5,13],"regionOverrides":{"intl":{"lv":[4,7,9.5,13,0]}},"ico":"2bb6a69fa0e66cc6"},
+  {"debut":25,"genre":"ゲーム＆バラエティ","name":"Restricted Access","dx":1,"lv":[-4,-7.6,-11,-13.6],"ico":"de1bf8e1a4349172"},
+  {"debut":25,"genre":"ゲーム＆バラエティ","name":"胡蝶乃舞","dx":1,"lv":[-4,-7.6,-11.6,-13.6],"ico":"243cb5e190e6bc1c"},
+  {"debut":25,"genre":"ゲーム＆バラエティ","name":"零號車輛","dx":1,"lv":[-6,-8,-12.6,-14.6],"ico":"5013b0405bb25bc3"}
 ]

@@ -27526,8 +27526,8 @@
 					},
 					"regions": {
 						"jp": false,
-						"intl": true,
-						"usa": true,
+						"intl": false,
+						"usa": false,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -125555,133 +125555,6 @@
 			]
 		},
 		{
-			"songId": "Paranoia",
-			"category": "東方Project",
-			"title": "Paranoia",
-			"artist": "DiGiTAL WiNG feat. 花たん",
-			"bpm": 150,
-			"imageName": "13ee9951f5fe8c7a02dbaa81b853396515bc7a51aec675123cd0e09f58c3eca9.png",
-			"version": "Splash",
-			"releaseDate": "2020-09-17",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "4",
-					"levelValue": 4,
-					"internalLevel": null,
-					"internalLevelValue": 4,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 175,
-						"hold": 6,
-						"slide": 2,
-						"touch": 14,
-						"break": 14,
-						"total": 211
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"usa": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "Splash"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": null,
-					"internalLevelValue": 7,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 254,
-						"hold": 26,
-						"slide": 12,
-						"touch": 25,
-						"break": 12,
-						"total": 329
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"usa": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "Splash"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "9",
-					"levelValue": 9,
-					"internalLevel": null,
-					"internalLevelValue": 9,
-					"noteDesigner": "サファ太",
-					"noteCounts": {
-						"tap": 337,
-						"hold": 38,
-						"slide": 46,
-						"touch": 33,
-						"break": 27,
-						"total": 481
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"usa": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "Splash"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": "13.0",
-					"internalLevelValue": 13,
-					"noteDesigner": "某S氏",
-					"noteCounts": {
-						"tap": 554,
-						"hold": 42,
-						"slide": 88,
-						"touch": 54,
-						"break": 30,
-						"total": 768
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"usa": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "Splash"
-				}
-			]
-		},
-		{
 			"songId": "BATTLE NO.1",
 			"category": "ゲーム＆バラエティ",
 			"title": "BATTLE NO.1",
@@ -220722,7 +220595,7 @@
 			"imageName": "f13031c7d0390a23079c0b0344a272caa9dbb965d74a4d7edddcc9ae9bfee985.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-16",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -220921,6 +220794,626 @@
 						"intl": {}
 					},
 					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "Paranoia",
+			"category": "東方Project",
+			"title": "Paranoia",
+			"artist": "DiGiTAL WiNG feat. 花たん",
+			"bpm": 150,
+			"imageName": "13ee9951f5fe8c7a02dbaa81b853396515bc7a51aec675123cd0e09f58c3eca9.png",
+			"version": "CiRCLE",
+			"releaseDate": "2020-09-17",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 175,
+						"hold": 6,
+						"slide": 2,
+						"touch": 14,
+						"break": 14,
+						"total": 211
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "Splash"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 254,
+						"hold": 26,
+						"slide": 12,
+						"touch": 25,
+						"break": 12,
+						"total": 329
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "Splash"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 337,
+						"hold": 38,
+						"slide": 46,
+						"touch": 33,
+						"break": 27,
+						"total": 481
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "Splash"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.0",
+					"internalLevelValue": 13,
+					"noteDesigner": "某S氏",
+					"noteCounts": {
+						"tap": 554,
+						"hold": 42,
+						"slide": 88,
+						"touch": 54,
+						"break": 30,
+						"total": 768
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "Splash"
+				},
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Restricted Access",
+			"category": "ゲーム＆バラエティ",
+			"title": "Restricted Access",
+			"artist": "Knighthood",
+			"bpm": null,
+			"imageName": "6bfff68d914008f6169de274c17616ef9ff2a85adfc8c81c125efb4a9912bbb3.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-01-23",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "胡蝶乃舞",
+			"category": "ゲーム＆バラエティ",
+			"title": "胡蝶乃舞",
+			"artist": "Srav3R",
+			"bpm": null,
+			"imageName": "a396d313f20b4a7209a13e0198c4635f09980840ee577970d1bef8223ae3491c.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-01-23",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "零號車輛",
+			"category": "ゲーム＆バラエティ",
+			"title": "零號車輛",
+			"artist": "seatrus",
+			"bpm": 240,
+			"imageName": "395fbb6716c46636e562d9b9ef00841c39b14658c8e3dbd087a96febf731fcba.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-01-23",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 836,
+						"hold": 83,
+						"slide": 92,
+						"touch": 72,
+						"break": 60,
+						"total": 1143
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
 				}
 			]
 		}
@@ -221146,5 +221639,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-01-22T01:08:20.901Z"
+	"updateTime": "2026-01-23T01:05:10.506Z"
 }
