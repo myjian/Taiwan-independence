@@ -220688,8 +220688,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": "はっぴー(INFP)",
 					"noteCounts": {
 						"tap": 659,
@@ -220931,12 +220931,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
+						"tap": 141,
+						"hold": 12,
+						"slide": 4,
 						"touch": null,
-						"break": null,
-						"total": null
+						"break": 13,
+						"total": 170
 					},
 					"regions": {
 						"jp": true,
@@ -220959,12 +220959,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
+						"tap": 246,
+						"hold": 18,
+						"slide": 6,
 						"touch": null,
-						"break": null,
-						"total": null
+						"break": 14,
+						"total": 284
 					},
 					"regions": {
 						"jp": true,
@@ -220985,14 +220985,14 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
+						"tap": 331,
+						"hold": 59,
+						"slide": 22,
 						"touch": null,
-						"break": null,
-						"total": null
+						"break": 35,
+						"total": 447
 					},
 					"regions": {
 						"jp": true,
@@ -221011,16 +221011,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
+					"internalLevel": "13.6",
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
+						"tap": 579,
+						"hold": 33,
+						"slide": 118,
 						"touch": null,
-						"break": null,
-						"total": null
+						"break": 88,
+						"total": 818
 					},
 					"regions": {
 						"jp": true,
@@ -221041,7 +221041,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Restricted Access",
 			"artist": "Knighthood",
-			"bpm": null,
+			"bpm": 185,
 			"imageName": "6bfff68d914008f6169de274c17616ef9ff2a85adfc8c81c125efb4a9912bbb3.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-23",
@@ -221058,12 +221058,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 172,
+						"hold": 15,
+						"slide": 4,
+						"touch": 20,
+						"break": 6,
+						"total": 217
 					},
 					"regions": {
 						"jp": true,
@@ -221086,12 +221086,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 312,
+						"hold": 13,
+						"slide": 11,
+						"touch": 45,
+						"break": 8,
+						"total": 389
 					},
 					"regions": {
 						"jp": true,
@@ -221112,14 +221112,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 309,
+						"hold": 58,
+						"slide": 38,
+						"touch": 72,
+						"break": 58,
+						"total": 535
 					},
 					"regions": {
 						"jp": true,
@@ -221138,16 +221138,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 556,
+						"hold": 68,
+						"slide": 98,
+						"touch": 165,
+						"break": 33,
+						"total": 920
 					},
 					"regions": {
 						"jp": true,
@@ -221168,7 +221168,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "胡蝶乃舞",
 			"artist": "Srav3R",
-			"bpm": null,
+			"bpm": 180,
 			"imageName": "a396d313f20b4a7209a13e0198c4635f09980840ee577970d1bef8223ae3491c.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-23",
@@ -221185,12 +221185,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 177,
+						"hold": 10,
+						"slide": 4,
+						"touch": 8,
+						"break": 7,
+						"total": 206
 					},
 					"regions": {
 						"jp": true,
@@ -221213,12 +221213,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 266,
+						"hold": 17,
+						"slide": 6,
+						"touch": 23,
+						"break": 6,
+						"total": 318
 					},
 					"regions": {
 						"jp": true,
@@ -221239,14 +221239,14 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 345,
+						"hold": 65,
+						"slide": 61,
+						"touch": 17,
+						"break": 38,
+						"total": 526
 					},
 					"regions": {
 						"jp": true,
@@ -221265,16 +221265,16 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
+					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 632,
+						"hold": 45,
+						"slide": 96,
+						"touch": 20,
+						"break": 38,
+						"total": 832
 					},
 					"regions": {
 						"jp": true,
@@ -221312,12 +221312,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 263,
+						"hold": 15,
+						"slide": 8,
+						"touch": 7,
+						"break": 10,
+						"total": 303
 					},
 					"regions": {
 						"jp": true,
@@ -221340,12 +221340,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 354,
+						"hold": 17,
+						"slide": 13,
+						"touch": 16,
+						"break": 10,
+						"total": 410
 					},
 					"regions": {
 						"jp": true,
@@ -221364,16 +221364,16 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
-					"noteDesigner": null,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 460,
+						"hold": 63,
+						"slide": 34,
+						"touch": 38,
+						"break": 61,
+						"total": 656
 					},
 					"regions": {
 						"jp": true,
@@ -221392,7 +221392,7 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": null,
+					"internalLevel": "14.6",
 					"internalLevelValue": 14.6,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
@@ -221639,5 +221639,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-01-23T01:05:10.506Z"
+	"updateTime": "2026-01-24T07:14:46.653Z"
 }
