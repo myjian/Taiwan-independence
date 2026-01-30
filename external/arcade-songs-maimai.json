@@ -58246,7 +58246,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -58274,7 +58274,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -58302,7 +58302,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -58330,7 +58330,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -66082,7 +66082,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -66110,7 +66110,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -66138,7 +66138,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -66166,7 +66166,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -89602,8 +89602,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -89630,8 +89630,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -89658,8 +89658,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -89686,8 +89686,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -193444,7 +193444,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193472,7 +193472,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193500,7 +193500,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193528,7 +193528,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193571,7 +193571,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193599,7 +193599,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193627,7 +193627,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193655,7 +193655,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193698,7 +193698,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193726,7 +193726,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193754,7 +193754,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193782,7 +193782,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193825,7 +193825,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193853,7 +193853,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193881,7 +193881,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193909,7 +193909,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193952,7 +193952,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -193980,7 +193980,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194008,7 +194008,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194036,7 +194036,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194079,7 +194079,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194107,7 +194107,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194135,7 +194135,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194163,7 +194163,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194191,7 +194191,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194234,7 +194234,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194262,7 +194262,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194290,7 +194290,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194318,7 +194318,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194361,7 +194361,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194389,7 +194389,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194417,7 +194417,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194445,7 +194445,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194473,7 +194473,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194516,7 +194516,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194544,7 +194544,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194572,7 +194572,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194600,7 +194600,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194628,7 +194628,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194671,7 +194671,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194699,7 +194699,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194727,7 +194727,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194755,7 +194755,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194798,7 +194798,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194826,7 +194826,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194854,7 +194854,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194882,7 +194882,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194925,7 +194925,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194953,7 +194953,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -194981,7 +194981,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195009,7 +195009,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195052,7 +195052,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195080,7 +195080,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195108,7 +195108,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195136,7 +195136,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195179,7 +195179,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195207,7 +195207,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195235,7 +195235,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195263,7 +195263,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195306,7 +195306,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195334,7 +195334,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195362,7 +195362,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195390,7 +195390,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195433,7 +195433,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195461,7 +195461,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195489,7 +195489,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -195517,7 +195517,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -196155,7 +196155,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -196183,7 +196183,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -196211,7 +196211,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -196239,7 +196239,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197310,7 +197310,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197338,7 +197338,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197366,7 +197366,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197394,7 +197394,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197422,7 +197422,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197465,7 +197465,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197493,7 +197493,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197521,7 +197521,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197549,7 +197549,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -197577,7 +197577,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -199866,7 +199866,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -199894,7 +199894,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -199922,7 +199922,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -199950,7 +199950,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -210114,7 +210114,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -210142,7 +210142,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -210170,7 +210170,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -210198,7 +210198,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -215511,8 +215511,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -215539,8 +215539,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -215567,8 +215567,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -215595,8 +215595,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -215638,8 +215638,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -215666,8 +215666,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -215694,8 +215694,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -215722,8 +215722,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -221639,5 +221639,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-01-25T11:33:42.361Z"
+	"updateTime": "2026-01-30T02:18:33.845Z"
 }
