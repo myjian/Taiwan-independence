@@ -189,11 +189,10 @@ fs.readFile(inputFilePath, {encoding: 'utf-8'})
           // Skip versions that don't have associated plate.
           return;
         }
-        if (!version.abbr.includes('(')) {
-          // Skip because we don't know the plate prefix yet.
-          return;
-        }
-        const platePrefix = version.abbr.charAt(version.abbr.indexOf('(') + 1);
+        // If we don't know the plate prefix, use question mark.
+        const platePrefix = version.abbr.includes('(')
+          ? version.abbr.charAt(version.abbr.indexOf('(') + 1)
+          : '？';
         console.log(
           `Collecting plate info for ${region} ${version.version} (${platePrefix})`
         );
