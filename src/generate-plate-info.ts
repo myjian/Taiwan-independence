@@ -48,7 +48,11 @@ const INTL_REVIVED_SONGS = new Set([
   '＊ハロー、プラネット。',
 ]);
 
-function shouldSkipSong(song: ArcadeSong, region: string, platePrefix: string) {
+function shouldSkipSong(
+  song: ArcadeSong,
+  region: string,
+  platePrefix: string
+): boolean {
   // Revived songs are not considered for plates.
   if (ALL_REGION_REVIVED_SONGS.has(song.title)) {
     return true;
@@ -201,7 +205,9 @@ fs.readFile(inputFilePath, {encoding: 'utf-8'})
           }
           song.sheets.forEach(sheet => {
             const sheetVersion =
-              sheet.regionOverrides[region]?.version || sheet.version;
+              sheet.regionOverrides[region]?.version ||
+              sheet.version ||
+              song.version;
             if (sheet.regions[region] && sheetVersion === version.version) {
               if (sheet.type === 'dx') {
                 addSongToSet(dxSongs, song);
