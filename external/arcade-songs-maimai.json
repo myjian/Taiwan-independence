@@ -218611,7 +218611,7 @@
 			"version": "CiRCLE",
 			"releaseDate": "2025-12-05",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -220806,7 +220806,7 @@
 			"imageName": "13ee9951f5fe8c7a02dbaa81b853396515bc7a51aec675123cd0e09f58c3eca9.png",
 			"version": "CiRCLE",
 			"releaseDate": "2020-09-17",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -221045,7 +221045,7 @@
 			"imageName": "6bfff68d914008f6169de274c17616ef9ff2a85adfc8c81c125efb4a9912bbb3.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-23",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -221172,7 +221172,7 @@
 			"imageName": "a396d313f20b4a7209a13e0198c4635f09980840ee577970d1bef8223ae3491c.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-23",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -221299,7 +221299,7 @@
 			"imageName": "395fbb6716c46636e562d9b9ef00841c39b14658c8e3dbd087a96febf731fcba.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-23",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -221407,6 +221407,514 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "スローグロー",
+			"category": "maimai",
+			"title": "スローグロー",
+			"artist": "nayuta",
+			"bpm": 180,
+			"imageName": "3457faca05095949f17a1ee55033a9e0cac004eecd22601ec17b493ebdf7e436.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-02-06",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 161,
+						"hold": 15,
+						"slide": 8,
+						"touch": 15,
+						"break": 4,
+						"total": 203
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 256,
+						"hold": 26,
+						"slide": 10,
+						"touch": 13,
+						"break": 8,
+						"total": 313
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 424,
+						"hold": 35,
+						"slide": 28,
+						"touch": 33,
+						"break": 17,
+						"total": 537
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
+					"noteDesigner": "ロシェ@ペンギン",
+					"noteCounts": {
+						"tap": 487,
+						"hold": 32,
+						"slide": 60,
+						"touch": 100,
+						"break": 31,
+						"total": 710
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "ECHO,",
+			"category": "maimai",
+			"title": "ECHO,",
+			"artist": "棗いつき",
+			"bpm": 193,
+			"imageName": "37a0076ef4629d674842b28c9cc58f4c0c679e5c98da15e9b9959fe8e4bbf1d7.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-02-06",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 214,
+						"hold": 12,
+						"slide": 8,
+						"touch": 9,
+						"break": 5,
+						"total": 248
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 320,
+						"hold": 20,
+						"slide": 15,
+						"touch": 15,
+						"break": 4,
+						"total": 374
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 447,
+						"hold": 56,
+						"slide": 59,
+						"touch": 2,
+						"break": 17,
+						"total": 581
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 608,
+						"hold": 27,
+						"slide": 135,
+						"touch": 24,
+						"break": 45,
+						"total": 839
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Phase: Theatre",
+			"category": "maimai",
+			"title": "Phase: Theatre",
+			"artist": "藍月なくる",
+			"bpm": 195,
+			"imageName": "a62918a7cc1de3acdcf8beca1028fd3158698de8b4ec0bdb8be068300d2ec051.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-02-06",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 181,
+						"hold": 25,
+						"slide": 7,
+						"touch": 16,
+						"break": 3,
+						"total": 232
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 351,
+						"hold": 19,
+						"slide": 11,
+						"touch": 13,
+						"break": 4,
+						"total": 398
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 400,
+						"hold": 79,
+						"slide": 57,
+						"touch": 22,
+						"break": 62,
+						"total": 620
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "Jack",
+					"noteCounts": {
+						"tap": 681,
+						"hold": 56,
+						"slide": 112,
+						"touch": 48,
+						"break": 68,
+						"total": 965
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Sky Trails",
+			"category": "maimai",
+			"title": "Sky Trails",
+			"artist": "La prière",
+			"bpm": 171,
+			"imageName": "62f55591b921a168db75481c1ba79af0784a3f74ca541b3aafb7ac4181d11f6f.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-02-06",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 234,
+						"hold": 20,
+						"slide": 10,
+						"touch": 9,
+						"break": 8,
+						"total": 281
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 364,
+						"hold": 11,
+						"slide": 16,
+						"touch": 13,
+						"break": 6,
+						"total": 410
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 454,
+						"hold": 48,
+						"slide": 72,
+						"touch": 28,
+						"break": 74,
+						"total": 676
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": "14.7",
+					"internalLevelValue": 14.7,
+					"noteDesigner": "Luxizhel+カマボコ君+はっぴー",
+					"noteCounts": {
+						"tap": 651,
+						"hold": 65,
+						"slide": 165,
+						"touch": 150,
+						"break": 21,
+						"total": 1052
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -221639,5 +222147,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-02-06T01:14:30.709Z"
+	"updateTime": "2026-02-11T02:41:51.224Z"
 }

@@ -1663,5 +1663,9 @@
   {"debut":15,"genre":"東方Project","name":"Paranoia","dx":1,"lv":[4,7,9.5,13],"regionOverrides":{"intl":{"lv":[4,7,9.5,13,0]}},"ico":"2bb6a69fa0e66cc6"},
   {"debut":25,"genre":"ゲーム＆バラエティ","name":"Restricted Access","dx":1,"lv":[4,7.8,11.5,13.8],"ico":"de1bf8e1a4349172"},
   {"debut":25,"genre":"ゲーム＆バラエティ","name":"胡蝶乃舞","dx":1,"lv":[4,7.8,11.7,13.9],"ico":"243cb5e190e6bc1c"},
-  {"debut":25,"genre":"ゲーム＆バラエティ","name":"零號車輛","dx":1,"lv":[6,8.5,12.8,14.6],"ico":"5013b0405bb25bc3"}
+  {"debut":25,"genre":"ゲーム＆バラエティ","name":"零號車輛","dx":1,"lv":[6,8.5,12.8,14.6],"ico":"5013b0405bb25bc3"},
+  {"debut":25,"genre":"maimai","name":"スローグロー","dx":1,"lv":[3,7,10.8,13.3],"ico":"8b7dba12521d48c5"},
+  {"debut":25,"genre":"maimai","name":"ECHO,","dx":1,"lv":[4,7.9,11.2,13.7],"ico":"5bc1a8f9ea8f0fbf"},
+  {"debut":25,"genre":"maimai","name":"Phase: Theatre","dx":1,"lv":[5,8.5,11.7,13.8],"ico":"59f62ef34ff1b4fc"},
+  {"debut":25,"genre":"maimai","name":"Sky Trails","dx":1,"lv":[5,8,12.8,14.7],"ico":"17afc6f7c4af0a9e"}
 ]
