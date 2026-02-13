@@ -1667,5 +1667,6 @@
   {"debut":25,"genre":"maimai","name":"スローグロー","dx":1,"lv":[3,7,10.8,13.3],"ico":"8b7dba12521d48c5"},
   {"debut":25,"genre":"maimai","name":"ECHO,","dx":1,"lv":[4,7.9,11.2,13.7],"ico":"5bc1a8f9ea8f0fbf"},
   {"debut":25,"genre":"maimai","name":"Phase: Theatre","dx":1,"lv":[5,8.5,11.7,13.8],"ico":"59f62ef34ff1b4fc"},
-  {"debut":25,"genre":"maimai","name":"Sky Trails","dx":1,"lv":[5,8,12.8,14.7],"ico":"17afc6f7c4af0a9e"}
+  {"debut":25,"genre":"maimai","name":"Sky Trails","dx":1,"lv":[5,8,12.8,14.7],"ico":"17afc6f7c4af0a9e"},
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ラプラスショコラ","dx":1,"lv":[-2,-6,-9.6,-12.6],"ico":"130694f9747295ff"}
 ]
