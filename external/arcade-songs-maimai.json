@@ -217123,8 +217123,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217151,8 +217151,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217179,8 +217179,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217207,8 +217207,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -219782,7 +219782,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				},
 				{
 					"type": "dx",
@@ -219809,7 +219810,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				},
 				{
 					"type": "dx",
@@ -219836,7 +219838,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				},
 				{
 					"type": "dx",
@@ -219863,7 +219866,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				}
 			]
 		},
@@ -221930,11 +221934,11 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "ラプラスショコラ",
 			"artist": "Kai",
-			"bpm": null,
+			"bpm": 130,
 			"imageName": "1969e08ef7d2b3e648131cd1164a6b03cc5bfb455ec3391bef1a80605725c2c9.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-02-13",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -221947,17 +221951,17 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 130,
+						"hold": 11,
+						"slide": 6,
+						"touch": 7,
+						"break": 4,
+						"total": 158
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -221975,12 +221979,139 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
+						"tap": 211,
+						"hold": 18,
+						"slide": 8,
+						"touch": 11,
+						"break": 6,
+						"total": 254
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 276,
+						"hold": 37,
+						"slide": 54,
+						"touch": 16,
+						"break": 20,
+						"total": 403
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 488,
+						"hold": 42,
+						"slide": 135,
+						"touch": 9,
+						"break": 17,
+						"total": 691
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "恋の氷結おてんば湯けむりチルノ温泉",
+			"category": "東方Project",
+			"title": "恋の氷結おてんば湯けむりチルノ温泉",
+			"artist": "uno×夕野ヨシミ feat. miko",
+			"bpm": 188,
+			"imageName": "1a6396421dcb22f018e02b429382cd2e4218d22c79bce18849960c5da1117708.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-02-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
 						"tap": null,
 						"hold": null,
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 140
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 242
 					},
 					"regions": {
 						"jp": true,
@@ -221997,10 +222128,10 @@
 				{
 					"type": "dx",
 					"difficulty": "expert",
-					"level": "9+",
-					"levelValue": 9.6,
+					"level": "10+",
+					"levelValue": 10.6,
 					"internalLevel": null,
-					"internalLevelValue": 9.6,
+					"internalLevelValue": 10.6,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -222008,7 +222139,134 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 365
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 411,
+						"hold": 58,
+						"slide": 73,
+						"touch": 44,
+						"break": 34,
+						"total": 620
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "イタ電はやめて！ ぼくらのスカーレット・コール",
+			"category": "東方Project",
+			"title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+			"artist": "七条レタスグループ",
+			"bpm": 112,
+			"imageName": "457a18322173d292140207e2c4253a2d7e69976e77db27628563867d46f5de23.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-02-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "1",
+					"levelValue": 1,
+					"internalLevel": null,
+					"internalLevelValue": 1,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 125
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 238
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 355
 					},
 					"regions": {
 						"jp": true,
@@ -222029,6 +222287,105 @@
 					"levelValue": 12.6,
 					"internalLevel": null,
 					"internalLevelValue": 12.6,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 297,
+						"hold": 15,
+						"slide": 54,
+						"touch": 744,
+						"break": 29,
+						"total": 1139
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "むしみこうにゃーのハッピッピー",
+			"category": "東方Project",
+			"title": "むしみこうにゃーのハッピッピー",
+			"artist": "ARM×狐夢想 feat. miko×山本椛",
+			"bpm": null,
+			"imageName": "83c8b17a67bb6a2b30ca8d4652e1ee9bafac942bbac09d5ecbb3500eae766492.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-02-20",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 172
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 281
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -222036,7 +222393,35 @@
 						"slide": null,
 						"touch": null,
 						"break": null,
-						"total": null
+						"total": 511
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": "じゃこレモン",
+					"noteCounts": {
+						"tap": 474,
+						"hold": 38,
+						"slide": 130,
+						"touch": 31,
+						"break": 56,
+						"total": 729
 					},
 					"regions": {
 						"jp": true,
@@ -222274,5 +222659,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-02-13T01:22:36.045Z"
+	"updateTime": "2026-02-20T06:50:37.698Z"
 }

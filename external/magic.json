@@ -1668,5 +1668,8 @@
   {"debut":25,"genre":"maimai","name":"ECHO,","dx":1,"lv":[4,7.9,11.2,13.7],"ico":"5bc1a8f9ea8f0fbf"},
   {"debut":25,"genre":"maimai","name":"Phase: Theatre","dx":1,"lv":[5,8.5,11.7,13.8],"ico":"59f62ef34ff1b4fc"},
   {"debut":25,"genre":"maimai","name":"Sky Trails","dx":1,"lv":[5,8,12.8,14.7],"ico":"17afc6f7c4af0a9e"},
-  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ラプラスショコラ","dx":1,"lv":[2,6.2,9.9,12.9],"ico":"130694f9747295ff"}
+  {"debut":25,"genre":"niconico＆ボーカロイド","name":"ラプラスショコラ","dx":1,"lv":[2,6.2,9.9,12.9],"ico":"130694f9747295ff"},
+  {"debut":25,"genre":"東方Project","name":"恋の氷結おてんば湯けむりチルノ温泉","dx":1,"lv":[-3,-7,-10.6,-13],"ico":"ce668c0f0af605ed"},
+  {"debut":25,"genre":"東方Project","name":"イタ電はやめて！ ぼくらのスカーレット・コール","dx":1,"lv":[-1,-5,-9,-12.6],"ico":"211caf1afd2beb7a"},
+  {"debut":25,"genre":"東方Project","name":"むしみこうにゃーのハッピッピー","dx":1,"lv":[-3,-7.6,-11,-13.6],"ico":"2dede017b65f838e"}
 ]
