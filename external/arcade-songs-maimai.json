@@ -216400,8 +216400,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -216428,8 +216428,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -216456,8 +216456,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -216484,8 +216484,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -222078,11 +222078,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 109,
+						"hold": 9,
+						"slide": 6,
+						"touch": 13,
+						"break": 3,
 						"total": 140
 					},
 					"regions": {
@@ -222106,11 +222106,11 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 216,
+						"hold": 12,
+						"slide": 5,
+						"touch": 7,
+						"break": 2,
 						"total": 242
 					},
 					"regions": {
@@ -222132,13 +222132,13 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 243,
+						"hold": 43,
+						"slide": 43,
+						"touch": 18,
+						"break": 18,
 						"total": 365
 					},
 					"regions": {
@@ -222158,8 +222158,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 411,
@@ -222205,11 +222205,11 @@
 					"internalLevelValue": 1,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 92,
+						"hold": 13,
+						"slide": 4,
+						"touch": 11,
+						"break": 5,
 						"total": 125
 					},
 					"regions": {
@@ -222233,11 +222233,11 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 184,
+						"hold": 14,
+						"slide": 6,
+						"touch": 26,
+						"break": 8,
 						"total": 238
 					},
 					"regions": {
@@ -222259,13 +222259,13 @@
 					"levelValue": 9,
 					"internalLevel": null,
 					"internalLevelValue": 9,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 217,
+						"hold": 42,
+						"slide": 37,
+						"touch": 10,
+						"break": 49,
 						"total": 355
 					},
 					"regions": {
@@ -222285,8 +222285,8 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 297,
@@ -222315,7 +222315,7 @@
 			"category": "東方Project",
 			"title": "むしみこうにゃーのハッピッピー",
 			"artist": "ARM×狐夢想 feat. miko×山本椛",
-			"bpm": null,
+			"bpm": 225,
 			"imageName": "83c8b17a67bb6a2b30ca8d4652e1ee9bafac942bbac09d5ecbb3500eae766492.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-02-20",
@@ -222332,11 +222332,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 139,
+						"hold": 14,
+						"slide": 4,
+						"touch": 9,
+						"break": 6,
 						"total": 172
 					},
 					"regions": {
@@ -222360,11 +222360,11 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 239,
+						"hold": 17,
+						"slide": 8,
+						"touch": 11,
+						"break": 6,
 						"total": 281
 					},
 					"regions": {
@@ -222386,13 +222386,13 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 315,
+						"hold": 75,
+						"slide": 16,
+						"touch": 10,
+						"break": 95,
 						"total": 511
 					},
 					"regions": {
@@ -222412,7 +222412,7 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
+					"internalLevel": "13.6",
 					"internalLevelValue": 13.6,
 					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
@@ -222659,5 +222659,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-02-20T06:50:37.698Z"
+	"updateTime": "2026-02-24T14:30:25.559Z"
 }
