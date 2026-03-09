@@ -223003,12 +223003,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 320,
+						"hold": 14,
+						"slide": 7,
+						"touch": 24,
+						"break": 10,
+						"total": 375
 					},
 					"regions": {
 						"jp": true,
@@ -223031,12 +223031,12 @@
 					"internalLevelValue": 11.6,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 371,
+						"hold": 72,
+						"slide": 70,
+						"touch": 48,
+						"break": 31,
+						"total": 592
 					},
 					"regions": {
 						"jp": true,
@@ -223077,6 +223077,137 @@
 					},
 					"isSpecial": false,
 					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "Break The Speakers",
+			"category": "maimai",
+			"title": "Break The Speakers",
+			"artist": "DJ Myosuke",
+			"bpm": 185,
+			"imageName": "c454b4841b9c46fb15dc68a5e74fd860cd99c4f8bbecd6873e88a0aa9eeee3bb.png",
+			"version": "CiRCLE",
+			"releaseDate": "2026-03-05",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 238,
+						"hold": 3,
+						"slide": 6,
+						"touch": 14,
+						"break": 14,
+						"total": 275
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8+",
+					"levelValue": 8.6,
+					"internalLevel": null,
+					"internalLevelValue": 8.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 374,
+						"hold": 13,
+						"slide": 6,
+						"touch": 8,
+						"break": 42,
+						"total": 443
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": "ロシェ@ペンギン",
+					"noteCounts": {
+						"tap": 313,
+						"hold": 84,
+						"slide": 89,
+						"touch": 107,
+						"break": 112,
+						"total": 705
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": "BELiZHEL",
+					"noteCounts": {
+						"tap": 685,
+						"hold": 96,
+						"slide": 131,
+						"touch": 72,
+						"break": 112,
+						"total": 1096
+					},
+					"regions": {
+						"jp": false,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false
 				}
 			]
 		}
@@ -223302,5 +223433,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-03-06T18:36:14.659Z"
+	"updateTime": "2026-03-09T16:02:16.491Z"
 }
