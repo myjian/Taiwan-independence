@@ -189,6 +189,7 @@
   {"debut":19,"genre":"POPS＆アニメ","name":"残響散歌","dx":1,"lv":[-3,-6,9.7,13.4]},
   {"debut":19,"genre":"POPS＆アニメ","name":"アマカミサマ","dx":1,"lv":[-3,-6,-9,12.7]},
   {"debut":21,"genre":"POPS＆アニメ","name":"アンダーキッズ","dx":1,"lv":[-5,-7,10.8,13.4]},
+  {"debut":25,"genre":"maimai","name":"Break The Speakers","dx":1,"lv":[-5,-8.6,-12.6,-14.6],"regionOverrides":{"intl":{"debut":25,"lv":[5,8.8,12.9,14.7,0]}}},
   {"debut":0,"genre":"maimai","name":"True Love Song","dx":0,"lv":[5,7.2,10.2,12.4],"regionOverrides":{"intl":{"lv":[5,7.2,10.2,12.4,0]}},"ico":"c7cfd8a91e0436ac"},
   {"debut":0,"genre":"maimai","name":"Color My World","dx":0,"lv":[4,7.1,9.8,12.4],"regionOverrides":{"intl":{"lv":[4,7.1,9.8,12.4,0]}},"ico":"324889241d4d12cf"},
   {"debut":0,"genre":"POPS＆アニメ","name":"Future","dx":0,"lv":[7,7.8,9.5,10.7,12.7],"regionOverrides":{"intl":{"lv":[7,7.8,9.5,10.7,12.7]}},"ico":"507c390321c312eb"},
@@ -1676,6 +1677,5 @@
   {"debut":25,"genre":"オンゲキ＆CHUNITHM","name":"WakeUP MakeUP FEVER!","dx":1,"lv":[2,6.2,10,13.3],"ico":"49d875aca59e2dbc"},
   {"debut":25,"genre":"オンゲキ＆CHUNITHM","name":"give it up to you","dx":1,"lv":[3,7,10.7,13.2],"ico":"441cfe6d94175558"},
   {"debut":25,"genre":"オンゲキ＆CHUNITHM","name":"ICEBURN","dx":1,"lv":[4,8,11.5,13.8],"ico":"a1cf29dd6fd3c707"},
-  {"debut":25,"genre":"オンゲキ＆CHUNITHM","name":"Daredevil Glaive","dx":1,"lv":[5,7.8,11.8,14.2],"ico":"ecf6ef747128387c"},
-  {"debut":25,"genre":"maimai","name":"Break The Speakers","dx":1,"lv":[-5,-8.6,-12.6,-14.6],"regionOverrides":{"intl":{"debut":25,"lv":[5,8.8,12.9,14.7,0]}}}
+  {"debut":25,"genre":"オンゲキ＆CHUNITHM","name":"Daredevil Glaive","dx":1,"lv":[5,7.8,11.8,14.2],"ico":"ecf6ef747128387c"}
 ]
