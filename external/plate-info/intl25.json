@@ -1,10 +1,10 @@
 {
   "version_name": "CiRCLE",
   "plate_name": {
-    "FC": "？極",
-    "SSS": "？将",
-    "AP": "？神",
-    "FSD": "？舞舞"
+    "FC": "丸極",
+    "SSS": "丸将",
+    "AP": "丸神",
+    "FSD": "丸舞舞"
   },
   "std_songs": [],
   "dx_songs": [
@@ -13,7 +13,10 @@
     "CiRCLE CAMPAiGN",
     "Customized Justice",
     "Dazzle hop",
+    "Eternal Return",
     "Eureka",
+    "Galaxy Blaster",
+    "Get U ♭ack",
     "Hurtling Boys",
     "Magical Flavor",
     "Magical Paradox",
@@ -25,6 +28,7 @@
     "しゅ～しん？変身☆ハカイシンzzZ",
     "どんぐりGAME",
     "はじまりの未来",
+    "ぱぱぱらビーチ",
     "るろうらんる",
     "イーヴィルガール",
     "エンジェル ドリーム",
@@ -43,6 +47,7 @@
     "有頂天ドリーマーズ",
     "死ぬな！",
     "殿ッ！？ご乱心！？",
+    "真空都市",
     "胡蝶乃舞",
     "零號車輛"
   ]

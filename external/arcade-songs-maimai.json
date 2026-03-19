@@ -1002,6 +1002,161 @@
 			]
 		},
 		{
+			"songId": "ブリキノダンス",
+			"category": "niconico＆ボーカロイド",
+			"title": "ブリキノダンス",
+			"artist": "日向電工",
+			"bpm": 172,
+			"imageName": "9fdb91e2e4187c4c5172afafcd13380ccd608158107119b75aba926dccf0c3f1.png",
+			"version": "MiLK PLUS",
+			"releaseDate": "2018-08-07",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 202,
+						"hold": 12,
+						"slide": 8,
+						"touch": null,
+						"break": 6,
+						"total": 228
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MiLK PLUS"
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 418,
+						"hold": 25,
+						"slide": 6,
+						"touch": null,
+						"break": 11,
+						"total": 460
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MiLK PLUS"
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 480,
+						"hold": 53,
+						"slide": 22,
+						"touch": null,
+						"break": 20,
+						"total": 575
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MiLK PLUS"
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": "12.5",
+					"internalLevelValue": 12.5,
+					"noteDesigner": "緑風 犬三郎",
+					"noteCounts": {
+						"tap": 625,
+						"hold": 5,
+						"slide": 116,
+						"touch": null,
+						"break": 6,
+						"total": 752
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MiLK PLUS"
+				},
+				{
+					"type": "std",
+					"difficulty": "remaster",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 763,
+						"hold": 32,
+						"slide": 93,
+						"touch": null,
+						"break": 12,
+						"total": 900
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MiLK PLUS"
+				}
+			]
+		},
+		{
 			"songId": "ファッとして桃源郷",
 			"category": "POPS＆アニメ",
 			"title": "ファッとして桃源郷",
@@ -46020,10 +46175,122 @@
 			"imageName": "0c7e1c973cb55bf315c4a7effa2a938640b73ef4c9c8252893cd9a5b8a3cfc4d.png",
 			"version": "GreeN",
 			"releaseDate": "2013-09-05",
-			"isNew": false,
+			"isNew": true,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
 				{
 					"type": "std",
 					"difficulty": "basic",
@@ -84249,7 +84516,7 @@
 			"songId": "オトヒメモリー☆ウタゲーション",
 			"category": "maimai",
 			"title": "オトヒメモリー☆ウタゲーション",
-			"artist": "Junky",
+			"artist": "Junky feat. 乙姫(CV:浅川悠)",
 			"bpm": 140,
 			"imageName": "220fea88947567c7f0a13c58fa479f838c4c66f6c37ad420e9188e2aab425aa1.png",
 			"version": "MURASAKi PLUS",
@@ -98168,161 +98435,6 @@
 						"intl": true,
 						"usa": true,
 						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "MiLK PLUS"
-				}
-			]
-		},
-		{
-			"songId": "ブリキノダンス",
-			"category": "niconico＆ボーカロイド",
-			"title": "ブリキノダンス",
-			"artist": "日向電工",
-			"bpm": 172,
-			"imageName": "9fdb91e2e4187c4c5172afafcd13380ccd608158107119b75aba926dccf0c3f1.png",
-			"version": "MiLK PLUS",
-			"releaseDate": "2018-08-07",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "5",
-					"levelValue": 5,
-					"internalLevel": null,
-					"internalLevelValue": 5,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 202,
-						"hold": 12,
-						"slide": 8,
-						"touch": null,
-						"break": 6,
-						"total": 228
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "MiLK PLUS"
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "7+",
-					"levelValue": 7.6,
-					"internalLevel": null,
-					"internalLevelValue": 7.6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 418,
-						"hold": 25,
-						"slide": 6,
-						"touch": null,
-						"break": 11,
-						"total": 460
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "MiLK PLUS"
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "10+",
-					"levelValue": 10.6,
-					"internalLevel": null,
-					"internalLevelValue": 10.6,
-					"noteDesigner": "サファ太",
-					"noteCounts": {
-						"tap": 480,
-						"hold": 53,
-						"slide": 22,
-						"touch": null,
-						"break": 20,
-						"total": 575
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "MiLK PLUS"
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": "12.5",
-					"internalLevelValue": 12.5,
-					"noteDesigner": "緑風 犬三郎",
-					"noteCounts": {
-						"tap": 625,
-						"hold": 5,
-						"slide": 116,
-						"touch": null,
-						"break": 6,
-						"total": 752
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "MiLK PLUS"
-				},
-				{
-					"type": "std",
-					"difficulty": "remaster",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": "13.4",
-					"internalLevelValue": 13.4,
-					"noteDesigner": "はっぴー",
-					"noteCounts": {
-						"tap": 763,
-						"hold": 32,
-						"slide": 93,
-						"touch": null,
-						"break": 12,
-						"total": 900
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -118236,8 +118348,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
+					"level": "12+",
+					"levelValue": 12.6,
 					"internalLevel": "12.5",
 					"internalLevelValue": 12.5,
 					"noteDesigner": "Jack",
@@ -118256,7 +118368,10 @@
 						"cn": true
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "12",
+							"levelValue": 12
+						}
 					},
 					"isSpecial": false,
 					"version": "maimaiでらっくす PLUS"
@@ -195878,7 +195993,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2024-09-12",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -195904,11 +196019,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -195933,11 +196047,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -195962,11 +196075,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -195991,11 +196103,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				}
 			]
 		},
@@ -197152,7 +197263,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2024-10-25",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -197178,11 +197289,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -197207,11 +197317,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -197236,11 +197345,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -197265,11 +197373,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				}
 			]
 		},
@@ -199801,7 +199908,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2024-12-20",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -199827,11 +199934,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -199856,11 +199962,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -199885,11 +199990,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -199914,11 +200018,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				}
 			]
 		},
@@ -202471,7 +202574,7 @@
 			"version": "PRiSM",
 			"releaseDate": "2025-02-27",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -202497,11 +202600,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -202526,11 +202628,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -202555,11 +202656,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				},
 				{
 					"type": "dx",
@@ -202584,11 +202684,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM"
 				}
 			]
 		},
@@ -202602,7 +202701,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -202729,7 +202828,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -202856,7 +202955,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -205063,7 +205162,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-03-13",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -205089,11 +205188,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -205118,11 +205216,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -205147,11 +205244,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -205176,11 +205272,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		},
@@ -205665,8 +205760,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
+					"level": "13+",
+					"levelValue": 13.6,
 					"internalLevel": "13.4",
 					"internalLevelValue": 13.4,
 					"noteDesigner": "ぴちネコ",
@@ -205685,7 +205780,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13",
+							"levelValue": 13
+						}
 					},
 					"isSpecial": false,
 					"version": "PRiSM PLUS"
@@ -206441,10 +206539,10 @@
 				{
 					"type": "dx",
 					"difficulty": "expert",
-					"level": "10",
-					"levelValue": 10,
+					"level": "9+",
+					"levelValue": 9.6,
 					"internalLevel": null,
-					"internalLevelValue": 10,
+					"internalLevelValue": 9.6,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 392,
@@ -206461,7 +206559,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "10",
+							"levelValue": 10
+						}
 					},
 					"isSpecial": false,
 					"version": "PRiSM PLUS"
@@ -206506,7 +206607,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -206633,7 +206734,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -206760,7 +206861,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -207266,7 +207367,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-05-09",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -207292,11 +207393,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -207321,11 +207421,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -207350,11 +207449,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -207379,11 +207477,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		},
@@ -209165,8 +209262,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "13+",
-					"levelValue": 13.6,
+					"level": "14",
+					"levelValue": 14,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
 					"noteDesigner": "鳩ホルダー",
@@ -209185,7 +209282,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "13+",
+							"levelValue": 13.6
+						}
 					},
 					"isSpecial": false,
 					"version": "PRiSM PLUS"
@@ -209583,7 +209683,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -209710,7 +209810,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -209837,7 +209937,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -210091,7 +210191,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-11",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -210117,11 +210217,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -210146,11 +210245,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -210175,11 +210273,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -210204,11 +210301,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		},
@@ -210461,7 +210557,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-13",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -210487,11 +210583,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "std",
@@ -210516,11 +210611,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "std",
@@ -210545,11 +210639,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "std",
@@ -210574,11 +210667,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		},
@@ -210592,7 +210684,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-13",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -210618,11 +210710,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -210647,11 +210738,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -210676,11 +210766,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -210705,11 +210794,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -210734,11 +210822,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		},
@@ -210752,7 +210839,7 @@
 			"version": "PRiSM PLUS",
 			"releaseDate": "2025-07-13",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -210778,11 +210865,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -210807,11 +210893,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -210836,11 +210921,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				},
 				{
 					"type": "dx",
@@ -210865,11 +210949,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "PRiSM PLUS"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "PRiSM PLUS"
 				}
 			]
 		},
@@ -214464,7 +214547,7 @@
 			"bpm": 143,
 			"imageName": "c9fb3cad5e5b66d617fe7bc382cc0f8c9445ed8d329c3401d52e34ad3e0751d1.png",
 			"version": "CiRCLE",
-			"releaseDate": "2025-09-18",
+			"releaseDate": null,
 			"isNew": false,
 			"isLocked": false,
 			"comment": null,
@@ -214591,7 +214674,7 @@
 			"bpm": 132,
 			"imageName": "ea7e0de192e20fbb4a9207884a97e046c9ebace52df9697c885661c89fc36616.png",
 			"version": "CiRCLE",
-			"releaseDate": "2025-09-18",
+			"releaseDate": null,
 			"isNew": false,
 			"isLocked": false,
 			"comment": null,
@@ -214901,7 +214984,7 @@
 			"bpm": 188,
 			"imageName": "cf0caeae364d3bd62e0671b6de6b20f740c4fdd1815122fcf998c3edcbef3950.png",
 			"version": "CiRCLE",
-			"releaseDate": "2025-09-18",
+			"releaseDate": null,
 			"isNew": false,
 			"isLocked": false,
 			"comment": null,
@@ -215155,7 +215238,7 @@
 			"bpm": 256,
 			"imageName": "eadb93dc8c53a902eb02e10e83c581b38407cc85e29b872089bdabffbf729468.png",
 			"version": "CiRCLE",
-			"releaseDate": "2025-09-18",
+			"releaseDate": null,
 			"isNew": false,
 			"isLocked": false,
 			"comment": null,
@@ -215282,7 +215365,7 @@
 			"bpm": 188,
 			"imageName": "514e56928b99bb14e29cb096e006d75982d6d4aa9e39486feaf2593a7deb03b7.png",
 			"version": "CiRCLE",
-			"releaseDate": "2025-09-18",
+			"releaseDate": null,
 			"isNew": false,
 			"isLocked": false,
 			"comment": null,
@@ -215742,7 +215825,7 @@
 			"songId": "Hurtling Boys",
 			"category": "ゲーム＆バラエティ",
 			"title": "Hurtling Boys",
-			"artist": "さだきち イシカダス「太鼓の達人」より",
+			"artist": "さだきち「太鼓の達人」より",
 			"bpm": 195,
 			"imageName": "0d1a286ec9890decfb0e293c4accf0ab1b38f95cf651b8aeac91259126ae94ec.png",
 			"version": "CiRCLE",
@@ -216637,7 +216720,7 @@
 			"version": "CiRCLE",
 			"releaseDate": "2025-10-16",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -216663,11 +216746,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "CiRCLE"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				},
 				{
 					"type": "dx",
@@ -216692,11 +216774,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "CiRCLE"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				},
 				{
 					"type": "dx",
@@ -216721,11 +216802,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "CiRCLE"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				},
 				{
 					"type": "dx",
@@ -216750,11 +216830,10 @@
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {
-							"version": "CiRCLE"
-						}
+						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE"
 				}
 			]
 		},
@@ -217389,8 +217468,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217417,8 +217496,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217445,8 +217524,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217473,8 +217552,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217516,8 +217595,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217544,8 +217623,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217572,8 +217651,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217600,8 +217679,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217643,8 +217722,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217671,8 +217750,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217699,8 +217778,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217727,8 +217806,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217770,8 +217849,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217798,8 +217877,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217826,8 +217905,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -217839,8 +217918,8 @@
 				{
 					"type": "dx",
 					"difficulty": "master",
-					"level": "14",
-					"levelValue": 14,
+					"level": "14+",
+					"levelValue": 14.6,
 					"internalLevel": "14.5",
 					"internalLevelValue": 14.5,
 					"noteDesigner": "Luxizhel",
@@ -217854,12 +217933,15 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
-						"intl": {}
+						"intl": {
+							"level": "14",
+							"levelValue": 14
+						}
 					},
 					"isSpecial": false,
 					"version": "CiRCLE"
@@ -219893,7 +219975,7 @@
 			"version": "CiRCLE",
 			"releaseDate": "2025-12-24",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -222585,7 +222667,7 @@
 			"imageName": "2c309f067ecc26ec73586a2bbbefdc0373380c79a6c7bceaada31d588374feae.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-03-05",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -222712,7 +222794,7 @@
 			"imageName": "c6907b0483b2bc0c34bce2138991086ce96be427f893137ca7fe040658149177.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-03-05",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -222839,7 +222921,7 @@
 			"imageName": "e602ec5e5622f586661f63509a9beb6c10bc87e242bcb2857ae7d17382be272a.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-03-05",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -222966,7 +223048,7 @@
 			"imageName": "fdc849a509cdfe9ac2877dd897b326c0a2cd4b6cf52d8c567e4abedf43aecce3.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-03-05",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -223093,7 +223175,7 @@
 			"imageName": "664870085a9a831cd92dd5cf26853bc80e70992e530db559187422db671b6889.png",
 			"version": "CiRCLE",
 			"releaseDate": "2026-03-05",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -223208,6 +223290,2594 @@
 					},
 					"isSpecial": false,
 					"version": "CiRCLE"
+				}
+			]
+		},
+		{
+			"songId": "KNØCK ØUT!!",
+			"category": "maimai",
+			"title": "KNØCK ØUT!!",
+			"artist": "DIVELA feat.ラングドシャ",
+			"bpm": null,
+			"imageName": "8c571ebeca56955fac0226f9d907c769e7248653dd63e7d9c20ebcd1904fa31b.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Aides",
+			"category": "maimai",
+			"title": "Aides",
+			"artist": "tokiwa×むﾄ",
+			"bpm": null,
+			"imageName": "26956ef2313d5d611a5b3dca4c78ee092645ca35aea1178bf9d75c0796ccef4a.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Treasure Chest Expedition",
+			"category": "maimai",
+			"title": "Treasure Chest Expedition",
+			"artist": "7mai",
+			"bpm": null,
+			"imageName": "033cdaecf2c99521d67d9464396b349b9a76451eb0f2ad5c8012e9d56aaf95d1.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8+",
+					"levelValue": 8.6,
+					"internalLevel": null,
+					"internalLevelValue": 8.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "ソテリア",
+			"category": "maimai",
+			"title": "ソテリア",
+			"artist": "Rafutsuri feat.桜あおい",
+			"bpm": null,
+			"imageName": "d16e86da63013ae76b1c0e06b499b7a75f00f2e2439ac1b1b670357d98689c8b.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "TECHNOPOLIS 2085",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "TECHNOPOLIS 2085",
+			"artist": "PRASTIK DANCEFLOOR",
+			"bpm": 134,
+			"imageName": "2bdedf907d00f9e47700ea07f6363581429813be65d92fb48f67022c80b73bd3.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Galaxy Blaster",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "Galaxy Blaster",
+			"artist": "ああああ",
+			"bpm": 208,
+			"imageName": "93d8b4c72a3e31d6a4e8fed965ad10adb11d6c1109c65fdf91c1f22ba46c715a.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "BOW AND ARROW （アニメ・オープニングver.）",
+			"category": "POPS＆アニメ",
+			"title": "BOW AND ARROW （アニメ・オープニングver.）",
+			"artist": "米津玄師",
+			"bpm": null,
+			"imageName": "c2797c73ba272177e492624d381022c6e23ffaf4302fb0182f9d88638436fff7.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "無敵的ハピネス！(SOS団5人Ver.)",
+			"category": "POPS＆アニメ",
+			"title": "無敵的ハピネス！(SOS団5人Ver.)",
+			"artist": "涼宮ハルヒ(CV.平野綾),長門有希(CV.茅原実里),朝比奈みくる(CV.後藤邑子)、キョン(CV.杉田智和)、古泉一樹(CV.小野大輔)",
+			"bpm": 185,
+			"imageName": "cdc66217ac97b6c3c8aa38f9df5f448dbe54e2176f28b645a232bfc7de1b8ab1.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Chasing destiny",
+			"category": "POPS＆アニメ",
+			"title": "Chasing destiny",
+			"artist": "涼宮ハルヒ(CV.平野綾)",
+			"bpm": 186,
+			"imageName": "70fe5a6dfad42583c289f9b5b4e0a89ae752642f22e845bd7cae176f184c7b71.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Colorful Starting Line",
+			"category": "POPS＆アニメ",
+			"title": "Colorful Starting Line",
+			"artist": "涼宮ハルヒ(CV.平野綾)",
+			"bpm": 162,
+			"imageName": "7fef6b477579ca509d9d249e194f4070759a070aa4c8f4beba740af69f863134.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "愛♡スクリ～ム！",
+			"category": "POPS＆アニメ",
+			"title": "愛♡スクリ～ム！",
+			"artist": "AiScReam[黒澤ルビィ(CV.降幡 愛)、上原歩夢(CV.大西亜玖璃)、若菜四季(CV.大熊和奏)]",
+			"bpm": null,
+			"imageName": "3a3a668d1965015a49425df32c35d6af6c294e62b2faf620e5e35d60651bf8a6.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "テレパシ",
+			"category": "niconico＆ボーカロイド",
+			"title": "テレパシ",
+			"artist": "DECO*27",
+			"bpm": null,
+			"imageName": "17f661d3477792b7bd974247e9df4afa467bbebad62597603f11e49407962c6c.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "ダイダイダイダイダイキライ",
+			"category": "niconico＆ボーカロイド",
+			"title": "ダイダイダイダイダイキライ",
+			"artist": "雨良 Amala",
+			"bpm": null,
+			"imageName": "559635fe21755d15de310b1331aab30faefe539633786af1e1f3023d164d6450.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "オペラ！スペースオペラ！",
+			"category": "niconico＆ボーカロイド",
+			"title": "オペラ！スペースオペラ！",
+			"artist": "ナユタン星人",
+			"bpm": null,
+			"imageName": "be165e30ff7f13e1dc9ea878528dc540afc936786bde01a7b6a69141428857a1.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "T氏の話を信じるな",
+			"category": "niconico＆ボーカロイド",
+			"title": "T氏の話を信じるな",
+			"artist": "ピノキオピー",
+			"bpm": null,
+			"imageName": "5f9d79b2b96bf559a5c8ccc6b410f761a73d89e9900c6165c2d1e02d8c023497.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "超ナイト・オブ・ナイツ",
+			"category": "東方Project",
+			"title": "超ナイト・オブ・ナイツ",
+			"artist": "ビートまりお×まろん",
+			"bpm": null,
+			"imageName": "2b760bfa884190e9a991fac9e626d4ad4f882f33624421a7f7a2e7397bf1dcdf.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "浮世絵横丁",
+			"category": "ゲーム＆バラエティ",
+			"title": "浮世絵横丁",
+			"artist": "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき）",
+			"bpm": 192,
+			"imageName": "7e896309f893871a45d3e9e02633f14802e4d173170fd3be4f54be66543c11ec.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "AiAe",
+			"category": "ゲーム＆バラエティ",
+			"title": "AiAe",
+			"artist": "DJ'TEKINA//SOMETHING a.k.a ゆよゆっぺ",
+			"bpm": 180,
+			"imageName": "1a4741add589b6738cd70303ffb2c25227ddc8fa4dc92f8248c0bea87a4e0dd2.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "[習]からくりピエロ",
+			"category": "宴会場",
+			"title": "[習]からくりピエロ",
+			"artist": "40mP",
+			"bpm": null,
+			"imageName": "a48fd5796466b29761c12fc7990d4d5684d523c474194f21154c9a6eca57abcd.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "片手でなぞる　それが答えでしょ",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【習】",
+					"level": "11?",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[奏]クレイジークレイジーダンサーズ",
+			"category": "宴会場",
+			"title": "[奏]クレイジークレイジーダンサーズ",
+			"artist": "ビートまりお＋あまね（COOL&CREATE）",
+			"bpm": null,
+			"imageName": "0e533966d5248330c0d83a2a722e3c77e3eb44d607428fe2fe1bb53cadaad9d5.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】舞 踊れ SAD-NO 踊れ",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【奏】",
+					"level": "13?",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[破]テレパシ",
+			"category": "宴会場",
+			"title": "[破]テレパシ",
+			"artist": "DECO*27",
+			"bpm": null,
+			"imageName": "731c6ff26ea57028cc3a015d22e130bbe5e13fcee2433f2bfa92b17673770aa5.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "ミクの波形って可愛いんですよ",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【破】",
+					"level": "14?",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[音]On your mark (104期 Ver.)",
+			"category": "宴会場",
+			"title": "[音]On your mark (104期 Ver.)",
+			"artist": "蓮ノ空女学院スクールアイドルクラブ",
+			"bpm": null,
+			"imageName": "afa2b0b775f90c0793cc3da7f38ffd7b30c343a2a90e68e15778d5b982b5fc54.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "～音取りほぼMAXバージョン～",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【音】",
+					"level": "13+?",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[音]テトリス",
+			"category": "宴会場",
+			"title": "[音]テトリス",
+			"artist": "柊マグネタイト",
+			"bpm": null,
+			"imageName": "c9d69620376431713e871dc5f95ec50b6789ae3cc13477fec791b1687eb290fb.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-03-19",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "～音取りほぼMAXバージョン～",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【音】",
+					"level": "13?",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		}
@@ -223363,8 +226033,13 @@
 		},
 		{
 			"version": "CiRCLE",
-			"abbr": "CiRCLE",
+			"abbr": "CiRCLE (丸)",
 			"releaseDate": "2025-09-18"
+		},
+		{
+			"version": "CiRCLE PLUS",
+			"abbr": "CiRCLE+",
+			"releaseDate": "2026-03-19"
 		}
 	],
 	"types": [
@@ -223433,5 +226108,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-03-13T13:17:38.674Z"
+	"updateTime": "2026-03-19T01:29:42.361Z"
 }
