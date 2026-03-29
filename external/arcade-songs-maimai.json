@@ -1852,7 +1852,7 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": "LabiLabi",
+					"noteDesigner": "玉子豆腐",
 					"noteCounts": {
 						"tap": 239,
 						"hold": 35,
@@ -30534,7 +30534,7 @@
 					"levelValue": 14.6,
 					"internalLevel": "14.6",
 					"internalLevelValue": 14.6,
-					"noteDesigner": "舞舞10年ズ (チャンとはっぴー)",
+					"noteDesigner": "舞舞10年ズ（チャンとはっぴー）",
 					"noteCounts": {
 						"tap": 512,
 						"hold": 16,
@@ -46188,11 +46188,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 143,
+						"hold": 8,
+						"slide": 4,
+						"touch": 8,
+						"break": 6,
 						"total": 169
 					},
 					"regions": {
@@ -46216,11 +46216,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 257,
+						"hold": 12,
+						"slide": 7,
+						"touch": 11,
+						"break": 4,
 						"total": 291
 					},
 					"regions": {
@@ -46242,13 +46242,13 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 297,
+						"hold": 62,
+						"slide": 33,
+						"touch": 22,
+						"break": 27,
 						"total": 441
 					},
 					"regions": {
@@ -109029,7 +109029,7 @@
 					"levelValue": 14,
 					"internalLevel": "14.3",
 					"internalLevelValue": 14.3,
-					"noteDesigner": "\"H\"ack",
+					"noteDesigner": "“H”ack",
 					"noteCounts": {
 						"tap": 819,
 						"hold": 28,
@@ -109057,7 +109057,7 @@
 					"levelValue": 14.6,
 					"internalLevel": "14.9",
 					"internalLevelValue": 14.9,
-					"noteDesigner": "\"H\"ack underground",
+					"noteDesigner": "“H”ack underground",
 					"noteCounts": {
 						"tap": 806,
 						"hold": 22,
@@ -126920,7 +126920,7 @@
 					"levelValue": 14,
 					"internalLevel": "14.4",
 					"internalLevelValue": 14.4,
-					"noteDesigner": "ﾚょ†ょ／U丶\"┠(十,3、了ﾅﾆ",
+					"noteDesigner": "ﾚよ†ょ／∪ヽ”┠  (十,3､了ﾅﾆ",
 					"noteCounts": {
 						"tap": 779,
 						"hold": 44,
@@ -165271,7 +165271,7 @@
 					"levelValue": 14.6,
 					"internalLevel": "14.6",
 					"internalLevelValue": 14.6,
-					"noteDesigner": "jacK on Phoenix vs -ZONE- SaFaRi",
+					"noteDesigner": "jacK on Phoenix & -ZONE- SaFaRi",
 					"noteCounts": {
 						"tap": 774,
 						"hold": 39,
@@ -226108,5 +226108,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-03-27T17:15:56.268Z"
+	"updateTime": "2026-03-29T12:02:32.433Z"
 }
