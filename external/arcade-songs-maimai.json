@@ -46175,7 +46175,7 @@
 			"imageName": "0c7e1c973cb55bf315c4a7effa2a938640b73ef4c9c8252893cd9a5b8a3cfc4d.png",
 			"version": "GreeN",
 			"releaseDate": "2013-09-05",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -221525,7 +221525,7 @@
 			"version": "CiRCLE",
 			"releaseDate": "2026-01-23",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -223302,7 +223302,7 @@
 			"imageName": "8c571ebeca56955fac0226f9d907c769e7248653dd63e7d9c20ebcd1904fa31b.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -223401,7 +223401,7 @@
 					"noteCounts": {
 						"tap": 550,
 						"hold": 39,
-						"slide": 108,
+						"slide": 109,
 						"touch": 99,
 						"break": 77,
 						"total": 874
@@ -223429,7 +223429,7 @@
 			"imageName": "26956ef2313d5d611a5b3dca4c78ee092645ca35aea1178bf9d75c0796ccef4a.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -223556,7 +223556,7 @@
 			"imageName": "033cdaecf2c99521d67d9464396b349b9a76451eb0f2ad5c8012e9d56aaf95d1.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -223683,7 +223683,7 @@
 			"imageName": "d16e86da63013ae76b1c0e06b499b7a75f00f2e2439ac1b1b670357d98689c8b.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -223810,7 +223810,7 @@
 			"imageName": "2bdedf907d00f9e47700ea07f6363581429813be65d92fb48f67022c80b73bd3.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -223937,7 +223937,7 @@
 			"imageName": "93d8b4c72a3e31d6a4e8fed965ad10adb11d6c1109c65fdf91c1f22ba46c715a.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -224043,7 +224043,7 @@
 						"tap": 606,
 						"hold": 84,
 						"slide": 97,
-						"touch": 44,
+						"touch": 45,
 						"break": 106,
 						"total": 938
 					},
@@ -224072,7 +224072,7 @@
 			"imageName": "c2797c73ba272177e492624d381022c6e23ffaf4302fb0182f9d88638436fff7.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -224227,7 +224227,7 @@
 			"imageName": "cdc66217ac97b6c3c8aa38f9df5f448dbe54e2176f28b645a232bfc7de1b8ab1.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -224354,7 +224354,7 @@
 			"imageName": "70fe5a6dfad42583c289f9b5b4e0a89ae752642f22e845bd7cae176f184c7b71.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -224481,7 +224481,7 @@
 			"imageName": "7fef6b477579ca509d9d249e194f4070759a070aa4c8f4beba740af69f863134.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -224608,7 +224608,7 @@
 			"imageName": "3a3a668d1965015a49425df32c35d6af6c294e62b2faf620e5e35d60651bf8a6.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -224763,7 +224763,7 @@
 			"imageName": "17f661d3477792b7bd974247e9df4afa467bbebad62597603f11e49407962c6c.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -224890,7 +224890,7 @@
 			"imageName": "559635fe21755d15de310b1331aab30faefe539633786af1e1f3023d164d6450.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -225045,7 +225045,7 @@
 			"imageName": "be165e30ff7f13e1dc9ea878528dc540afc936786bde01a7b6a69141428857a1.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -225172,7 +225172,7 @@
 			"imageName": "5f9d79b2b96bf559a5c8ccc6b410f761a73d89e9900c6165c2d1e02d8c023497.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -225299,7 +225299,7 @@
 			"imageName": "2b760bfa884190e9a991fac9e626d4ad4f882f33624421a7f7a2e7397bf1dcdf.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -225426,7 +225426,7 @@
 			"imageName": "7e896309f893871a45d3e9e02633f14802e4d173170fd3be4f54be66543c11ec.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -225553,7 +225553,7 @@
 			"imageName": "1a4741add589b6738cd70303ffb2c25227ddc8fa4dc92f8248c0bea87a4e0dd2.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-03-19",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -225880,6 +225880,343 @@
 					"isSpecial": true
 				}
 			]
+		},
+		{
+			"songId": "キミは“見ていたね”？",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "キミは“見ていたね”？",
+			"artist": "曲：篠崎あやと、橘亮祐／歌：結城 莉玖(CV：朝日奈 丸佳)、東雲 つむぎ(CV：和泉 風花)",
+			"bpm": 168,
+			"imageName": "dafe0e9cc3304c23d55826820480ee0957745dacd1ad0cda05d4a9efc02b73a4.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-01",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 146,
+						"hold": 14,
+						"slide": 5,
+						"touch": 14,
+						"break": 10,
+						"total": 189
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 298,
+						"hold": 13,
+						"slide": 8,
+						"touch": 19,
+						"break": 6,
+						"total": 344
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 326,
+						"hold": 86,
+						"slide": 42,
+						"touch": 0,
+						"break": 17,
+						"total": 471
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 375,
+						"hold": 56,
+						"slide": 84,
+						"touch": 63,
+						"break": 77,
+						"total": 655
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "[宴]Wonderland Wars　オープニング (BASIC)",
+			"category": "宴会場",
+			"title": "[宴]Wonderland Wars　オープニング",
+			"artist": "「童話」は、全て「戦記」だった",
+			"bpm": null,
+			"imageName": "9a252b03fa5e55aec2f7bebf4ea284435c87765b95d3ee4f7c4cd2bc3bd43da2.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-01",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "BASIC（当時は宴という枠が無かった）",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【宴】",
+					"level": "10?",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[宴]Wonderland Wars　オープニング (ADVANCED)",
+			"category": "宴会場",
+			"title": "[宴]Wonderland Wars　オープニング",
+			"artist": "「童話」は、全て「戦記」だった",
+			"bpm": null,
+			"imageName": "9a252b03fa5e55aec2f7bebf4ea284435c87765b95d3ee4f7c4cd2bc3bd43da2.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-01",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "ADVANCED（時代なので、急ぎで）",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【宴】",
+					"level": "11?",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[宴]Wonderland Wars　オープニング (EXPERT)",
+			"category": "宴会場",
+			"title": "[宴]Wonderland Wars　オープニング",
+			"artist": "「童話」は、全て「戦記」だった",
+			"bpm": null,
+			"imageName": "9a252b03fa5e55aec2f7bebf4ea284435c87765b95d3ee4f7c4cd2bc3bd43da2.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-01",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "EXPERT（全難度を作成した訳です）",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【宴】",
+					"level": "12?",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[宴]Wonderland Wars　オープニング (MASTER)",
+			"category": "宴会場",
+			"title": "[宴]Wonderland Wars　オープニング",
+			"artist": "「童話」は、全て「戦記」だった",
+			"bpm": null,
+			"imageName": "9a252b03fa5e55aec2f7bebf4ea284435c87765b95d3ee4f7c4cd2bc3bd43da2.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-01",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "MASTER（チャン氏のReMASが）",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【宴】",
+					"level": "13?",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[宴]Wonderland Wars　オープニング (Re:MASTER)",
+			"category": "宴会場",
+			"title": "[宴]Wonderland Wars　オープニング",
+			"artist": "「童話」は、全て「戦記」だった",
+			"bpm": null,
+			"imageName": "9a252b03fa5e55aec2f7bebf4ea284435c87765b95d3ee4f7c4cd2bc3bd43da2.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-01",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "Re:MASTER（一番先にできた譜面！）",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【宴】",
+					"level": "14?",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
 		}
 	],
 	"categories": [
@@ -226108,5 +226445,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-03-29T12:02:32.433Z"
+	"updateTime": "2026-04-01T04:00:36.377Z"
 }
