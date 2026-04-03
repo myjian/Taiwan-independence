@@ -27777,137 +27777,6 @@
 			]
 		},
 		{
-			"songId": "Break The Speakers",
-			"category": "maimai",
-			"title": "Break The Speakers",
-			"artist": "DJ Myosuke",
-			"bpm": 185,
-			"imageName": "c454b4841b9c46fb15dc68a5e74fd860cd99c4f8bbecd6873e88a0aa9eeee3bb.png",
-			"version": "CiRCLE",
-			"releaseDate": "2026-03-05",
-			"isNew": true,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "5",
-					"levelValue": 5,
-					"internalLevel": null,
-					"internalLevelValue": 5,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 238,
-						"hold": 3,
-						"slide": 6,
-						"touch": 14,
-						"break": 14,
-						"total": 275
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"usa": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {
-							"version": "CiRCLE"
-						}
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "8+",
-					"levelValue": 8.6,
-					"internalLevel": null,
-					"internalLevelValue": 8.6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 374,
-						"hold": 13,
-						"slide": 6,
-						"touch": 8,
-						"break": 42,
-						"total": 443
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"usa": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {
-							"version": "CiRCLE"
-						}
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "12+",
-					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
-					"noteDesigner": "ロシェ@ペンギン",
-					"noteCounts": {
-						"tap": 313,
-						"hold": 84,
-						"slide": 89,
-						"touch": 107,
-						"break": 112,
-						"total": 705
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"usa": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {
-							"version": "CiRCLE"
-						}
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "14+",
-					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
-					"noteDesigner": "BELiZHEL",
-					"noteCounts": {
-						"tap": 685,
-						"hold": 96,
-						"slide": 131,
-						"touch": 72,
-						"break": 112,
-						"total": 1096
-					},
-					"regions": {
-						"jp": false,
-						"intl": true,
-						"usa": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {
-							"version": "CiRCLE"
-						}
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
 			"songId": "True Love Song",
 			"category": "maimai",
 			"title": "True Love Song",
@@ -85156,10 +85025,122 @@
 			"imageName": "3e9c7cfb8d8589318c6f676411f03659eaec5057eb3cfa3aaae391b290fae1c8.png",
 			"version": "MURASAKi PLUS",
 			"releaseDate": "2017-07-25",
-			"isNew": false,
+			"isNew": true,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
 				{
 					"type": "std",
 					"difficulty": "basic",
@@ -225890,7 +225871,7 @@
 			"imageName": "dafe0e9cc3304c23d55826820480ee0957745dacd1ad0cda05d4a9efc02b73a4.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-04-01",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -226217,6 +226198,645 @@
 					"isSpecial": true
 				}
 			]
+		},
+		{
+			"songId": "奇々解体",
+			"category": "ゲーム＆バラエティ",
+			"title": "奇々解体",
+			"artist": "MURASAKI feat.かたたかんな",
+			"bpm": 148,
+			"imageName": "17681fc49959bbef9fed523051eddc7dd3a1af149f6ccf9dcd8a91ad87547a88.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-01",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 130,
+						"hold": 10,
+						"slide": 4,
+						"touch": 11,
+						"break": 7,
+						"total": 162
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 231,
+						"hold": 10,
+						"slide": 10,
+						"touch": 10,
+						"break": 10,
+						"total": 271
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.6,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
+					"noteDesigner": "廻屋渉",
+					"noteCounts": {
+						"tap": 255,
+						"hold": 42,
+						"slide": 46,
+						"touch": 26,
+						"break": 29,
+						"total": 398
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
+					"noteDesigner": "廻屋渉",
+					"noteCounts": {
+						"tap": 404,
+						"hold": 40,
+						"slide": 118,
+						"touch": 35,
+						"break": 47,
+						"total": 644
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Break The Speakers",
+			"category": "maimai",
+			"title": "Break The Speakers",
+			"artist": "DJ Myosuke",
+			"bpm": 185,
+			"imageName": "350e28f3f178daa6738b4c9d7d15612537dbb8cad43d9b0e33311943c88dc9d7.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-03",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 238,
+						"hold": 3,
+						"slide": 6,
+						"touch": 14,
+						"break": 14,
+						"total": 275
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8+",
+					"levelValue": 8.6,
+					"internalLevel": null,
+					"internalLevelValue": 8.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 374,
+						"hold": 13,
+						"slide": 6,
+						"touch": 8,
+						"break": 42,
+						"total": 443
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": "ロシェ@ペンギン",
+					"noteCounts": {
+						"tap": 313,
+						"hold": 84,
+						"slide": 89,
+						"touch": 107,
+						"break": 112,
+						"total": 705
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": "BELiZHEL",
+					"noteCounts": {
+						"tap": 685,
+						"hold": 96,
+						"slide": 131,
+						"touch": 72,
+						"break": 112,
+						"total": 1096
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {
+							"version": "CiRCLE"
+						}
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "雑魚",
+			"category": "niconico＆ボーカロイド",
+			"title": "雑魚",
+			"artist": "柊マグネタイト",
+			"bpm": 135,
+			"imageName": "13cb19e34b7d623125aab0a8d4689b64a750fcbb8fc9c1614ec799dd738ea7e3.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-03",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 126,
+						"hold": 10,
+						"slide": 5,
+						"touch": 6,
+						"break": 10,
+						"total": 157
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 226,
+						"hold": 11,
+						"slide": 6,
+						"touch": 27,
+						"break": 6,
+						"total": 276
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 206,
+						"hold": 88,
+						"slide": 17,
+						"touch": 49,
+						"break": 59,
+						"total": 419
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.1",
+					"internalLevelValue": 13.1,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 516,
+						"hold": 45,
+						"slide": 147,
+						"touch": 26,
+						"break": 31,
+						"total": 765
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "お返事まだカナ？おじさん構文！",
+			"category": "niconico＆ボーカロイド",
+			"title": "お返事まだカナ？おじさん構文！",
+			"artist": "吉本おじさん",
+			"bpm": 225,
+			"imageName": "28bcd3ea1d046a2bfba0e7d1dedfb417501747c596a4162f83b259f60d77a449.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-03",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 171,
+						"hold": 10,
+						"slide": 4,
+						"touch": 12,
+						"break": 6,
+						"total": 203
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 276,
+						"hold": 10,
+						"slide": 6,
+						"touch": 13,
+						"break": 10,
+						"total": 315
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 411,
+						"hold": 70,
+						"slide": 18,
+						"touch": 30,
+						"break": 19,
+						"total": 548
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.6",
+					"internalLevelValue": 13.6,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 469,
+						"hold": 90,
+						"slide": 100,
+						"touch": 93,
+						"break": 41,
+						"total": 793
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "ZEUS",
+			"category": "ゲーム＆バラエティ",
+			"title": "ZEUS",
+			"artist": "DÉ DÉ MOUSE & KAJI",
+			"bpm": 180,
+			"imageName": "2940ee4c7c9a92d5abf1b14db35c38b803fec59378c423d720d694e41cc68985.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-04-03",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 281,
+						"hold": 8,
+						"slide": 8,
+						"touch": 6,
+						"break": 18,
+						"total": 321
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 388,
+						"hold": 11,
+						"slide": 14,
+						"touch": 24,
+						"break": 4,
+						"total": 441
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
+					"noteDesigner": "せめんともり",
+					"noteCounts": {
+						"tap": 541,
+						"hold": 65,
+						"slide": 99,
+						"touch": 6,
+						"break": 23,
+						"total": 734
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.3",
+					"internalLevelValue": 14.3,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 831,
+						"hold": 86,
+						"slide": 111,
+						"touch": 63,
+						"break": 147,
+						"total": 1238
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
 		}
 	],
 	"categories": [
@@ -226445,5 +227065,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-04-01T04:35:57.289Z"
+	"updateTime": "2026-04-03T11:28:21.135Z"
 }

@@ -190,7 +190,6 @@
   {"debut":19,"genre":"POPS＆アニメ","name":"残響散歌","dx":1,"lv":[-3,-6,9.7,13.4]},
   {"debut":19,"genre":"POPS＆アニメ","name":"アマカミサマ","dx":1,"lv":[-3,-6,-9,12.7]},
   {"debut":21,"genre":"POPS＆アニメ","name":"アンダーキッズ","dx":1,"lv":[-5,-7,10.8,13.4]},
-  {"debut":25,"genre":"maimai","name":"Break The Speakers","dx":1,"lv":[-5,-8.6,-12.6,-14.6],"regionOverrides":{"intl":{"debut":25,"lv":[5,8.8,12.9,14.7,0]}},"ico":"cd7cdd7115f1ff5f"},
   {"debut":0,"genre":"maimai","name":"True Love Song","dx":0,"lv":[5,7.2,10.2,12.4],"regionOverrides":{"intl":{"lv":[5,7.2,10.2,12.4,0]}},"ico":"c7cfd8a91e0436ac"},
   {"debut":0,"genre":"maimai","name":"Color My World","dx":0,"lv":[4,7.1,9.8,12.4],"regionOverrides":{"intl":{"lv":[4,7.1,9.8,12.4,0]}},"ico":"324889241d4d12cf"},
   {"debut":0,"genre":"POPS＆アニメ","name":"Future","dx":0,"lv":[7,7.8,9.5,10.7,12.7],"regionOverrides":{"intl":{"lv":[7,7.8,9.5,10.7,12.7]}},"ico":"507c390321c312eb"},
@@ -634,6 +633,7 @@
   {"debut":9,"genre":"niconico＆ボーカロイド","name":"東京レトロ","dx":0,"lv":[4,7,9.8,11.6],"regionOverrides":{"intl":{"lv":[4,7,9.8,11.6,0]}},"ico":"60f44695106794c9"},
   {"debut":9,"genre":"niconico＆ボーカロイド","name":"ARROW","dx":0,"lv":[4,7.6,12.1,13.3],"regionOverrides":{"intl":{"lv":[4,7.6,12.1,13.3,0]}},"ico":"131b1873d71a6baa"},
   {"debut":9,"genre":"niconico＆ボーカロイド","name":"バッド・ダンス・ホール","dx":0,"lv":[5,7.5,11.6,13.4],"regionOverrides":{"intl":{"lv":[5,7.5,11.6,13.4,0]}},"ico":"9dfd23eb9143196f"},
+  {"debut":26,"genre":"niconico＆ボーカロイド","name":"バッド・ダンス・ホール","dx":1,"lv":[-3,-6,-11,13.7],"ico":"9dfd23eb9143196f"},
   {"debut":9,"genre":"niconico＆ボーカロイド","name":"ちがう!!!","dx":0,"lv":[5,8,10.9,13.4],"regionOverrides":{"intl":{"lv":[5,8,10.9,13.4,0]}},"ico":"234bfeb1c7aff4d4"},
   {"debut":9,"genre":"ゲーム＆バラエティ","name":"KISS CANDY FLAVOR","dx":0,"lv":[4,8.3,11.3,13.4],"regionOverrides":{"intl":{"lv":[4,8.3,11.3,13.4,0]}},"ico":"0ea91dd121493ccc"},
   {"debut":9,"genre":"ゲーム＆バラエティ","name":"Maxi","dx":0,"lv":[6,9.3,12.8,14],"regionOverrides":{"intl":{"lv":[6,9.3,12.8,14,0]}},"ico":"5cb01ca719a56bb5"},
@@ -1697,5 +1697,10 @@
   {"debut":26,"genre":"東方Project","name":"超ナイト・オブ・ナイツ","dx":1,"lv":[4,7.7,11.8,14],"ico":"d202dce377eae1bb"},
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"浮世絵横丁","dx":1,"lv":[4,7.5,11.4,13.9],"ico":"6e1d33b56c3e94e7"},
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"AiAe","dx":1,"lv":[5,8,12.4,14.4],"ico":"e59500f7da4b416e"},
-  {"debut":26,"genre":"オンゲキ＆CHUNITHM","name":"キミは“見ていたね”？","dx":1,"lv":[3,6.7,10,13.1],"ico":"45003096bc3cb9f8"}
+  {"debut":26,"genre":"オンゲキ＆CHUNITHM","name":"キミは“見ていたね”？","dx":1,"lv":[3,6.7,10,13.1],"ico":"45003096bc3cb9f8"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"奇々解体","dx":1,"lv":[-3,-6,-9.6,13.2],"ico":"4ac68a88fe9a4259"},
+  {"debut":26,"genre":"maimai","name":"Break The Speakers","dx":1,"lv":[-5,-8.6,-12.6,-14.6],"regionOverrides":{"intl":{"debut":25,"lv":[5,8.8,12.9,14.7,0]}},"ico":"cd7cdd7115f1ff5f"},
+  {"debut":26,"genre":"niconico＆ボーカロイド","name":"雑魚","dx":1,"lv":[-2,-6,-10,13.1],"ico":"e6f92fc3b0d0e053"},
+  {"debut":26,"genre":"niconico＆ボーカロイド","name":"お返事まだカナ？おじさん構文！","dx":1,"lv":[-4,-7.6,-11,13.6],"ico":"2f80772d2f249183"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"ZEUS","dx":1,"lv":[-5,-8,12.8,14.3],"ico":"1b7f907d0295f73b"}
 ]
