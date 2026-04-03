@@ -190,7 +190,7 @@
   {"debut":19,"genre":"POPS＆アニメ","name":"残響散歌","dx":1,"lv":[-3,-6,9.7,13.4]},
   {"debut":19,"genre":"POPS＆アニメ","name":"アマカミサマ","dx":1,"lv":[-3,-6,-9,12.7]},
   {"debut":21,"genre":"POPS＆アニメ","name":"アンダーキッズ","dx":1,"lv":[-5,-7,10.8,13.4]},
-  {"debut":25,"genre":"maimai","name":"Break The Speakers","dx":1,"lv":[-5,-8.6,-12.6,-14.6],"regionOverrides":{"intl":{"debut":25,"lv":[5,8.8,12.9,14.7,0]}}},
+  {"debut":25,"genre":"maimai","name":"Break The Speakers","dx":1,"lv":[-5,-8.6,-12.6,-14.6],"regionOverrides":{"intl":{"debut":25,"lv":[5,8.8,12.9,14.7,0]}},"ico":"cd7cdd7115f1ff5f"},
   {"debut":0,"genre":"maimai","name":"True Love Song","dx":0,"lv":[5,7.2,10.2,12.4],"regionOverrides":{"intl":{"lv":[5,7.2,10.2,12.4,0]}},"ico":"c7cfd8a91e0436ac"},
   {"debut":0,"genre":"maimai","name":"Color My World","dx":0,"lv":[4,7.1,9.8,12.4],"regionOverrides":{"intl":{"lv":[4,7.1,9.8,12.4,0]}},"ico":"324889241d4d12cf"},
   {"debut":0,"genre":"POPS＆アニメ","name":"Future","dx":0,"lv":[7,7.8,9.5,10.7,12.7],"regionOverrides":{"intl":{"lv":[7,7.8,9.5,10.7,12.7]}},"ico":"507c390321c312eb"},
