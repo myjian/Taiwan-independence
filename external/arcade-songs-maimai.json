@@ -215219,7 +215219,7 @@
 			"bpm": 256,
 			"imageName": "eadb93dc8c53a902eb02e10e83c581b38407cc85e29b872089bdabffbf729468.png",
 			"version": "CiRCLE",
-			"releaseDate": null,
+			"releaseDate": "2025-09-18",
 			"isNew": false,
 			"isLocked": false,
 			"comment": null,
@@ -227065,5 +227065,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-04-10T01:15:39.240Z"
+	"updateTime": "2026-04-16T12:15:08.770Z"
 }
