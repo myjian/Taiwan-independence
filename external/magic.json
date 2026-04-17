@@ -1702,5 +1702,8 @@
   {"debut":26,"genre":"maimai","name":"Break The Speakers","dx":1,"lv":[5,8.8,12.9,14.7],"regionOverrides":{"intl":{"debut":25,"lv":[5,8.8,12.9,14.7,0]}},"ico":"cd7cdd7115f1ff5f"},
   {"debut":26,"genre":"niconico＆ボーカロイド","name":"雑魚","dx":1,"lv":[2,6.7,10.2,13.1],"ico":"e6f92fc3b0d0e053"},
   {"debut":26,"genre":"niconico＆ボーカロイド","name":"お返事まだカナ？おじさん構文！","dx":1,"lv":[4,7.8,11.3,13.6],"ico":"2f80772d2f249183"},
-  {"debut":26,"genre":"ゲーム＆バラエティ","name":"ZEUS","dx":1,"lv":[5,8.5,12.8,14.3],"ico":"1b7f907d0295f73b"}
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"ZEUS","dx":1,"lv":[5,8.5,12.8,14.3],"ico":"1b7f907d0295f73b"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Nine Point Eight","dx":1,"lv":[-3,-7,-9.6,13.4],"ico":"061d072f922e7c9d"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Myosotis","dx":1,"lv":[-4,-8.6,12,14.5],"ico":"1b056d860e5c2f6e"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"ANiMA","dx":1,"lv":[-6,-8,12.9,14.7],"ico":"d51e7f189023c7e0"}
 ]
