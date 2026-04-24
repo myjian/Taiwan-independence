@@ -6,8 +6,11 @@
     "AP": "丸神",
     "FSD": "丸舞舞"
   },
-  "std_songs": [],
+  "std_songs": [
+    "僕は空気が嫁ない"
+  ],
   "dx_songs": [
+    "BAD∞END∞NIGHT",
     "Break The Speakers",
     "Bring it on",
     "CiRCLE CAMPAiGN",
@@ -19,6 +22,7 @@
     "Get U ♭ack",
     "Hurtling Boys",
     "JINGLE DEATH",
+    "Let's ミクササイズ！！",
     "Magical Flavor",
     "Magical Paradox",
     "Overdose",
@@ -43,7 +47,9 @@
     "ニルヴの心臓",
     "ヒアソビ",
     "モニタリング",
+    "ラストピースに祝福と栄光を",
     "ラプラスショコラ",
+    "初音ミクの暴走",
     "命テステス",
     "廃墟にいますキャンペーン",
     "彩りキャンバス",

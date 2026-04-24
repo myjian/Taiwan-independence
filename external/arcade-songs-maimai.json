@@ -34370,8 +34370,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -34398,8 +34398,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -34426,8 +34426,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -34454,8 +34454,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -218707,8 +218707,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -218735,8 +218735,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -218763,8 +218763,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -218791,8 +218791,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -218834,8 +218834,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -218862,8 +218862,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -218890,8 +218890,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -218918,8 +218918,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -218961,8 +218961,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -218989,8 +218989,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -219017,8 +219017,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -219045,8 +219045,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -219088,8 +219088,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -219116,8 +219116,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -219144,8 +219144,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -219172,8 +219172,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -226860,12 +226860,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 136,
+						"hold": 11,
+						"slide": 4,
+						"touch": 20,
+						"break": 6,
+						"total": 177
 					},
 					"regions": {
 						"jp": true,
@@ -226888,12 +226888,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 258,
+						"hold": 18,
+						"slide": 14,
+						"touch": 13,
+						"break": 8,
+						"total": 311
 					},
 					"regions": {
 						"jp": true,
@@ -226914,14 +226914,14 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 361,
+						"hold": 43,
+						"slide": 36,
+						"touch": 35,
+						"break": 10,
+						"total": 485
 					},
 					"regions": {
 						"jp": true,
@@ -226942,14 +226942,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.4",
 					"internalLevelValue": 13.4,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 555,
+						"hold": 51,
+						"slide": 95,
+						"touch": 16,
+						"break": 23,
+						"total": 740
 					},
 					"regions": {
 						"jp": true,
@@ -226987,12 +226987,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 151,
+						"hold": 12,
+						"slide": 9,
+						"touch": 14,
+						"break": 6,
+						"total": 192
 					},
 					"regions": {
 						"jp": true,
@@ -227015,12 +227015,12 @@
 					"internalLevelValue": 8.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 323,
+						"hold": 18,
+						"slide": 7,
+						"touch": 19,
+						"break": 10,
+						"total": 377
 					},
 					"regions": {
 						"jp": true,
@@ -227041,14 +227041,14 @@
 					"levelValue": 12,
 					"internalLevel": "12.0",
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 437,
+						"hold": 51,
+						"slide": 45,
+						"touch": 12,
+						"break": 32,
+						"total": 577
 					},
 					"regions": {
 						"jp": true,
@@ -227069,14 +227069,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.5",
 					"internalLevelValue": 14.5,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 683,
+						"hold": 65,
+						"slide": 74,
+						"touch": 113,
+						"break": 64,
+						"total": 999
 					},
 					"regions": {
 						"jp": true,
@@ -227097,7 +227097,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "ANiMA",
 			"artist": "xi",
-			"bpm": 183.5,
+			"bpm": 183,
 			"imageName": "a0563e1ff57abad91cc93c2efd4ec849d94fdb957e9b463ab87de8f48cc16b3a.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-04-17",
@@ -227114,12 +227114,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 167,
+						"hold": 9,
+						"slide": 4,
+						"touch": 15,
+						"break": 9,
+						"total": 204
 					},
 					"regions": {
 						"jp": true,
@@ -227142,12 +227142,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 282,
+						"hold": 6,
+						"slide": 7,
+						"touch": 24,
+						"break": 10,
+						"total": 329
 					},
 					"regions": {
 						"jp": true,
@@ -227168,14 +227168,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 549,
+						"hold": 10,
+						"slide": 33,
+						"touch": 5,
+						"break": 32,
+						"total": 629
 					},
 					"regions": {
 						"jp": true,
@@ -227196,14 +227196,14 @@
 					"levelValue": 14.6,
 					"internalLevel": "14.7",
 					"internalLevelValue": 14.7,
-					"noteDesigner": null,
+					"noteDesigner": "Safazhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 622,
+						"hold": 47,
+						"slide": 67,
+						"touch": 97,
+						"break": 111,
+						"total": 944
 					},
 					"regions": {
 						"jp": true,
@@ -227446,5 +227446,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-04-17T12:30:18.308Z"
+	"updateTime": "2026-04-24T15:43:44.981Z"
 }
