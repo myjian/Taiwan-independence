@@ -1705,5 +1705,8 @@
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"ZEUS","dx":1,"lv":[5,8.5,12.8,14.3],"ico":"1b7f907d0295f73b"},
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"Nine Point Eight","dx":1,"lv":[3,7.2,9.8,13.4],"ico":"061d072f922e7c9d"},
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"Myosotis","dx":1,"lv":[4,8.8,12,14.5],"ico":"1b056d860e5c2f6e"},
-  {"debut":26,"genre":"ゲーム＆バラエティ","name":"ANiMA","dx":1,"lv":[6,8.5,12.9,14.7],"ico":"d51e7f189023c7e0"}
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"ANiMA","dx":1,"lv":[6,8.5,12.9,14.7],"ico":"d51e7f189023c7e0"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Operation☆DOTABATA!","dx":1,"lv":[-3,-6,-11,13.4]},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"RE Aoharu","dx":1,"lv":[-3,-7,-10.6,13.7]},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Usagi Flap","dx":1,"lv":[-3,-6,-10,13.2]}
 ]
