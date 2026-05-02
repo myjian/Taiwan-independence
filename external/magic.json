@@ -1648,10 +1648,10 @@
   {"debut":25,"genre":"オンゲキ＆CHUNITHM","name":"ラストピースに祝福と栄光を","dx":1,"lv":[7,9,12.9,14.6],"regionOverrides":{"intl":{"lv":[7,9,12.9,14.6,0]}},"ico":"632ba87daeb2ced1"},
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"初音ミクの暴走","dx":1,"lv":[6,8.8,12.7,13.9],"regionOverrides":{"intl":{"lv":[6,8.8,12.7,13.9,0]}},"ico":"c3401b26c76a2c53"},
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"Let's ミクササイズ！！","dx":1,"lv":[5,8.5,12.4,13.8],"regionOverrides":{"intl":{"lv":[5,8.5,12.4,13.8,0]}},"ico":"08cbc4bd3390930d"},
-  {"debut":25,"genre":"maimai","name":"ミクマリ","dx":1,"lv":[4,7.8,10.6,13.5],"ico":"a9ef3210029d3530"},
-  {"debut":25,"genre":"maimai","name":"雲外蒼電 -Dreaming Voltage-","dx":1,"lv":[4,7.7,12.2,13.9],"ico":"02dd6a5eb800fbbf"},
-  {"debut":25,"genre":"maimai","name":"鬼女紅妖","dx":1,"lv":[5,8,11.7,14.1],"ico":"12e822396bbf7ca1"},
-  {"debut":25,"genre":"maimai","name":"華天月兎","dx":1,"lv":[5,8.2,12.5,14.4],"ico":"03e15327e6423545"},
+  {"debut":25,"genre":"maimai","name":"ミクマリ","dx":1,"lv":[4,7.8,10.6,13.5],"regionOverrides":{"intl":{"lv":[4,7.8,10.6,13.5,0]}},"ico":"a9ef3210029d3530"},
+  {"debut":25,"genre":"maimai","name":"雲外蒼電 -Dreaming Voltage-","dx":1,"lv":[4,7.7,12.2,13.9],"regionOverrides":{"intl":{"lv":[4,7.7,12.2,13.9,0]}},"ico":"02dd6a5eb800fbbf"},
+  {"debut":25,"genre":"maimai","name":"鬼女紅妖","dx":1,"lv":[5,8,11.7,14.1],"regionOverrides":{"intl":{"lv":[5,8,11.7,14.1,0]}},"ico":"12e822396bbf7ca1"},
+  {"debut":25,"genre":"maimai","name":"華天月兎","dx":1,"lv":[5,8.2,12.5,14.4],"regionOverrides":{"intl":{"lv":[5,8.2,12.5,14.4,0]}},"ico":"03e15327e6423545"},
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"スノーマン (Rerec)","dx":1,"lv":[2,6.2,9.8,13.1],"regionOverrides":{"intl":{"lv":[2,6.2,9.8,13.1,0]}},"ico":"67a6e0f8822e2d7a"},
   {"debut":25,"genre":"ゲーム＆バラエティ","name":"JINGLE DEATH","dx":1,"lv":[5,8.2,12.4,14.1],"regionOverrides":{"intl":{"lv":[5,8.2,12.4,14.1,0]}},"ico":"c467dedfe621ce57"},
   {"debut":25,"genre":"niconico＆ボーカロイド","name":"ヤミナベ!!!!","dx":1,"lv":[6,8.5,12.6,14.5],"ico":"48b784c73d0cba6b"},
@@ -1706,7 +1706,7 @@
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"Nine Point Eight","dx":1,"lv":[3,7.2,9.8,13.4],"ico":"061d072f922e7c9d"},
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"Myosotis","dx":1,"lv":[4,8.8,12,14.5],"ico":"1b056d860e5c2f6e"},
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"ANiMA","dx":1,"lv":[6,8.5,12.9,14.7],"ico":"d51e7f189023c7e0"},
-  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Operation☆DOTABATA!","dx":1,"lv":[-3,-6,-11,13.4]},
-  {"debut":26,"genre":"ゲーム＆バラエティ","name":"RE Aoharu","dx":1,"lv":[-3,-7,-10.6,13.7]},
-  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Usagi Flap","dx":1,"lv":[-3,-6,-10,13.2]}
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Operation☆DOTABATA!","dx":1,"lv":[3,6.2,11,13.4],"ico":"29f763608c039fc9"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"RE Aoharu","dx":1,"lv":[3,7,10.7,13.7],"ico":"21e5f789b15956f9"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Usagi Flap","dx":1,"lv":[3,6.5,10.5,13.2],"ico":"8616b8d09e526660"}
 ]
