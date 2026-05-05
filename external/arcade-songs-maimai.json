@@ -227224,7 +227224,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Operation☆DOTABATA!",
 			"artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
-			"bpm": null,
+			"bpm": 140,
 			"imageName": "ee55e950f47a57481c9a4759dfbd51d6a620b52a87b4c61f2b7a91a8b2e1a284.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-05-01",
@@ -227241,12 +227241,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 129,
+						"hold": 11,
+						"slide": 4,
+						"touch": 11,
+						"break": 7,
+						"total": 162
 					},
 					"regions": {
 						"jp": true,
@@ -227269,12 +227269,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 201,
+						"hold": 12,
+						"slide": 6,
+						"touch": 11,
+						"break": 8,
+						"total": 238
 					},
 					"regions": {
 						"jp": true,
@@ -227295,14 +227295,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 266,
+						"hold": 36,
+						"slide": 29,
+						"touch": 40,
+						"break": 57,
+						"total": 428
 					},
 					"regions": {
 						"jp": true,
@@ -227323,14 +227323,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.4",
 					"internalLevelValue": 13.4,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 475,
+						"hold": 53,
+						"slide": 61,
+						"touch": 18,
+						"break": 97,
+						"total": 704
 					},
 					"regions": {
 						"jp": true,
@@ -227368,12 +227368,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 160,
+						"hold": 13,
+						"slide": 4,
+						"touch": 6,
+						"break": 3,
+						"total": 186
 					},
 					"regions": {
 						"jp": true,
@@ -227396,12 +227396,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 253,
+						"hold": 10,
+						"slide": 14,
+						"touch": 22,
+						"break": 6,
+						"total": 305
 					},
 					"regions": {
 						"jp": true,
@@ -227422,14 +227422,14 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "せめんともり",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 405,
+						"hold": 40,
+						"slide": 44,
+						"touch": 5,
+						"break": 43,
+						"total": 537
 					},
 					"regions": {
 						"jp": true,
@@ -227450,14 +227450,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.7",
 					"internalLevelValue": 13.7,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 534,
+						"hold": 16,
+						"slide": 112,
+						"touch": 29,
+						"break": 41,
+						"total": 732
 					},
 					"regions": {
 						"jp": true,
@@ -227478,7 +227478,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Usagi Flap",
 			"artist": "Nor「ブルーアーカイブ -Blue Archive-」",
-			"bpm": null,
+			"bpm": 170,
 			"imageName": "4070328cdd7a9af16e5ac7c98a3bb57eab5335a7575d9a31f630cfb15ed8780e.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-05-01",
@@ -227495,12 +227495,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 123,
+						"hold": 13,
+						"slide": 4,
+						"touch": 19,
+						"break": 2,
+						"total": 161
 					},
 					"regions": {
 						"jp": true,
@@ -227523,12 +227523,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 220,
+						"hold": 20,
+						"slide": 6,
+						"touch": 24,
+						"break": 4,
+						"total": 274
 					},
 					"regions": {
 						"jp": true,
@@ -227549,14 +227549,14 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 302,
+						"hold": 60,
+						"slide": 29,
+						"touch": 27,
+						"break": 9,
+						"total": 427
 					},
 					"regions": {
 						"jp": true,
@@ -227577,14 +227577,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.2",
 					"internalLevelValue": 13.2,
-					"noteDesigner": null,
+					"noteDesigner": "カマボコ君",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 430,
+						"hold": 80,
+						"slide": 91,
+						"touch": 60,
+						"break": 8,
+						"total": 669
 					},
 					"regions": {
 						"jp": true,
@@ -227827,5 +227827,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-05-01T14:25:56.976Z"
+	"updateTime": "2026-05-05T14:49:55.747Z"
 }
