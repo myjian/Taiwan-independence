@@ -1709,7 +1709,7 @@
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"Operation☆DOTABATA!","dx":1,"lv":[3,6.2,11,13.4],"ico":"29f763608c039fc9"},
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"RE Aoharu","dx":1,"lv":[3,7,10.7,13.7],"ico":"21e5f789b15956f9"},
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"Usagi Flap","dx":1,"lv":[3,6.5,10.5,13.2],"ico":"8616b8d09e526660"},
-  {"debut":26,"genre":"maimai","name":"オールマスター","dx":1,"lv":[-4,-6,-11,-13]},
-  {"debut":26,"genre":"maimai","name":"STRAY","dx":1,"lv":[-3,-6,-10.6,-13]},
-  {"debut":26,"genre":"maimai","name":"クロノイデア","dx":1,"lv":[-5,-8,-11.6,-14]}
+  {"debut":26,"genre":"maimai","name":"オールマスター","dx":1,"lv":[4,6.8,11.5,13.3],"ico":"b2e3d6fc3355505c"},
+  {"debut":26,"genre":"maimai","name":"STRAY","dx":1,"lv":[3,6.2,10.7,13.3],"ico":"0c1776c0455539c6"},
+  {"debut":26,"genre":"maimai","name":"クロノイデア","dx":1,"lv":[5,8,11.8,14.3],"ico":"b58811c7febe49dc"}
 ]
