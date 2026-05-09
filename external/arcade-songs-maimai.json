@@ -226431,8 +226431,8 @@
 					"difficulty": "master",
 					"level": "14+",
 					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
+					"internalLevel": "14.7",
+					"internalLevelValue": 14.7,
 					"noteDesigner": "BELiZHEL",
 					"noteCounts": {
 						"tap": 685,
@@ -227605,7 +227605,7 @@
 			"category": "maimai",
 			"title": "オールマスター",
 			"artist": "大漠波新 feat.ヲタみん",
-			"bpm": null,
+			"bpm": 150,
 			"imageName": "b2a215092f8580fd8b1d85245f0e9b22ff0b6eef42989cad1a77f2d71c7c4f75.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-05-08",
@@ -227622,12 +227622,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 127,
+						"hold": 16,
+						"slide": 8,
+						"touch": 6,
+						"break": 8,
+						"total": 165
 					},
 					"regions": {
 						"jp": true,
@@ -227650,12 +227650,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 263,
+						"hold": 12,
+						"slide": 11,
+						"touch": 11,
+						"break": 18,
+						"total": 315
 					},
 					"regions": {
 						"jp": true,
@@ -227676,14 +227676,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "せめんともり",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 340,
+						"hold": 65,
+						"slide": 42,
+						"touch": 5,
+						"break": 88,
+						"total": 540
 					},
 					"regions": {
 						"jp": true,
@@ -227702,16 +227702,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 603,
+						"hold": 59,
+						"slide": 96,
+						"touch": 68,
+						"break": 31,
+						"total": 857
 					},
 					"regions": {
 						"jp": true,
@@ -227732,7 +227732,7 @@
 			"category": "maimai",
 			"title": "STRAY",
 			"artist": "umigame",
-			"bpm": null,
+			"bpm": 130,
 			"imageName": "c13e4f00d799192dcade7fd028822f43d766653f1cd70b04143affa402f62d8d.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-05-08",
@@ -227749,12 +227749,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 145,
+						"hold": 9,
+						"slide": 4,
+						"touch": 15,
+						"break": 4,
+						"total": 177
 					},
 					"regions": {
 						"jp": true,
@@ -227777,12 +227777,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 229,
+						"hold": 16,
+						"slide": 6,
+						"touch": 13,
+						"break": 3,
+						"total": 267
 					},
 					"regions": {
 						"jp": true,
@@ -227803,14 +227803,14 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 330,
+						"hold": 49,
+						"slide": 34,
+						"touch": 20,
+						"break": 15,
+						"total": 448
 					},
 					"regions": {
 						"jp": true,
@@ -227829,16 +227829,16 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 487,
+						"hold": 59,
+						"slide": 73,
+						"touch": 22,
+						"break": 46,
+						"total": 687
 					},
 					"regions": {
 						"jp": true,
@@ -227859,7 +227859,7 @@
 			"category": "maimai",
 			"title": "クロノイデア",
 			"artist": "iDEN LiLY feat.X-Fenriey",
-			"bpm": null,
+			"bpm": 190,
 			"imageName": "766a3d226224e0be0c6c4e03684d1540608586a3bef8e476904a9e7018b6ee3f.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-05-08",
@@ -227876,12 +227876,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 178,
+						"hold": 17,
+						"slide": 8,
+						"touch": 28,
+						"break": 8,
+						"total": 239
 					},
 					"regions": {
 						"jp": true,
@@ -227904,12 +227904,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 340,
+						"hold": 18,
+						"slide": 8,
+						"touch": 16,
+						"break": 6,
+						"total": 388
 					},
 					"regions": {
 						"jp": true,
@@ -227930,14 +227930,14 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 403,
+						"hold": 79,
+						"slide": 41,
+						"touch": 25,
+						"break": 46,
+						"total": 594
 					},
 					"regions": {
 						"jp": true,
@@ -227956,16 +227956,16 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"internalLevel": "14.3",
+					"internalLevelValue": 14.3,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 714,
+						"hold": 50,
+						"slide": 138,
+						"touch": 32,
+						"break": 82,
+						"total": 1016
 					},
 					"regions": {
 						"jp": true,
@@ -228208,5 +228208,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-05-08T01:18:11.377Z"
+	"updateTime": "2026-05-09T11:06:22.346Z"
 }
