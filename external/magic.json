@@ -1711,5 +1711,8 @@
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"Usagi Flap","dx":1,"lv":[3,6.5,10.5,13.2],"ico":"8616b8d09e526660"},
   {"debut":26,"genre":"maimai","name":"オールマスター","dx":1,"lv":[4,6.8,11.5,13.3],"ico":"b2e3d6fc3355505c"},
   {"debut":26,"genre":"maimai","name":"STRAY","dx":1,"lv":[3,6.2,10.7,13.3],"ico":"0c1776c0455539c6"},
-  {"debut":26,"genre":"maimai","name":"クロノイデア","dx":1,"lv":[5,8,11.8,14.3],"ico":"b58811c7febe49dc"}
+  {"debut":26,"genre":"maimai","name":"クロノイデア","dx":1,"lv":[5,8,11.8,14.3],"ico":"b58811c7febe49dc"},
+  {"debut":26,"genre":"POPS＆アニメ","name":"キスキツネ","dx":1,"lv":[-2,-6,-10,-13.6]},
+  {"debut":26,"genre":"POPS＆アニメ","name":"WWW","dx":1,"lv":[-2,-6,-10.6,-13]},
+  {"debut":26,"genre":"POPS＆アニメ","name":"うたかたよいかないで","dx":1,"lv":[-3,-7,-10,-13]}
 ]
