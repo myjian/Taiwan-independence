@@ -220442,8 +220442,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220470,8 +220470,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220498,8 +220498,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220526,8 +220526,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220569,8 +220569,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220597,8 +220597,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220625,8 +220625,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220653,8 +220653,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220696,8 +220696,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220724,8 +220724,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220752,8 +220752,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -220780,8 +220780,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -228001,14 +228001,14 @@
 					"levelValue": 2,
 					"internalLevel": null,
 					"internalLevelValue": 2,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 96,
+						"hold": 11,
+						"slide": 4,
+						"touch": 8,
+						"break": 2,
+						"total": 121
 					},
 					"regions": {
 						"jp": true,
@@ -228029,14 +228029,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 180,
+						"hold": 15,
+						"slide": 8,
+						"touch": 29,
+						"break": 8,
+						"total": 240
 					},
 					"regions": {
 						"jp": true,
@@ -228059,12 +228059,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 278,
+						"hold": 47,
+						"slide": 31,
+						"touch": 5,
+						"break": 40,
+						"total": 401
 					},
 					"regions": {
 						"jp": true,
@@ -228087,12 +228087,12 @@
 					"internalLevelValue": 13.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 508,
+						"hold": 103,
+						"slide": 78,
+						"touch": 15,
+						"break": 62,
+						"total": 766
 					},
 					"regions": {
 						"jp": true,
@@ -228128,14 +228128,14 @@
 					"levelValue": 2,
 					"internalLevel": null,
 					"internalLevelValue": 2,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 90,
+						"hold": 8,
+						"slide": 3,
+						"touch": 6,
+						"break": 3,
+						"total": 110
 					},
 					"regions": {
 						"jp": true,
@@ -228156,14 +228156,14 @@
 					"levelValue": 6,
 					"internalLevel": null,
 					"internalLevelValue": 6,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 193,
+						"hold": 4,
+						"slide": 6,
+						"touch": 11,
+						"break": 6,
+						"total": 220
 					},
 					"regions": {
 						"jp": true,
@@ -228186,12 +228186,12 @@
 					"internalLevelValue": 10.6,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 206,
+						"hold": 43,
+						"slide": 23,
+						"touch": 16,
+						"break": 34,
+						"total": 322
 					},
 					"regions": {
 						"jp": true,
@@ -228214,12 +228214,12 @@
 					"internalLevelValue": 13,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 402,
+						"hold": 24,
+						"slide": 65,
+						"touch": 10,
+						"break": 41,
+						"total": 542
 					},
 					"regions": {
 						"jp": true,
@@ -228255,14 +228255,14 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 188,
+						"hold": 13,
+						"slide": 6,
+						"touch": 14,
+						"break": 5,
+						"total": 226
 					},
 					"regions": {
 						"jp": true,
@@ -228283,14 +228283,14 @@
 					"levelValue": 7,
 					"internalLevel": null,
 					"internalLevelValue": 7,
-					"noteDesigner": null,
+					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 375,
+						"hold": 18,
+						"slide": 11,
+						"touch": 25,
+						"break": 10,
+						"total": 439
 					},
 					"regions": {
 						"jp": true,
@@ -228313,12 +228313,12 @@
 					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 479,
+						"hold": 52,
+						"slide": 36,
+						"touch": 13,
+						"break": 34,
+						"total": 614
 					},
 					"regions": {
 						"jp": true,
@@ -228341,12 +228341,12 @@
 					"internalLevelValue": 13,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 548,
+						"hold": 39,
+						"slide": 118,
+						"touch": 72,
+						"break": 97,
+						"total": 874
 					},
 					"regions": {
 						"jp": true,
@@ -228631,5 +228631,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-05-14T01:18:19.398Z"
+	"updateTime": "2026-05-15T01:25:22.845Z"
 }
