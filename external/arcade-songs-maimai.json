@@ -227986,7 +227986,7 @@
 			"category": "POPS＆アニメ",
 			"title": "キスキツネ",
 			"artist": "HIMEHINA",
-			"bpm": null,
+			"bpm": 148,
 			"imageName": "3411e61509c17e518a0999c90d7e18ce66ebeb18d20b8d19951d8b9d0eded299.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-05-14",
@@ -228057,7 +228057,7 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 278,
 						"hold": 47,
@@ -228083,9 +228083,9 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 508,
 						"hold": 103,
@@ -228113,7 +228113,7 @@
 			"category": "POPS＆アニメ",
 			"title": "WWW",
 			"artist": "HIMEHINA",
-			"bpm": null,
+			"bpm": 146,
 			"imageName": "2d070018eebd26c7078e72411022912dff843315f727310f48769b0f74ca98a2.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-05-14",
@@ -228184,7 +228184,7 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "おそろっちーぬ",
 					"noteCounts": {
 						"tap": 206,
 						"hold": 43,
@@ -228210,9 +228210,9 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
+					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
 						"tap": 402,
 						"hold": 24,
@@ -228240,7 +228240,7 @@
 			"category": "POPS＆アニメ",
 			"title": "うたかたよいかないで",
 			"artist": "HIMEHINA",
-			"bpm": null,
+			"bpm": 166,
 			"imageName": "cf170e57331a7da631134f4ff5248fb36cac2b0685aa685add3ed65bfb21c61c.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-05-14",
@@ -228311,7 +228311,7 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 479,
 						"hold": 52,
@@ -228337,9 +228337,9 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 548,
 						"hold": 39,
@@ -228631,5 +228631,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-05-15T01:25:22.845Z"
+	"updateTime": "2026-05-22T12:17:27.263Z"
 }
