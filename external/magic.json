@@ -1714,5 +1714,8 @@
   {"debut":26,"genre":"maimai","name":"クロノイデア","dx":1,"lv":[5,8,11.8,14.3],"ico":"b58811c7febe49dc"},
   {"debut":26,"genre":"POPS＆アニメ","name":"キスキツネ","dx":1,"lv":[2,6.5,10.5,13.8],"ico":"a9567047ac19c427"},
   {"debut":26,"genre":"POPS＆アニメ","name":"WWW","dx":1,"lv":[2,6.5,10.7,13.4],"ico":"b873005e6463213c"},
-  {"debut":26,"genre":"POPS＆アニメ","name":"うたかたよいかないで","dx":1,"lv":[3,7,10,13.2],"ico":"17b2fa631b0824d7"}
+  {"debut":26,"genre":"POPS＆アニメ","name":"うたかたよいかないで","dx":1,"lv":[3,7,10,13.2],"ico":"17b2fa631b0824d7"},
+  {"debut":26,"genre":"niconico＆ボーカロイド","name":"Intergalactic Bound","dx":1,"lv":[-2,-6,-10,13.1],"ico":"6e9ddddad4547a5c"},
+  {"debut":26,"genre":"niconico＆ボーカロイド","name":"LEMON MELON COOKIE","dx":1,"lv":[-3,-7,-10.6,11.7,13.3],"ico":"4231978adaae3582"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"3rd Avenue","dx":1,"lv":[-3,-6,-11,13.6],"ico":"c395d1612b386275"}
 ]
