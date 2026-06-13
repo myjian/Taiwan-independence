@@ -628,7 +628,7 @@
   {"debut":9,"genre":"maimai","name":"夢花火","dx":0,"lv":[6,8.5,11.5,13.7],"regionOverrides":{"intl":{"lv":[6,8.5,11.5,13.7,0]}},"ico":"b63d151f8c3db8ad"},
   {"debut":9,"genre":"POPS＆アニメ","name":"前前前世","dx":0,"lv":[-4,-7,-9,13],"regionOverrides":{"intl":{"lv":[0,0,0,0,0]}},"ico":"d5d50489dcbcfd1f"},
   {"debut":9,"genre":"maimai","name":"オトヒメモリー☆ウタゲーション","dx":0,"lv":[5,7.8,11.7,12.9],"regionOverrides":{"intl":{"lv":[5,7.8,11.7,12.9,0]}},"ico":"c20ee423d01b854a"},
-  {"debut":26,"genre":"maimai","name":"オトヒメモリー☆ウタゲーション","dx":1,"lv":[-3,-6,-10,13.4],"ico":"c20ee423d01b854a"},
+  {"debut":26,"genre":"maimai","name":"オトヒメモリー☆ウタゲーション","dx":1,"lv":[3,6.2,10,13.4],"ico":"c20ee423d01b854a"},
   {"debut":9,"genre":"niconico＆ボーカロイド","name":"ラブチーノ","dx":0,"lv":[4,7.3,9.9,11.9],"regionOverrides":{"intl":{"lv":[4,7.3,9.9,11.9,0]}},"ico":"1e713165e806d9d6"},
   {"debut":9,"genre":"niconico＆ボーカロイド","name":"ヘルシーエンド","dx":0,"lv":[4,7.8,11.1,12.9],"regionOverrides":{"intl":{"lv":[4,7.8,11.1,12.9,0]}},"ico":"74d3b31d6375a517"},
   {"debut":9,"genre":"niconico＆ボーカロイド","name":"東京レトロ","dx":0,"lv":[4,7,9.8,11.6],"regionOverrides":{"intl":{"lv":[4,7,9.8,11.6,0]}},"ico":"60f44695106794c9"},
@@ -1719,8 +1719,8 @@
   {"debut":26,"genre":"niconico＆ボーカロイド","name":"Intergalactic Bound","dx":1,"lv":[2,6.5,10.5,13.1],"ico":"6e9ddddad4547a5c"},
   {"debut":26,"genre":"niconico＆ボーカロイド","name":"LEMON MELON COOKIE","dx":1,"lv":[3,7.5,10.8,11.7,13.4],"ico":"4231978adaae3582"},
   {"debut":26,"genre":"ゲーム＆バラエティ","name":"3rd Avenue","dx":1,"lv":[3,6.8,11,13.6],"ico":"c395d1612b386275"},
-  {"debut":26,"genre":"maimai","name":"TAKE CONTROL","dx":1,"lv":[-4,-6,-11.6,13.9],"ico":"7cf6656cbbd95701"},
-  {"debut":26,"genre":"maimai","name":"HyperdrivE","dx":1,"lv":[-3,-6,-11,13.9],"ico":"9db4ea8b086f5765"},
-  {"debut":26,"genre":"maimai","name":"Paradoxical Empress","dx":1,"lv":[-4,-7,-11,13.8],"ico":"d924d8b85c4655cc"},
-  {"debut":26,"genre":"maimai","name":"RONDØ","dx":1,"lv":[-6,-8,12.8,14.5],"ico":"ea4cd9df410fa1b0"}
+  {"debut":26,"genre":"maimai","name":"TAKE CONTROL","dx":1,"lv":[4,6.5,11.8,13.9],"ico":"7cf6656cbbd95701"},
+  {"debut":26,"genre":"maimai","name":"HyperdrivE","dx":1,"lv":[3,6.8,11,13.9],"ico":"9db4ea8b086f5765"},
+  {"debut":26,"genre":"maimai","name":"Paradoxical Empress","dx":1,"lv":[4,7.2,11.5,13.8],"ico":"d924d8b85c4655cc"},
+  {"debut":26,"genre":"maimai","name":"RONDØ","dx":1,"lv":[6,8,12.8,14.5],"ico":"ea4cd9df410fa1b0"}
 ]
