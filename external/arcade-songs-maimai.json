@@ -84403,12 +84403,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 152,
+						"hold": 10,
+						"slide": 4,
+						"touch": 6,
+						"break": 4,
+						"total": 176
 					},
 					"regions": {
 						"jp": true,
@@ -84431,12 +84431,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 250,
+						"hold": 8,
+						"slide": 6,
+						"touch": 26,
+						"break": 16,
+						"total": 306
 					},
 					"regions": {
 						"jp": true,
@@ -84457,14 +84457,14 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 284,
+						"hold": 52,
+						"slide": 45,
+						"touch": 19,
+						"break": 79,
+						"total": 479
 					},
 					"regions": {
 						"jp": true,
@@ -84485,14 +84485,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.4",
 					"internalLevelValue": 13.4,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 544,
+						"hold": 53,
+						"slide": 108,
+						"touch": 31,
+						"break": 46,
+						"total": 782
 					},
 					"regions": {
 						"jp": true,
@@ -229014,7 +229014,7 @@
 			"category": "maimai",
 			"title": "TAKE CONTROL",
 			"artist": "ryhki",
-			"bpm": null,
+			"bpm": 162,
 			"imageName": "69eef40eb3a1d8fd0a097e3d3ec711c5c43deea73013728b870736d863c281db.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-12",
@@ -229031,12 +229031,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 177,
+						"hold": 13,
+						"slide": 6,
+						"touch": 7,
+						"break": 15,
+						"total": 218
 					},
 					"regions": {
 						"jp": true,
@@ -229059,12 +229059,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 285,
+						"hold": 16,
+						"slide": 10,
+						"touch": 22,
+						"break": 17,
+						"total": 350
 					},
 					"regions": {
 						"jp": true,
@@ -229085,14 +229085,14 @@
 					"levelValue": 11.6,
 					"internalLevel": null,
 					"internalLevelValue": 11.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 442,
+						"hold": 80,
+						"slide": 44,
+						"touch": 76,
+						"break": 16,
+						"total": 658
 					},
 					"regions": {
 						"jp": true,
@@ -229113,14 +229113,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.9",
 					"internalLevelValue": 13.9,
-					"noteDesigner": null,
+					"noteDesigner": "Safazhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 508,
+						"hold": 79,
+						"slide": 85,
+						"touch": 118,
+						"break": 171,
+						"total": 961
 					},
 					"regions": {
 						"jp": true,
@@ -229141,7 +229141,7 @@
 			"category": "maimai",
 			"title": "HyperdrivE",
 			"artist": "KARUT",
-			"bpm": null,
+			"bpm": 174,
 			"imageName": "da5f45995c0c58972b8bf2f8b0a9a73045090b53cad465ad687244ac084e7ce5.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-12",
@@ -229158,12 +229158,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 174,
+						"hold": 8,
+						"slide": 6,
+						"touch": 8,
+						"break": 8,
+						"total": 204
 					},
 					"regions": {
 						"jp": true,
@@ -229186,12 +229186,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 271,
+						"hold": 19,
+						"slide": 4,
+						"touch": 27,
+						"break": 11,
+						"total": 332
 					},
 					"regions": {
 						"jp": true,
@@ -229212,14 +229212,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 307,
+						"hold": 44,
+						"slide": 41,
+						"touch": 36,
+						"break": 48,
+						"total": 476
 					},
 					"regions": {
 						"jp": true,
@@ -229240,14 +229240,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.9",
 					"internalLevelValue": 13.9,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 594,
+						"hold": 41,
+						"slide": 117,
+						"touch": 37,
+						"break": 42,
+						"total": 831
 					},
 					"regions": {
 						"jp": true,
@@ -229268,7 +229268,7 @@
 			"category": "maimai",
 			"title": "Paradoxical Empress",
 			"artist": "polysha",
-			"bpm": null,
+			"bpm": 185,
 			"imageName": "5014a1e781af67dc2821bb1838f6ec585359e46a4d6857aa1da8ca7b61db84da.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-12",
@@ -229285,12 +229285,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 178,
+						"hold": 11,
+						"slide": 6,
+						"touch": 22,
+						"break": 12,
+						"total": 229
 					},
 					"regions": {
 						"jp": true,
@@ -229313,12 +229313,12 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 275,
+						"hold": 14,
+						"slide": 10,
+						"touch": 24,
+						"break": 4,
+						"total": 327
 					},
 					"regions": {
 						"jp": true,
@@ -229339,14 +229339,14 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 426,
+						"hold": 102,
+						"slide": 58,
+						"touch": 13,
+						"break": 21,
+						"total": 620
 					},
 					"regions": {
 						"jp": true,
@@ -229367,14 +229367,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 550,
+						"hold": 88,
+						"slide": 74,
+						"touch": 76,
+						"break": 81,
+						"total": 869
 					},
 					"regions": {
 						"jp": true,
@@ -229395,7 +229395,7 @@
 			"category": "maimai",
 			"title": "RONDØ",
 			"artist": "Ashrount",
-			"bpm": null,
+			"bpm": 314,
 			"imageName": "6586b3d8118c9a0205f080d3a7c9d43c2add9cabc6379c9d9cf598e0c3b43537.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-12",
@@ -229466,7 +229466,7 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.8",
 					"internalLevelValue": 12.8,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -229494,7 +229494,7 @@
 					"levelValue": 14,
 					"internalLevel": "14.5",
 					"internalLevelValue": 14.5,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": null,
 						"hold": null,
@@ -229744,5 +229744,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-06-12T01:09:01.242Z"
+	"updateTime": "2026-06-14T14:50:19.008Z"
 }
