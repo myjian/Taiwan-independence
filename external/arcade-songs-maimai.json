@@ -229412,12 +229412,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 215,
+						"hold": 11,
+						"slide": 8,
+						"touch": 15,
+						"break": 11,
+						"total": 260
 					},
 					"regions": {
 						"jp": true,
@@ -229440,12 +229440,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 335,
+						"hold": 14,
+						"slide": 8,
+						"touch": 11,
+						"break": 8,
+						"total": 376
 					},
 					"regions": {
 						"jp": true,
@@ -229468,12 +229468,12 @@
 					"internalLevelValue": 12.8,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 462,
+						"hold": 85,
+						"slide": 32,
+						"touch": 46,
+						"break": 84,
+						"total": 709
 					},
 					"regions": {
 						"jp": true,
@@ -229744,5 +229744,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-06-14T14:50:19.008Z"
+	"updateTime": "2026-06-15T16:38:24.189Z"
 }
