@@ -229522,7 +229522,7 @@
 			"category": "東方Project",
 			"title": "純情アルメリア",
 			"artist": "森羅万象",
-			"bpm": null,
+			"bpm": 175,
 			"imageName": "224ff3c2515d6112b3068a3755cff80341a7e3c1a2c12e26ee616598b21a7aac.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-26",
@@ -229539,11 +229539,11 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 169,
+						"hold": 12,
+						"slide": 5,
+						"touch": 12,
+						"break": 8,
 						"total": 206
 					},
 					"regions": {
@@ -229567,11 +229567,11 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 288,
+						"hold": 17,
+						"slide": 7,
+						"touch": 34,
+						"break": 6,
 						"total": 352
 					},
 					"regions": {
@@ -229593,13 +229593,13 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "せめんともり",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 408,
+						"hold": 56,
+						"slide": 29,
+						"touch": 9,
+						"break": 35,
 						"total": 537
 					},
 					"regions": {
@@ -229621,13 +229621,13 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 572,
+						"hold": 56,
+						"slide": 144,
+						"touch": 10,
+						"break": 31,
 						"total": 813
 					},
 					"regions": {
@@ -229649,7 +229649,7 @@
 			"category": "東方Project",
 			"title": "運命線上のアリア",
 			"artist": "森羅万象",
-			"bpm": null,
+			"bpm": 185,
 			"imageName": "9a751550d8490ad9d6835adebbad7a3ce89d5660689fe3de336f49c9883e04d0.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-26",
@@ -229666,11 +229666,11 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 199,
+						"hold": 9,
+						"slide": 6,
+						"touch": 11,
+						"break": 7,
 						"total": 232
 					},
 					"regions": {
@@ -229694,11 +229694,11 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 361,
+						"hold": 16,
+						"slide": 10,
+						"touch": 26,
+						"break": 10,
 						"total": 423
 					},
 					"regions": {
@@ -229720,13 +229720,13 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 503,
+						"hold": 38,
+						"slide": 35,
+						"touch": 27,
+						"break": 30,
 						"total": 633
 					},
 					"regions": {
@@ -229748,13 +229748,13 @@
 					"levelValue": 13.6,
 					"internalLevel": null,
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 642,
+						"hold": 48,
+						"slide": 120,
+						"touch": 11,
+						"break": 67,
 						"total": 888
 					},
 					"regions": {
@@ -229776,7 +229776,7 @@
 			"category": "東方Project",
 			"title": "デンデラパーティーナイト",
 			"artist": "森羅万象",
-			"bpm": null,
+			"bpm": 181,
 			"imageName": "7a661a24cd3d3d28e80d1ea437301340c21a3bbc00205fcd6a2e00372726f12f.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-26",
@@ -229793,11 +229793,11 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 170,
+						"hold": 9,
+						"slide": 7,
+						"touch": 17,
+						"break": 4,
 						"total": 207
 					},
 					"regions": {
@@ -229821,11 +229821,11 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 345,
+						"hold": 12,
+						"slide": 9,
+						"touch": 28,
+						"break": 4,
 						"total": 398
 					},
 					"regions": {
@@ -229847,13 +229847,13 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 404,
+						"hold": 74,
+						"slide": 27,
+						"touch": 8,
+						"break": 33,
 						"total": 546
 					},
 					"regions": {
@@ -229875,13 +229875,13 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 485,
+						"hold": 47,
+						"slide": 82,
+						"touch": 76,
+						"break": 113,
 						"total": 803
 					},
 					"regions": {
@@ -229903,7 +229903,7 @@
 			"category": "東方Project",
 			"title": "Absolute Queen",
 			"artist": "Laur",
-			"bpm": null,
+			"bpm": 220,
 			"imageName": "0c5b39f64d4b76c76a49c4dda9df1f48a26977a0971655e317baa1d08db3d39c.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-26",
@@ -229920,11 +229920,11 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 170,
+						"hold": 9,
+						"slide": 5,
+						"touch": 13,
+						"break": 7,
 						"total": 204
 					},
 					"regions": {
@@ -229948,11 +229948,11 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 315,
+						"hold": 20,
+						"slide": 13,
+						"touch": 13,
+						"break": 7,
 						"total": 368
 					},
 					"regions": {
@@ -229974,13 +229974,13 @@
 					"levelValue": 12.6,
 					"internalLevel": null,
 					"internalLevelValue": 12.6,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 411,
+						"hold": 72,
+						"slide": 55,
+						"touch": 34,
+						"break": 21,
 						"total": 593
 					},
 					"regions": {
@@ -230002,13 +230002,13 @@
 					"levelValue": 14,
 					"internalLevel": null,
 					"internalLevelValue": 14,
-					"noteDesigner": null,
+					"noteDesigner": "せめんともり",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 528,
+						"hold": 85,
+						"slide": 105,
+						"touch": 90,
+						"break": 45,
 						"total": 853
 					},
 					"regions": {
@@ -230336,5 +230336,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-06-26T01:27:13.749Z"
+	"updateTime": "2026-07-01T14:14:42.163Z"
 }
