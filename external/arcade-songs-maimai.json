@@ -229526,7 +229526,7 @@
 			"imageName": "224ff3c2515d6112b3068a3755cff80341a7e3c1a2c12e26ee616598b21a7aac.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-26",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -229619,8 +229619,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
 						"tap": 572,
@@ -229653,7 +229653,7 @@
 			"imageName": "9a751550d8490ad9d6835adebbad7a3ce89d5660689fe3de336f49c9883e04d0.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-26",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -229746,7 +229746,7 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
+					"internalLevel": "13.6",
 					"internalLevelValue": 13.6,
 					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
@@ -229780,7 +229780,7 @@
 			"imageName": "7a661a24cd3d3d28e80d1ea437301340c21a3bbc00205fcd6a2e00372726f12f.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-26",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -229873,8 +229873,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 485,
@@ -229907,7 +229907,7 @@
 			"imageName": "0c5b39f64d4b76c76a49c4dda9df1f48a26977a0971655e317baa1d08db3d39c.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-06-26",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -229972,8 +229972,8 @@
 					"difficulty": "expert",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
 						"tap": 411,
@@ -230000,8 +230000,8 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
+					"internalLevel": "14.2",
+					"internalLevelValue": 14.2,
 					"noteDesigner": "せめんともり",
 					"noteCounts": {
 						"tap": 528,
@@ -230106,6 +230106,510 @@
 						"intl": {}
 					},
 					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "歌え踊れや桃源郷！",
+			"category": "maimai",
+			"title": "歌え踊れや桃源郷！",
+			"artist": "karato feat.yuno",
+			"bpm": 178,
+			"imageName": "71e6044efc52b5caff598a4a763e28d25dbc64ce2506684da924fe67d5e4e928.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-07-02",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": "まぐランド",
+					"noteCounts": {
+						"tap": 396,
+						"hold": 45,
+						"slide": 37,
+						"touch": 34,
+						"break": 38,
+						"total": 550
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": "せめんともり",
+					"noteCounts": {
+						"tap": 617,
+						"hold": 34,
+						"slide": 153,
+						"touch": 28,
+						"break": 45,
+						"total": 877
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "私たちは、花になる",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "私たちは、花になる",
+			"artist": "イロドリミドリ｜HaNaMiNa｜S.S.L.",
+			"bpm": 168,
+			"imageName": "b4f58eb1970b216717a6305bc8e7245b5455267bc15f66fcc2fa18b27df5f664.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-07-02",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": null,
+					"internalLevelValue": 2,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 153,
+						"hold": 11,
+						"slide": 11,
+						"touch": 6,
+						"break": 3,
+						"total": 184
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 282,
+						"hold": 22,
+						"slide": 12,
+						"touch": 24,
+						"break": 3,
+						"total": 343
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": 368,
+						"hold": 32,
+						"slide": 50,
+						"touch": 35,
+						"break": 44,
+						"total": 529
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": "Get Our MIRAI!!!!!!!!!!!!!!",
+					"noteCounts": {
+						"tap": 577,
+						"hold": 33,
+						"slide": 72,
+						"touch": 92,
+						"break": 33,
+						"total": 807
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Here the Our MIRAI!",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "Here the Our MIRAI!",
+			"artist": "イロドリミドリ",
+			"bpm": 190,
+			"imageName": "fb818abb8fb53cbde865b4953df416d34a13a50870c5115c5fd440ffc4217d08.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-07-02",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 151,
+						"hold": 18,
+						"slide": 9,
+						"touch": 19,
+						"break": 2,
+						"total": 199
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 275,
+						"hold": 22,
+						"slide": 10,
+						"touch": 11,
+						"break": 7,
+						"total": 325
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 342,
+						"hold": 80,
+						"slide": 44,
+						"touch": 10,
+						"break": 40,
+						"total": 516
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 523,
+						"hold": 46,
+						"slide": 112,
+						"touch": 34,
+						"break": 51,
+						"total": 766
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "色彩過剰のダイアリーミュージック",
+			"category": "オンゲキ＆CHUNITHM",
+			"title": "色彩過剰のダイアリーミュージック",
+			"artist": "イロドリミドリ",
+			"bpm": 136,
+			"imageName": "073e92bb12e8130d04c82f6f9373a7db09e459821e00521e3e0712d1cb57bde5.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-07-02",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": null,
+					"internalLevelValue": 5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 206,
+						"hold": 18,
+						"slide": 11,
+						"touch": 10,
+						"break": 3,
+						"total": 248
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 340
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": "Jack",
+					"noteCounts": {
+						"tap": 453,
+						"hold": 102,
+						"slide": 46,
+						"touch": 46,
+						"break": 35,
+						"total": 682
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": "ロシェ@ペンギン",
+					"noteCounts": {
+						"tap": 876,
+						"hold": 67,
+						"slide": 64,
+						"touch": 102,
+						"break": 77,
+						"total": 1186
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
 				}
 			]
 		}
@@ -230336,5 +230840,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-07-01T14:14:42.163Z"
+	"updateTime": "2026-07-03T01:17:30.904Z"
 }

@@ -1726,5 +1726,9 @@
   {"debut":26,"genre":"東方Project","name":"純情アルメリア","dx":1,"lv":[4,7.5,10.7,13.3],"ico":"9d139b8426001293"},
   {"debut":26,"genre":"東方Project","name":"運命線上のアリア","dx":1,"lv":[4,7.8,10.8,13.6],"ico":"26721fc25e2f9f91"},
   {"debut":26,"genre":"東方Project","name":"デンデラパーティーナイト","dx":1,"lv":[4,7.8,10.7,13.4],"ico":"d352008e0f49d5d9"},
-  {"debut":26,"genre":"東方Project","name":"Absolute Queen","dx":1,"lv":[5,8.2,12.8,14.2],"ico":"3d2dcf5c55d4e855"}
+  {"debut":26,"genre":"東方Project","name":"Absolute Queen","dx":1,"lv":[5,8.2,12.8,14.2],"ico":"3d2dcf5c55d4e855"},
+  {"debut":26,"genre":"maimai","name":"歌え踊れや桃源郷！","dx":1,"lv":[4,7.6,10.8,13.4],"ico":"0f7aff2eb3425949"},
+  {"debut":26,"genre":"オンゲキ＆CHUNITHM","name":"私たちは、花になる","dx":1,"lv":[2,7.2,10.7,13.6],"ico":"7ca1e931100a97a7"},
+  {"debut":26,"genre":"オンゲキ＆CHUNITHM","name":"Here the Our MIRAI!","dx":1,"lv":[3,7.7,11.4,13.2],"ico":"94961d3405db1230"},
+  {"debut":26,"genre":"オンゲキ＆CHUNITHM","name":"色彩過剰のダイアリーミュージック","dx":1,"lv":[5,8,12.7,14.1],"ico":"e983556daa1209a7"}
 ]
