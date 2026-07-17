@@ -230618,7 +230618,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "イレギュラーマン",
 			"artist": "マサラダ",
-			"bpm": null,
+			"bpm": 201,
 			"imageName": "13b2d175a517ebe2d6ae5cc5249553cdbdac77e2a2bff1371590a1f7b1c54b6f.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-17",
@@ -230635,11 +230635,11 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 240,
+						"hold": 10,
+						"slide": 4,
+						"touch": 12,
+						"break": 8,
 						"total": 274
 					},
 					"regions": {
@@ -230663,11 +230663,11 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 353,
+						"hold": 16,
+						"slide": 8,
+						"touch": 13,
+						"break": 4,
 						"total": 394
 					},
 					"regions": {
@@ -230689,13 +230689,13 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 411,
+						"hold": 102,
+						"slide": 40,
+						"touch": 24,
+						"break": 52,
 						"total": 629
 					},
 					"regions": {
@@ -230715,15 +230715,15 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 562,
+						"hold": 35,
+						"slide": 204,
+						"touch": 99,
+						"break": 132,
 						"total": 1032
 					},
 					"regions": {
@@ -230745,7 +230745,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "ちっちゃな私",
 			"artist": "マサラダ",
-			"bpm": null,
+			"bpm": 143,
 			"imageName": "95c11dd885bdf613c9f306a2afdfd3ecd8aa70a7525b40379db8b9aba1a34108.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-17",
@@ -230762,11 +230762,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 141,
+						"hold": 18,
+						"slide": 4,
+						"touch": 8,
+						"break": 4,
 						"total": 175
 					},
 					"regions": {
@@ -230790,11 +230790,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 233,
+						"hold": 19,
+						"slide": 6,
+						"touch": 14,
+						"break": 2,
 						"total": 274
 					},
 					"regions": {
@@ -230816,13 +230816,13 @@
 					"levelValue": 9.6,
 					"internalLevel": null,
 					"internalLevelValue": 9.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 276,
+						"hold": 73,
+						"slide": 22,
+						"touch": 5,
+						"break": 13,
 						"total": 389
 					},
 					"regions": {
@@ -230842,15 +230842,15 @@
 					"difficulty": "master",
 					"level": "12+",
 					"levelValue": 12.6,
-					"internalLevel": null,
-					"internalLevelValue": 12.6,
-					"noteDesigner": null,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 380,
+						"hold": 54,
+						"slide": 64,
+						"touch": 98,
+						"break": 53,
 						"total": 649
 					},
 					"regions": {
@@ -230872,7 +230872,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "2代目閻魔",
 			"artist": "読谷あかね",
-			"bpm": null,
+			"bpm": 135,
 			"imageName": "e4b8339d1f4d4609bac1f22c94736c533ff9c78ce2495a66a49db9aaaac77f0a.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-17",
@@ -230889,11 +230889,11 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 134,
+						"hold": 9,
+						"slide": 4,
+						"touch": 7,
+						"break": 6,
 						"total": 160
 					},
 					"regions": {
@@ -230917,11 +230917,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 274,
+						"hold": 12,
+						"slide": 6,
+						"touch": 13,
+						"break": 10,
 						"total": 315
 					},
 					"regions": {
@@ -230943,13 +230943,13 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "せめんともり",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 331,
+						"hold": 33,
+						"slide": 46,
+						"touch": 16,
+						"break": 51,
 						"total": 477
 					},
 					"regions": {
@@ -230969,15 +230969,15 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
+					"internalLevel": "13.6",
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 620,
+						"hold": 18,
+						"slide": 89,
+						"touch": 102,
+						"break": 35,
 						"total": 864
 					},
 					"regions": {
@@ -230999,7 +230999,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "シスターに懺悔を",
 			"artist": "廃原メモリ",
-			"bpm": null,
+			"bpm": 165,
 			"imageName": "0d4d90f457c2fefc4d92119a98445e9dc4ad25c620ceec5a5243f3962dad1912.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-17",
@@ -231016,11 +231016,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 157,
+						"hold": 9,
+						"slide": 4,
+						"touch": 20,
+						"break": 3,
 						"total": 193
 					},
 					"regions": {
@@ -231044,11 +231044,11 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 282,
+						"hold": 18,
+						"slide": 6,
+						"touch": 30,
+						"break": 8,
 						"total": 344
 					},
 					"regions": {
@@ -231070,13 +231070,13 @@
 					"levelValue": 10.6,
 					"internalLevel": null,
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 290,
+						"hold": 61,
+						"slide": 32,
+						"touch": 25,
+						"break": 43,
 						"total": 451
 					},
 					"regions": {
@@ -231096,15 +231096,15 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 506,
+						"hold": 54,
+						"slide": 125,
+						"touch": 43,
+						"break": 15,
 						"total": 743
 					},
 					"regions": {
@@ -231126,7 +231126,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Cryogenic",
 			"artist": "Camellia ft. Petra Gurin「In Falsus」",
-			"bpm": null,
+			"bpm": 145,
 			"imageName": "e970e78e489671ab3de9772486d51e6a1dec60fdb7d17399490b8ffe90b3b18c.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-17",
@@ -231143,11 +231143,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 117,
+						"hold": 17,
+						"slide": 5,
+						"touch": 8,
+						"break": 1,
 						"total": 148
 					},
 					"regions": {
@@ -231171,11 +231171,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 263,
+						"hold": 16,
+						"slide": 8,
+						"touch": 11,
+						"break": 4,
 						"total": 302
 					},
 					"regions": {
@@ -231197,13 +231197,13 @@
 					"levelValue": 11,
 					"internalLevel": null,
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 304,
+						"hold": 44,
+						"slide": 40,
+						"touch": 18,
+						"break": 13,
 						"total": 419
 					},
 					"regions": {
@@ -231223,15 +231223,15 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "ぴちネコ",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 439,
+						"hold": 84,
+						"slide": 84,
+						"touch": 69,
+						"break": 64,
 						"total": 740
 					},
 					"regions": {
@@ -231475,5 +231475,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-07-17T01:27:53.355Z"
+	"updateTime": "2026-07-17T18:30:07.868Z"
 }

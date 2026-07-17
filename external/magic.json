@@ -1731,9 +1731,9 @@
   {"debut":26,"genre":"オンゲキ＆CHUNITHM","name":"私たちは、花になる","dx":1,"lv":[2,7.2,10.7,13.6],"ico":"7ca1e931100a97a7"},
   {"debut":26,"genre":"オンゲキ＆CHUNITHM","name":"Here the Our MIRAI!","dx":1,"lv":[3,7.7,11.4,13.2],"ico":"94961d3405db1230"},
   {"debut":26,"genre":"オンゲキ＆CHUNITHM","name":"色彩過剰のダイアリーミュージック","dx":1,"lv":[5,8,12.7,14.1],"ico":"e983556daa1209a7"},
-  {"debut":26,"genre":"niconico＆ボーカロイド","name":"イレギュラーマン","dx":1,"lv":[-5,-7.6,-11,-13.6]},
-  {"debut":26,"genre":"niconico＆ボーカロイド","name":"ちっちゃな私","dx":1,"lv":[-3,-6,-9.6,-12.6]},
-  {"debut":26,"genre":"niconico＆ボーカロイド","name":"2代目閻魔","dx":1,"lv":[-2,-6,-10,-13.6]},
-  {"debut":26,"genre":"niconico＆ボーカロイド","name":"シスターに懺悔を","dx":1,"lv":[-3,-7,-10.6,-13]},
-  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Cryogenic","dx":1,"lv":[-3,-6,-11,-13.6]}
+  {"debut":26,"genre":"niconico＆ボーカロイド","name":"イレギュラーマン","dx":1,"lv":[-5,-7.6,-11,13.9]},
+  {"debut":26,"genre":"niconico＆ボーカロイド","name":"ちっちゃな私","dx":1,"lv":[-3,-6,-9.6,12.9]},
+  {"debut":26,"genre":"niconico＆ボーカロイド","name":"2代目閻魔","dx":1,"lv":[-2,-6,-10,13.6]},
+  {"debut":26,"genre":"niconico＆ボーカロイド","name":"シスターに懺悔を","dx":1,"lv":[-3,-7,-10.6,13.3]},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Cryogenic","dx":1,"lv":[-3,-6,-11,13.8]}
 ]
