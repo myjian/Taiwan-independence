@@ -220,7 +220,7 @@
   {"debut":0,"genre":"niconico＆ボーカロイド","name":"ワールズエンド・ダンスホール","dx":0,"lv":[7,8.4,9.7,13,13.3],"regionOverrides":{"intl":{"lv":[7,8.4,9.7,13,13.3]}},"ico":"7d63f55a93c01564"},
   {"debut":0,"genre":"niconico＆ボーカロイド","name":"パンダヒーロー","dx":0,"lv":[6,7.7,9.8,12.4],"regionOverrides":{"intl":{"lv":[6,7.7,9.8,12.4,0]}},"ico":"435c43a8153c239a"},
   {"debut":0,"genre":"maimai","name":"オレンジの夏","dx":0,"lv":[6,7.6,10,12.4],"regionOverrides":{"intl":{"lv":[6,7.6,10,12.4,0]}},"ico":"36697811028a024a"},
-  {"debut":0,"genre":"maimai","name":"BaBan!! －甘い罠－","dx":0,"lv":[6,8.6,12.5,12.5],"regionOverrides":{"intl":{"lv":[6,8.6,12.3,12.5,0]}},"ico":"293f8b95a06130fc"},
+  {"debut":0,"genre":"maimai","name":"BaBan!! －甘い罠－","dx":0,"lv":[6,8.6,12.3,12.5],"regionOverrides":{"intl":{"lv":[6,8.6,12.3,12.5,0]}},"ico":"293f8b95a06130fc"},
   {"debut":0,"genre":"maimai","name":"ジングルベル","dx":0,"lv":[6,7.9,10.9,14.4,14.2],"regionOverrides":{"intl":{"lv":[6,7.9,10.9,14.4,14.2]}},"ico":"5c0567c39670fbf4"},
   {"debut":19,"genre":"maimai","name":"ジングルベル","dx":1,"lv":[5,7.8,10.8,14.6],"regionOverrides":{"intl":{"debut":20,"lv":[5,7.8,10.8,14.6,0]}},"ico":"5c0567c39670fbf4"},
   {"debut":0,"genre":"niconico＆ボーカロイド","name":"マトリョシカ","dx":0,"lv":[6,8.6,9.7,11.7,13.3],"regionOverrides":{"intl":{"lv":[6,8.6,9.7,11.7,13.3]}},"ico":"311d40df8438952a"},
