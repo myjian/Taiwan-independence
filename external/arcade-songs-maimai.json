@@ -229223,8 +229223,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.9",
-					"internalLevelValue": 13.9,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": "Jack",
 					"noteCounts": {
 						"tap": 594,
@@ -229350,8 +229350,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.8",
-					"internalLevelValue": 13.8,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 550,
@@ -231460,5 +231460,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-07-26T04:39:57.400Z"
+	"updateTime": "2026-07-26T14:09:12.704Z"
 }
