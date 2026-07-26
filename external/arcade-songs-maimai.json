@@ -595,8 +595,8 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "13.6",
-					"internalLevelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13,
 					"noteDesigner": "mai-Star",
 					"noteCounts": {
 						"tap": 502,
@@ -2005,8 +2005,8 @@
 					"difficulty": "master",
 					"level": "12",
 					"levelValue": 12,
-					"internalLevel": "12.6",
-					"internalLevelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12,
 					"noteDesigner": "rioN",
 					"noteCounts": {
 						"tap": 353,
@@ -5686,8 +5686,8 @@
 					"difficulty": "remaster",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"internalLevel": null,
+					"internalLevelValue": 13,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
 						"tap": 632,
@@ -7238,8 +7238,8 @@
 					"difficulty": "expert",
 					"level": "11+",
 					"levelValue": 11.6,
-					"internalLevel": "11.0",
-					"internalLevelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
 					"noteDesigner": "翠楼屋",
 					"noteCounts": {
 						"tap": 380,
@@ -7365,8 +7365,8 @@
 					"difficulty": "expert",
 					"level": "9+",
 					"levelValue": 9.6,
-					"internalLevel": "8.7",
-					"internalLevelValue": 8.7,
+					"internalLevel": null,
+					"internalLevelValue": 9.6,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
 						"tap": 292,
@@ -91899,8 +91899,8 @@
 					"difficulty": "expert",
 					"level": "11+",
 					"levelValue": 11.6,
-					"internalLevel": "12.1",
-					"internalLevelValue": 12.1,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 514,
@@ -152268,8 +152268,8 @@
 					"difficulty": "expert",
 					"level": "11+",
 					"levelValue": 11.6,
-					"internalLevel": "11.2",
-					"internalLevelValue": 11.2,
+					"internalLevel": null,
+					"internalLevelValue": 11.6,
 					"noteDesigner": "隅田川星人",
 					"noteCounts": {
 						"tap": 316,
@@ -231460,5 +231460,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-07-24T14:54:48.690Z"
+	"updateTime": "2026-07-26T04:39:57.400Z"
 }
