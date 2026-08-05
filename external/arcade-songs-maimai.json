@@ -44972,10 +44972,122 @@
 			"imageName": "0bd0d8d3acb380d675017b05e1b210749ad9d51b7d9add77ef92288335cc3740.png",
 			"version": "GreeN",
 			"releaseDate": "2013-07-11",
-			"isNew": false,
+			"isNew": true,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 119
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 210
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 316
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 521
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
 				{
 					"type": "std",
 					"difficulty": "basic",
@@ -230143,12 +230255,12 @@
 					"internalLevelValue": 7.6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 347,
+						"hold": 12,
+						"slide": 6,
+						"touch": 10,
+						"break": 6,
+						"total": 381
 					},
 					"regions": {
 						"jp": true,
@@ -230607,7 +230719,7 @@
 			"imageName": "13b2d175a517ebe2d6ae5cc5249553cdbdac77e2a2bff1371590a1f7b1c54b6f.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-17",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -230734,7 +230846,7 @@
 			"imageName": "95c11dd885bdf613c9f306a2afdfd3ecd8aa70a7525b40379db8b9aba1a34108.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-17",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -230861,7 +230973,7 @@
 			"imageName": "e4b8339d1f4d4609bac1f22c94736c533ff9c78ce2495a66a49db9aaaac77f0a.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-17",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -230988,7 +231100,7 @@
 			"imageName": "0d4d90f457c2fefc4d92119a98445e9dc4ad25c620ceec5a5243f3962dad1912.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-17",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -231115,7 +231227,7 @@
 			"imageName": "e970e78e489671ab3de9772486d51e6a1dec60fdb7d17399490b8ffe90b3b18c.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-17",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -231230,6 +231342,217 @@
 					},
 					"isSpecial": false,
 					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "ボックスワンターバ〜ン",
+			"category": "POPS＆アニメ",
+			"title": "ボックスワンターバ〜ン",
+			"artist": "ぼくわたチャンネル",
+			"bpm": 171,
+			"imageName": "d73447696f302731351cadfca8716e74d6528356438db1b399a136dbc92a0805.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-08-04",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 208
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 347
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 405,
+						"hold": 53,
+						"slide": 16,
+						"touch": 8,
+						"break": 33,
+						"total": 515
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": null,
+					"internalLevelValue": 13.6,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 591,
+						"hold": 59,
+						"slide": 115,
+						"touch": 147,
+						"break": 199,
+						"total": 1111
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "[音]インドア系ならトラックメイカー",
+			"category": "宴会場",
+			"title": "[音]インドア系ならトラックメイカー",
+			"artist": "Yunomi & nicamoq",
+			"bpm": null,
+			"imageName": "b0de196b2e5d7fe4025da4833c4d4647ad2eb348c4de3151c1b49910b799501a.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-07-31",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "～音取りほぼMAXバージョン～",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【音】",
+					"level": "14+?",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[僕]ボックスワンターバ〜ン",
+			"category": "宴会場",
+			"title": "[僕]ボックスワンターバ〜ン",
+			"artist": "ぼくわたチャンネル",
+			"bpm": null,
+			"imageName": "d73447696f302731351cadfca8716e74d6528356438db1b399a136dbc92a0805.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-07-31",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】コインを入れてランラン楽しいド派手なリズムゲーム 麻衣摩維DX",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【僕】",
+					"level": "14?",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
 				}
 			]
 		}
@@ -231460,5 +231783,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-07-31T01:17:13.778Z"
+	"updateTime": "2026-08-05T05:08:15.870Z"
 }

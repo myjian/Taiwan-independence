@@ -320,6 +320,7 @@
   {"debut":2,"genre":"niconico＆ボーカロイド","name":"いーあるふぁんくらぶ","dx":0,"lv":[4,7.5,8.6,12.2,12.7],"regionOverrides":{"intl":{"lv":[4,7.5,8.6,12.2,12.7]}},"ico":"b21cc578793a6938"},
   {"debut":13,"genre":"niconico＆ボーカロイド","name":"いーあるふぁんくらぶ","dx":1,"lv":[2,6,8.2,11.2],"regionOverrides":{"intl":{"lv":[2,6,8.2,11.2,0]}},"ico":"b21cc578793a6938"},
   {"debut":2,"genre":"ゲーム＆バラエティ","name":"Ignite Infinity","dx":0,"lv":[4,7.2,11.9,12.6],"regionOverrides":{"intl":{"lv":[4,7.2,11.9,12.6,0]}},"ico":"30b516a0c2d64f97"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Ignite Infinity","dx":1,"lv":[-3,-6,-10,-13],"ico":"30b516a0c2d64f97"},
   {"debut":2,"genre":"niconico＆ボーカロイド","name":"トルコ行進曲 - オワタ＼(^o^)／","dx":0,"lv":[3,7.6,10,13.8],"regionOverrides":{"intl":{"lv":[3,7.6,10,13.8,0]}},"ico":"951e6d7982e052cf"},
   {"debut":2,"genre":"ゲーム＆バラエティ","name":"ココロスキャンのうた","dx":0,"lv":[5,7.5,11.3,13.8],"regionOverrides":{"intl":{"lv":[5,7.5,11.3,13.8,0]}},"ico":"c6bc8a091cf2f21e"},
   {"debut":2,"genre":"ゲーム＆バラエティ","name":"Mysterious Destiny","dx":0,"lv":[4,7.5,12.7,13.3],"regionOverrides":{"intl":{"lv":[4,7.5,12.7,13.3,0]}},"ico":"27f03e7294044bd8"},
@@ -1735,5 +1736,6 @@
   {"debut":26,"genre":"niconico＆ボーカロイド","name":"ちっちゃな私","dx":1,"lv":[3,6.2,9.7,12.9],"ico":"6c783c45faac031c"},
   {"debut":26,"genre":"niconico＆ボーカロイド","name":"2代目閻魔","dx":1,"lv":[2,6.2,10,13.6],"ico":"a811403363de238f"},
   {"debut":26,"genre":"niconico＆ボーカロイド","name":"シスターに懺悔を","dx":1,"lv":[3,7,10.6,13.3],"ico":"a152c59b2154f085"},
-  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Cryogenic","dx":1,"lv":[3,6.5,11.4,13.8],"ico":"c4ec76bb151017b2"}
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Cryogenic","dx":1,"lv":[3,6.5,11.4,13.8],"ico":"c4ec76bb151017b2"},
+  {"debut":26,"genre":"POPS＆アニメ","name":"ボックスワンターバ〜ン","dx":1,"lv":[-3,-7,-10,-13.6],"ico":"b86ade7b7a1d8acc"}
 ]
