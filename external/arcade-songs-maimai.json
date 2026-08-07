@@ -27356,6 +27356,161 @@
 			]
 		},
 		{
+			"songId": "青春コンプレックス",
+			"category": "POPS＆アニメ",
+			"title": "青春コンプレックス",
+			"artist": "結束バンド",
+			"bpm": 190,
+			"imageName": "e68b336baa20bd425ffe945ac67b35c44c602acad676fcf09f728c257af93c01.png",
+			"version": "BUDDiES",
+			"releaseDate": "2023-09-14",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 143,
+						"hold": 13,
+						"slide": 6,
+						"touch": 13,
+						"break": 7,
+						"total": 182
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "BUDDiES"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": null,
+					"internalLevelValue": 7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 278,
+						"hold": 12,
+						"slide": 14,
+						"touch": 16,
+						"break": 5,
+						"total": 325
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "BUDDiES"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": "10.0",
+					"internalLevelValue": 10,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": 414,
+						"hold": 76,
+						"slide": 84,
+						"touch": 25,
+						"break": 27,
+						"total": 626
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "BUDDiES"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": "11.8",
+					"internalLevelValue": 11.8,
+					"noteDesigner": "緑風 犬三郎",
+					"noteCounts": {
+						"tap": 532,
+						"hold": 49,
+						"slide": 121,
+						"touch": 23,
+						"break": 98,
+						"total": 823
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "BUDDiES"
+				},
+				{
+					"type": "dx",
+					"difficulty": "remaster",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": "鳩ホルダー",
+					"noteCounts": {
+						"tap": 708,
+						"hold": 45,
+						"slide": 119,
+						"touch": 35,
+						"break": 54,
+						"total": 961
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "BUDDiES"
+				}
+			]
+		},
+		{
 			"songId": "アンダーキッズ",
 			"category": "POPS＆アニメ",
 			"title": "アンダーキッズ",
@@ -27567,6 +27722,90 @@
 			]
 		},
 		{
+			"songId": "[協]青春コンプレックス（ヒーロー級）",
+			"category": "宴会場",
+			"title": "[協]青春コンプレックス",
+			"artist": "結束バンド",
+			"bpm": null,
+			"imageName": "e68b336baa20bd425ffe945ac67b35c44c602acad676fcf09f728c257af93c01.png",
+			"version": "BUDDiES",
+			"releaseDate": "2023-09-14",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】バンドメンバーを集めて挑め！（ヒーロー級）",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【協】",
+					"level": "14+?",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "[協]青春コンプレックス（入門編）",
+			"category": "宴会場",
+			"title": "[協]青春コンプレックス",
+			"artist": "結束バンド",
+			"bpm": null,
+			"imageName": "e68b336baa20bd425ffe945ac67b35c44c602acad676fcf09f728c257af93c01.png",
+			"version": "BUDDiES",
+			"releaseDate": "2023-09-14",
+			"isNew": false,
+			"isLocked": false,
+			"comment": "【🤝バディ】バンドメンバーを集めて楽しもう！（入門編）",
+			"sheets": [
+				{
+					"type": "utage",
+					"difficulty": "【協】",
+					"level": "13?",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
 			"songId": "[光]BREaK! BREaK! BREaK!",
 			"category": "宴会場",
 			"title": "[光]BREaK! BREaK! BREaK!",
@@ -27647,6 +27886,133 @@
 						"intl": {}
 					},
 					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "story",
+			"category": "POPS＆アニメ",
+			"title": "story",
+			"artist": "前島麻由",
+			"bpm": 220,
+			"imageName": "1f75b9e9d4ac42af8aa21dc22b33a1ab3986624a58d893aad387e538599c4433.png",
+			"version": "BUDDiES",
+			"releaseDate": "2023-11-24",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 73,
+						"hold": 12,
+						"slide": 2,
+						"touch": 7,
+						"break": 1,
+						"total": 95
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "BUDDiES"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 174,
+						"hold": 20,
+						"slide": 6,
+						"touch": 14,
+						"break": 4,
+						"total": 218
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "BUDDiES"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": "鳩ホルダー",
+					"noteCounts": {
+						"tap": 258,
+						"hold": 34,
+						"slide": 44,
+						"touch": 9,
+						"break": 27,
+						"total": 372
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "BUDDiES"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
+					"noteDesigner": "PG-NAKAGAWA",
+					"noteCounts": {
+						"tap": 352,
+						"hold": 19,
+						"slide": 66,
+						"touch": 30,
+						"break": 24,
+						"total": 491
+					},
+					"regions": {
+						"jp": false,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "BUDDiES"
 				}
 			]
 		},
@@ -44972,7 +45338,7 @@
 			"imageName": "0bd0d8d3acb380d675017b05e1b210749ad9d51b7d9add77ef92288335cc3740.png",
 			"version": "GreeN",
 			"releaseDate": "2013-07-11",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -44985,11 +45351,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 93,
+						"hold": 11,
+						"slide": 4,
+						"touch": 7,
+						"break": 4,
 						"total": 119
 					},
 					"regions": {
@@ -45013,11 +45379,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 173,
+						"hold": 15,
+						"slide": 4,
+						"touch": 14,
+						"break": 4,
 						"total": 210
 					},
 					"regions": {
@@ -45041,11 +45407,11 @@
 					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 212,
+						"hold": 42,
+						"slide": 28,
+						"touch": 5,
+						"break": 29,
 						"total": 316
 					},
 					"regions": {
@@ -45065,15 +45431,15 @@
 					"difficulty": "master",
 					"level": "13",
 					"levelValue": 13,
-					"internalLevel": null,
+					"internalLevel": "13.0",
 					"internalLevelValue": 13,
 					"noteDesigner": null,
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 317,
+						"hold": 42,
+						"slide": 82,
+						"touch": 55,
+						"break": 25,
 						"total": 521
 					},
 					"regions": {
@@ -176690,161 +177056,6 @@
 			]
 		},
 		{
-			"songId": "青春コンプレックス",
-			"category": "POPS＆アニメ",
-			"title": "青春コンプレックス",
-			"artist": "結束バンド",
-			"bpm": 190,
-			"imageName": "e68b336baa20bd425ffe945ac67b35c44c602acad676fcf09f728c257af93c01.png",
-			"version": "BUDDiES",
-			"releaseDate": "2023-09-14",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 143,
-						"hold": 13,
-						"slide": 6,
-						"touch": 13,
-						"break": 7,
-						"total": 182
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "BUDDiES"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": null,
-					"internalLevelValue": 7,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 278,
-						"hold": 12,
-						"slide": 14,
-						"touch": 16,
-						"break": 5,
-						"total": 325
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "BUDDiES"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "10",
-					"levelValue": 10,
-					"internalLevel": "10.0",
-					"internalLevelValue": 10,
-					"noteDesigner": "はっぴー",
-					"noteCounts": {
-						"tap": 414,
-						"hold": 76,
-						"slide": 84,
-						"touch": 25,
-						"break": 27,
-						"total": 626
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "BUDDiES"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "11+",
-					"levelValue": 11.6,
-					"internalLevel": "11.8",
-					"internalLevelValue": 11.8,
-					"noteDesigner": "緑風 犬三郎",
-					"noteCounts": {
-						"tap": 532,
-						"hold": 49,
-						"slide": 121,
-						"touch": 23,
-						"break": 98,
-						"total": 823
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "BUDDiES"
-				},
-				{
-					"type": "dx",
-					"difficulty": "remaster",
-					"level": "13+",
-					"levelValue": 13.6,
-					"internalLevel": "13.8",
-					"internalLevelValue": 13.8,
-					"noteDesigner": "鳩ホルダー",
-					"noteCounts": {
-						"tap": 708,
-						"hold": 45,
-						"slide": 119,
-						"touch": 35,
-						"break": 54,
-						"total": 961
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "BUDDiES"
-				}
-			]
-		},
-		{
 			"songId": "さくゆいたいそう",
 			"category": "POPS＆アニメ",
 			"title": "さくゆいたいそう",
@@ -177496,90 +177707,6 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[協]青春コンプレックス（ヒーロー級）",
-			"category": "宴会場",
-			"title": "[協]青春コンプレックス",
-			"artist": "結束バンド",
-			"bpm": null,
-			"imageName": "e68b336baa20bd425ffe945ac67b35c44c602acad676fcf09f728c257af93c01.png",
-			"version": "BUDDiES",
-			"releaseDate": "2023-09-14",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "【🤝バディ】バンドメンバーを集めて挑め！（ヒーロー級）",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【協】",
-					"level": "14+?",
-					"levelValue": 14.6,
-					"internalLevel": null,
-					"internalLevelValue": 14.6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": true
-				}
-			]
-		},
-		{
-			"songId": "[協]青春コンプレックス（入門編）",
-			"category": "宴会場",
-			"title": "[協]青春コンプレックス",
-			"artist": "結束バンド",
-			"bpm": null,
-			"imageName": "e68b336baa20bd425ffe945ac67b35c44c602acad676fcf09f728c257af93c01.png",
-			"version": "BUDDiES",
-			"releaseDate": "2023-09-14",
-			"isNew": false,
-			"isLocked": false,
-			"comment": "【🤝バディ】バンドメンバーを集めて楽しもう！（入門編）",
-			"sheets": [
-				{
-					"type": "utage",
-					"difficulty": "【協】",
-					"level": "13?",
-					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -179662,133 +179789,6 @@
 						"intl": true,
 						"usa": true,
 						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "BUDDiES"
-				}
-			]
-		},
-		{
-			"songId": "story",
-			"category": "POPS＆アニメ",
-			"title": "story",
-			"artist": "前島麻由",
-			"bpm": 220,
-			"imageName": "1f75b9e9d4ac42af8aa21dc22b33a1ab3986624a58d893aad387e538599c4433.png",
-			"version": "BUDDiES",
-			"releaseDate": "2023-11-24",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 73,
-						"hold": 12,
-						"slide": 2,
-						"touch": 7,
-						"break": 1,
-						"total": 95
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "BUDDiES"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "7+",
-					"levelValue": 7.6,
-					"internalLevel": null,
-					"internalLevelValue": 7.6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 174,
-						"hold": 20,
-						"slide": 6,
-						"touch": 14,
-						"break": 4,
-						"total": 218
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "BUDDiES"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "10+",
-					"levelValue": 10.6,
-					"internalLevel": null,
-					"internalLevelValue": 10.6,
-					"noteDesigner": "鳩ホルダー",
-					"noteCounts": {
-						"tap": 258,
-						"hold": 34,
-						"slide": 44,
-						"touch": 9,
-						"break": 27,
-						"total": 372
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "BUDDiES"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": "12.2",
-					"internalLevelValue": 12.2,
-					"noteDesigner": "PG-NAKAGAWA",
-					"noteCounts": {
-						"tap": 352,
-						"hold": 19,
-						"slide": 66,
-						"touch": 30,
-						"break": 24,
-						"total": 491
-					},
-					"regions": {
-						"jp": true,
-						"intl": false,
-						"usa": false,
-						"cn": false
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -205768,7 +205768,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -205796,7 +205796,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -205824,7 +205824,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -205852,7 +205852,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -205895,7 +205895,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -205923,7 +205923,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -205951,7 +205951,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -205979,7 +205979,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -206826,7 +206826,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -206854,7 +206854,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -206882,7 +206882,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -206910,7 +206910,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -206953,7 +206953,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -206981,7 +206981,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207009,7 +207009,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207037,7 +207037,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207080,7 +207080,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207108,7 +207108,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207136,7 +207136,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207164,7 +207164,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207207,7 +207207,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207235,7 +207235,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207263,7 +207263,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207291,7 +207291,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208263,7 +208263,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208291,7 +208291,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208319,7 +208319,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208347,7 +208347,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208390,7 +208390,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208418,7 +208418,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208446,7 +208446,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208474,7 +208474,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208517,7 +208517,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208545,7 +208545,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208573,7 +208573,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208601,7 +208601,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208728,7 +208728,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208756,7 +208756,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208784,7 +208784,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -208812,7 +208812,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -227078,8 +227078,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227106,8 +227106,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227134,8 +227134,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227162,8 +227162,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227205,8 +227205,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227233,8 +227233,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227261,8 +227261,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227289,8 +227289,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227332,8 +227332,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227360,8 +227360,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227388,8 +227388,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -227416,8 +227416,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230216,7 +230216,7 @@
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-07-02",
 			"isNew": false,
-			"isLocked": true,
+			"isLocked": false,
 			"comment": null,
 			"sheets": [
 				{
@@ -230228,12 +230228,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 195,
+						"hold": 11,
+						"slide": 4,
+						"touch": 14,
+						"break": 9,
+						"total": 233
 					},
 					"regions": {
 						"jp": true,
@@ -230244,7 +230244,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
 				},
 				{
 					"type": "dx",
@@ -230271,7 +230272,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
 				},
 				{
 					"type": "dx",
@@ -230298,7 +230300,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
 				},
 				{
 					"type": "dx",
@@ -230325,7 +230328,8 @@
 					"regionOverrides": {
 						"intl": {}
 					},
-					"isSpecial": false
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
 				}
 			]
 		},
@@ -231354,7 +231358,7 @@
 			"imageName": "d73447696f302731351cadfca8716e74d6528356438db1b399a136dbc92a0805.png",
 			"version": "CiRCLE PLUS",
 			"releaseDate": "2026-08-04",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -231367,11 +231371,11 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 180,
+						"hold": 8,
+						"slide": 4,
+						"touch": 8,
+						"break": 8,
 						"total": 208
 					},
 					"regions": {
@@ -231395,11 +231399,11 @@
 					"internalLevelValue": 7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 289,
+						"hold": 12,
+						"slide": 8,
+						"touch": 24,
+						"break": 14,
 						"total": 347
 					},
 					"regions": {
@@ -231447,8 +231451,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": null,
-					"internalLevelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 591,
@@ -231480,7 +231484,7 @@
 			"bpm": null,
 			"imageName": "b0de196b2e5d7fe4025da4833c4d4647ad2eb348c4de3151c1b49910b799501a.png",
 			"version": "CiRCLE PLUS",
-			"releaseDate": "2026-07-31",
+			"releaseDate": "2026-08-04",
 			"isNew": false,
 			"isLocked": false,
 			"comment": "～音取りほぼMAXバージョン～",
@@ -231522,7 +231526,7 @@
 			"bpm": null,
 			"imageName": "d73447696f302731351cadfca8716e74d6528356438db1b399a136dbc92a0805.png",
 			"version": "CiRCLE PLUS",
-			"releaseDate": "2026-07-31",
+			"releaseDate": "2026-08-04",
 			"isNew": false,
 			"isLocked": false,
 			"comment": "【🤝バディ】コインを入れてランラン楽しいド派手なリズムゲーム 麻衣摩維DX",
@@ -231553,6 +231557,514 @@
 						"intl": {}
 					},
 					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "Story Continued",
+			"category": "maimai",
+			"title": "Story Continued",
+			"artist": "ユアミトス",
+			"bpm": 170,
+			"imageName": "283635d37c8244909195a0a4dacabf88e267ac9afdc52c1923aa930909d5b9b8.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-08-07",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 200
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 302
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": null,
+					"internalLevelValue": 10.6,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 466
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.2",
+					"internalLevelValue": 13.2,
+					"noteDesigner": "けんけん法師",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 657
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "SERAPHIC SYNDROME",
+			"category": "maimai",
+			"title": "SERAPHIC SYNDROME",
+			"artist": "堀田英邦",
+			"bpm": 216,
+			"imageName": "fa56d1fdd9083adac5c200a75c27ba9f7bbf29a7be148b71364b1528a3439096.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-08-07",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 262
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 391
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
+					"noteDesigner": "Jack",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 627
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.2",
+					"internalLevelValue": 14.2,
+					"noteDesigner": "はっぴー",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 1039
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "終幕の傀儡",
+			"category": "maimai",
+			"title": "終幕の傀儡",
+			"artist": "RB.H × lixound × 薛南",
+			"bpm": 200,
+			"imageName": "594fafe048bcf55da92c7a7cab1cf71a7ecea1125163d2966eb9861c17c453bb.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-08-07",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 250
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": null,
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 382
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 647
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.3",
+					"internalLevelValue": 14.3,
+					"noteDesigner": "Luxizhel",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 904
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				}
+			]
+		},
+		{
+			"songId": "Aegisfortia",
+			"category": "maimai",
+			"title": "Aegisfortia",
+			"artist": "お月さま交響曲",
+			"bpm": 238,
+			"imageName": "515f38c75cbaf931f61a711c47f15565a0601a6db47c4397e7c5e87913220076.png",
+			"version": "CiRCLE PLUS",
+			"releaseDate": "2026-08-07",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 299
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": null,
+					"internalLevelValue": 9,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 405
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.7",
+					"internalLevelValue": 12.7,
+					"noteDesigner": "発光ビーバー",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": 603
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": "14.8",
+					"internalLevelValue": 14.8,
+					"noteDesigner": "Cement Forest",
+					"noteCounts": {
+						"tap": 715,
+						"hold": 58,
+						"slide": 86,
+						"touch": 80,
+						"break": 135,
+						"total": 1074
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "CiRCLE PLUS"
 				}
 			]
 		}
@@ -231783,5 +232295,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-08-05T05:08:15.870Z"
+	"updateTime": "2026-08-07T06:44:20.399Z"
 }
