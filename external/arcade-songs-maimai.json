@@ -45405,7 +45405,7 @@
 					"levelValue": 10,
 					"internalLevel": null,
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
 						"tap": 212,
 						"hold": 42,
@@ -45433,7 +45433,7 @@
 					"levelValue": 13,
 					"internalLevel": "13.0",
 					"internalLevelValue": 13,
-					"noteDesigner": null,
+					"noteDesigner": "メロンポップ",
 					"noteCounts": {
 						"tap": 317,
 						"hold": 42,
@@ -231582,11 +231582,11 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 163,
+						"hold": 16,
+						"slide": 4,
+						"touch": 13,
+						"break": 4,
 						"total": 200
 					},
 					"regions": {
@@ -231610,11 +231610,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 260,
+						"hold": 22,
+						"slide": 11,
+						"touch": 7,
+						"break": 2,
 						"total": 302
 					},
 					"regions": {
@@ -231638,11 +231638,11 @@
 					"internalLevelValue": 10.6,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 311,
+						"hold": 56,
+						"slide": 48,
+						"touch": 20,
+						"break": 31,
 						"total": 466
 					},
 					"regions": {
@@ -231666,11 +231666,11 @@
 					"internalLevelValue": 13.2,
 					"noteDesigner": "けんけん法師",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 428,
+						"hold": 43,
+						"slide": 79,
+						"touch": 70,
+						"break": 37,
 						"total": 657
 					},
 					"regions": {
@@ -231709,11 +231709,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 199,
+						"hold": 26,
+						"slide": 8,
+						"touch": 21,
+						"break": 8,
 						"total": 262
 					},
 					"regions": {
@@ -231737,11 +231737,11 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 338,
+						"hold": 21,
+						"slide": 9,
+						"touch": 21,
+						"break": 2,
 						"total": 391
 					},
 					"regions": {
@@ -231765,11 +231765,11 @@
 					"internalLevelValue": 12.2,
 					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 424,
+						"hold": 60,
+						"slide": 63,
+						"touch": 27,
+						"break": 53,
 						"total": 627
 					},
 					"regions": {
@@ -231793,11 +231793,11 @@
 					"internalLevelValue": 14.2,
 					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 758,
+						"hold": 61,
+						"slide": 87,
+						"touch": 63,
+						"break": 70,
 						"total": 1039
 					},
 					"regions": {
@@ -231836,11 +231836,11 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 210,
+						"hold": 9,
+						"slide": 7,
+						"touch": 12,
+						"break": 12,
 						"total": 250
 					},
 					"regions": {
@@ -231864,11 +231864,11 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 345,
+						"hold": 11,
+						"slide": 9,
+						"touch": 13,
+						"break": 4,
 						"total": 382
 					},
 					"regions": {
@@ -231892,11 +231892,11 @@
 					"internalLevelValue": 12.8,
 					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 373,
+						"hold": 58,
+						"slide": 45,
+						"touch": 43,
+						"break": 128,
 						"total": 647
 					},
 					"regions": {
@@ -231920,11 +231920,11 @@
 					"internalLevelValue": 14.3,
 					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 630,
+						"hold": 66,
+						"slide": 97,
+						"touch": 24,
+						"break": 87,
 						"total": 904
 					},
 					"regions": {
@@ -231963,11 +231963,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 270,
+						"hold": 11,
+						"slide": 4,
+						"touch": 7,
+						"break": 7,
 						"total": 299
 					},
 					"regions": {
@@ -231991,11 +231991,11 @@
 					"internalLevelValue": 9,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 359,
+						"hold": 14,
+						"slide": 15,
+						"touch": 11,
+						"break": 6,
 						"total": 405
 					},
 					"regions": {
@@ -232019,11 +232019,11 @@
 					"internalLevelValue": 12.7,
 					"noteDesigner": "発光ビーバー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 443,
+						"hold": 68,
+						"slide": 54,
+						"touch": 13,
+						"break": 25,
 						"total": 603
 					},
 					"regions": {
@@ -232295,5 +232295,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-08-07T06:44:20.399Z"
+	"updateTime": "2026-08-14T01:19:42.637Z"
 }
