@@ -1741,5 +1741,9 @@
   {"debut":26,"genre":"maimai","name":"Story Continued","dx":1,"lv":[4,6.8,10.8,13.2],"ico":"dbbf4e81e83ee2e7"},
   {"debut":26,"genre":"maimai","name":"SERAPHIC SYNDROME","dx":1,"lv":[6,8,12.2,14.2],"ico":"5dafa376938d9b17"},
   {"debut":26,"genre":"maimai","name":"終幕の傀儡","dx":1,"lv":[4,8.2,12.8,14.3],"ico":"7f778957dc743693"},
-  {"debut":26,"genre":"maimai","name":"Aegisfortia","dx":1,"lv":[6,9,12.7,14.8],"ico":"774cf029bb5a3469"}
+  {"debut":26,"genre":"maimai","name":"Aegisfortia","dx":1,"lv":[6,9,12.7,14.8],"ico":"774cf029bb5a3469"},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Broomstick adventure!","dx":1,"lv":[-4,-6,-10.6,-13.6]},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"無彩色のディストピア","dx":1,"lv":[-3,-6,-10.6,-13]},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Manifold Hypothesis","dx":1,"lv":[-3,-7.6,-11,-13.6]},
+  {"debut":26,"genre":"ゲーム＆バラエティ","name":"Inverted World","dx":1,"lv":[-4,-7,-11.6,-14]}
 ]
