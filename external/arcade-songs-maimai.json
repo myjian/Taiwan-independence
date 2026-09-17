@@ -112360,7 +112360,7 @@
 					"difficulty": "remaster",
 					"level": "15",
 					"levelValue": 15,
-					"internalLevel": null,
+					"internalLevel": "15.0",
 					"internalLevelValue": 15,
 					"noteDesigner": "PANDORA PARADOXXX",
 					"noteCounts": {
@@ -185984,7 +185984,7 @@
 					"difficulty": "remaster",
 					"level": "15",
 					"levelValue": 15,
-					"internalLevel": null,
+					"internalLevel": "15.0",
 					"internalLevelValue": 15,
 					"noteDesigner": "BEYOND THE MEMORIES",
 					"noteCounts": {
@@ -212729,7 +212729,7 @@
 					"difficulty": "remaster",
 					"level": "15",
 					"levelValue": 15,
-					"internalLevel": null,
+					"internalLevel": "15.0",
 					"internalLevelValue": 15,
 					"noteDesigner": "Xaleid◆scopiX",
 					"noteCounts": {
@@ -234710,7 +234710,7 @@
 			"category": "maimai",
 			"title": "物語はここから",
 			"artist": "OSTER project feat. Kanata.N",
-			"bpm": null,
+			"bpm": 190,
 			"imageName": "c0906b4b035da0e7de24183201441f97addb3d52ce44102783bf481fcc225016.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -234727,12 +234727,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 192,
+						"hold": 12,
+						"slide": 4,
+						"touch": 4,
+						"break": 4,
+						"total": 216
 					},
 					"regions": {
 						"jp": true,
@@ -234755,12 +234755,12 @@
 					"internalLevelValue": 7.5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 262,
+						"hold": 14,
+						"slide": 7,
+						"touch": 40,
+						"break": 4,
+						"total": 327
 					},
 					"regions": {
 						"jp": true,
@@ -234781,14 +234781,14 @@
 					"levelValue": 10.6,
 					"internalLevel": "10.9",
 					"internalLevelValue": 10.9,
-					"noteDesigner": null,
+					"noteDesigner": "けんけん法師",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 348,
+						"hold": 73,
+						"slide": 39,
+						"touch": 12,
+						"break": 25,
+						"total": 497
 					},
 					"regions": {
 						"jp": true,
@@ -234809,14 +234809,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.5",
 					"internalLevelValue": 13.5,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 564,
+						"hold": 65,
+						"slide": 80,
+						"touch": 32,
+						"break": 68,
+						"total": 809
 					},
 					"regions": {
 						"jp": true,
@@ -234837,7 +234837,7 @@
 			"category": "maimai",
 			"title": "ミルクミルクミルク",
 			"artist": "藤原ハガネ feat. マスタード",
-			"bpm": null,
+			"bpm": 200,
 			"imageName": "43c7d2fa306214c61a77b69533c09efb2e649c1895a05faee4ed6a9d8bdd17cb.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -234854,12 +234854,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 205,
+						"hold": 12,
+						"slide": 4,
+						"touch": 8,
+						"break": 13,
+						"total": 242
 					},
 					"regions": {
 						"jp": true,
@@ -234882,12 +234882,12 @@
 					"internalLevelValue": 8,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 297,
+						"hold": 12,
+						"slide": 8,
+						"touch": 24,
+						"break": 20,
+						"total": 361
 					},
 					"regions": {
 						"jp": true,
@@ -234908,14 +234908,14 @@
 					"levelValue": 11.6,
 					"internalLevel": "11.8",
 					"internalLevelValue": 11.8,
-					"noteDesigner": null,
+					"noteDesigner": "せめんともり",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 327,
+						"hold": 55,
+						"slide": 47,
+						"touch": 38,
+						"break": 146,
+						"total": 613
 					},
 					"regions": {
 						"jp": true,
@@ -234936,14 +234936,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "けんけん法師",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 549,
+						"hold": 58,
+						"slide": 95,
+						"touch": 63,
+						"break": 71,
+						"total": 836
 					},
 					"regions": {
 						"jp": true,
@@ -234964,7 +234964,7 @@
 			"category": "maimai",
 			"title": "MissionDistortion",
 			"artist": "Nor",
-			"bpm": null,
+			"bpm": 110,
 			"imageName": "d028d573301659bf3ffa52221061f8d3dd7d4087060a7070c91297421cca4602.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -234981,12 +234981,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 119,
+						"hold": 8,
+						"slide": 4,
+						"touch": 8,
+						"break": 4,
+						"total": 143
 					},
 					"regions": {
 						"jp": true,
@@ -235009,12 +235009,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 175,
+						"hold": 8,
+						"slide": 6,
+						"touch": 26,
+						"break": 4,
+						"total": 219
 					},
 					"regions": {
 						"jp": true,
@@ -235035,14 +235035,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.9",
 					"internalLevelValue": 12.9,
-					"noteDesigner": null,
+					"noteDesigner": "カマボコ君",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 362,
+						"hold": 70,
+						"slide": 29,
+						"touch": 5,
+						"break": 22,
+						"total": 488
 					},
 					"regions": {
 						"jp": true,
@@ -235063,14 +235063,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー & サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 316,
+						"hold": 57,
+						"slide": 93,
+						"touch": 69,
+						"break": 67,
+						"total": 602
 					},
 					"regions": {
 						"jp": true,
@@ -235235,12 +235235,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 251,
+						"hold": 9,
+						"slide": 4,
+						"touch": 20,
+						"break": 15,
+						"total": 299
 					},
 					"regions": {
 						"jp": true,
@@ -235263,12 +235263,12 @@
 					"internalLevelValue": 7.9,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 351,
+						"hold": 20,
+						"slide": 14,
+						"touch": 12,
+						"break": 4,
+						"total": 401
 					},
 					"regions": {
 						"jp": true,
@@ -235289,14 +235289,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.7",
 					"internalLevelValue": 12.7,
-					"noteDesigner": null,
+					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 415,
+						"hold": 75,
+						"slide": 74,
+						"touch": 91,
+						"break": 44,
+						"total": 699
 					},
 					"regions": {
 						"jp": true,
@@ -235317,14 +235317,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.1",
 					"internalLevelValue": 14.1,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 704,
+						"hold": 88,
+						"slide": 130,
+						"touch": 79,
+						"break": 71,
+						"total": 1072
 					},
 					"regions": {
 						"jp": true,
@@ -235362,12 +235362,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 136,
+						"hold": 9,
+						"slide": 4,
+						"touch": 11,
+						"break": 9,
+						"total": 169
 					},
 					"regions": {
 						"jp": true,
@@ -235390,12 +235390,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 228,
+						"hold": 12,
+						"slide": 6,
+						"touch": 26,
+						"break": 8,
+						"total": 280
 					},
 					"regions": {
 						"jp": true,
@@ -235416,14 +235416,14 @@
 					"levelValue": 12,
 					"internalLevel": "12.0",
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "発光ビーバー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 325,
+						"hold": 45,
+						"slide": 34,
+						"touch": 20,
+						"break": 63,
+						"total": 487
 					},
 					"regions": {
 						"jp": true,
@@ -235444,14 +235444,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.4",
 					"internalLevelValue": 14.4,
-					"noteDesigner": null,
+					"noteDesigner": "けんけん法師",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 536,
+						"hold": 36,
+						"slide": 74,
+						"touch": 40,
+						"break": 137,
+						"total": 823
 					},
 					"regions": {
 						"jp": true,
@@ -235472,7 +235472,7 @@
 			"category": "POPS＆アニメ",
 			"title": "ごはん食べヨ",
 			"artist": "Mega Shinnosuke",
-			"bpm": null,
+			"bpm": 191,
 			"imageName": "af87ae00db42dad63fca38e5a69d30cb4e2c002afbbfef239d9b8d70c56c1271.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -235489,11 +235489,11 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 96,
+						"hold": 8,
+						"slide": 3,
+						"touch": 6,
+						"break": 2,
 						"total": 115
 					},
 					"regions": {
@@ -235517,11 +235517,11 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 199,
+						"hold": 12,
+						"slide": 6,
+						"touch": 7,
+						"break": 4,
 						"total": 228
 					},
 					"regions": {
@@ -235543,13 +235543,13 @@
 					"levelValue": 9.6,
 					"internalLevel": "9.8",
 					"internalLevelValue": 9.8,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 232,
+						"hold": 30,
+						"slide": 21,
+						"touch": 11,
+						"break": 33,
 						"total": 327
 					},
 					"regions": {
@@ -235571,13 +235571,13 @@
 					"levelValue": 13,
 					"internalLevel": "13.2",
 					"internalLevelValue": 13.2,
-					"noteDesigner": null,
+					"noteDesigner": "発光ビーバー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
+						"tap": 287,
+						"hold": 32,
+						"slide": 70,
+						"touch": 94,
+						"break": 32,
 						"total": 515
 					},
 					"regions": {
@@ -235599,7 +235599,7 @@
 			"category": "POPS＆アニメ",
 			"title": "Ex-Otogibanashi (Anime ver.)",
 			"artist": "ryo (supercell), 月見ヤチヨ (cv.早見沙織)",
-			"bpm": null,
+			"bpm": 190,
 			"imageName": "62986a7e37384207041c350c931464a8e531c6827a857f3dea04fec36993b10b.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -235616,12 +235616,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 120,
+						"hold": 10,
+						"slide": 4,
+						"touch": 10,
+						"break": 2,
+						"total": 146
 					},
 					"regions": {
 						"jp": true,
@@ -235644,12 +235644,12 @@
 					"internalLevelValue": 7.2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 179,
+						"hold": 13,
+						"slide": 7,
+						"touch": 19,
+						"break": 8,
+						"total": 226
 					},
 					"regions": {
 						"jp": true,
@@ -235670,14 +235670,14 @@
 					"levelValue": 11,
 					"internalLevel": "11.0",
 					"internalLevelValue": 11,
-					"noteDesigner": null,
+					"noteDesigner": "せめんともり",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 309,
+						"hold": 18,
+						"slide": 46,
+						"touch": 12,
+						"break": 16,
+						"total": 401
 					},
 					"regions": {
 						"jp": true,
@@ -235698,14 +235698,14 @@
 					"levelValue": 12,
 					"internalLevel": "12.0",
 					"internalLevelValue": 12,
-					"noteDesigner": null,
+					"noteDesigner": "緑風 犬童子",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 286,
+						"hold": 48,
+						"slide": 49,
+						"touch": 4,
+						"break": 29,
+						"total": 416
 					},
 					"regions": {
 						"jp": true,
@@ -235726,14 +235726,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel & アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 404,
+						"hold": 42,
+						"slide": 84,
+						"touch": 42,
+						"break": 42,
+						"total": 614
 					},
 					"regions": {
 						"jp": true,
@@ -235754,7 +235754,7 @@
 			"category": "POPS＆アニメ",
 			"title": "私は、わたしの事が好き。(Short ver.)",
 			"artist": "HoneyWorks, かぐや(cv.夏吉ゆうこ)",
-			"bpm": null,
+			"bpm": 193,
 			"imageName": "f681207f33645ad1d064c3c60ea3fa036c6bc7ae45cd92828a1a7866f63a42c4.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -235771,12 +235771,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 97,
+						"hold": 11,
+						"slide": 6,
+						"touch": 10,
+						"break": 1,
+						"total": 125
 					},
 					"regions": {
 						"jp": true,
@@ -235799,12 +235799,12 @@
 					"internalLevelValue": 7.2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 176,
+						"hold": 14,
+						"slide": 6,
+						"touch": 24,
+						"break": 2,
+						"total": 222
 					},
 					"regions": {
 						"jp": true,
@@ -235825,14 +235825,14 @@
 					"levelValue": 10.6,
 					"internalLevel": "10.8",
 					"internalLevelValue": 10.8,
-					"noteDesigner": null,
+					"noteDesigner": "まぐランド",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 277,
+						"hold": 44,
+						"slide": 30,
+						"touch": 17,
+						"break": 26,
+						"total": 394
 					},
 					"regions": {
 						"jp": true,
@@ -235853,14 +235853,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.4",
 					"internalLevelValue": 13.4,
-					"noteDesigner": null,
+					"noteDesigner": "はっぴー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 441,
+						"hold": 26,
+						"slide": 92,
+						"touch": 24,
+						"break": 43,
+						"total": 626
 					},
 					"regions": {
 						"jp": true,
@@ -235881,7 +235881,7 @@
 			"category": "POPS＆アニメ",
 			"title": "ワールドイズマイン CPK! Remix (Anime ver.)",
 			"artist": "ryo (supercell), かぐや (cv.夏吉ゆうこ), 月見ヤチヨ (cv.早見沙織)",
-			"bpm": null,
+			"bpm": 118,
 			"imageName": "7ab283323964cc11fcc272d86f66e4052977d1fa7c08ff7194f20e01b993fe4f.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -235898,12 +235898,12 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 69,
+						"hold": 9,
+						"slide": 4,
+						"touch": 13,
+						"break": 1,
+						"total": 96
 					},
 					"regions": {
 						"jp": true,
@@ -235926,12 +235926,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 165,
+						"hold": 10,
+						"slide": 4,
+						"touch": 11,
+						"break": 6,
+						"total": 196
 					},
 					"regions": {
 						"jp": true,
@@ -235952,14 +235952,14 @@
 					"levelValue": 9.6,
 					"internalLevel": "9.8",
 					"internalLevelValue": 9.8,
-					"noteDesigner": null,
+					"noteDesigner": "Luxizhel",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 209,
+						"hold": 26,
+						"slide": 11,
+						"touch": 11,
+						"break": 19,
+						"total": 276
 					},
 					"regions": {
 						"jp": true,
@@ -235980,14 +235980,14 @@
 					"levelValue": 11.6,
 					"internalLevel": "11.8",
 					"internalLevelValue": 11.8,
-					"noteDesigner": null,
+					"noteDesigner": "緑風 犬童子",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 274,
+						"hold": 21,
+						"slide": 58,
+						"touch": 14,
+						"break": 21,
+						"total": 388
 					},
 					"regions": {
 						"jp": true,
@@ -236008,14 +236008,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.3",
 					"internalLevelValue": 13.3,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 303,
+						"hold": 45,
+						"slide": 42,
+						"touch": 45,
+						"break": 62,
+						"total": 497
 					},
 					"regions": {
 						"jp": true,
@@ -236036,7 +236036,7 @@
 			"category": "POPS＆アニメ",
 			"title": "群青声明",
 			"artist": "佐藤塩 & 西園チグサ",
-			"bpm": null,
+			"bpm": 160,
 			"imageName": "3efd7e701937295c0c05111cf166a0c5c347ec6909e9116aff83d489e1862ec3.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -236053,12 +236053,12 @@
 					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 196,
+						"hold": 16,
+						"slide": 4,
+						"touch": 23,
+						"break": 3,
+						"total": 242
 					},
 					"regions": {
 						"jp": true,
@@ -236081,12 +236081,12 @@
 					"internalLevelValue": 7.4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 307,
+						"hold": 24,
+						"slide": 8,
+						"touch": 11,
+						"break": 5,
+						"total": 355
 					},
 					"regions": {
 						"jp": true,
@@ -236107,14 +236107,14 @@
 					"levelValue": 11,
 					"internalLevel": "11.5",
 					"internalLevelValue": 11.5,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 369,
+						"hold": 43,
+						"slide": 76,
+						"touch": 22,
+						"break": 17,
+						"total": 527
 					},
 					"regions": {
 						"jp": true,
@@ -236135,14 +236135,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.8",
 					"internalLevelValue": 13.8,
-					"noteDesigner": null,
+					"noteDesigner": "せめんともり & カマボコ君",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 706,
+						"hold": 87,
+						"slide": 85,
+						"touch": 35,
+						"break": 61,
+						"total": 974
 					},
 					"regions": {
 						"jp": true,
@@ -236163,7 +236163,7 @@
 			"category": "POPS＆アニメ",
 			"title": "推活天使ビビアンちゃん (feat.マスタード＆ビートまりお)",
 			"artist": "ファル公＆DJ Myosuke「ゲーム『ゼンレスゾーンゼロ』ビビアン 同人イメージソング」",
-			"bpm": null,
+			"bpm": 180,
 			"imageName": "2bf0df71f30d00cb3e02a50b3743599fbf51ad60f2ee96da748001ab29be5cd9.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -236180,12 +236180,12 @@
 					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 157,
+						"hold": 8,
+						"slide": 11,
+						"touch": 25,
+						"break": 7,
+						"total": 208
 					},
 					"regions": {
 						"jp": true,
@@ -236208,12 +236208,12 @@
 					"internalLevelValue": 7.7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 319,
+						"hold": 16,
+						"slide": 7,
+						"touch": 33,
+						"break": 6,
+						"total": 381
 					},
 					"regions": {
 						"jp": true,
@@ -236234,14 +236234,14 @@
 					"levelValue": 12,
 					"internalLevel": "12.4",
 					"internalLevelValue": 12.4,
-					"noteDesigner": null,
+					"noteDesigner": "けんけん法師",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 509,
+						"hold": 42,
+						"slide": 47,
+						"touch": 1,
+						"break": 97,
+						"total": 696
 					},
 					"regions": {
 						"jp": true,
@@ -236262,14 +236262,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.9",
 					"internalLevelValue": 13.9,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太@プロキシ",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 530,
+						"hold": 77,
+						"slide": 117,
+						"touch": 117,
+						"break": 264,
+						"total": 1105
 					},
 					"regions": {
 						"jp": true,
@@ -236290,7 +236290,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "愛言葉V",
 			"artist": "DECO*27",
-			"bpm": null,
+			"bpm": 139,
 			"imageName": "169ad8125bda0f6e7bb0103cb80246594d4747055695ade96291125a5abaad1e.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -236307,12 +236307,12 @@
 					"internalLevelValue": 2,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 110,
+						"hold": 10,
+						"slide": 4,
+						"touch": 8,
+						"break": 3,
+						"total": 135
 					},
 					"regions": {
 						"jp": true,
@@ -236335,12 +236335,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 165,
+						"hold": 12,
+						"slide": 10,
+						"touch": 24,
+						"break": 4,
+						"total": 215
 					},
 					"regions": {
 						"jp": true,
@@ -236361,14 +236361,14 @@
 					"levelValue": 10,
 					"internalLevel": "10.0",
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "アマリリス",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 295,
+						"hold": 26,
+						"slide": 32,
+						"touch": 30,
+						"break": 41,
+						"total": 424
 					},
 					"regions": {
 						"jp": true,
@@ -236389,14 +236389,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.8",
 					"internalLevelValue": 12.8,
-					"noteDesigner": null,
+					"noteDesigner": "ロシェ@ペンギン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 355,
+						"hold": 64,
+						"slide": 69,
+						"touch": 22,
+						"break": 46,
+						"total": 556
 					},
 					"regions": {
 						"jp": true,
@@ -236417,7 +236417,7 @@
 			"category": "niconico＆ボーカロイド",
 			"title": "PPPP (feat. Hatsune Miku, Kasane Teto)",
 			"artist": "TAK",
-			"bpm": null,
+			"bpm": 152,
 			"imageName": "f22553a2b2e35fc26018c3f68d7f94c0a6d4a2d2b81d35a401f899de24e06caf.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -236434,12 +236434,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 225,
+						"hold": 16,
+						"slide": 4,
+						"touch": 6,
+						"break": 2,
+						"total": 253
 					},
 					"regions": {
 						"jp": true,
@@ -236462,12 +236462,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 273,
+						"hold": 19,
+						"slide": 8,
+						"touch": 19,
+						"break": 8,
+						"total": 327
 					},
 					"regions": {
 						"jp": true,
@@ -236488,14 +236488,14 @@
 					"levelValue": 10,
 					"internalLevel": "10.0",
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 320,
+						"hold": 59,
+						"slide": 25,
+						"touch": 43,
+						"break": 53,
+						"total": 500
 					},
 					"regions": {
 						"jp": true,
@@ -236516,14 +236516,14 @@
 					"levelValue": 11.6,
 					"internalLevel": "11.8",
 					"internalLevelValue": 11.8,
-					"noteDesigner": null,
+					"noteDesigner": "緑風 犬三郎",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 391,
+						"hold": 118,
+						"slide": 98,
+						"touch": 21,
+						"break": 22,
+						"total": 650
 					},
 					"regions": {
 						"jp": true,
@@ -236544,14 +236544,14 @@
 					"levelValue": 13.6,
 					"internalLevel": "13.6",
 					"internalLevelValue": 13.6,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 575,
+						"hold": 73,
+						"slide": 110,
+						"touch": 27,
+						"break": 45,
+						"total": 830
 					},
 					"regions": {
 						"jp": true,
@@ -236572,7 +236572,7 @@
 			"category": "東方Project",
 			"title": "さっきゅんライト（2025）",
 			"artist": "石鹸屋",
-			"bpm": null,
+			"bpm": 123,
 			"imageName": "ccccb18c35de69ae38a70ec60574b795a1e3e592b8fd8d6beee8cc34b9612436.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -236589,12 +236589,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 190,
+						"hold": 8,
+						"slide": 6,
+						"touch": 7,
+						"break": 4,
+						"total": 215
 					},
 					"regions": {
 						"jp": true,
@@ -236617,12 +236617,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 218,
+						"hold": 17,
+						"slide": 10,
+						"touch": 13,
+						"break": 4,
+						"total": 262
 					},
 					"regions": {
 						"jp": true,
@@ -236643,14 +236643,14 @@
 					"levelValue": 10.6,
 					"internalLevel": "10.6",
 					"internalLevelValue": 10.6,
-					"noteDesigner": null,
+					"noteDesigner": "せめんともり",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 304,
+						"hold": 51,
+						"slide": 36,
+						"touch": 10,
+						"break": 53,
+						"total": 454
 					},
 					"regions": {
 						"jp": true,
@@ -236671,14 +236671,14 @@
 					"levelValue": 13,
 					"internalLevel": "13.5",
 					"internalLevelValue": 13.5,
-					"noteDesigner": null,
+					"noteDesigner": "じゃこレモン",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 642,
+						"hold": 88,
+						"slide": 114,
+						"touch": 18,
+						"break": 52,
+						"total": 914
 					},
 					"regions": {
 						"jp": true,
@@ -236699,7 +236699,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Antikythera [Vocal Version]",
 			"artist": "technoplanet feat. 木下珠子",
-			"bpm": null,
+			"bpm": 220,
 			"imageName": "5178775429611dfce04f4da650d33a63e534a5757afc20f01c6daf702930be1b.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -236716,12 +236716,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 238,
+						"hold": 15,
+						"slide": 6,
+						"touch": 20,
+						"break": 5,
+						"total": 284
 					},
 					"regions": {
 						"jp": true,
@@ -236744,12 +236744,12 @@
 					"internalLevelValue": 8.7,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 359,
+						"hold": 22,
+						"slide": 14,
+						"touch": 26,
+						"break": 2,
+						"total": 423
 					},
 					"regions": {
 						"jp": true,
@@ -236770,14 +236770,14 @@
 					"levelValue": 12,
 					"internalLevel": "12.5",
 					"internalLevelValue": 12.5,
-					"noteDesigner": null,
+					"noteDesigner": "Jack",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 350,
+						"hold": 77,
+						"slide": 62,
+						"touch": 52,
+						"break": 38,
+						"total": 579
 					},
 					"regions": {
 						"jp": true,
@@ -236798,14 +236798,14 @@
 					"levelValue": 14,
 					"internalLevel": "14.5",
 					"internalLevelValue": 14.5,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 639,
+						"hold": 99,
+						"slide": 79,
+						"touch": 103,
+						"break": 94,
+						"total": 1014
 					},
 					"regions": {
 						"jp": true,
@@ -236826,7 +236826,7 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "Halzion",
 			"artist": "H△G",
-			"bpm": null,
+			"bpm": 135,
 			"imageName": "9112c705eb5dbccf09489272b9ebd7c4114de7651aacfa7508a71beb439a6dc3.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-17",
@@ -236843,12 +236843,12 @@
 					"internalLevelValue": 3,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 106,
+						"hold": 9,
+						"slide": 6,
+						"touch": 13,
+						"break": 2,
+						"total": 136
 					},
 					"regions": {
 						"jp": true,
@@ -236871,12 +236871,12 @@
 					"internalLevelValue": 6,
 					"noteDesigner": "-",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 223,
+						"hold": 10,
+						"slide": 7,
+						"touch": 13,
+						"break": 4,
+						"total": 257
 					},
 					"regions": {
 						"jp": true,
@@ -236897,14 +236897,14 @@
 					"levelValue": 10,
 					"internalLevel": "10.0",
 					"internalLevelValue": 10,
-					"noteDesigner": null,
+					"noteDesigner": "サファ太",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 242,
+						"hold": 49,
+						"slide": 45,
+						"touch": 16,
+						"break": 13,
+						"total": 365
 					},
 					"regions": {
 						"jp": true,
@@ -236925,14 +236925,14 @@
 					"levelValue": 12.6,
 					"internalLevel": "12.8",
 					"internalLevelValue": 12.8,
-					"noteDesigner": null,
+					"noteDesigner": "発光ビーバー",
 					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"touch": null,
-						"break": null,
-						"total": null
+						"tap": 385,
+						"hold": 33,
+						"slide": 75,
+						"touch": 44,
+						"break": 26,
+						"total": 563
 					},
 					"regions": {
 						"jp": true,
@@ -237390,5 +237390,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-09-17T01:14:50.032Z"
+	"updateTime": "2026-09-17T18:26:43.978Z"
 }
