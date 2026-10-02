@@ -6,15 +6,22 @@
     "AP": "？神",
     "FSD": "？舞舞"
   },
-  "std_songs": [],
+  "std_songs": [
+    "居並ぶ穀物と溜息まじりの運送屋"
+  ],
   "dx_songs": [
+    "All Over Again",
     "Antikythera [Vocal Version]",
+    "Crossfire",
     "Dear Player 2",
+    "Energy",
     "Ex-Otogibanashi (Anime ver.)",
     "Halzion",
     "IMPACT",
     "MissionDistortion",
+    "OV3RCLOCK",
     "PPPP (feat. Hatsune Miku, Kasane Teto)",
+    "RE!NCARN4T10N",
     "The Happycore Idol",
     "XODUS",
     "[HALO]",

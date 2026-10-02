@@ -27963,8 +27963,8 @@
 					},
 					"regions": {
 						"jp": false,
-						"intl": true,
-						"usa": true,
+						"intl": false,
+						"usa": false,
 						"cn": true
 					},
 					"regionOverrides": {
@@ -27991,8 +27991,8 @@
 					},
 					"regions": {
 						"jp": false,
-						"intl": true,
-						"usa": true,
+						"intl": false,
+						"usa": false,
 						"cn": true
 					},
 					"regionOverrides": {
@@ -28019,8 +28019,8 @@
 					},
 					"regions": {
 						"jp": false,
-						"intl": true,
-						"usa": true,
+						"intl": false,
+						"usa": false,
 						"cn": true
 					},
 					"regionOverrides": {
@@ -28047,8 +28047,8 @@
 					},
 					"regions": {
 						"jp": false,
-						"intl": true,
-						"usa": true,
+						"intl": false,
+						"usa": false,
 						"cn": true
 					},
 					"regionOverrides": {
@@ -127333,133 +127333,6 @@
 			]
 		},
 		{
-			"songId": "居並ぶ穀物と溜息まじりの運送屋",
-			"category": "maimai",
-			"title": "居並ぶ穀物と溜息まじりの運送屋",
-			"artist": "hanzo",
-			"bpm": 160,
-			"imageName": "466d1ce3cf0d6a2b682b14b943e8e45d910d03c5ab4a92664548e880766fee4a.png",
-			"version": "Splash",
-			"releaseDate": "2020-09-17",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "dx",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": null,
-					"internalLevelValue": 3,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 120,
-						"hold": 18,
-						"slide": 4,
-						"touch": 18,
-						"break": 5,
-						"total": 165
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"usa": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "Splash"
-				},
-				{
-					"type": "dx",
-					"difficulty": "advanced",
-					"level": "7+",
-					"levelValue": 7.6,
-					"internalLevel": "7.8",
-					"internalLevelValue": 7.8,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 299,
-						"hold": 36,
-						"slide": 10,
-						"touch": 41,
-						"break": 8,
-						"total": 394
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"usa": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "Splash"
-				},
-				{
-					"type": "dx",
-					"difficulty": "expert",
-					"level": "11+",
-					"levelValue": 11.6,
-					"internalLevel": "11.8",
-					"internalLevelValue": 11.8,
-					"noteDesigner": "小鳥遊さん",
-					"noteCounts": {
-						"tap": 394,
-						"hold": 69,
-						"slide": 35,
-						"touch": 70,
-						"break": 22,
-						"total": 590
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"usa": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "Splash"
-				},
-				{
-					"type": "dx",
-					"difficulty": "master",
-					"level": "12+",
-					"levelValue": 12.6,
-					"internalLevel": "12.9",
-					"internalLevelValue": 12.9,
-					"noteDesigner": "隅田川星人",
-					"noteCounts": {
-						"tap": 697,
-						"hold": 70,
-						"slide": 123,
-						"touch": 26,
-						"break": 34,
-						"total": 950
-					},
-					"regions": {
-						"jp": true,
-						"intl": true,
-						"usa": true,
-						"cn": true
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false,
-					"version": "Splash"
-				}
-			]
-		},
-		{
 			"songId": "ARAIS",
 			"category": "maimai",
 			"title": "ARAIS",
@@ -207119,7 +206992,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207147,7 +207020,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207175,7 +207048,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -207203,7 +207076,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -209318,7 +209191,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -209346,7 +209219,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -209374,7 +209247,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -209402,7 +209275,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211631,7 +211504,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211659,7 +211532,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211687,7 +211560,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211715,7 +211588,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211758,7 +211631,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211786,7 +211659,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211814,7 +211687,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211842,7 +211715,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211885,7 +211758,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211913,7 +211786,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211941,7 +211814,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -211969,7 +211842,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -212012,7 +211885,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -212040,7 +211913,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -212068,7 +211941,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -212096,7 +211969,7 @@
 						"jp": true,
 						"intl": true,
 						"usa": true,
-						"cn": false
+						"cn": true
 					},
 					"regionOverrides": {
 						"intl": {}
@@ -229969,8 +229842,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -229997,8 +229870,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230025,8 +229898,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230053,8 +229926,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230096,8 +229969,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230124,8 +229997,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230152,8 +230025,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230180,8 +230053,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230223,8 +230096,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230251,8 +230124,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230279,8 +230152,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230307,8 +230180,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -230350,8 +230223,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -237163,10 +237036,391 @@
 			"category": "ゲーム＆バラエティ",
 			"title": "天靈靈地靈靈",
 			"artist": "iKz feat.小可學妹",
-			"bpm": null,
+			"bpm": 155,
 			"imageName": "4e6ce472a7e3d21108063c8fc7ddd276c89ec24d297c06b5e52aabd01b108b39.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-09-25",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 158,
+						"hold": 9,
+						"slide": 4,
+						"touch": 13,
+						"break": 8,
+						"total": 192
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 246,
+						"hold": 20,
+						"slide": 8,
+						"touch": 26,
+						"break": 10,
+						"total": 310
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": "10.5",
+					"internalLevelValue": 10.5,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 385,
+						"hold": 54,
+						"slide": 23,
+						"touch": 15,
+						"break": 72,
+						"total": 549
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
+					"noteDesigner": "アマリリス",
+					"noteCounts": {
+						"tap": 608,
+						"hold": 51,
+						"slide": 80,
+						"touch": 75,
+						"break": 102,
+						"total": 916
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				}
+			]
+		},
+		{
+			"songId": "The Happycore Idol",
+			"category": "ゲーム＆バラエティ",
+			"title": "The Happycore Idol",
+			"artist": "3R2",
+			"bpm": 170,
+			"imageName": "f84fb937a5c65eb49529a3a30c65319fccbd9eb25cbf15b55606c64cd4e4758d.png",
+			"version": "MAGiCAL",
+			"releaseDate": "2026-09-25",
+			"isNew": false,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 154,
+						"hold": 8,
+						"slide": 4,
+						"touch": 8,
+						"break": 5,
+						"total": 179
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 279,
+						"hold": 14,
+						"slide": 6,
+						"touch": 24,
+						"break": 8,
+						"total": 331
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": "10.5",
+					"internalLevelValue": 10.5,
+					"noteDesigner": "発光ビーバー",
+					"noteCounts": {
+						"tap": 345,
+						"hold": 60,
+						"slide": 18,
+						"touch": 22,
+						"break": 17,
+						"total": 462
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": "サファ太",
+					"noteCounts": {
+						"tap": 547,
+						"hold": 55,
+						"slide": 92,
+						"touch": 20,
+						"break": 68,
+						"total": 782
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				}
+			]
+		},
+		{
+			"songId": "XODUS",
+			"category": "ゲーム＆バラエティ",
+			"title": "XODUS",
+			"artist": "DJ Myosuke & Gram",
+			"bpm": 202,
+			"imageName": "c90a10a34d3d7606c36ac69817de4a85ddb7d61e4647ddd07c229fd313e1e95f.png",
+			"version": "MAGiCAL",
+			"releaseDate": "2026-09-25",
+			"isNew": false,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 200,
+						"hold": 12,
+						"slide": 6,
+						"touch": 15,
+						"break": 7,
+						"total": 240
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": "8.0",
+					"internalLevelValue": 8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 308,
+						"hold": 16,
+						"slide": 10,
+						"touch": 23,
+						"break": 4,
+						"total": 361
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.8",
+					"internalLevelValue": 12.8,
+					"noteDesigner": "けんけん法師",
+					"noteCounts": {
+						"tap": 598,
+						"hold": 20,
+						"slide": 26,
+						"touch": 17,
+						"break": 36,
+						"total": 697
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": "14.4",
+					"internalLevelValue": 14.4,
+					"noteDesigner": "発光ビーバー",
+					"noteCounts": {
+						"tap": 810,
+						"hold": 71,
+						"slide": 78,
+						"touch": 41,
+						"break": 32,
+						"total": 1032
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				}
+			]
+		},
+		{
+			"songId": "居並ぶ穀物と溜息まじりの運送屋",
+			"category": "maimai",
+			"title": "居並ぶ穀物と溜息まじりの運送屋",
+			"artist": "hanzo",
+			"bpm": 160,
+			"imageName": "466d1ce3cf0d6a2b682b14b943e8e45d910d03c5ab4a92664548e880766fee4a.png",
+			"version": "MAGiCAL",
+			"releaseDate": "2020-09-17",
 			"isNew": true,
 			"isLocked": false,
 			"comment": null,
@@ -237178,6 +237432,118 @@
 					"levelValue": 3,
 					"internalLevel": null,
 					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 120,
+						"hold": 18,
+						"slide": 4,
+						"touch": 18,
+						"break": 5,
+						"total": 165
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "Splash"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": "7.8",
+					"internalLevelValue": 7.8,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": 299,
+						"hold": 36,
+						"slide": 10,
+						"touch": 41,
+						"break": 8,
+						"total": 394
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "Splash"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": "11.8",
+					"internalLevelValue": 11.8,
+					"noteDesigner": "小鳥遊さん",
+					"noteCounts": {
+						"tap": 394,
+						"hold": 69,
+						"slide": 35,
+						"touch": 70,
+						"break": 22,
+						"total": 590
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "Splash"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": "12.9",
+					"internalLevelValue": 12.9,
+					"noteDesigner": "隅田川星人",
+					"noteCounts": {
+						"tap": 697,
+						"hold": 70,
+						"slide": 123,
+						"touch": 26,
+						"break": 34,
+						"total": 950
+					},
+					"regions": {
+						"jp": true,
+						"intl": true,
+						"usa": true,
+						"cn": true
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "Splash"
+				},
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
 					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
@@ -237200,7 +237566,7 @@
 					"version": "MAGiCAL"
 				},
 				{
-					"type": "dx",
+					"type": "std",
 					"difficulty": "advanced",
 					"level": "6",
 					"levelValue": 6,
@@ -237228,12 +237594,12 @@
 					"version": "MAGiCAL"
 				},
 				{
-					"type": "dx",
+					"type": "std",
 					"difficulty": "expert",
-					"level": "10",
-					"levelValue": 10,
-					"internalLevel": "10.5",
-					"internalLevelValue": 10.5,
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": "10.7",
+					"internalLevelValue": 10.7,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -237256,12 +237622,12 @@
 					"version": "MAGiCAL"
 				},
 				{
-					"type": "dx",
+					"type": "std",
 					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": "13.4",
-					"internalLevelValue": 13.4,
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -237286,14 +237652,137 @@
 			]
 		},
 		{
-			"songId": "The Happycore Idol",
-			"category": "ゲーム＆バラエティ",
-			"title": "The Happycore Idol",
-			"artist": "3R2",
+			"songId": "OV3RCLOCK",
+			"category": "maimai",
+			"title": "OV3RCLOCK",
+			"artist": "Alicemetix",
 			"bpm": null,
-			"imageName": "f84fb937a5c65eb49529a3a30c65319fccbd9eb25cbf15b55606c64cd4e4758d.png",
+			"imageName": "ed2b18829927219282dd0047513bbbbcfc7099d7bbd90cc7e6eb4c4be467fc43.png",
 			"version": "MAGiCAL",
-			"releaseDate": "2026-09-25",
+			"releaseDate": "2026-10-02",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": null,
+					"internalLevelValue": 7.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.6,
+					"internalLevel": null,
+					"internalLevelValue": 12.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.6,
+					"internalLevel": null,
+					"internalLevelValue": 14.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "All Over Again",
+			"category": "ゲーム＆バラエティ",
+			"title": "All Over Again",
+			"artist": "Zekk",
+			"bpm": 210,
+			"imageName": "5983c1d270cee81755e60a7bb5d14b0a6bde6fddfa561384e51106df6d99537c.png",
+			"version": "MAGiCAL",
+			"releaseDate": "2026-10-02",
 			"isNew": true,
 			"isLocked": false,
 			"comment": null,
@@ -237301,10 +237790,10 @@
 				{
 					"type": "dx",
 					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
+					"level": "5",
+					"levelValue": 5,
 					"internalLevel": null,
-					"internalLevelValue": 3,
+					"internalLevelValue": 5,
 					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
@@ -237329,10 +237818,10 @@
 				{
 					"type": "dx",
 					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": "7.8",
+					"internalLevelValue": 7.8,
 					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
@@ -237357,10 +237846,10 @@
 				{
 					"type": "dx",
 					"difficulty": "expert",
-					"level": "10",
-					"levelValue": 10,
-					"internalLevel": "10.5",
-					"internalLevelValue": 10.5,
+					"level": "11+",
+					"levelValue": 11.6,
+					"internalLevel": "11.8",
+					"internalLevelValue": 11.8,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -237387,8 +237876,8 @@
 					"difficulty": "master",
 					"level": "13+",
 					"levelValue": 13.6,
-					"internalLevel": "13.7",
-					"internalLevelValue": 13.7,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -237413,14 +237902,268 @@
 			]
 		},
 		{
-			"songId": "XODUS",
+			"songId": "Energy",
 			"category": "ゲーム＆バラエティ",
-			"title": "XODUS",
-			"artist": "DJ Myosuke & Gram",
+			"title": "Energy",
+			"artist": "Ryo Nakamura",
 			"bpm": null,
-			"imageName": "c90a10a34d3d7606c36ac69817de4a85ddb7d61e4647ddd07c229fd313e1e95f.png",
+			"imageName": "95c799276458085376e42b6a99de83f8fad1545befcd96b66ba1a8e185505c8e.png",
 			"version": "MAGiCAL",
-			"releaseDate": "2026-09-25",
+			"releaseDate": "2026-10-02",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": "10.6",
+					"internalLevelValue": 10.6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.8",
+					"internalLevelValue": 13.8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				}
+			]
+		},
+		{
+			"songId": "Crossfire",
+			"category": "ゲーム＆バラエティ",
+			"title": "Crossfire",
+			"artist": "Blacklolita",
+			"bpm": null,
+			"imageName": "5d1c6000bb32f7efbc8274cfdd93deeb28ae0bc34f4d4f94fa9c636e012080a2.png",
+			"version": "MAGiCAL",
+			"releaseDate": "2026-10-02",
+			"isNew": true,
+			"isLocked": true,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.5",
+					"internalLevelValue": 7.5,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": "11.0",
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.9",
+					"internalLevelValue": 13.9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				}
+			]
+		},
+		{
+			"songId": "RE!NCARN4T10N",
+			"category": "ゲーム＆バラエティ",
+			"title": "RE!NCARN4T10N",
+			"artist": "xi",
+			"bpm": 186,
+			"imageName": "e4384b9ab75be9161170d97d272be1c23ab7bd6688fdca79af3df1fcfd2345ed.png",
+			"version": "MAGiCAL",
+			"releaseDate": "2026-10-02",
 			"isNew": true,
 			"isLocked": true,
 			"comment": null,
@@ -237458,8 +238201,8 @@
 					"difficulty": "advanced",
 					"level": "8",
 					"levelValue": 8,
-					"internalLevel": "8.0",
-					"internalLevelValue": 8,
+					"internalLevel": "8.3",
+					"internalLevelValue": 8.3,
 					"noteDesigner": "-",
 					"noteCounts": {
 						"tap": null,
@@ -237484,10 +238227,10 @@
 				{
 					"type": "dx",
 					"difficulty": "expert",
-					"level": "12+",
-					"levelValue": 12.6,
-					"internalLevel": "12.8",
-					"internalLevelValue": 12.8,
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": "12.2",
+					"internalLevelValue": 12.2,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -237514,8 +238257,8 @@
 					"difficulty": "master",
 					"level": "14",
 					"levelValue": 14,
-					"internalLevel": "14.4",
-					"internalLevelValue": 14.4,
+					"internalLevel": "14.3",
+					"internalLevelValue": 14.3,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -237771,5 +238514,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-09-25T05:18:06.408Z"
+	"updateTime": "2026-10-02T01:22:00.092Z"
 }
