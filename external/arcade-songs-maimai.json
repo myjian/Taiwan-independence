@@ -12998,129 +12998,6 @@
 			]
 		},
 		{
-			"songId": "Can Do",
-			"category": "POPS＆アニメ",
-			"title": "Can Do",
-			"artist": "GRANRODEO[PV]",
-			"bpm": 200,
-			"imageName": "07efedcb40d494ac2678b09bbc4cc4ac7269630feb58157fb1f549871084ce21.png",
-			"version": "ORANGE PLUS",
-			"releaseDate": "2015-04-16",
-			"isNew": false,
-			"isLocked": false,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "4",
-					"levelValue": 4,
-					"internalLevel": null,
-					"internalLevelValue": 4,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 135,
-						"hold": 6,
-						"slide": 3,
-						"touch": null,
-						"break": 7,
-						"total": 151
-					},
-					"regions": {
-						"jp": false,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": null,
-					"internalLevelValue": 6,
-					"noteDesigner": "-",
-					"noteCounts": {
-						"tap": 273,
-						"hold": 9,
-						"slide": 5,
-						"touch": null,
-						"break": 12,
-						"total": 299
-					},
-					"regions": {
-						"jp": false,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "9",
-					"levelValue": 9,
-					"internalLevel": null,
-					"internalLevelValue": 9,
-					"noteDesigner": "Jack",
-					"noteCounts": {
-						"tap": 368,
-						"hold": 14,
-						"slide": 19,
-						"touch": null,
-						"break": 22,
-						"total": 423
-					},
-					"regions": {
-						"jp": false,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "11+",
-					"levelValue": 11.6,
-					"internalLevel": null,
-					"internalLevelValue": 11.6,
-					"noteDesigner": "mai-Star",
-					"noteCounts": {
-						"tap": 446,
-						"hold": 37,
-						"slide": 64,
-						"touch": null,
-						"break": 34,
-						"total": 581
-					},
-					"regions": {
-						"jp": false,
-						"intl": false,
-						"usa": false,
-						"cn": false
-					},
-					"regionOverrides": {
-						"intl": {}
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
 			"songId": "The Other self",
 			"category": "POPS＆アニメ",
 			"title": "The Other self",
@@ -231366,8 +231243,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231394,8 +231271,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231422,8 +231299,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231450,8 +231327,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231493,8 +231370,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231521,8 +231398,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231549,8 +231426,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231577,8 +231454,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231605,8 +231482,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231648,8 +231525,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231676,8 +231553,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231704,8 +231581,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231732,8 +231609,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231775,8 +231652,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -231817,8 +231694,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -233975,8 +233852,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -234003,8 +233880,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -234031,8 +233908,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -234059,8 +233936,8 @@
 					},
 					"regions": {
 						"jp": true,
-						"intl": false,
-						"usa": false,
+						"intl": true,
+						"usa": true,
 						"cn": false
 					},
 					"regionOverrides": {
@@ -238522,7 +238399,7 @@
 			"imageName": "466d1ce3cf0d6a2b682b14b943e8e45d910d03c5ab4a92664548e880766fee4a.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2020-09-17",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -238761,7 +238638,7 @@
 			"imageName": "ed2b18829927219282dd0047513bbbbcfc7099d7bbd90cc7e6eb4c4be467fc43.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-10-02",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -238892,7 +238769,7 @@
 			"imageName": "5983c1d270cee81755e60a7bb5d14b0a6bde6fddfa561384e51106df6d99537c.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-10-02",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -239019,7 +238896,7 @@
 			"imageName": "95c799276458085376e42b6a99de83f8fad1545befcd96b66ba1a8e185505c8e.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-10-02",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": false,
 			"comment": null,
 			"sheets": [
@@ -239146,7 +239023,7 @@
 			"imageName": "5d1c6000bb32f7efbc8274cfdd93deeb28ae0bc34f4d4f94fa9c636e012080a2.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-10-02",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -239273,7 +239150,7 @@
 			"imageName": "e4384b9ab75be9161170d97d272be1c23ab7bd6688fdca79af3df1fcfd2345ed.png",
 			"version": "MAGiCAL",
 			"releaseDate": "2026-10-02",
-			"isNew": true,
+			"isNew": false,
 			"isLocked": true,
 			"comment": null,
 			"sheets": [
@@ -239376,6 +239253,415 @@
 						"touch": 74,
 						"break": 67,
 						"total": 1108
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				}
+			]
+		},
+		{
+			"songId": "Can Do",
+			"category": "POPS＆アニメ",
+			"title": "Can Do",
+			"artist": "GRANRODEO",
+			"bpm": 200,
+			"imageName": "8b9126e45c74148e046cb5c814c8750639b48c8c4491aa73497dfa1fdf770d75.png",
+			"version": "MAGiCAL",
+			"releaseDate": "2015-04-16",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": null,
+					"internalLevelValue": 4,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.6,
+					"internalLevel": "7.7",
+					"internalLevelValue": 7.7,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.6,
+					"internalLevel": "10.8",
+					"internalLevelValue": 10.8,
+					"noteDesigner": "Jack",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
+					"noteDesigner": "mai-Star",
+					"noteCounts": {
+						"tap": 446,
+						"hold": 37,
+						"slide": 64,
+						"touch": null,
+						"break": 34,
+						"total": 581
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "std",
+					"difficulty": "remaster",
+					"level": "13+",
+					"levelValue": 13.6,
+					"internalLevel": "13.7",
+					"internalLevelValue": 13.7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				}
+			]
+		},
+		{
+			"songId": "ChaosBlue",
+			"category": "POPS＆アニメ",
+			"title": "ChaosBlue",
+			"artist": "GRANRODEO",
+			"bpm": null,
+			"imageName": "b67c5bba26f89af4e9f13445adf431e1e43259243aeccaf30cc6c17f607df1d9.png",
+			"version": "MAGiCAL",
+			"releaseDate": "2026-10-16",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": "10.0",
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.4",
+					"internalLevelValue": 13.4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				}
+			]
+		},
+		{
+			"songId": "GO GO PARADISE!!",
+			"category": "POPS＆アニメ",
+			"title": "GO GO PARADISE!!",
+			"artist": "GRANRODEO",
+			"bpm": null,
+			"imageName": "41d7ec9686b04b8b14aed7ee5ac526434191814592e3a08bbc17caf65e25db8d.png",
+			"version": "MAGiCAL",
+			"releaseDate": "2026-10-16",
+			"isNew": true,
+			"isLocked": false,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "dx",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": null,
+					"internalLevelValue": 3,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": null,
+					"internalLevelValue": 6,
+					"noteDesigner": "-",
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": "10.5",
+					"internalLevelValue": 10.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false,
+						"usa": false,
+						"cn": false
+					},
+					"regionOverrides": {
+						"intl": {}
+					},
+					"isSpecial": false,
+					"version": "MAGiCAL"
+				},
+				{
+					"type": "dx",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": "13.3",
+					"internalLevelValue": 13.3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"touch": null,
+						"break": null,
+						"total": null
 					},
 					"regions": {
 						"jp": true,
@@ -239623,5 +239909,5 @@
 			"name": "中国版 (舞萌DX)"
 		}
 	],
-	"updateTime": "2026-10-09T01:57:42.736Z"
+	"updateTime": "2026-10-16T01:33:08.737Z"
 }
