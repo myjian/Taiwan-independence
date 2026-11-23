@@ -71,7 +71,15 @@ function getDxLevels(song: OtogeDbSong): number[] | undefined {
 export function parseOtogeDbData(
   rawContext: string
 ): Map<string, SongProperties[]> {
-  const songs: OtogeDbSong[] = JSON.parse(rawContext);
+  let songs: OtogeDbSong[] = [];
+  try {
+    songs = JSON.parse(rawContext);
+  } catch (err) {
+    console.warn(
+      'Failed to parse Otoge DB data. Continuing without Otoge DB data. Error details:',
+      err
+    );
+  }
   const override = new Map<string, SongProperties[]>();
   songs.forEach(song => {
     const name = normalizeSongName(song.title);
