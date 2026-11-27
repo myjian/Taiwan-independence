@@ -1779,5 +1779,13 @@
   {"debut":27,"genre":"POPS＆アニメ","name":"ChaosBlue","dx":1,"lv":[3,6,10,13.4],"ico":"f691ea418d23b8f6"},
   {"debut":27,"genre":"POPS＆アニメ","name":"GO GO PARADISE!!","dx":1,"lv":[3,6.6,10.5,13.3],"ico":"e3d0111b0ad45236"},
   {"debut":27,"genre":"maimai","name":"魔法仕掛けのファンタジア","dx":1,"lv":[5,8,12.2,14.8],"regionOverrides":{"intl":{"debut":26,"lv":[5,8,12.2,14.8,0]}},"ico":"46b18f69a1d0d331"},
-  {"debut":27,"genre":"niconico＆ボーカロイド","name":"Happy Halloween","dx":1,"lv":[2,5.8,9.8,13.5],"ico":"54b412a777dc16b2"}
+  {"debut":27,"genre":"niconico＆ボーカロイド","name":"Happy Halloween","dx":1,"lv":[2,5.8,9.8,13.5],"ico":"54b412a777dc16b2"},
+  {"debut":27,"genre":"maimai","name":"ルミネイション","dx":1,"lv":[-3,-6,11.9,13.7],"ico":"4af6e15adafca06b"},
+  {"debut":27,"genre":"maimai","name":"Flare","dx":1,"lv":[-3,7.8,10.5,13.7],"ico":"e4284a3ba87f7fc3"},
+  {"debut":27,"genre":"maimai","name":"Asthenosphere","dx":1,"lv":[-4,8,11.8,13.9],"ico":"295ff14552377ec3"},
+  {"debut":27,"genre":"maimai","name":"Unfollow","dx":1,"lv":[-4,8,12,14.2],"ico":"255396507c36345b"},
+  {"debut":27,"genre":"niconico＆ボーカロイド","name":"物語たる迄","dx":1,"lv":[-4,8,11.5,13.7],"ico":"56d023cf12865343"},
+  {"debut":27,"genre":"niconico＆ボーカロイド","name":"Nefilim","dx":1,"lv":[-2,-6,10.5,13.2],"ico":"3fd6c4bcd5c09af1"},
+  {"debut":27,"genre":"niconico＆ボーカロイド","name":"Light year (feat.Sea otter club)","dx":1,"lv":[-3,7,10,13.2],"ico":"a75c006a81f921b9"},
+  {"debut":27,"genre":"niconico＆ボーカロイド","name":"＼ﾕｰﾓｱ／ feat. 結月ゆかり","dx":1,"lv":[-4,7.8,11.7,14.3],"ico":"cafc63596f8ab4a1"}
 ]
